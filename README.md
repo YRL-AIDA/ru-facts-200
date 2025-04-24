@@ -24,3 +24,11 @@ Source tabular data are vertically oriented tables in which the data are systema
 * `docx` contains an original set of tables in the DOCX format;
 * `json` contains labeled tables in the JSON format;
 * `jsonline` contains labeled tables in the JSONL (or JSON Lines) format.
+
+## Usage
+
+**RF-200 (ru-facts-200)** can be used to test the performance of systems for extracting facts (entities, their characteristics, relationships between entities, and relationship characteristics) from tabular data. Precision, recall and F1-score are used as evaluation metrics.
+
+## Authors
+
+* [Nikita O. Dorodnykh](mailto:tualatin32@mail.ru)
