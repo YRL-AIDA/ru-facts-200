@@ -1,0 +1,5613 @@
+{
+    "id": "2053711f-6cea-4cd8-b812-259648bd524d",
+	"VERSION":"1.0",
+    "main_node": "c40b06df-2ca7-4344-8162-0f05518374df",
+    "content": [
+        {
+            "type": "text",
+            "id": "c40b06df-2ca7-4344-8162-0f05518374df",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2aebe0b1-4b78-4a01-81db-b73ee1f36f1b"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2aebe0b1-4b78-4a01-81db-b73ee1f36f1b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "96888cb8-8434-406d-8714-f6a423ba8c4d"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "96888cb8-8434-406d-8714-f6a423ba8c4d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "27cc0bad-1f2f-489a-bf8b-96831bc0f5cf",
+                "9420366c-52a5-4e09-b915-a8dacd60b83c",
+                "e89a92e7-1b88-465f-9afa-cb00211cc339",
+                "53da0d87-2a92-477f-b632-b481faca6730",
+                "cad85213-7a38-4484-b882-632e28c12011",
+                "2c755db2-ea61-4f62-b5ff-52fa1a8f019c",
+                "59fa62b3-6c80-44ba-8e61-aa4180337d77",
+                "eb473b1a-574f-42da-b073-192b4291d68e",
+                "bdeb3281-6c18-440c-b322-8e9abd6769d7",
+                "b356553f-7728-4626-a692-9dea750bd58c",
+                "0d922f34-9ca0-4ea6-995e-c7999095a58b",
+                "abcb42cc-fed7-4329-984a-67badeaf4443",
+                "d9828cbd-1815-4ef2-a1c6-bf3d3b16c911",
+                "58f8f374-7a12-444c-80cc-e37d2e3da6e9",
+                "8fdb2dd0-8ba0-4676-9225-cfc9445e9580",
+                "bcc90b5e-1000-43a9-ae94-69647adc2044",
+                "df40e7ab-106d-4c00-bb71-e547a8d48c00",
+                "73884e7f-5dde-43fb-9737-0a6524f37732",
+                "85911f86-bc8a-4bb0-975d-a20675f888d6",
+                "4707f6d0-724a-48c5-95d1-ebe306468d5b",
+                "3e0556c2-f440-44a8-b8a8-c8448d98baab"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "27cc0bad-1f2f-489a-bf8b-96831bc0f5cf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "28447ec1-7550-401f-a53f-f86200706c2e",
+                "6e50d522-8a40-49f0-a872-b33af399019f",
+                "7c4802b7-a710-4f29-93c5-54e2f58a0f4f",
+                "22b637b1-9b0b-4463-9cd7-6a815e2ebcb5",
+                "b29f35c6-c2be-4cc0-9a57-31f5086adce8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "28447ec1-7550-401f-a53f-f86200706c2e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "387413ca-e3dc-4a8d-a558-325207c7b171"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "387413ca-e3dc-4a8d-a558-325207c7b171",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6e50d522-8a40-49f0-a872-b33af399019f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "5519b1b4-b3ea-4508-9b83-852825e70a3b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5519b1b4-b3ea-4508-9b83-852825e70a3b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Спектакль",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7c4802b7-a710-4f29-93c5-54e2f58a0f4f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "44c10aa3-7e9f-4e5e-8b17-96e2a8614c87"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "44c10aa3-7e9f-4e5e-8b17-96e2a8614c87",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Постановка",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "22b637b1-9b0b-4463-9cd7-6a815e2ebcb5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2fe9fcd6-3cac-48c6-8664-0d2e44b41b7d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2fe9fcd6-3cac-48c6-8664-0d2e44b41b7d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Роль",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b29f35c6-c2be-4cc0-9a57-31f5086adce8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "571bd52c-d875-4d90-ba62-00c3ee286e4d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "571bd52c-d875-4d90-ba62-00c3ee286e4d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Примечание",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "9420366c-52a5-4e09-b915-a8dacd60b83c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "8193450a-ce4b-45d2-892f-9aa34f0cdb2d",
+                "ab63aa59-0395-4ae1-a78b-f6bcbe932439",
+                "98ed50d7-7478-4b37-a574-987b41b48630",
+                "4e315643-810d-4688-9050-eb90e0eae41d",
+                "68693059-2291-4aed-a683-96f6cbf0ef06"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8193450a-ce4b-45d2-892f-9aa34f0cdb2d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a53ceed5-7c0f-4085-8b6d-42a121237344"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a53ceed5-7c0f-4085-8b6d-42a121237344",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ab63aa59-0395-4ae1-a78b-f6bcbe932439",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7a1f7782-8304-49b6-8c90-e63df5a9ef05"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7a1f7782-8304-49b6-8c90-e63df5a9ef05",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "98ed50d7-7478-4b37-a574-987b41b48630",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5f63b282-9cfd-4c52-98a9-46e364af1caa"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5f63b282-9cfd-4c52-98a9-46e364af1caa",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4e315643-810d-4688-9050-eb90e0eae41d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ae7b5da7-5a21-46f5-adcb-4dbd43696edf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ae7b5da7-5a21-46f5-adcb-4dbd43696edf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "68693059-2291-4aed-a683-96f6cbf0ef06",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ea322748-ae53-4de9-a737-1621ce3330d3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ea322748-ae53-4de9-a737-1621ce3330d3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "e89a92e7-1b88-465f-9afa-cb00211cc339",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2c520a64-1326-4923-8fd0-30cb14d5521f",
+                "a7cbf5d6-aec3-4c1a-a90f-6b7c0250f42d",
+                "76c8ab80-c98c-4789-aec7-95425ad58291",
+                "1b1d631a-f57c-408d-bb9e-9f92f3ff2b97",
+                "6d9f988f-a7a0-46a2-bf12-4b30786ffbd1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2c520a64-1326-4923-8fd0-30cb14d5521f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7f7350cb-4a99-44f6-bf6f-c65ef9b1d04a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7f7350cb-4a99-44f6-bf6f-c65ef9b1d04a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a7cbf5d6-aec3-4c1a-a90f-6b7c0250f42d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fef13797-3a8e-419c-a8fe-c49679c7899c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fef13797-3a8e-419c-a8fe-c49679c7899c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Дневник Анны Франк. Фрэнсис Гудрич и Альберт Хаккет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "76c8ab80-c98c-4789-aec7-95425ad58291",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0be11e52-2148-4b3a-a8b2-3be728d23b66"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0be11e52-2148-4b3a-a8b2-3be728d23b66",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Римас Туминас и Екатерина Симонова",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1b1d631a-f57c-408d-bb9e-9f92f3ff2b97",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a966b248-9426-44f3-b5d2-3dd3d175eb31"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a966b248-9426-44f3-b5d2-3dd3d175eb31",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Анна Франкгл. роль",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6d9f988f-a7a0-46a2-bf12-4b30786ffbd1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c1764836-7938-49d0-9f6f-89243d21b706"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c1764836-7938-49d0-9f6f-89243d21b706",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "видеофрагмент",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "53da0d87-2a92-477f-b632-b481faca6730",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "9821b60e-f031-454a-9032-3bf4877ccffc",
+                "7b78a947-7bdf-4897-b6e5-d602b1bb2359",
+                "b13310cb-bd0c-4692-b32e-493d9f39a5b4",
+                "06c48fda-69f9-43a6-9f65-604765dbe30c",
+                "97d1c5fe-c52c-4555-b964-26290d0aa2b2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9821b60e-f031-454a-9032-3bf4877ccffc",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "aa28d775-095f-42ec-95e9-c14585dd1712"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "aa28d775-095f-42ec-95e9-c14585dd1712",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7b78a947-7bdf-4897-b6e5-d602b1bb2359",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d9b10b66-25a7-4a79-b8b8-4b02ac643579"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d9b10b66-25a7-4a79-b8b8-4b02ac643579",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Окаёмовы дни. По мотивам пьесы А. Афиногенова «Машенька»",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b13310cb-bd0c-4692-b32e-493d9f39a5b4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "936e20c1-0d25-4628-8ee1-d438c07cdbed"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "936e20c1-0d25-4628-8ee1-d438c07cdbed",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Родион Овчинников",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "06c48fda-69f9-43a6-9f65-604765dbe30c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d2faedb7-8f9d-4566-b19c-f0cdc17e3fb0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d2faedb7-8f9d-4566-b19c-f0cdc17e3fb0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Машагл. роль",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "97d1c5fe-c52c-4555-b964-26290d0aa2b2",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "12ac28f2-3981-4e88-86bb-54333b5287a4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "12ac28f2-3981-4e88-86bb-54333b5287a4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "видеофрагмент",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "cad85213-7a38-4484-b882-632e28c12011",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "807ef587-6864-48b1-8d2a-264c278d1601",
+                "f9469ef3-e872-4a7b-a604-68c4434f1fb9",
+                "07459022-b0af-403d-8d56-d203f61a72c4",
+                "c2302fd0-3516-46e0-90d1-44ebe8a435c0",
+                "4b7e7cbd-8f47-4f6a-98dc-3242fa35f9e3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "807ef587-6864-48b1-8d2a-264c278d1601",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6a571ea1-0961-4408-a88d-0dac7590ba45"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6a571ea1-0961-4408-a88d-0dac7590ba45",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f9469ef3-e872-4a7b-a604-68c4434f1fb9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c753f037-2f06-489f-a070-ce7f808aa23b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c753f037-2f06-489f-a070-ce7f808aa23b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Берег женщин. Хореографическая композиция по мотивам песен Марлен Дитрих",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "07459022-b0af-403d-8d56-d203f61a72c4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "06a79ddd-6664-400f-a2af-64d6ed7f7e2e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "06a79ddd-6664-400f-a2af-64d6ed7f7e2e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Анжелика Холина. Хореограф-постановщик",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c2302fd0-3516-46e0-90d1-44ebe8a435c0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4ac8c64c-062d-4533-8378-50eb3deab91d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4ac8c64c-062d-4533-8378-50eb3deab91d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Near you",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4b7e7cbd-8f47-4f6a-98dc-3242fa35f9e3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "72d88837-6d28-4499-af91-8e506f0c1879"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "72d88837-6d28-4499-af91-8e506f0c1879",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "телеспектакль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "2c755db2-ea61-4f62-b5ff-52fa1a8f019c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ded1f227-d8df-4cb9-8fd5-f583d4cfc0b2",
+                "35e381f0-b5c9-4ff7-ae50-e12bff8740b8",
+                "52a77b94-042b-4fb6-b379-c45b249793c7",
+                "80daad79-07b4-45b7-84be-b990e75613ee",
+                "ba090367-4d18-475e-81ea-de63104b36d8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ded1f227-d8df-4cb9-8fd5-f583d4cfc0b2",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "df66e35c-7d33-4875-aa39-17598d3e3b42"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "df66e35c-7d33-4875-aa39-17598d3e3b42",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "35e381f0-b5c9-4ff7-ae50-e12bff8740b8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b178796c-7346-4355-84fb-0262986f72d9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b178796c-7346-4355-84fb-0262986f72d9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Дядюшкин сон. Ф. М. Достоевский, комедия в 2-х действиях",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "52a77b94-042b-4fb6-b379-c45b249793c7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0ffa0a40-9163-4d57-be43-994ef2f3cb7a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0ffa0a40-9163-4d57-be43-994ef2f3cb7a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Владимир Иванов",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "80daad79-07b4-45b7-84be-b990e75613ee",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6181599e-bcf2-41d4-8fdf-9f427aa420ad"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6181599e-bcf2-41d4-8fdf-9f427aa420ad",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Сонька",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ba090367-4d18-475e-81ea-de63104b36d8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7253f017-4c97-4f32-9c3c-b02ea976a28a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7253f017-4c97-4f32-9c3c-b02ea976a28a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "видеофрагмент",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "59fa62b3-6c80-44ba-8e61-aa4180337d77",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "178052c7-7d12-49c2-bb0c-61efa354ba1d",
+                "b6c732e9-8864-43f0-b69e-1d84c49076a1",
+                "0dd54438-e772-4db4-b374-ddea6aa8f369",
+                "2ed7675b-f5e8-4c2b-b93b-89481a694855",
+                "25c64ac7-3959-4a1a-99a7-4935ddfd9b17"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "178052c7-7d12-49c2-bb0c-61efa354ba1d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2dced860-3d85-4e44-9b15-a6db700f1ede"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2dced860-3d85-4e44-9b15-a6db700f1ede",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b6c732e9-8864-43f0-b69e-1d84c49076a1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b2ffca48-76a7-4366-8fe1-8c80e0377840"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b2ffca48-76a7-4366-8fe1-8c80e0377840",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Люди как люди. По пьесе М. Горького «Зыковы», сцены в 2-х частях",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0dd54438-e772-4db4-b374-ddea6aa8f369",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "34aaee54-c3c0-4ef0-bd5a-2b55fad218cb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "34aaee54-c3c0-4ef0-bd5a-2b55fad218cb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Владимир Иванов",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2ed7675b-f5e8-4c2b-b93b-89481a694855",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0a06ee50-d3f7-4823-befb-aece8abedb24"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0a06ee50-d3f7-4823-befb-aece8abedb24",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Стёпка",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "25c64ac7-3959-4a1a-99a7-4935ddfd9b17",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f1ad7477-31e4-44e4-8974-c6b5286a618e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f1ad7477-31e4-44e4-8974-c6b5286a618e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "видеофрагмент",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "eb473b1a-574f-42da-b073-192b4291d68e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "614e04c5-aa8e-49f7-a002-d655f34438f9",
+                "54f8ff9f-04f6-4f46-ab6a-ebbe9ea13a40",
+                "835e7fb7-5280-451b-8ad8-bf2c447580c3",
+                "ae28556e-6c39-4c26-9bef-353d214319a0",
+                "f46845bc-e3ac-4e78-8e9c-bd57a475145d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "614e04c5-aa8e-49f7-a002-d655f34438f9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "be33e1ee-1ea3-406c-93f8-00ee63deafeb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "be33e1ee-1ea3-406c-93f8-00ee63deafeb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "54f8ff9f-04f6-4f46-ab6a-ebbe9ea13a40",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c310fa37-7044-4643-8112-5a756a9b2407"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c310fa37-7044-4643-8112-5a756a9b2407",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Бѣсы. Ф. М. Достоевский, Концертное исполнение романа в 2-х частях",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "835e7fb7-5280-451b-8ad8-bf2c447580c3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "edf686c7-96ed-4b25-bd30-dab399101d6f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "edf686c7-96ed-4b25-bd30-dab399101d6f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Юрий Любимов",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ae28556e-6c39-4c26-9bef-353d214319a0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "707b59b0-37f1-40c4-b35b-074cf237492c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "707b59b0-37f1-40c4-b35b-074cf237492c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Даша",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f46845bc-e3ac-4e78-8e9c-bd57a475145d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "19bafebb-3727-4cd0-b378-756af390e119"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "19bafebb-3727-4cd0-b378-756af390e119",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "видеофрагмент",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "bdeb3281-6c18-440c-b322-8e9abd6769d7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "3d91f17b-6381-4490-aeb5-aa68331bd13a",
+                "a8a40afe-d8ec-42e4-aeee-a4380a17f21d",
+                "ddd828a3-5189-4967-a825-260a5e162093",
+                "cc3f32da-6747-47b5-93a0-d9e443246cb3",
+                "98f97a31-8dcc-4333-9bf1-f1ef2a460bb8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3d91f17b-6381-4490-aeb5-aa68331bd13a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6d41e1ba-0200-4a97-88fb-0f17af7bb280"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6d41e1ba-0200-4a97-88fb-0f17af7bb280",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a8a40afe-d8ec-42e4-aeee-a4380a17f21d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1b91b287-d0fd-4a90-ba26-6c0bbee4b1c4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1b91b287-d0fd-4a90-ba26-6c0bbee4b1c4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "За двумя зайцами. М. Старицкий, комедия в 2-х действиях",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ddd828a3-5189-4967-a825-260a5e162093",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "888eb5b7-4698-40ba-92cb-208a1f599e34"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "888eb5b7-4698-40ba-92cb-208a1f599e34",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Александр Горбань",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cc3f32da-6747-47b5-93a0-d9e443246cb3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cd0d7b8e-d79c-4e5e-a962-f055d4cb18c8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cd0d7b8e-d79c-4e5e-a962-f055d4cb18c8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Химка",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "98f97a31-8dcc-4333-9bf1-f1ef2a460bb8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cbf35c28-5ea2-49e2-a622-af1fa77b8a69"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cbf35c28-5ea2-49e2-a622-af1fa77b8a69",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "b356553f-7728-4626-a692-9dea750bd58c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ebba77b5-cdd2-46e4-83e1-09087fc79eb7",
+                "a6fe6937-4223-470f-b690-64693f4b0488",
+                "e91910f1-a941-4e3a-9bbc-7e449ba37e75",
+                "938d12d1-d34a-46f3-abe1-523926e593f8",
+                "d4d0cd74-e030-4c62-98d5-2df12a6c7c10"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ebba77b5-cdd2-46e4-83e1-09087fc79eb7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "19dedca4-05e1-4a1d-a104-2ed897179693"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "19dedca4-05e1-4a1d-a104-2ed897179693",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a6fe6937-4223-470f-b690-64693f4b0488",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c25014ed-8e1c-489a-ab36-61acdf46a61d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c25014ed-8e1c-489a-ab36-61acdf46a61d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Минетти. Томас Бернхард",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e91910f1-a941-4e3a-9bbc-7e449ba37e75",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ae457e35-ec0e-43c8-9614-5101e44053cb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ae457e35-ec0e-43c8-9614-5101e44053cb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Римас Туминас",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "938d12d1-d34a-46f3-abe1-523926e593f8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5c5b4547-aa0f-40d9-bb3f-e38a0775a84f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5c5b4547-aa0f-40d9-bb3f-e38a0775a84f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Гостья отеля (маска)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d4d0cd74-e030-4c62-98d5-2df12a6c7c10",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1b6af5a4-cfac-4d50-8c86-80b439638a0c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1b6af5a4-cfac-4d50-8c86-80b439638a0c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "видеофрагмент",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "0d922f34-9ca0-4ea6-995e-c7999095a58b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2abdf9f4-c4b8-4bf8-9eb5-b402a0ffa29c",
+                "db52d776-5343-4c75-b4f6-a4e5561b91cf",
+                "1de8a2f0-c7da-4b72-b083-c0e649711657",
+                "8ab644c7-aa1b-4b3e-9587-8b89cc8e0965",
+                "a5215447-8d57-4e62-b6ce-e9975f6721cd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2abdf9f4-c4b8-4bf8-9eb5-b402a0ffa29c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "10664f01-b8e0-4ba4-9664-e3b877c4483f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "10664f01-b8e0-4ba4-9664-e3b877c4483f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "db52d776-5343-4c75-b4f6-a4e5561b91cf",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "80f6cf54-b3f3-4538-a2cb-2c53437ac3b2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "80f6cf54-b3f3-4538-a2cb-2c53437ac3b2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Вечер шутов. Балаган в 2-х актах",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1de8a2f0-c7da-4b72-b083-c0e649711657",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "22a62075-8c67-4f4b-9dc6-8c36fb50884a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "22a62075-8c67-4f4b-9dc6-8c36fb50884a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Екатерина Симонова",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8ab644c7-aa1b-4b3e-9587-8b89cc8e0965",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8ca97d1b-0052-4d74-a7f3-1ec2b9f6610b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8ca97d1b-0052-4d74-a7f3-1ec2b9f6610b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Мальчикартистка цирка",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a5215447-8d57-4e62-b6ce-e9975f6721cd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3688c22d-6566-4a04-b990-fd6633926e0f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3688c22d-6566-4a04-b990-fd6633926e0f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "видеофрагмент",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "abcb42cc-fed7-4329-984a-67badeaf4443",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "906fc584-1018-45d2-beb4-dc6421dc44e3",
+                "0054edbb-4e64-4312-ab3f-73d821b305ea",
+                "4907669e-681a-4e92-a182-bda2a693ac78",
+                "97a54cd3-2f99-4df2-aa50-336feac8a762",
+                "c6ba8576-5be8-4229-9612-bed2b9d8928a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "906fc584-1018-45d2-beb4-dc6421dc44e3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a75b595b-be0d-4abd-ba43-e6fca4b34d95"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a75b595b-be0d-4abd-ba43-e6fca4b34d95",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0054edbb-4e64-4312-ab3f-73d821b305ea",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2c41696a-b1f6-44e0-9535-04dc9b4cba3e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2c41696a-b1f6-44e0-9535-04dc9b4cba3e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Белая акация. Музыкальный спектакль в 2-х действиях.",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4907669e-681a-4e92-a182-bda2a693ac78",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f59c7f33-aaeb-413a-a8ab-01c8b0faa064"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f59c7f33-aaeb-413a-a8ab-01c8b0faa064",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Владимир Иванов",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "97a54cd3-2f99-4df2-aa50-336feac8a762",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "593da9b4-d3ca-4c56-929c-3091528e7739"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "593da9b4-d3ca-4c56-929c-3091528e7739",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Одесситка",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c6ba8576-5be8-4229-9612-bed2b9d8928a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "78033093-0ea6-4d95-b0ee-e533ff36cd11"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "78033093-0ea6-4d95-b0ee-e533ff36cd11",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "d9828cbd-1815-4ef2-a1c6-bf3d3b16c911",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ae86ad86-c627-4b59-9629-d78f4dce3599",
+                "5c955704-610a-4cc3-a683-189b0239f2bf",
+                "2e6bccdb-eb51-4483-b3ce-0c451be5883b",
+                "f8544c85-6e3e-443c-bd00-24ac22d99ca9",
+                "e9c5764b-72ff-466e-baee-c4fc995cb175"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ae86ad86-c627-4b59-9629-d78f4dce3599",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "757b734d-a106-4d26-9036-f61831dbbf1e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "757b734d-a106-4d26-9036-f61831dbbf1e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5c955704-610a-4cc3-a683-189b0239f2bf",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8c70a730-cd20-4ef5-bf72-6b1e299c47e4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8c70a730-cd20-4ef5-bf72-6b1e299c47e4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Али-Баба и сорок разбойников. Волшебная сказка Шахрезады в 2 частях",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2e6bccdb-eb51-4483-b3ce-0c451be5883b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ebc88b17-c570-4413-bd40-fb1d87b0f7cf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ebc88b17-c570-4413-bd40-fb1d87b0f7cf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Александр Горбань",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f8544c85-6e3e-443c-bd00-24ac22d99ca9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f38e4db0-5525-4ef3-86f2-09814ff189c3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f38e4db0-5525-4ef3-86f2-09814ff189c3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Фатима",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e9c5764b-72ff-466e-baee-c4fc995cb175",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "993e9063-c418-48ec-ba56-1c7ef6cbd822"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "993e9063-c418-48ec-ba56-1c7ef6cbd822",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "58f8f374-7a12-444c-80cc-e37d2e3da6e9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b608aaa3-db68-4e6f-af2e-c49f19349af3",
+                "c117754c-bb07-4faf-b22b-64e8fadf9118",
+                "addf28f7-c837-45aa-a9fd-d61d70ff0f15",
+                "01cbc5f9-c9e5-482e-ab76-35f3645521ea",
+                "069c0703-26b8-41ea-959f-3941df084d79"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b608aaa3-db68-4e6f-af2e-c49f19349af3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1837e3d3-4fd7-4773-a974-9d535260171e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1837e3d3-4fd7-4773-a974-9d535260171e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c117754c-bb07-4faf-b22b-64e8fadf9118",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f64daa47-5be6-4499-a149-b184b3615f1b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f64daa47-5be6-4499-a149-b184b3615f1b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Пристань. Спектакль в 2-х действиях",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "addf28f7-c837-45aa-a9fd-d61d70ff0f15",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ef7ccfaa-fd50-4e79-aac1-7e9eccf00ced"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ef7ccfaa-fd50-4e79-aac1-7e9eccf00ced",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Римас Туминас",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "01cbc5f9-c9e5-482e-ab76-35f3645521ea",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3e47ab85-a602-49db-8de2-7d65df670b49"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3e47ab85-a602-49db-8de2-7d65df670b49",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Француженка",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "069c0703-26b8-41ea-959f-3941df084d79",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a34e0f53-b38c-40b6-9569-41175f86b9f4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a34e0f53-b38c-40b6-9569-41175f86b9f4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "видеофрагмент",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "8fdb2dd0-8ba0-4676-9225-cfc9445e9580",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "663b4117-1311-4da6-aa30-51a6e636640b",
+                "54b6b827-3825-4f50-b1da-302ca166c82e",
+                "9df0e4d8-e47a-447b-ad5d-2be4c13ff2c1",
+                "a10bfc8b-b53e-4ca0-959f-ee3ecf6530b3",
+                "86a69884-12a3-4836-ad5b-1d168ba725e4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "663b4117-1311-4da6-aa30-51a6e636640b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "021efddf-00de-4d02-8e1f-f73f3db07349"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "021efddf-00de-4d02-8e1f-f73f3db07349",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "54b6b827-3825-4f50-b1da-302ca166c82e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "84141b82-eae0-40be-9602-0f53203f1f0e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "84141b82-eae0-40be-9602-0f53203f1f0e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Пиковая дама. А. С. Пушкин",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9df0e4d8-e47a-447b-ad5d-2be4c13ff2c1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0251ec75-8f79-4586-bd9a-ce753861330f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0251ec75-8f79-4586-bd9a-ce753861330f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Пётр Фоменко",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a10bfc8b-b53e-4ca0-959f-ee3ecf6530b3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "04a4f6b8-acfb-4407-99ee-6c6489349e54"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "04a4f6b8-acfb-4407-99ee-6c6489349e54",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Бедная родственница",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "86a69884-12a3-4836-ad5b-1d168ba725e4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "06169c76-f7c8-4d98-b3ad-de7205fadad3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "06169c76-f7c8-4d98-b3ad-de7205fadad3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "bcc90b5e-1000-43a9-ae94-69647adc2044",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "9a545bd4-5974-4212-9c54-ca8b94beb8a5",
+                "a00c0aaa-f7b8-48bc-8d4b-0e949d14dd97",
+                "b4d339d7-928c-4d8c-8d98-2b92ecda0c61",
+                "d2e27c10-1e35-4317-af2e-98d09878d132",
+                "aca6d15f-2257-439d-8d5a-c0104199121e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9a545bd4-5974-4212-9c54-ca8b94beb8a5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7349765a-f866-4631-acbf-36948ccb2157"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7349765a-f866-4631-acbf-36948ccb2157",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a00c0aaa-f7b8-48bc-8d4b-0e949d14dd97",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6be911c1-3ea3-44ab-bd92-99db90142883"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6be911c1-3ea3-44ab-bd92-99db90142883",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Евгений Онегин. А. С. Пушкин",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b4d339d7-928c-4d8c-8d98-2b92ecda0c61",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d4b737dd-5fb9-4049-ad67-efb3fe862d93"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d4b737dd-5fb9-4049-ad67-efb3fe862d93",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Римас Туминас",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d2e27c10-1e35-4317-af2e-98d09878d132",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "33be95ab-0e63-407b-ab4d-c7960cff6cec"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "33be95ab-0e63-407b-ab4d-c7960cff6cec",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "«Зайчик»",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "aca6d15f-2257-439d-8d5a-c0104199121e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e76fd741-57aa-4407-93ab-6c3b05bcba16"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e76fd741-57aa-4407-93ab-6c3b05bcba16",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "видеофрагмент",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "df40e7ab-106d-4c00-bb71-e547a8d48c00",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2867a9d6-6def-43b6-bce1-842546688470",
+                "a3d92796-e836-42cd-8114-e0bda2f9d9da",
+                "8e7b4e7a-2f11-4a1c-9675-52268f88f5b9",
+                "7cd69ed2-616a-48fb-b07b-73ae56961102",
+                "af89dc04-c676-41de-8368-1d2b0bfd51f8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2867a9d6-6def-43b6-bce1-842546688470",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d6be4277-9bc0-4404-b222-1a5d807f53bc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d6be4277-9bc0-4404-b222-1a5d807f53bc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр им. Евгения Вахтангова (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a3d92796-e836-42cd-8114-e0bda2f9d9da",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d7d4c464-b80a-444f-9f58-43d094a66fa1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d7d4c464-b80a-444f-9f58-43d094a66fa1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Анна Каренина. Хореографический спектакль по мотивам романа Льва Толстого",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8e7b4e7a-2f11-4a1c-9675-52268f88f5b9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3ed286dd-eeb0-416b-a92b-2e248348d843"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3ed286dd-eeb0-416b-a92b-2e248348d843",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Анжелика Холина",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7cd69ed2-616a-48fb-b07b-73ae56961102",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a4035863-2c40-4ebc-8529-240f94a0d05a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a4035863-2c40-4ebc-8529-240f94a0d05a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Дама из высшего общества",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "af89dc04-c676-41de-8368-1d2b0bfd51f8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f75f5ac4-4683-4d5c-9433-5443960a0337"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f75f5ac4-4683-4d5c-9433-5443960a0337",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "видеофрагмент",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "73884e7f-5dde-43fb-9737-0a6524f37732",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2c11f77d-d389-4c84-86ef-2b22f26ba904",
+                "40138b69-7842-462e-9f6f-64ebd55a91fc",
+                "34cd47cb-fa4c-4183-9348-50b0a5825391",
+                "30ab0eb3-257b-4ba4-a9e1-e718f41c3c7b",
+                "8724b169-b0ef-42a1-b23b-ea0aa0a8458c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2c11f77d-d389-4c84-86ef-2b22f26ba904",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b7cdd8ba-0379-4faf-9381-c8bf9173b39e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b7cdd8ba-0379-4faf-9381-c8bf9173b39e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Центр А. Казанцева и М. Рощина (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "40138b69-7842-462e-9f6f-64ebd55a91fc",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "68e82c72-a21d-47a3-a6f3-f970f82d41a7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "68e82c72-a21d-47a3-a6f3-f970f82d41a7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "ВААЛ. По пьесе Б. Брехта",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "34cd47cb-fa4c-4183-9348-50b0a5825391",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b5a17b3a-7dba-4014-a959-3b607576b9c5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b5a17b3a-7dba-4014-a959-3b607576b9c5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Георг Жено",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "30ab0eb3-257b-4ba4-a9e1-e718f41c3c7b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d454be4a-a459-406f-a619-de706f4f6f7f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d454be4a-a459-406f-a619-de706f4f6f7f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Иоганна",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8724b169-b0ef-42a1-b23b-ea0aa0a8458c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "767b1585-e766-402b-9ab5-0d1479600366"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "767b1585-e766-402b-9ab5-0d1479600366",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "85911f86-bc8a-4bb0-975d-a20675f888d6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "3bc7483a-feb2-4d61-8c34-ab164fa92d1d",
+                "d2878fbb-eef8-4ad4-b40e-c1ee03240950",
+                "1230052d-8b9b-4fe4-957d-3db99ce540d3",
+                "aa2ff95c-71f7-45b2-ab5d-696e4ed80352",
+                "c67000f4-f7fd-4417-bf35-c4ab3beba33a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3bc7483a-feb2-4d61-8c34-ab164fa92d1d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "79cda97e-1832-44ec-8bf5-8837a8cb6980"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "79cda97e-1832-44ec-8bf5-8837a8cb6980",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Центр А. Казанцева и М. Рощина (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d2878fbb-eef8-4ad4-b40e-c1ee03240950",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "48aa96ee-e995-4edb-96e8-bab4b6e86a35"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "48aa96ee-e995-4edb-96e8-bab4b6e86a35",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Третья смена. Павел Пряжко",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1230052d-8b9b-4fe4-957d-3db99ce540d3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b43b4a6b-194f-4653-8920-068d27954821"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b43b4a6b-194f-4653-8920-068d27954821",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Филипп Григорьян",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "aa2ff95c-71f7-45b2-ab5d-696e4ed80352",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6791c7cb-18c0-49dc-ad94-51618bbe639c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6791c7cb-18c0-49dc-ad94-51618bbe639c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Маринка",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c67000f4-f7fd-4417-bf35-c4ab3beba33a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8c68992e-1957-461d-9abb-bd467abf5159"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8c68992e-1957-461d-9abb-bd467abf5159",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "4707f6d0-724a-48c5-95d1-ebe306468d5b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0e8f836b-dedd-47f5-981c-0adbc43e8414",
+                "f97a6b5d-1b69-475f-b38e-e4c2df1b6b35",
+                "f043b267-1b24-4360-8076-cc91c77cac49",
+                "5b9ccde9-e8e9-4366-bd86-e2d20f88c8e9",
+                "45c05135-a927-4d97-8c39-54235fc48dc1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0e8f836b-dedd-47f5-981c-0adbc43e8414",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a7dd0c87-3e5a-4ceb-bab7-b4815dfe37b4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a7dd0c87-3e5a-4ceb-bab7-b4815dfe37b4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр-студия «Квадрат» (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f97a6b5d-1b69-475f-b38e-e4c2df1b6b35",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "218d7a21-fe64-401e-8b24-af8f115745c6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "218d7a21-fe64-401e-8b24-af8f115745c6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Чайка. А. П. Чехов",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f043b267-1b24-4360-8076-cc91c77cac49",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d94e0ed2-0c77-4fcf-b75b-913249dc77ea"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d94e0ed2-0c77-4fcf-b75b-913249dc77ea",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5b9ccde9-e8e9-4366-bd86-e2d20f88c8e9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8be7bc50-0eb2-42b0-b263-e7dc6f2513a7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8be7bc50-0eb2-42b0-b263-e7dc6f2513a7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Нина Заречная",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "45c05135-a927-4d97-8c39-54235fc48dc1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "47f26b34-f561-4ece-b4e8-6f73049a4fb3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "47f26b34-f561-4ece-b4e8-6f73049a4fb3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "3e0556c2-f440-44a8-b8a8-c8448d98baab",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d16cc3e3-11aa-4338-bf4c-afa0152a8683",
+                "859bb0b5-0950-4127-8c6d-274194038a49",
+                "16c715ae-74af-4dbf-a821-6e836f6fe2d1",
+                "779a7d8b-f40f-44c0-90c3-06f4bf374a42",
+                "27ae8bcc-e33c-4ad7-80d9-7e46f2406577"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d16cc3e3-11aa-4338-bf4c-afa0152a8683",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f83f9780-03a8-4884-92bb-31f7b584e2da"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f83f9780-03a8-4884-92bb-31f7b584e2da",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Театр-студия «Квадрат» (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "859bb0b5-0950-4127-8c6d-274194038a49",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "163c2d28-15e9-4e2d-b7ee-e37cdbbdbdce"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "163c2d28-15e9-4e2d-b7ee-e37cdbbdbdce",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Гроза. А. Н. Островский",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "16c715ae-74af-4dbf-a821-6e836f6fe2d1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "96a42cae-0879-47c7-9eb1-648b6e4bfaf2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "96a42cae-0879-47c7-9eb1-648b6e4bfaf2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "779a7d8b-f40f-44c0-90c3-06f4bf374a42",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "000e4d46-00a3-4b9a-a3a4-0fc44128a88a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "000e4d46-00a3-4b9a-a3a4-0fc44128a88a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Катерина",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "27ae8bcc-e33c-4ad7-80d9-7e46f2406577",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "37db482e-d460-496f-ac32-58deff99e731"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "37db482e-d460-496f-ac32-58deff99e731",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "f4f8275b-e5d1-4255-b350-95a05c25f643"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "7ad27ec1-0b60-4b70-930e-b1c4632d2529"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "b61f1889-d63b-4287-a9ae-f68ba61a39dc"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "ff54694f-85fe-4d88-a562-965fc9d40f5a"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "b3382cf8-ba16-48c1-ab8a-63b2aa3e2879"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "5aa430dc-85a4-4204-b0b7-99d4a9f2f41d"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "92419a10-a927-48d1-b470-71f5556a9ca3"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "08edea21-1b6d-4a76-a6fd-0b36c072f646"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "a369e87f-f984-48ee-b791-061fb4d19fdd"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "61f4c6d7-b08e-4e9c-a93d-38eb6316968e"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "b4e86fda-8854-490c-847a-eabf237fc9aa"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "3e799bbf-5fb8-431a-9d92-d910f38e5b3d"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "cb7f69ad-ec59-42cb-ab0b-b6a013a82b04"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "d0dd8171-65b1-4ced-92b5-651bf99ec897"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "8841c345-021b-4119-8b31-f9efcbd18c39"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "b2d8e90e-5192-4f66-a5c1-fa18da98859e"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "b5482ec7-8dbc-4959-b146-d2aa73b60a97"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "e7ea9ab9-34bb-4f34-b3bc-c59f946ebcd8"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "e5f6e2e0-2d94-41e5-8111-4660206111fd"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "c055b6a1-bc93-4cd1-a714-bc6a688334ef"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "1e448bc2-58ad-4602-a916-d70ca040a40c"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "4b30aede-b50d-452b-a6b2-5cb8b5a52f35"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "d3f91764-fa07-4838-9177-2dcf294e5a48"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "88d6ea39-b184-41e1-88a6-b7db620a5628"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "46740b52-3665-41cc-b6d0-affa78f2834d"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "e5c9af84-da0a-4cc7-a367-436fcb8e9838"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "594e06f9-aacd-4916-a169-0c115024c7bd"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "525af103-ea84-4e76-a345-ff73820a5c00"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "68fc97cb-eb95-4a0c-8037-19ae1bc35c3a"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "ab17e5e4-daf0-41ee-82e5-14111431ec3e"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "fdacbdca-33bb-496c-8b18-474d80183a32"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "c1c187cd-922c-45ca-99e2-70b10badfe6c"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "003b5f86-18f5-41fb-bfed-bda59ff39cfc"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "98630737-4fff-4cf2-8e56-36e56c6f2493"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "f92118ca-e8c6-438c-a183-23eba69470a8"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "6534c0f2-2884-4b32-98ff-a7670559cfa2"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "ea116bbb-5778-468e-ad9f-713edf90a2d2"
+            },
+            {
+                "status": "new",
+                "type_id": "21510",
+                "value": [],
+                "id": "2f5eb46a-76a0-480e-b10c-a87703575c7a"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "697da8a1-cab5-4e01-a17a-74701540673d"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "0a34895e-746d-4334-85a0-e0e81517b4e7"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "e94de66f-0899-42e8-b5cb-b387c32b6d24"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "159b8722-4279-4ca6-8b31-551f10a7fea7"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "65fc4fb2-2e61-4953-a623-2ca4145672f3"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "bcee3e2f-bd3b-435f-9175-d69024614950"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "42566ca2-4b3f-485f-b652-fe6ec011f56a"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "fd371648-898c-4de0-9f35-18af0c2b7ed7"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "003cc7ce-db03-4bdb-a086-049fa666618d"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "c82af174-7949-443f-a2a7-1b5b0bd24a24"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "d9646861-a9f3-4f1b-be40-a78a578498aa"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "1a8a8b64-9d62-4c7e-b2cf-51ab74499b63"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "5f4c1dc2-faf2-414e-9aaa-79c01e9cfd40"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "1780a586-e4f9-45fe-b458-9105ff64cf9e"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "14e5385f-6c14-49dc-8267-5fe699fb8bdd"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "69123dbb-888c-4227-94a6-784ce144dc63"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "47b586bb-bab9-4321-a42b-01f561a834f0"
+            },
+            {
+                "status": "new",
+                "type_id": "608",
+                "value": [],
+                "id": "ca28df20-a1ef-498e-803c-501cdc2e76c2"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-83366436"
+                },
+                "id": "2053711f-6cea-4cd8-b812-259648bd524d"
+            }
+        ],
+        "atom": [
+            {
+                "id": "cfdb4e79-005e-4611-91f3-96cf50ec64e6",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр-студия «Квадрат» (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "865fb51d-db89-4cc0-9c7c-fc92c1023199",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр-студия «Квадрат» (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "420b99f3-8692-4b39-9d4d-beb92edd9c29",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Гроза",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "03bdee76-7cc4-4652-89ce-4c0c0aae0aae",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Чайка",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "c43d1448-944f-4afa-a382-6bc789a658a9",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "7f0a7c82-ab3c-42c6-8801-6d718ab2c8fb",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Владимир Иванов",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "48480c83-ab37-4a65-a4a8-f66fda74d669",
+                "type_id": "18",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "видеофрагмент",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "86785e39-83a2-44e3-b4c7-680b0b8aac52",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Дневник Анны Франк",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "9de950d5-2e21-4289-a4a8-f3211f9032e1",
+                "type_id": "18",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "видеофрагмент",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "3dd7606c-f89d-4826-a445-62ec277c9d3f",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Люди как люди",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "d2e9e2b7-95f0-4102-9272-f969e7deb79d",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Георг Жено",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "489cdb4e-2e70-4b65-9ed8-700b4645a6fa",
+                "type_id": "18",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "видеофрагмент",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "8e535866-e493-46cd-80cb-96b3d292961f",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Анна Каренина",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "61334128-be5d-4685-b35c-44381a74dd08",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Александр Горбань",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "1baba046-5810-4a90-b14c-1d500d5e6e80",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Римас Туминас",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "0a2f04f1-32f4-42c4-90cc-6d9b532a1701",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Пиковая дама",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "7b85ec2d-9d3d-42ba-9d42-3b98e6b401e0",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Али-Баба и сорок разбойников",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "7a0c9fcd-e0fd-432a-9d2d-a73b501ef033",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "ВААЛ",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "22783d55-1685-4b56-9f48-b581257b803e",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Римас Туминас",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "a3aa4e71-f17a-45d9-8db2-a978f9d3a019",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Александр Горбань",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "042da3f0-c23e-4edf-bc12-cd1609b0b67a",
+                "type_id": "18",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "видеофрагмент",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "ddeb3dca-3932-46be-b4b5-ed09ba0b5348",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Окаёмовы дни",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "f412a9a7-e6b3-4ca2-8e3c-edfb5760e1cc",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Родион Овчинников",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "f8a73bc1-c74e-4f05-9660-823598262831",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Третья смена",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "8a142ae2-2e80-4505-a0cd-036baa65c86d",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Екатерина Симонова",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "ef969415-92ee-4ace-bada-7a555cbdf541",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Филипп Григорьян",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "96a8821f-c2a7-4b67-bd73-d756e87717bf",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Владимир Иванов",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "982b6f16-0fbc-4f3f-9264-677f06eb0343",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Белая акация",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "28151f83-35ab-4ce0-82a6-6473b48a3be4",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Римас Туминас",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "0a1a8c95-5a04-4d0f-bf21-7261953b846b",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Пётр Фоменко",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "14fca7b1-b86f-45ae-9ed4-1b51f5195963",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Берег женщин",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "63e69fbb-b52d-4722-9a23-ab665547c13e",
+                "type_id": "18",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "телеспектакль",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "15f95312-a506-4953-8add-458cc57ca926",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Анжелика Холина",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "8a7bb6d2-ef62-4123-bded-f61b4671cddf",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Пристань",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "436c9c8d-ba8b-418e-9a63-9bd351fc87b1",
+                "type_id": "18",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "видеофрагмент",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "552593be-71c6-43d9-b3f6-067fd283dc1b",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Анжелика Холина",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "86110419-89f0-472a-9a1e-07af03dfea59",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Евгений Онегин",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "6143ff22-0ed3-46c5-bb7f-4ed7e147414a",
+                "type_id": "18",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "видеофрагмент",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "f0cd5d39-7941-4988-99bd-f23356deefcc",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "За двумя зайцами",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "0e1c79fa-49aa-4857-9044-30f3aa137a78",
+                "type_id": "18",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "видеофрагмент",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "b64f76c3-2152-4afb-9a24-0951aed5a08b",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Дядюшкин сон",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "55ea3da7-ab7b-46e5-9217-dd740aabd52c",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Владимир Иванов",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "9851f341-fb25-4b8a-82b0-4ec64739cce1",
+                "type_id": "18",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "видеофрагмент",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "b13bd4b1-c596-46da-9117-a8ed301a5e18",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Минетти",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "fe81a2dc-0f27-4434-9a88-2e612bb42aff",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Римас Туминас и Екатерина Симонова",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "c4fad6bb-a6cd-4170-8ba4-718a67dc5036",
+                "type_id": "18",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "видеофрагмент",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "efe82ddc-9d54-4c35-9ab2-e16871a06df2",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Вечер шутов",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "3fdf22e3-c340-4622-9dda-12cd5dd4ea58",
+                "type_id": "18",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "видеофрагмент",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "f4f2b090-020e-4cc3-9fe8-49c0fe5a3076",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Бѣсы",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "db1afcf1-cde0-41ac-a62d-987441abb7c0",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Юрий Любимов",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "0386d7f7-1603-4da9-9fc2-1cbe10e463df",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "eeb69533-fe31-4913-9dd5-5c847015b0b7",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Центр А. Казанцева и М. Рощина (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "ac18f7c7-8629-45a8-8710-6fd738b50ac7",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "9ccf7f5e-b6c6-489a-b055-636b7bf4e40d",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "5d2a87d5-5529-494d-91ac-74d1012076ee",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "0b9cf3c3-f1be-4210-a887-585927223e32",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "0fb52eab-f71b-42dd-9ff4-681af86233bc",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "5e7b9d14-174b-40ba-a120-2309074306e1",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "25b4c8fb-64b3-4fc5-a5ad-a701cd650def",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Центр А. Казанцева и М. Рощина (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "362929a4-b0af-4188-89ca-b7a83ba52da2",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "85072fcd-710f-426d-9c95-e19591b78d0b",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "1a76ae9d-7c68-464c-8784-745fc9999db7",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "2886acb5-39bb-49e4-b76c-1570ef51e964",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "0712f335-498a-4b73-837b-c419b3a8c5ef",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "dab59537-066f-4448-9297-d45527d358d0",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "a139ee69-23dc-4f97-8bde-929f325d9017",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "4d6d3f23-e955-4444-8821-a11e3cf9d552",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Театр им. Евгения Вахтангова (Москва)",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "76d82c2f-a27e-44e5-99ee-0569c756dee8",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 1737643164
+                },
+                "status": "approved"
+            },
+            {
+                "id": "232b7d53-2996-4ec6-a2c3-58fbd79c3773",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ad3d8bd8-95af-4b00-8f73-1d04e95283af",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 53539
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8fd86cd1-8f51-48c1-930f-d4a6eccae754",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 1737643164
+                },
+                "status": "approved"
+            },
+            {
+                "id": "efaf06f6-92ed-4b36-95b1-49984fa5e943",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a6368bb2-bfe0-4ce6-9ac5-342cf8ec7d78",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d430a533-c5fb-420d-8e98-d76721641218",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "177392a2-cf31-4243-a1e7-112e17bd7af8",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3200"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0c70d37e-99dc-4016-90df-efc528958ec1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/2053/711f/table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "52e6a946-c31a-482b-bb7c-7442dd647da1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "feaeb844-4666-4e88-ba93-672c86943b2b",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 1737643164
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d4fc6b29-9c20-40bb-b593-2f42a8bd5338",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "087a3e65-860f-4557-90a5-56a1a0adb30a",
+                "source": "5aa430dc-85a4-4204-b0b7-99d4a9f2f41d",
+                "target": "0a34895e-746d-4334-85a0-e0e81517b4e7"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "d20ab87b-88b3-4f29-b67e-02868c8027c2",
+                "source": "92419a10-a927-48d1-b470-71f5556a9ca3",
+                "target": "6534c0f2-2884-4b32-98ff-a7670559cfa2"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "b7090f7c-114c-4bca-a16e-9814041ca9a7",
+                "source": "08edea21-1b6d-4a76-a6fd-0b36c072f646",
+                "target": "98630737-4fff-4cf2-8e56-36e56c6f2493"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "caba9153-982f-4059-9e8f-b2e0b4c6e6d5",
+                "source": "a369e87f-f984-48ee-b791-061fb4d19fdd",
+                "target": "e94de66f-0899-42e8-b5cb-b387c32b6d24"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "55cf2148-5e2e-47f4-bd2b-84e18071394b",
+                "source": "61f4c6d7-b08e-4e9c-a93d-38eb6316968e",
+                "target": "ab17e5e4-daf0-41ee-82e5-14111431ec3e"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "892594f8-ff45-447e-8048-279bc3066b0c",
+                "source": "b4e86fda-8854-490c-847a-eabf237fc9aa",
+                "target": "159b8722-4279-4ca6-8b31-551f10a7fea7"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "3aaf7c8c-a4f6-4e35-8eba-37919d346040",
+                "source": "3e799bbf-5fb8-431a-9d92-d910f38e5b3d",
+                "target": "65fc4fb2-2e61-4953-a623-2ca4145672f3"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "3f3bfd75-9d29-4918-973f-b43546f7026e",
+                "source": "cb7f69ad-ec59-42cb-ab0b-b6a013a82b04",
+                "target": "e5c9af84-da0a-4cc7-a367-436fcb8e9838"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "9892da19-4677-41ba-9d21-7e2831ac1d3a",
+                "source": "d0dd8171-65b1-4ced-92b5-651bf99ec897",
+                "target": "b5482ec7-8dbc-4959-b146-d2aa73b60a97"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "920c38e5-8a70-4aaa-9219-59d077f25d49",
+                "source": "8841c345-021b-4119-8b31-f9efcbd18c39",
+                "target": "a369e87f-f984-48ee-b791-061fb4d19fdd"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "fdbd9889-c414-47da-9901-2c3dc5de412c",
+                "source": "b2d8e90e-5192-4f66-a5c1-fa18da98859e",
+                "target": "bcee3e2f-bd3b-435f-9175-d69024614950"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "2e218cc8-171f-4ba0-afdd-f6c7ba2416b3",
+                "source": "b5482ec7-8dbc-4959-b146-d2aa73b60a97",
+                "target": "42566ca2-4b3f-485f-b652-fe6ec011f56a"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "c46517de-e29e-4c37-9057-18e59074b994",
+                "source": "e7ea9ab9-34bb-4f34-b3bc-c59f946ebcd8",
+                "target": "e5f6e2e0-2d94-41e5-8111-4660206111fd"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "901c8cfc-0b79-4327-b545-ab9f86b7e013",
+                "source": "e5f6e2e0-2d94-41e5-8111-4660206111fd",
+                "target": "fd371648-898c-4de0-9f35-18af0c2b7ed7"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "bd15d74b-623e-4488-b9e3-222beed01058",
+                "source": "c055b6a1-bc93-4cd1-a714-bc6a688334ef",
+                "target": "4b30aede-b50d-452b-a6b2-5cb8b5a52f35"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "fa494c22-2073-4fad-8610-7904720d0374",
+                "source": "1e448bc2-58ad-4602-a916-d70ca040a40c",
+                "target": "003cc7ce-db03-4bdb-a086-049fa666618d"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "fc95924e-7903-4cbd-9270-020d2e4fd2b7",
+                "source": "4b30aede-b50d-452b-a6b2-5cb8b5a52f35",
+                "target": "c82af174-7949-443f-a2a7-1b5b0bd24a24"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "77c71e66-5a18-4020-aa8c-c9464a5e3f1c",
+                "source": "d3f91764-fa07-4838-9177-2dcf294e5a48",
+                "target": "d9646861-a9f3-4f1b-be40-a78a578498aa"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "7a2cab65-ea96-431f-814c-f0746a3238f7",
+                "source": "88d6ea39-b184-41e1-88a6-b7db620a5628",
+                "target": "d3f91764-fa07-4838-9177-2dcf294e5a48"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "69b5ad9f-81a2-4044-b50c-e88fd4c9de69",
+                "source": "46740b52-3665-41cc-b6d0-affa78f2834d",
+                "target": "1a8a8b64-9d62-4c7e-b2cf-51ab74499b63"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "2d610042-290f-4827-836b-9734f465a857",
+                "source": "e5c9af84-da0a-4cc7-a367-436fcb8e9838",
+                "target": "5f4c1dc2-faf2-414e-9aaa-79c01e9cfd40"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "4e8d4d07-1d8d-444c-9a3b-13fd4214fba3",
+                "source": "594e06f9-aacd-4916-a169-0c115024c7bd",
+                "target": "525af103-ea84-4e76-a345-ff73820a5c00"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "bb5f137b-b174-4399-a408-26233e880b4b",
+                "source": "525af103-ea84-4e76-a345-ff73820a5c00",
+                "target": "1780a586-e4f9-45fe-b458-9105ff64cf9e"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "d530bace-f2c7-4b30-80af-14b5ca7bf84e",
+                "source": "68fc97cb-eb95-4a0c-8037-19ae1bc35c3a",
+                "target": "b2d8e90e-5192-4f66-a5c1-fa18da98859e"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "33df025a-aabd-4b43-b5f9-be84a60435ff",
+                "source": "ab17e5e4-daf0-41ee-82e5-14111431ec3e",
+                "target": "14e5385f-6c14-49dc-8267-5fe699fb8bdd"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "5a71654b-92d6-4a64-a2d7-34ef19367b21",
+                "source": "fdacbdca-33bb-496c-8b18-474d80183a32",
+                "target": "46740b52-3665-41cc-b6d0-affa78f2834d"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "de050258-25ac-4de4-a877-69ebb92c722f",
+                "source": "c1c187cd-922c-45ca-99e2-70b10badfe6c",
+                "target": "b4e86fda-8854-490c-847a-eabf237fc9aa"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "4d77f33c-e9fe-4633-b2ec-1c7db7763941",
+                "source": "003b5f86-18f5-41fb-bfed-bda59ff39cfc",
+                "target": "5aa430dc-85a4-4204-b0b7-99d4a9f2f41d"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "45499fe8-e527-4bd4-b55b-ed1b48ef53f2",
+                "source": "98630737-4fff-4cf2-8e56-36e56c6f2493",
+                "target": "69123dbb-888c-4227-94a6-784ce144dc63"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "74b9b93b-36b3-4617-aa9c-fa475f0adc58",
+                "source": "f92118ca-e8c6-438c-a183-23eba69470a8",
+                "target": "3e799bbf-5fb8-431a-9d92-d910f38e5b3d"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "d68bcd97-f0f5-4866-869b-803eba10b092",
+                "source": "6534c0f2-2884-4b32-98ff-a7670559cfa2",
+                "target": "47b586bb-bab9-4321-a42b-01f561a834f0"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "de6a28d3-99c8-496b-9447-b0a69e4e68b4",
+                "source": "ea116bbb-5778-468e-ad9f-713edf90a2d2",
+                "target": "1e448bc2-58ad-4602-a916-d70ca040a40c"
+            },
+            {
+                "status": "new",
+                "type_id": "21536",
+                "id": "a3e16782-7abf-4583-a122-63eda9eecb2c",
+                "source": "2f5eb46a-76a0-480e-b10c-a87703575c7a",
+                "target": "697da8a1-cab5-4e01-a17a-74701540673d"
+            },
+            {
+                "status": "new",
+                "type_id": "786",
+                "id": "f2d186fa-eb10-4577-a04d-b93cc8d01781",
+                "source": "697da8a1-cab5-4e01-a17a-74701540673d",
+                "target": "ca28df20-a1ef-498e-803c-501cdc2e76c2"
+            }
+        ],
+        "property": [
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "22db1ee5-0984-4bd2-88c2-a09cd285f45d",
+                "source": "f4f8275b-e5d1-4255-b350-95a05c25f643",
+                "target": "cfdb4e79-005e-4611-91f3-96cf50ec64e6"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "2c0167ab-ec80-4b68-975e-c7cf5b346f4e",
+                "source": "7ad27ec1-0b60-4b70-930e-b1c4632d2529",
+                "target": "865fb51d-db89-4cc0-9c7c-fc92c1023199"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "f056c371-6bda-474d-a385-5d6e1069bf9f",
+                "source": "b61f1889-d63b-4287-a9ae-f68ba61a39dc",
+                "target": "420b99f3-8692-4b39-9d4d-beb92edd9c29"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "6ecbbcf4-aa8f-460d-8866-c1b45abdaf3d",
+                "source": "ff54694f-85fe-4d88-a562-965fc9d40f5a",
+                "target": "03bdee76-7cc4-4652-89ce-4c0c0aae0aae"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "878fdde7-a64f-414c-9ec4-2a9bb40e5af9",
+                "source": "b3382cf8-ba16-48c1-ab8a-63b2aa3e2879",
+                "target": "c43d1448-944f-4afa-a382-6bc789a658a9"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "9d181ed6-d26c-4dd7-bbba-f328e2b3bc15",
+                "source": "5aa430dc-85a4-4204-b0b7-99d4a9f2f41d",
+                "target": "7f0a7c82-ab3c-42c6-8801-6d718ab2c8fb"
+            },
+            {
+                "status": "new",
+                "type_id": "21520",
+                "id": "2d263b17-641f-415f-a06b-ac67522c46e6",
+                "source": "92419a10-a927-48d1-b470-71f5556a9ca3",
+                "target": "48480c83-ab37-4a65-a4a8-f66fda74d669"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "15276328-2d41-40ed-a9c0-21fc6265a31d",
+                "source": "92419a10-a927-48d1-b470-71f5556a9ca3",
+                "target": "86785e39-83a2-44e3-b4c7-680b0b8aac52"
+            },
+            {
+                "status": "new",
+                "type_id": "21520",
+                "id": "7ee36d97-9166-418b-9833-b0b2a7ee984d",
+                "source": "08edea21-1b6d-4a76-a6fd-0b36c072f646",
+                "target": "9de950d5-2e21-4289-a4a8-f3211f9032e1"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "6e230083-3527-4128-83c1-9bf12a7171da",
+                "source": "08edea21-1b6d-4a76-a6fd-0b36c072f646",
+                "target": "3dd7606c-f89d-4826-a445-62ec277c9d3f"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "72873448-c202-460e-9a99-25e1f334827f",
+                "source": "a369e87f-f984-48ee-b791-061fb4d19fdd",
+                "target": "d2e9e2b7-95f0-4102-9272-f969e7deb79d"
+            },
+            {
+                "status": "new",
+                "type_id": "21520",
+                "id": "046ec004-8e61-47eb-9768-87772135aaf1",
+                "source": "61f4c6d7-b08e-4e9c-a93d-38eb6316968e",
+                "target": "489cdb4e-2e70-4b65-9ed8-700b4645a6fa"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "013bad5b-b2b9-43f6-b28d-7115a950c0a2",
+                "source": "61f4c6d7-b08e-4e9c-a93d-38eb6316968e",
+                "target": "8e535866-e493-46cd-80cb-96b3d292961f"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "80464c64-9589-4f8b-a414-090480d7078a",
+                "source": "b4e86fda-8854-490c-847a-eabf237fc9aa",
+                "target": "61334128-be5d-4685-b35c-44381a74dd08"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "56ddcd99-6722-4f34-91df-e6fb13467f05",
+                "source": "3e799bbf-5fb8-431a-9d92-d910f38e5b3d",
+                "target": "1baba046-5810-4a90-b14c-1d500d5e6e80"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "85010b68-15c6-4dfd-8f6a-cb0d5ded09de",
+                "source": "cb7f69ad-ec59-42cb-ab0b-b6a013a82b04",
+                "target": "0a2f04f1-32f4-42c4-90cc-6d9b532a1701"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "b6a00af6-6fb0-4a8a-b3e2-952d3698c809",
+                "source": "d0dd8171-65b1-4ced-92b5-651bf99ec897",
+                "target": "7b85ec2d-9d3d-42ba-9d42-3b98e6b401e0"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "f1d552ea-abd8-44d4-bbf8-852c696da500",
+                "source": "8841c345-021b-4119-8b31-f9efcbd18c39",
+                "target": "7a0c9fcd-e0fd-432a-9d2d-a73b501ef033"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "8f0ecbae-a835-402e-ab90-93ef3a95e173",
+                "source": "b2d8e90e-5192-4f66-a5c1-fa18da98859e",
+                "target": "22783d55-1685-4b56-9f48-b581257b803e"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "bacf4c3e-41ac-43d1-92c1-0fe892ff3f31",
+                "source": "b5482ec7-8dbc-4959-b146-d2aa73b60a97",
+                "target": "a3aa4e71-f17a-45d9-8db2-a978f9d3a019"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "36bda9ae-f631-41a2-b6e7-d25b2706ac9c",
+                "source": "e7ea9ab9-34bb-4f34-b3bc-c59f946ebcd8",
+                "target": "ddeb3dca-3932-46be-b4b5-ed09ba0b5348"
+            },
+            {
+                "status": "new",
+                "type_id": "21520",
+                "id": "27433134-d9e3-4c92-9d96-482ed281972c",
+                "source": "e7ea9ab9-34bb-4f34-b3bc-c59f946ebcd8",
+                "target": "042da3f0-c23e-4edf-bc12-cd1609b0b67a"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "d3c3172f-10a2-47e2-a004-54736f754ded",
+                "source": "e5f6e2e0-2d94-41e5-8111-4660206111fd",
+                "target": "f412a9a7-e6b3-4ca2-8e3c-edfb5760e1cc"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "f37f7dd9-3dd8-4711-9e6f-c7afb48d13d8",
+                "source": "c055b6a1-bc93-4cd1-a714-bc6a688334ef",
+                "target": "f8a73bc1-c74e-4f05-9660-823598262831"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "1487c9a4-25a3-4e59-abc7-7ef988541e18",
+                "source": "1e448bc2-58ad-4602-a916-d70ca040a40c",
+                "target": "8a142ae2-2e80-4505-a0cd-036baa65c86d"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "3e0fb1cc-efb2-4241-94b5-9cedfbf061fa",
+                "source": "4b30aede-b50d-452b-a6b2-5cb8b5a52f35",
+                "target": "ef969415-92ee-4ace-bada-7a555cbdf541"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "c100995b-ea72-4146-b536-0b947e941d71",
+                "source": "d3f91764-fa07-4838-9177-2dcf294e5a48",
+                "target": "96a8821f-c2a7-4b67-bd73-d756e87717bf"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "1a576d35-c0b4-455d-a97d-c4e91c2656e4",
+                "source": "88d6ea39-b184-41e1-88a6-b7db620a5628",
+                "target": "982b6f16-0fbc-4f3f-9264-677f06eb0343"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "2632448e-1b4f-4941-9133-3cf05e2c61a2",
+                "source": "46740b52-3665-41cc-b6d0-affa78f2834d",
+                "target": "28151f83-35ab-4ce0-82a6-6473b48a3be4"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "41d35131-b3b4-4ea5-9d2a-637db1a7c7af",
+                "source": "e5c9af84-da0a-4cc7-a367-436fcb8e9838",
+                "target": "0a1a8c95-5a04-4d0f-bf21-7261953b846b"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "1c714de2-9e04-48b6-b3cc-3bb12a5fbb7d",
+                "source": "594e06f9-aacd-4916-a169-0c115024c7bd",
+                "target": "14fca7b1-b86f-45ae-9ed4-1b51f5195963"
+            },
+            {
+                "status": "new",
+                "type_id": "21520",
+                "id": "ceba3735-929a-4585-8475-ea8d6eec15f3",
+                "source": "594e06f9-aacd-4916-a169-0c115024c7bd",
+                "target": "63e69fbb-b52d-4722-9a23-ab665547c13e"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "89b576a6-4bd5-4ae8-be7b-37e40bfb7d75",
+                "source": "525af103-ea84-4e76-a345-ff73820a5c00",
+                "target": "15f95312-a506-4953-8add-458cc57ca926"
+            },
+            {
+                "status": "new",
+                "type_id": "21520",
+                "id": "72a1b608-28a8-468e-a94b-12ee2fc414ea",
+                "source": "68fc97cb-eb95-4a0c-8037-19ae1bc35c3a",
+                "target": "436c9c8d-ba8b-418e-9a63-9bd351fc87b1"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "d731f234-1d6b-4a38-94fb-21462635791f",
+                "source": "68fc97cb-eb95-4a0c-8037-19ae1bc35c3a",
+                "target": "8a7bb6d2-ef62-4123-bded-f61b4671cddf"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "b131f871-c027-4de1-9419-68d2c1341775",
+                "source": "ab17e5e4-daf0-41ee-82e5-14111431ec3e",
+                "target": "552593be-71c6-43d9-b3f6-067fd283dc1b"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "eead3755-936d-443d-afa2-ba0f6b3f4f39",
+                "source": "fdacbdca-33bb-496c-8b18-474d80183a32",
+                "target": "86110419-89f0-472a-9a1e-07af03dfea59"
+            },
+            {
+                "status": "new",
+                "type_id": "21520",
+                "id": "a41c340e-35f2-48b9-ab63-f7d70a023f95",
+                "source": "fdacbdca-33bb-496c-8b18-474d80183a32",
+                "target": "6143ff22-0ed3-46c5-bb7f-4ed7e147414a"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "777e4d30-a935-448e-85e5-f2ddb64195ac",
+                "source": "c1c187cd-922c-45ca-99e2-70b10badfe6c",
+                "target": "f0cd5d39-7941-4988-99bd-f23356deefcc"
+            },
+            {
+                "status": "new",
+                "type_id": "21520",
+                "id": "a0f38317-41cf-49cc-83bc-92326ea8caa9",
+                "source": "003b5f86-18f5-41fb-bfed-bda59ff39cfc",
+                "target": "0e1c79fa-49aa-4857-9044-30f3aa137a78"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "d74c6501-3cd6-4bf0-9c06-ef6fdbccea17",
+                "source": "003b5f86-18f5-41fb-bfed-bda59ff39cfc",
+                "target": "b64f76c3-2152-4afb-9a24-0951aed5a08b"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "b29a7c66-fc27-4d64-84a2-0e41474b664c",
+                "source": "98630737-4fff-4cf2-8e56-36e56c6f2493",
+                "target": "55ea3da7-ab7b-46e5-9217-dd740aabd52c"
+            },
+            {
+                "status": "new",
+                "type_id": "21520",
+                "id": "fb9815fb-6c07-43a1-94c8-686e92f97b87",
+                "source": "f92118ca-e8c6-438c-a183-23eba69470a8",
+                "target": "9851f341-fb25-4b8a-82b0-4ec64739cce1"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "f1d4c65c-5333-4851-9038-d6b9eade9713",
+                "source": "f92118ca-e8c6-438c-a183-23eba69470a8",
+                "target": "b13bd4b1-c596-46da-9117-a8ed301a5e18"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "1d85cfc7-f983-40bb-8197-1c89b9edb84e",
+                "source": "6534c0f2-2884-4b32-98ff-a7670559cfa2",
+                "target": "fe81a2dc-0f27-4434-9a88-2e612bb42aff"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "0c572216-456b-4528-ba58-f188ac083eea",
+                "source": "ea116bbb-5778-468e-ad9f-713edf90a2d2",
+                "target": "efe82ddc-9d54-4c35-9ab2-e16871a06df2"
+            },
+            {
+                "status": "new",
+                "type_id": "21520",
+                "id": "ff18dfad-0660-4aea-be47-02692c2f8c8d",
+                "source": "ea116bbb-5778-468e-ad9f-713edf90a2d2",
+                "target": "c4fad6bb-a6cd-4170-8ba4-718a67dc5036"
+            },
+            {
+                "status": "new",
+                "type_id": "21520",
+                "id": "94d11180-8ab5-4f6b-9992-db326d913cf4",
+                "source": "2f5eb46a-76a0-480e-b10c-a87703575c7a",
+                "target": "3fdf22e3-c340-4622-9dda-12cd5dd4ea58"
+            },
+            {
+                "status": "new",
+                "type_id": "21511",
+                "id": "c7611790-8838-4e66-b223-3e9e7f34d22f",
+                "source": "2f5eb46a-76a0-480e-b10c-a87703575c7a",
+                "target": "f4f2b090-020e-4cc3-9fe8-49c0fe5a3076"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "96b83905-69b9-47b8-aa78-4b791b461dc0",
+                "source": "697da8a1-cab5-4e01-a17a-74701540673d",
+                "target": "db1afcf1-cde0-41ac-a62d-987441abb7c0"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "34728996-fa60-4d2a-bae2-5773e6a1aeb2",
+                "source": "0a34895e-746d-4334-85a0-e0e81517b4e7",
+                "target": "0386d7f7-1603-4da9-9fc2-1cbe10e463df"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "57a83c8b-182a-44a9-a331-be34bf0184bf",
+                "source": "e94de66f-0899-42e8-b5cb-b387c32b6d24",
+                "target": "eeb69533-fe31-4913-9dd5-5c847015b0b7"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "d0ec00af-b358-446e-a6ce-8c0ccc2aa1fd",
+                "source": "159b8722-4279-4ca6-8b31-551f10a7fea7",
+                "target": "ac18f7c7-8629-45a8-8710-6fd738b50ac7"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "5c494c99-ae41-4062-9644-4a911555b43b",
+                "source": "65fc4fb2-2e61-4953-a623-2ca4145672f3",
+                "target": "9ccf7f5e-b6c6-489a-b055-636b7bf4e40d"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "89f2477f-255b-4358-b8f9-4b724c86c866",
+                "source": "bcee3e2f-bd3b-435f-9175-d69024614950",
+                "target": "5d2a87d5-5529-494d-91ac-74d1012076ee"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "751eb7b9-d36a-4c32-b290-bca073775ebf",
+                "source": "42566ca2-4b3f-485f-b652-fe6ec011f56a",
+                "target": "0b9cf3c3-f1be-4210-a887-585927223e32"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "8893ecea-d975-415f-9c2b-32f25cbcdb5c",
+                "source": "fd371648-898c-4de0-9f35-18af0c2b7ed7",
+                "target": "0fb52eab-f71b-42dd-9ff4-681af86233bc"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "c236a1ca-8268-4ce5-8b86-7383775b4c2c",
+                "source": "003cc7ce-db03-4bdb-a086-049fa666618d",
+                "target": "5e7b9d14-174b-40ba-a120-2309074306e1"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "80e69417-19f6-4acf-b39a-5b0a896d3152",
+                "source": "c82af174-7949-443f-a2a7-1b5b0bd24a24",
+                "target": "25b4c8fb-64b3-4fc5-a5ad-a701cd650def"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "796d7dea-c209-48a9-b323-6c38f81bb9ae",
+                "source": "d9646861-a9f3-4f1b-be40-a78a578498aa",
+                "target": "362929a4-b0af-4188-89ca-b7a83ba52da2"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "15a14bc3-0bb8-480b-b1a2-2c94bd0fe071",
+                "source": "1a8a8b64-9d62-4c7e-b2cf-51ab74499b63",
+                "target": "85072fcd-710f-426d-9c95-e19591b78d0b"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "b9e5e8cc-a4cf-4996-8727-e2071af93f23",
+                "source": "5f4c1dc2-faf2-414e-9aaa-79c01e9cfd40",
+                "target": "1a76ae9d-7c68-464c-8784-745fc9999db7"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "35d9e750-0d6b-458a-a789-ab01cb1db909",
+                "source": "1780a586-e4f9-45fe-b458-9105ff64cf9e",
+                "target": "2886acb5-39bb-49e4-b76c-1570ef51e964"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "c10884db-533a-48b1-a783-9d09206ff3ec",
+                "source": "14e5385f-6c14-49dc-8267-5fe699fb8bdd",
+                "target": "0712f335-498a-4b73-837b-c419b3a8c5ef"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "ea8707cf-7e09-4e50-b164-313eb9e77bb8",
+                "source": "69123dbb-888c-4227-94a6-784ce144dc63",
+                "target": "dab59537-066f-4448-9297-d45527d358d0"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "cc1a98a4-8fde-403b-8264-d964f0b5953b",
+                "source": "47b586bb-bab9-4321-a42b-01f561a834f0",
+                "target": "a139ee69-23dc-4f97-8bde-929f325d9017"
+            },
+            {
+                "status": "new",
+                "type_id": "611",
+                "id": "463150ea-f4b5-4c2e-b4b6-0e10565d4bb5",
+                "source": "ca28df20-a1ef-498e-803c-501cdc2e76c2",
+                "target": "4d6d3f23-e955-4444-8821-a11e3cf9d552"
+            },
+            {
+                "status": "approved",
+                "type_id": "2842",
+                "value": "ОК-83366452",
+                "id": "bcd7933d-31d7-423c-99e4-7c38b434bd09",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "76d82c2f-a27e-44e5-99ee-0569c756dee8"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-83366453",
+                "id": "af867a8c-e4f0-4278-ac95-8f008a203a56",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "232b7d53-2996-4ec6-a2c3-58fbd79c3773"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-83366454",
+                "id": "e2e26712-daec-46a4-aff0-4536418c50b0",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "ad3d8bd8-95af-4b00-8f73-1d04e95283af"
+            },
+            {
+                "status": "approved",
+                "type_id": "2844",
+                "value": "ОК-83366455",
+                "id": "0107bd3a-9673-4ccd-80a7-c68165c3d60e",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "8fd86cd1-8f51-48c1-930f-d4a6eccae754"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-83366456",
+                "id": "056d41d4-74d8-4491-b6c6-a09f9f0c387a",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "efaf06f6-92ed-4b36-95b1-49984fa5e943"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-83366457",
+                "id": "7484a0d0-d0db-4d1b-894b-46b9ec175b5b",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "a6368bb2-bfe0-4ce6-9ac5-342cf8ec7d78"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-83366458",
+                "id": "f8ee50c6-c5d8-41da-917a-d625f386cdbf",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "d430a533-c5fb-420d-8e98-d76721641218"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-83366459",
+                "id": "d254043b-45b8-421e-97f5-e0a3a93179cf",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "177392a2-cf31-4243-a1e7-112e17bd7af8"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-83366460",
+                "id": "108ef86c-7a87-473d-8f0e-7c80b656ff94",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "0c70d37e-99dc-4016-90df-efc528958ec1"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-83366461",
+                "id": "669b7b26-0b12-4223-89af-6f63fc23a89e",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "52e6a946-c31a-482b-bb7c-7442dd647da1"
+            },
+            {
+                "status": "approved",
+                "type_id": "2843",
+                "value": "ОК-83366462",
+                "id": "3a377c7f-12e3-45ac-956b-78dde9cdd9a6",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "feaeb844-4666-4e88-ba93-672c86943b2b"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-83366463",
+                "id": "a3576a5c-5f21-4442-b3bd-d64ed3b10c6e",
+                "source": "2053711f-6cea-4cd8-b812-259648bd524d",
+                "target": "d4fc6b29-9c20-40bb-b593-2f42a8bd5338"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a7dd0c87-3e5a-4ceb-bab7-b4815dfe37b4",
+                    "start": 0,
+                    "end": 31
+                },
+                "value": "cfdb4e79-005e-4611-91f3-96cf50ec64e6",
+                "id": "18efac1d-7224-4dd2-b26a-9c07f8c752a2"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f83f9780-03a8-4884-92bb-31f7b584e2da",
+                    "start": 0,
+                    "end": 31
+                },
+                "value": "865fb51d-db89-4cc0-9c7c-fc92c1023199",
+                "id": "25b540d5-4873-43e5-8a41-9bf614f12c70"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "163c2d28-15e9-4e2d-b7ee-e37cdbbdbdce",
+                    "start": 0,
+                    "end": 5
+                },
+                "value": "420b99f3-8692-4b39-9d4d-beb92edd9c29",
+                "id": "5ec265bd-e0c2-4e8f-b912-cf36003cf5e3"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "218d7a21-fe64-401e-8b24-af8f115745c6",
+                    "start": 0,
+                    "end": 5
+                },
+                "value": "03bdee76-7cc4-4652-89ce-4c0c0aae0aae",
+                "id": "25f90488-d8e5-4727-8a71-39a171280279"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a53ceed5-7c0f-4085-8b6d-42a121237344",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "c43d1448-944f-4afa-a382-6bc789a658a9",
+                "id": "d2810756-1c1b-40a1-9373-bcd23939a0b9"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0ffa0a40-9163-4d57-be43-994ef2f3cb7a",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "7f0a7c82-ab3c-42c6-8801-6d718ab2c8fb",
+                "id": "f79c8dc8-b59f-4e7f-b3e1-4b5720a12d9a"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c1764836-7938-49d0-9f6f-89243d21b706",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "48480c83-ab37-4a65-a4a8-f66fda74d669",
+                "id": "a4150d83-7ddb-4735-a06c-aade15602401"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fef13797-3a8e-419c-a8fe-c49679c7899c",
+                    "start": 0,
+                    "end": 18
+                },
+                "value": "86785e39-83a2-44e3-b4c7-680b0b8aac52",
+                "id": "7c581e61-c713-489c-b900-3322a311b9e1"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b2ffca48-76a7-4366-8fe1-8c80e0377840",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "3dd7606c-f89d-4826-a445-62ec277c9d3f",
+                "id": "ed41913e-948b-412d-9f8e-801e5d3e53b4"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f1ad7477-31e4-44e4-8974-c6b5286a618e",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "9de950d5-2e21-4289-a4a8-f3211f9032e1",
+                "id": "7979628b-ac47-4049-89de-589174c9ac23"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b5a17b3a-7dba-4014-a959-3b607576b9c5",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "d2e9e2b7-95f0-4102-9272-f969e7deb79d",
+                "id": "eb78d3d5-b2bd-4816-86f8-89f71862efdc"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f75f5ac4-4683-4d5c-9433-5443960a0337",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "489cdb4e-2e70-4b65-9ed8-700b4645a6fa",
+                "id": "f2b19b9d-6e9c-4eed-9cd8-99d5ed2201e9"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d7d4c464-b80a-444f-9f58-43d094a66fa1",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "8e535866-e493-46cd-80cb-96b3d292961f",
+                "id": "fb6f425c-8938-4dd1-b2f0-c21a7391c993"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "888eb5b7-4698-40ba-92cb-208a1f599e34",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "61334128-be5d-4685-b35c-44381a74dd08",
+                "id": "7afb6f18-78e6-4983-b807-a2c5212542ec"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ae457e35-ec0e-43c8-9614-5101e44053cb",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "1baba046-5810-4a90-b14c-1d500d5e6e80",
+                "id": "73b7bfac-3fd9-426a-85a5-2ba36dd51de5"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "84141b82-eae0-40be-9602-0f53203f1f0e",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "0a2f04f1-32f4-42c4-90cc-6d9b532a1701",
+                "id": "cffacaaf-c194-4f1b-b86f-082ee974e6c4"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8c70a730-cd20-4ef5-bf72-6b1e299c47e4",
+                    "start": 0,
+                    "end": 28
+                },
+                "value": "7b85ec2d-9d3d-42ba-9d42-3b98e6b401e0",
+                "id": "275b2ed0-5543-42b4-984a-c5a2b36e7fd9"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "68e82c72-a21d-47a3-a6f3-f970f82d41a7",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "7a0c9fcd-e0fd-432a-9d2d-a73b501ef033",
+                "id": "6458797a-e7ff-4b23-aa72-d2ad5a9d7c84"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ef7ccfaa-fd50-4e79-aac1-7e9eccf00ced",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "22783d55-1685-4b56-9f48-b581257b803e",
+                "id": "a61c71b9-7a29-4397-892e-f05ed1dabce1"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ebc88b17-c570-4413-bd40-fb1d87b0f7cf",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "a3aa4e71-f17a-45d9-8db2-a978f9d3a019",
+                "id": "35caeb77-ae8c-4017-908c-2aedf833633a"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "12ac28f2-3981-4e88-86bb-54333b5287a4",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "042da3f0-c23e-4edf-bc12-cd1609b0b67a",
+                "id": "1dc40833-9138-4342-bdc0-bf2deefa2db7"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d9b10b66-25a7-4a79-b8b8-4b02ac643579",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "ddeb3dca-3932-46be-b4b5-ed09ba0b5348",
+                "id": "02d18492-6318-4460-9c01-1b29b4f907ee"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "936e20c1-0d25-4628-8ee1-d438c07cdbed",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "f412a9a7-e6b3-4ca2-8e3c-edfb5760e1cc",
+                "id": "160ddde3-81ca-4c17-bfca-02abcd809232"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "48aa96ee-e995-4edb-96e8-bab4b6e86a35",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "f8a73bc1-c74e-4f05-9660-823598262831",
+                "id": "4c49412b-c43b-4fb3-9e65-7df70011312e"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "22a62075-8c67-4f4b-9dc6-8c36fb50884a",
+                    "start": 0,
+                    "end": 18
+                },
+                "value": "8a142ae2-2e80-4505-a0cd-036baa65c86d",
+                "id": "826390ab-3f55-4313-bad6-10c6b8f546af"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b43b4a6b-194f-4653-8920-068d27954821",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "ef969415-92ee-4ace-bada-7a555cbdf541",
+                "id": "23473a26-cebe-4319-bcf0-66887e1e9419"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f59c7f33-aaeb-413a-a8ab-01c8b0faa064",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "96a8821f-c2a7-4b67-bd73-d756e87717bf",
+                "id": "0e7e4bfa-5cab-4f33-8ce0-4b0655e75874"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "2c41696a-b1f6-44e0-9535-04dc9b4cba3e",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "982b6f16-0fbc-4f3f-9264-677f06eb0343",
+                "id": "2d331c9f-5eae-4d0a-950f-59629ad874b4"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d4b737dd-5fb9-4049-ad67-efb3fe862d93",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "28151f83-35ab-4ce0-82a6-6473b48a3be4",
+                "id": "255134bf-1e34-4fdf-a623-2d221d5aeb67"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0251ec75-8f79-4586-bd9a-ce753861330f",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "0a1a8c95-5a04-4d0f-bf21-7261953b846b",
+                "id": "9185787c-ec5d-4321-a123-737e98aaa81a"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c753f037-2f06-489f-a070-ce7f808aa23b",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "14fca7b1-b86f-45ae-9ed4-1b51f5195963",
+                "id": "e66f1a7e-1007-4f2b-b901-272b0ab08113"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "72d88837-6d28-4499-af91-8e506f0c1879",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "63e69fbb-b52d-4722-9a23-ab665547c13e",
+                "id": "3f101cfc-ef47-444d-8fd3-77645ef3adb5"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "06a79ddd-6664-400f-a2af-64d6ed7f7e2e",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "15f95312-a506-4953-8add-458cc57ca926",
+                "id": "f5374213-dc02-4daa-8595-6ac8aaf60737"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a34e0f53-b38c-40b6-9569-41175f86b9f4",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "436c9c8d-ba8b-418e-9a63-9bd351fc87b1",
+                "id": "3f367a90-e2ff-4cb8-9b22-bfe96020e550"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f64daa47-5be6-4499-a149-b184b3615f1b",
+                    "start": 0,
+                    "end": 8
+                },
+                "value": "8a7bb6d2-ef62-4123-bded-f61b4671cddf",
+                "id": "dd999a72-87a2-4a4c-9665-2f803bb11348"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3ed286dd-eeb0-416b-a92b-2e248348d843",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "552593be-71c6-43d9-b3f6-067fd283dc1b",
+                "id": "93c2d084-bd2c-4bed-8931-b7de861766af"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6be911c1-3ea3-44ab-bd92-99db90142883",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "86110419-89f0-472a-9a1e-07af03dfea59",
+                "id": "5530960a-4026-4862-ae47-d2b6cadf446c"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e76fd741-57aa-4407-93ab-6c3b05bcba16",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "6143ff22-0ed3-46c5-bb7f-4ed7e147414a",
+                "id": "205abfcd-5a78-427a-81ac-4aaec213ed41"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1b91b287-d0fd-4a90-ba26-6c0bbee4b1c4",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "f0cd5d39-7941-4988-99bd-f23356deefcc",
+                "id": "c3452c61-2d91-45ca-af40-e7b97b820152"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b178796c-7346-4355-84fb-0262986f72d9",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "b64f76c3-2152-4afb-9a24-0951aed5a08b",
+                "id": "586a823e-2e66-407b-b47f-27a9d4b82c36"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7253f017-4c97-4f32-9c3c-b02ea976a28a",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "0e1c79fa-49aa-4857-9044-30f3aa137a78",
+                "id": "19a42cb1-7d74-4c03-be68-0bab77c8ded0"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "34aaee54-c3c0-4ef0-bd5a-2b55fad218cb",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "55ea3da7-ab7b-46e5-9217-dd740aabd52c",
+                "id": "60ce6e35-fec6-433f-b3ac-01dcfffb4cc9"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c25014ed-8e1c-489a-ab36-61acdf46a61d",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "b13bd4b1-c596-46da-9117-a8ed301a5e18",
+                "id": "ae471f72-f792-44d6-bd56-3862a7e748d7"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1b6af5a4-cfac-4d50-8c86-80b439638a0c",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "9851f341-fb25-4b8a-82b0-4ec64739cce1",
+                "id": "d9dccc8b-0e2b-4eb8-add3-2c799fd26665"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0be11e52-2148-4b3a-a8b2-3be728d23b66",
+                    "start": 0,
+                    "end": 34
+                },
+                "value": "fe81a2dc-0f27-4434-9a88-2e612bb42aff",
+                "id": "a1220184-acc5-4b23-8a5e-749762454613"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3688c22d-6566-4a04-b990-fd6633926e0f",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "c4fad6bb-a6cd-4170-8ba4-718a67dc5036",
+                "id": "2c1a6418-0c41-4f2e-80dc-9940d84e3fb0"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "80f6cf54-b3f3-4538-a2cb-2c53437ac3b2",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "efe82ddc-9d54-4c35-9ab2-e16871a06df2",
+                "id": "bd6728ea-b3ee-4582-9bd3-0e1d4e4899b5"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c310fa37-7044-4643-8112-5a756a9b2407",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "f4f2b090-020e-4cc3-9fe8-49c0fe5a3076",
+                "id": "635c508b-60f9-4c18-96ca-bec7e5373812"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "19bafebb-3727-4cd0-b378-756af390e119",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "3fdf22e3-c340-4622-9dda-12cd5dd4ea58",
+                "id": "68caab9a-2a25-4d46-8b50-5254370d867a"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "edf686c7-96ed-4b25-bd30-dab399101d6f",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "db1afcf1-cde0-41ac-a62d-987441abb7c0",
+                "id": "26e2dddb-31ac-4b6b-8222-9293e3263bf2"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "df66e35c-7d33-4875-aa39-17598d3e3b42",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "0386d7f7-1603-4da9-9fc2-1cbe10e463df",
+                "id": "da1ab022-cd4e-4bdc-93f6-b4b496550d26"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b7cdd8ba-0379-4faf-9381-c8bf9173b39e",
+                    "start": 0,
+                    "end": 39
+                },
+                "value": "eeb69533-fe31-4913-9dd5-5c847015b0b7",
+                "id": "e034ef43-3872-430f-8a71-5884b93c6274"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6d41e1ba-0200-4a97-88fb-0f17af7bb280",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "ac18f7c7-8629-45a8-8710-6fd738b50ac7",
+                "id": "573da353-870d-4a98-9408-be186ade2e1a"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "19dedca4-05e1-4a1d-a104-2ed897179693",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "9ccf7f5e-b6c6-489a-b055-636b7bf4e40d",
+                "id": "11adf217-a2ae-4528-8adc-3c8b27407d47"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1837e3d3-4fd7-4773-a974-9d535260171e",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "5d2a87d5-5529-494d-91ac-74d1012076ee",
+                "id": "516e841f-8107-45eb-a8fc-25341ae171b0"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "757b734d-a106-4d26-9036-f61831dbbf1e",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "0b9cf3c3-f1be-4210-a887-585927223e32",
+                "id": "f7e0b406-5007-4842-b05a-aa7da25ca1a3"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "aa28d775-095f-42ec-95e9-c14585dd1712",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "0fb52eab-f71b-42dd-9ff4-681af86233bc",
+                "id": "e12ba86e-dee8-4670-8e23-d14f0f2dc2f5"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "10664f01-b8e0-4ba4-9664-e3b877c4483f",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "5e7b9d14-174b-40ba-a120-2309074306e1",
+                "id": "21378a8f-4ec5-48bf-af3b-af2c5780c26e"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "79cda97e-1832-44ec-8bf5-8837a8cb6980",
+                    "start": 0,
+                    "end": 39
+                },
+                "value": "25b4c8fb-64b3-4fc5-a5ad-a701cd650def",
+                "id": "3a100f43-8f04-4e55-9144-a715f15f1b9e"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a75b595b-be0d-4abd-ba43-e6fca4b34d95",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "362929a4-b0af-4188-89ca-b7a83ba52da2",
+                "id": "50b03ff2-9fd7-43d2-9fa0-b697770d70ea"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7349765a-f866-4631-acbf-36948ccb2157",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "85072fcd-710f-426d-9c95-e19591b78d0b",
+                "id": "6c06d06f-9acb-4fe8-b9b7-1258430d6ea0"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "021efddf-00de-4d02-8e1f-f73f3db07349",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "1a76ae9d-7c68-464c-8784-745fc9999db7",
+                "id": "e9e176cd-6eff-4791-9dca-85bc95ec8e8c"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6a571ea1-0961-4408-a88d-0dac7590ba45",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "2886acb5-39bb-49e4-b76c-1570ef51e964",
+                "id": "963d2b9e-f084-4764-9fbd-ce6720242011"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d6be4277-9bc0-4404-b222-1a5d807f53bc",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "0712f335-498a-4b73-837b-c419b3a8c5ef",
+                "id": "919f5113-6f91-4233-96e7-8defcb065490"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "2dced860-3d85-4e44-9b15-a6db700f1ede",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "dab59537-066f-4448-9297-d45527d358d0",
+                "id": "52c03215-c5c4-4c20-bc40-900aad72c2c0"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7f7350cb-4a99-44f6-bf6f-c65ef9b1d04a",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "a139ee69-23dc-4f97-8bde-929f325d9017",
+                "id": "78f2bc96-39f3-4da9-9fc2-471cc94df65c"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "be33e1ee-1ea3-406c-93f8-00ee63deafeb",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "4d6d3f23-e955-4444-8821-a11e3cf9d552",
+                "id": "397b57c0-15a6-40fc-a3fe-fc99386477e6"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_1.docx",
+        "file_name": "table_1.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 53539,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1737643164,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/2053%2F711f%2Ftable_1.docx",
+        "markers": [],
+        "account": [],
+        "story": "2053711f-6cea-4cd8-b812-259648bd524d"
+    }
+}

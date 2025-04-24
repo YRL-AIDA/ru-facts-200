@@ -1,0 +1,2718 @@
+{
+    "id": "02bdb286-fa1b-4427-b531-1de15fb65892",
+	"VERSION":"1.0",
+    "main_node": "0ea7b732-5bc6-48c2-878e-1326d60f34a9",
+    "content": [
+        {
+            "type": "text",
+            "id": "0ea7b732-5bc6-48c2-878e-1326d60f34a9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "bd1c5e4f-b757-4c5b-8d41-26f19702f188"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "bd1c5e4f-b757-4c5b-8d41-26f19702f188",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "93128445-e937-4c9e-9016-ed537070beae"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "93128445-e937-4c9e-9016-ed537070beae",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d7b10472-845a-4246-9ade-b3f5ff43bf60",
+                "9f480d3c-96a6-4b69-bac1-6aaea5f7d8d4",
+                "9bd4231b-ca6c-4035-bfaa-9b1ebcb8497a",
+                "5c41ae8c-ffe0-4615-9fba-6c9a31ff8600",
+                "66adf919-6a28-46ea-a3da-8fd68b623875",
+                "75b2f889-fb8f-437b-95bf-df6c0db5baf7",
+                "e68ea555-0f61-4e44-b1ff-85a51b6bc192",
+                "5cff0ace-ab05-4a69-a42d-c0210ab447f9",
+                "a7069654-0deb-4ff2-9416-b3bc04fedaf6",
+                "74afa7d6-5feb-48e8-ad4b-c3bb6f6464d6",
+                "1e9f62f3-9188-4a10-9688-4a5c6fc5714e",
+                "ef8162d3-9727-4275-9315-03ee0350a466",
+                "ae3fde40-6da8-4485-9b89-a142b29b5e2a",
+                "6f966ca7-1471-4d93-8fdd-7523a5bd0430",
+                "7f43a8a9-c46a-43a8-a51a-64b9ab1035d0",
+                "d0b6b50e-6410-4591-ac0a-eacc7f9ff8b2",
+                "a1d8efc5-d2eb-4d52-8807-d9622fbb0f19",
+                "d7a178b6-57a0-4885-97ca-559daec87956"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "d7b10472-845a-4246-9ade-b3f5ff43bf60",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "aaf5219c-0954-4983-b137-7df91698d94d",
+                "06179fc4-8dca-4c7b-8122-1cb451c52dbe"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "aaf5219c-0954-4983-b137-7df91698d94d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "751dfddc-a040-4d28-9cb9-816bec5fa726"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "751dfddc-a040-4d28-9cb9-816bec5fa726",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Область",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "06179fc4-8dca-4c7b-8122-1cb451c52dbe",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "863b8610-211b-43e7-9dd6-a80fe6fcfb12"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "863b8610-211b-43e7-9dd6-a80fe6fcfb12",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Административный центр",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "9f480d3c-96a6-4b69-bac1-6aaea5f7d8d4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b459a232-175d-4c1b-a48c-a38fed56046b",
+                "e4c7a249-e1ee-4ffb-b14c-11d3831a796f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b459a232-175d-4c1b-a48c-a38fed56046b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7e576e77-2c36-4050-a702-0255a16a9779"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7e576e77-2c36-4050-a702-0255a16a9779",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Арика-и-Паринакота",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e4c7a249-e1ee-4ffb-b14c-11d3831a796f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ec146a85-1d32-490f-8f18-75817867124a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ec146a85-1d32-490f-8f18-75817867124a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Арика",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "9bd4231b-ca6c-4035-bfaa-9b1ebcb8497a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "3bd2a958-4d2a-4bea-b1b1-f298f67d6852",
+                "fe82b364-0db2-420f-9689-bdac8f740be4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3bd2a958-4d2a-4bea-b1b1-f298f67d6852",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "40ac9b9d-5d11-4c85-b40a-30c2fb7fb90c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "40ac9b9d-5d11-4c85-b40a-30c2fb7fb90c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Тарапака",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fe82b364-0db2-420f-9689-bdac8f740be4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "eb40997e-8713-44bc-a2c7-f878936fa0a7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "eb40997e-8713-44bc-a2c7-f878936fa0a7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Икике",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "5c41ae8c-ffe0-4615-9fba-6c9a31ff8600",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "6b0b01e5-0f10-4fbf-a470-9524fa9ee64a",
+                "e23b3385-38a2-4c3a-b19e-547adf6bfbd6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6b0b01e5-0f10-4fbf-a470-9524fa9ee64a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "938b0025-342d-4bdc-89f3-42a7ceed8a9f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "938b0025-342d-4bdc-89f3-42a7ceed8a9f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Антофагаста",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e23b3385-38a2-4c3a-b19e-547adf6bfbd6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3ab31245-4343-4340-854f-96aff26ed88d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3ab31245-4343-4340-854f-96aff26ed88d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Антофагаста",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "66adf919-6a28-46ea-a3da-8fd68b623875",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "170fce45-c601-4eeb-8ca7-62fd9d232a8c",
+                "3f3fccb7-98d0-4787-8f29-ee93e4aff332"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "170fce45-c601-4eeb-8ca7-62fd9d232a8c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5a7b6b79-fc38-4100-9e78-bfc54c1d0d5e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5a7b6b79-fc38-4100-9e78-bfc54c1d0d5e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Атакама",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3f3fccb7-98d0-4787-8f29-ee93e4aff332",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "03fabc75-3fe4-4a2d-a529-3c6445172bcc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "03fabc75-3fe4-4a2d-a529-3c6445172bcc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Копьяпо",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "75b2f889-fb8f-437b-95bf-df6c0db5baf7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d99ef9bd-12e1-491d-8fd3-d58e0f88ca20",
+                "62cc83d1-5d66-4190-bd08-085ba8e20bfd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d99ef9bd-12e1-491d-8fd3-d58e0f88ca20",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "dfc76651-959a-4ac9-afae-7e017814227c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "dfc76651-959a-4ac9-afae-7e017814227c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кокимбо",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "62cc83d1-5d66-4190-bd08-085ba8e20bfd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b2b76404-049e-4d29-a837-c4496e588cc2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b2b76404-049e-4d29-a837-c4496e588cc2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Ла-Серена",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "e68ea555-0f61-4e44-b1ff-85a51b6bc192",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d1286422-f40b-43fb-8736-6df3aecdef2b",
+                "b3d46d4e-5ba7-4175-ab6f-422d3706e400"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d1286422-f40b-43fb-8736-6df3aecdef2b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d5511694-ff9b-4fb0-9ba2-111fdc1bbfac"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d5511694-ff9b-4fb0-9ba2-111fdc1bbfac",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Вальпараисо",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b3d46d4e-5ba7-4175-ab6f-422d3706e400",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4669b8c1-19cf-43d0-aed0-c2d9b74fbb8a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4669b8c1-19cf-43d0-aed0-c2d9b74fbb8a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Вальпараисо",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "5cff0ace-ab05-4a69-a42d-c0210ab447f9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "a04f6ba9-89b5-46ee-beb1-2c1bbcc106a0",
+                "f09672d8-0cbb-4c26-93e4-25b51a1571e9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a04f6ba9-89b5-46ee-beb1-2c1bbcc106a0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "28e69781-97ae-4417-adb5-9586ae3119c9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "28e69781-97ae-4417-adb5-9586ae3119c9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Либертадор-Хенераль-Бернардо-О’Хиггинс",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f09672d8-0cbb-4c26-93e4-25b51a1571e9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "59f792dd-efce-435f-aecb-1636cf9b2e64"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "59f792dd-efce-435f-aecb-1636cf9b2e64",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Ранкагуа",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "a7069654-0deb-4ff2-9416-b3bc04fedaf6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "98e99e8b-1675-4591-96a9-e95d4f3f97c4",
+                "5b882c0b-c85d-43eb-8b10-b5845e1b57c6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "98e99e8b-1675-4591-96a9-e95d4f3f97c4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c63ba454-253e-499b-ae04-6dd3d872eb93"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c63ba454-253e-499b-ae04-6dd3d872eb93",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Мауле",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5b882c0b-c85d-43eb-8b10-b5845e1b57c6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "038cdee8-4b49-4825-ab4a-c328727b3dee"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "038cdee8-4b49-4825-ab4a-c328727b3dee",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Талька",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "74afa7d6-5feb-48e8-ad4b-c3bb6f6464d6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0cc31b01-a89a-46d7-9f42-511ed0c4263b",
+                "f125f1af-68fc-4914-b673-81080422e0c0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0cc31b01-a89a-46d7-9f42-511ed0c4263b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e3eff3c6-8bee-4411-b236-7f9d94b00ddd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e3eff3c6-8bee-4411-b236-7f9d94b00ddd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Ньюбле",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f125f1af-68fc-4914-b673-81080422e0c0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "64ac55ae-9483-41d4-9f3e-e4be27657ddd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "64ac55ae-9483-41d4-9f3e-e4be27657ddd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Чильян",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "1e9f62f3-9188-4a10-9688-4a5c6fc5714e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "cc13ad9d-5b28-474e-870d-a15043aaf77c",
+                "9d36a5cf-8484-44a8-ac98-7ee254f3b1d3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cc13ad9d-5b28-474e-870d-a15043aaf77c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ba8748fb-5cf4-4164-bdfd-ba037f6915e0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ba8748fb-5cf4-4164-bdfd-ba037f6915e0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Био-Био",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9d36a5cf-8484-44a8-ac98-7ee254f3b1d3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "54782251-e6f9-4446-8514-b994201c6f54"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "54782251-e6f9-4446-8514-b994201c6f54",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Консепсьон",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "ef8162d3-9727-4275-9315-03ee0350a466",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "05c926d5-5ea1-4f47-8d8e-7efb86f511de",
+                "9c1e7a0a-c98c-41f3-81b1-07a028d0b425"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "05c926d5-5ea1-4f47-8d8e-7efb86f511de",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cb2db707-c3f8-4123-8bea-8eacf9a97ca3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cb2db707-c3f8-4123-8bea-8eacf9a97ca3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Араукания",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9c1e7a0a-c98c-41f3-81b1-07a028d0b425",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "93720a11-fd2f-4dc1-b96d-eface27f41b7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "93720a11-fd2f-4dc1-b96d-eface27f41b7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Темуко",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "ae3fde40-6da8-4485-9b89-a142b29b5e2a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "88396ce6-db15-4a0d-8952-f51f6ff08926",
+                "e411682a-bb76-4019-b95c-ac9781646776"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "88396ce6-db15-4a0d-8952-f51f6ff08926",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6d0cb564-df29-49c1-894d-81680704179e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6d0cb564-df29-49c1-894d-81680704179e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Лос-Риос",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e411682a-bb76-4019-b95c-ac9781646776",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8e147a4c-6c3b-48bf-b917-7d4636d5a638"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8e147a4c-6c3b-48bf-b917-7d4636d5a638",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Вальдивия",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "6f966ca7-1471-4d93-8fdd-7523a5bd0430",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d35ab5b5-88a4-4e2f-8338-5a455143cddf",
+                "acaf3654-2d33-42ad-b7bd-37652d0ca975"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d35ab5b5-88a4-4e2f-8338-5a455143cddf",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d8dde8d1-060b-4dd8-8705-1778173a2593"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d8dde8d1-060b-4dd8-8705-1778173a2593",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Лос-Лагос",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "acaf3654-2d33-42ad-b7bd-37652d0ca975",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d76956d7-ee1f-430e-8f9e-1f5a9943b26a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d76956d7-ee1f-430e-8f9e-1f5a9943b26a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Пуэрто-Монт",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "7f43a8a9-c46a-43a8-a51a-64b9ab1035d0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "fc506bb1-8332-4963-b3d5-9b7aead3fc84",
+                "1363941a-3285-4735-887b-262daf56173c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fc506bb1-8332-4963-b3d5-9b7aead3fc84",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f27f2069-389f-4001-ba4e-def72534d8ca"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f27f2069-389f-4001-ba4e-def72534d8ca",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Айсен-дель-Хенераль-Карлос-Ибаньес-дель-Кампо",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1363941a-3285-4735-887b-262daf56173c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c74daff5-539e-4164-a03f-f32330a88a6a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c74daff5-539e-4164-a03f-f32330a88a6a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Койайке",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "d0b6b50e-6410-4591-ac0a-eacc7f9ff8b2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "56f5f70f-52e8-4850-bd6b-4cf6c9d0d244",
+                "b07067ec-6f99-4e7e-b969-be13e4a45f7e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "56f5f70f-52e8-4850-bd6b-4cf6c9d0d244",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "27c971be-8aae-4b98-bbd4-c786514c06ba"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "27c971be-8aae-4b98-bbd4-c786514c06ba",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Магальянес-и-ла-Антарктика-Чилена",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b07067ec-6f99-4e7e-b969-be13e4a45f7e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e756b473-c825-481e-9b25-c2da76b20d83"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e756b473-c825-481e-9b25-c2da76b20d83",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Пунта-Аренас",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "a1d8efc5-d2eb-4d52-8807-d9622fbb0f19",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "01cc82fd-5831-429b-9aad-e900cbfebaa4",
+                "13ef61cf-3a04-4988-b4a9-f213e410e52f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "01cc82fd-5831-429b-9aad-e900cbfebaa4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3d374a7c-98d3-46f3-83f3-2f075be75668"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3d374a7c-98d3-46f3-83f3-2f075be75668",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Столичная область",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "13ef61cf-3a04-4988-b4a9-f213e410e52f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "eb9d8318-5fba-41ef-8fd1-e89c805cb7c1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "eb9d8318-5fba-41ef-8fd1-e89c805cb7c1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Сантьяго",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "d7a178b6-57a0-4885-97ca-559daec87956",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "32f72c81-3c37-4a44-99b3-93c4d79b22d9",
+                "896eab3e-72a9-498e-952f-90381afaeb3c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "32f72c81-3c37-4a44-99b3-93c4d79b22d9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "138f8305-0ba1-4b6f-b0c4-421a100f8744"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "138f8305-0ba1-4b6f-b0c4-421a100f8744",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Ньюбле",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "896eab3e-72a9-498e-952f-90381afaeb3c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2f2c952f-128e-49fe-8cfe-fb2c5e611261"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2f2c952f-128e-49fe-8cfe-fb2c5e611261",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Чильян",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d8e9-73ef-8f33-8a594e4a9da9"
+                    }
+                ],
+                "id": "28c4ab09-3e69-4180-bc39-c3f882c10f56"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d594-7c62-95cf-fa9310f32cb6"
+                    }
+                ],
+                "id": "e344b5b6-574a-45b6-95a8-98799db2342f"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-e000-7519-8aee-5712d7995136"
+                    }
+                ],
+                "id": "c2eab1f2-c239-4f7a-a7ea-69ac8e4d8982"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d79b-782c-a1aa-722af3fa41e2"
+                    }
+                ],
+                "id": "7cbdd022-ea85-4368-a67b-e4907a8714ee"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-e0ca-717e-95f1-2d3767d1aff0"
+                    }
+                ],
+                "id": "2c2ccae9-ee31-4278-8932-229b68cd7a81"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d752-7758-a7bf-7fbebc17c5f8"
+                    }
+                ],
+                "id": "957e0835-6be2-4ef1-955a-7786c7106c3c"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "ОК-83514776"
+                    }
+                ],
+                "id": "af10eaa9-4073-4fcb-844d-a5e138b29968"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d5d0-7eb8-a63b-d7d3fe1f903e"
+                    }
+                ],
+                "id": "7a48086c-ab4d-421f-85cd-4e86391ea380"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d617-7f63-a73c-d41adb6d9fad"
+                    }
+                ],
+                "id": "0281d518-880a-4cfc-807f-25269faf7ddf"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-dda8-7828-8061-c4e9882b147b"
+                    }
+                ],
+                "id": "c3a5ed6f-e39f-46ba-9132-3d0a2451e4bd"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-e162-7312-8b70-88f6d4bf22c0"
+                    }
+                ],
+                "id": "4c1cacca-a5b6-4679-9459-95738c51e972"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-e122-7b38-b476-eb08677456f0"
+                    }
+                ],
+                "id": "75a2718e-b54e-451e-bc9c-0baed02286a9"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d549-71e0-a89c-7f7c5fd9d401"
+                    }
+                ],
+                "id": "6de83505-f401-4761-8d8a-350657942ccc"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-df6c-7a1b-a4ae-61c2564230a5"
+                    }
+                ],
+                "id": "ce31b38c-e83a-4433-8806-0b02d7330496"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-e092-701a-92cc-cdb63dcf4426"
+                    }
+                ],
+                "id": "d28218d6-e342-4f69-8b64-6e5eb8755644"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d651-74ce-a935-5369ec34d41a"
+                    }
+                ],
+                "id": "b54baed9-19d7-429b-9aec-9b381ae5f5b1"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-dc4b-7201-befe-3a7f5cc3a578"
+                    }
+                ],
+                "id": "f0f7ebea-685f-4145-853f-31cbcabdd452"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-dedf-72f7-bb77-908001762f2f"
+                    }
+                ],
+                "id": "eba154f7-e676-456c-8e93-b54e9d8f21a5"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-de27-74bc-9587-c47ccac4be95"
+                    }
+                ],
+                "id": "564bbd61-5457-46fc-b92b-608b4c8e8334"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-de59-77f6-bb1a-ec047fd4710f"
+                    }
+                ],
+                "id": "a317a0b6-94a1-412a-a568-1ef005d0e726"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-dfba-7a70-9add-3486872b085b"
+                    }
+                ],
+                "id": "880fe392-c8dd-4cc4-9b2b-809dd6512b5e"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-dcf8-720c-9fd4-1cdd845e36fc"
+                    }
+                ],
+                "id": "40aebd3b-9bb9-489e-b358-d16cb29357ee"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d7f7-709e-8d4b-20b04aaa7c41"
+                    }
+                ],
+                "id": "6727f4f6-e807-4bd4-bdbc-d4d8df6949e1"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-dd70-7e39-8efb-dd7fb2950ace"
+                    }
+                ],
+                "id": "21bb7c97-f56e-4c6a-b00e-c6b87d9d0d98"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d6cf-7c84-838c-c7986128f174"
+                    }
+                ],
+                "id": "23ddb368-3d23-457e-a0e8-56ed900ebc1d"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d868-78e3-8a72-d61dab7f7a24"
+                    }
+                ],
+                "id": "040b1cd3-c623-4d42-a8be-9fb508bd9e67"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-df29-71ee-801f-a560f57ab746"
+                    }
+                ],
+                "id": "8830cafe-6f80-43d8-97b2-acf9b400ef5b"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-dcc2-7b8e-ac44-8608fc17e53b"
+                    }
+                ],
+                "id": "5b2313b8-436c-45a6-8f22-0bfe300f1331"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-dc83-7a69-b928-4fdde9a82967"
+                    }
+                ],
+                "id": "a5664432-95cc-4f09-a3c6-c2b70642044a"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "01956956-d71c-72f1-b8c0-3efb35ec3436"
+                    }
+                ],
+                "id": "7f47947b-0565-4dd3-a009-2092fca605b3"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-83514921"
+                },
+                "id": "02bdb286-fa1b-4427-b531-1de15fb65892"
+            }
+        ],
+        "atom": [
+            {
+                "id": "a46412dc-eb3d-4dee-9330-45c861ce872b",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Антофагаста"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "0e57d101-2179-4c9f-a5c0-7408b6f79932",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Атакама"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "42e4c443-cd9f-430e-965f-c6a5d55c1eee",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Ранкагуа"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "48b31977-37c4-490e-81f5-1f6757290a64",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Сантьяго"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "dd30a559-bfec-4d4f-8b0c-56fec02aa78b",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Копьяпо"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "b3bdc431-9bd3-415c-bf44-3f39ab9345ee",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Темуко"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "5fee4ea0-d42d-4896-828e-a133cca09084",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Пунта-Аренас"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "b4d00bc8-21f6-4042-998e-c5f4be370e5a",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Вальдивия"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "1628049b-eb11-4d5b-ab8b-9494a5ea7c48",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Пуэрто-Монт"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "18dc1e7e-ebd7-4314-adb5-c1554f1865aa",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Икике"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "e48f2a6e-0c6e-4826-a1bf-2178e38efe31",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Чильян"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "82307f18-11db-454d-a77e-9b3fff204005",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Консепсьон"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "53830b5a-7e3e-4c89-a9e7-e8a8140a8ec3",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Арика"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "6956af6b-e497-4d46-8a28-93da4d57c4c2",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Койайке"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "d7210591-af4e-4cf2-aba3-559c668d6208",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Арика-и-Паринакота"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "26962527-6960-4e6f-8d26-aa53a318c1c2",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Лос-Риос"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "3299ec4c-a3fe-41c4-a96f-56664773a464",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Тарапака"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "dbc078df-947b-4e34-85dd-5e7794a2a68e",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Вальпараисо"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "03239039-e2ed-4949-a51a-181b5859f2cb",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Столичная область"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "d7534eec-ad5e-40d1-8765-720f430d4a41",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Кокимбо"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "915878a9-8a56-4b1b-8286-dfb1081bdeeb",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Лос-Лагос"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "e70af7a1-24af-4061-af53-4aaafe7d774b",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Мауле"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "b200c2a9-3631-47ef-b113-9235d50e0b39",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Айсен-дель-Хенераль-Карлос-Ибаньес-дель-Кампо"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "ee3f4955-b086-4119-8e6f-c0f9cf126a19",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Ньюбле"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "02913c7f-85a4-45e7-902a-92965a8eeeb9",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Био-Био"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "0f47161c-10c5-45a3-adf4-06a2d001226c",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Магальянес-и-ла-Антарктика-Чилена"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "1366188a-0190-48ec-a37f-5b85e3ddf749",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Талька"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "9f87078e-49a2-460f-8205-fd94978c278f",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Араукания"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "33699757-4692-4796-a988-259515681cd1",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Ла-Серена"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "d02facbf-eeb8-4642-91dc-b0f7418e19da",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Либертадор-Хенераль-Бернардо-О’Хиггинс"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "3c740677-f15d-42da-8cb5-c24e08c84d6b",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1b5063b5-a796-428f-aa58-8767487c3d90",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741229048
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d613ab64-c50c-4a7d-a310-0aabfb422648",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 50906
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9e819df1-2779-4cfe-8229-a89e79c66e05",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741229048
+                },
+                "status": "approved"
+            },
+            {
+                "id": "53ccabb9-66ab-4c8e-82d9-52efd555114f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_14.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "736d9ab9-c88f-4ce0-89a7-2972c5a51713",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e9d0e656-23dd-460b-911c-8612619a5bd0",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d48c5223-c717-4447-8cf6-8c771ef0ea1b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_14.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c9aa5e1a-e799-4f87-8d89-485a060d1bf9",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3357"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "58b5be63-5d29-4e52-ba80-39190c3d22c0",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741229048
+                },
+                "status": "approved"
+            },
+            {
+                "id": "49ff852e-78c3-4b2d-8560-9b7177ba6fe0",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/02bd/b286/table_14.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a14a3ee6-21b5-4c36-9dc5-0e59d856f9e2",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83514998",
+                "id": "2271d7f8-7b64-4eba-83d0-63011671e29a",
+                "source": "564bbd61-5457-46fc-b92b-608b4c8e8334",
+                "target": "af10eaa9-4073-4fcb-844d-a5e138b29968"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83514999",
+                "id": "1b147f8d-8a0a-4a52-bdee-fe0b7e0082ee",
+                "source": "40aebd3b-9bb9-489e-b358-d16cb29357ee",
+                "target": "e344b5b6-574a-45b6-95a8-98799db2342f"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515000",
+                "id": "20b10543-256f-4ff7-8ec7-80f0af415331",
+                "source": "f0f7ebea-685f-4145-853f-31cbcabdd452",
+                "target": "0281d518-880a-4cfc-807f-25269faf7ddf"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515001",
+                "id": "7c50b378-429a-489f-9097-4979b9c781f3",
+                "source": "a317a0b6-94a1-412a-a568-1ef005d0e726",
+                "target": "040b1cd3-c623-4d42-a8be-9fb508bd9e67"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515002",
+                "id": "c0027f1e-6cd2-44a0-94f8-6ee8629d287e",
+                "source": "7cbdd022-ea85-4368-a67b-e4907a8714ee",
+                "target": "2c2ccae9-ee31-4278-8932-229b68cd7a81"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515003",
+                "id": "7e10ea0a-2555-4ad4-996f-acc750358e18",
+                "source": "23ddb368-3d23-457e-a0e8-56ed900ebc1d",
+                "target": "957e0835-6be2-4ef1-955a-7786c7106c3c"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515004",
+                "id": "2f5bd3a6-9e54-4771-b89a-e9cb65132573",
+                "source": "28c4ab09-3e69-4180-bc39-c3f882c10f56",
+                "target": "75a2718e-b54e-451e-bc9c-0baed02286a9"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515005",
+                "id": "5aadb92a-e958-44e2-8eb9-56209f770ded",
+                "source": "eba154f7-e676-456c-8e93-b54e9d8f21a5",
+                "target": "4c1cacca-a5b6-4679-9459-95738c51e972"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515006",
+                "id": "618e41d6-215d-4788-9fb1-b7db68e69563",
+                "source": "c2eab1f2-c239-4f7a-a7ea-69ac8e4d8982",
+                "target": "c2eab1f2-c239-4f7a-a7ea-69ac8e4d8982"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515007",
+                "id": "cc40336c-9884-48c3-a9b9-f3a3db5dffee",
+                "source": "7f47947b-0565-4dd3-a009-2092fca605b3",
+                "target": "7f47947b-0565-4dd3-a009-2092fca605b3"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515008",
+                "id": "1d6d8db5-f088-442a-bb5a-369775c3abac",
+                "source": "880fe392-c8dd-4cc4-9b2b-809dd6512b5e",
+                "target": "ce31b38c-e83a-4433-8806-0b02d7330496"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515009",
+                "id": "c0ff7aa5-9fc5-406d-8f97-31e7fd5a5dca",
+                "source": "5b2313b8-436c-45a6-8f22-0bfe300f1331",
+                "target": "7a48086c-ab4d-421f-85cd-4e86391ea380"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515010",
+                "id": "76f877a2-ad68-42bc-8e25-703c85e3cc45",
+                "source": "b54baed9-19d7-429b-9aec-9b381ae5f5b1",
+                "target": "6de83505-f401-4761-8d8a-350657942ccc"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83515011",
+                "id": "dd7cbf5d-12ba-447a-bddb-6ad553354bd9",
+                "source": "d28218d6-e342-4f69-8b64-6e5eb8755644",
+                "target": "c3a5ed6f-e39f-46ba-9132-3d0a2451e4bd"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83514996",
+                "id": "4fa66e21-15b0-402c-b1a1-9da734059a13",
+                "source": "6727f4f6-e807-4bd4-bdbc-d4d8df6949e1",
+                "target": "a5664432-95cc-4f09-a3c6-c2b70642044a"
+            },
+            {
+                "status": "new",
+                "type_id": "22766",
+                "value": "ОК-83514997",
+                "id": "d821bd09-caec-4e0b-b9a3-087cda7a2078",
+                "source": "8830cafe-6f80-43d8-97b2-acf9b400ef5b",
+                "target": "21bb7c97-f56e-4c6a-b00e-c6b87d9d0d98"
+            }
+        ],
+        "property": [
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514938",
+                "id": "709ec474-10c9-4b85-b20e-a55730ff4ebb",
+                "source": "957e0835-6be2-4ef1-955a-7786c7106c3c",
+                "target": "b3bdc431-9bd3-415c-bf44-3f39ab9345ee"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514991",
+                "id": "0d9060b1-0032-46f8-8716-5016434e40c1",
+                "source": "40aebd3b-9bb9-489e-b358-d16cb29357ee",
+                "target": "e70af7a1-24af-4061-af53-4aaafe7d774b"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514981",
+                "id": "a75e00b5-4cbe-4be7-93aa-78881f1a217c",
+                "source": "7cbdd022-ea85-4368-a67b-e4907a8714ee",
+                "target": "0e57d101-2179-4c9f-a5c0-7408b6f79932"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514944",
+                "id": "e4926156-e1ae-4c8c-a85e-42f3ceef33ca",
+                "source": "0281d518-880a-4cfc-807f-25269faf7ddf",
+                "target": "53830b5a-7e3e-4c89-a9e7-e8a8140a8ec3"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514963",
+                "id": "09dc9d20-e866-4654-8b9b-118253236065",
+                "source": "c3a5ed6f-e39f-46ba-9132-3d0a2451e4bd",
+                "target": "82307f18-11db-454d-a77e-9b3fff204005"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514979",
+                "id": "4c884c76-c0d8-459f-b93f-e07dbfb9d33f",
+                "source": "6de83505-f401-4761-8d8a-350657942ccc",
+                "target": "e48f2a6e-0c6e-4826-a1bf-2178e38efe31"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514959",
+                "id": "ea25b43f-f581-40b0-a3f7-662529fd63c3",
+                "source": "2c2ccae9-ee31-4278-8932-229b68cd7a81",
+                "target": "dd30a559-bfec-4d4f-8b0c-56fec02aa78b"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514961",
+                "id": "18b7de0e-e2e9-4e6f-b4e1-29eba2e813e8",
+                "source": "eba154f7-e676-456c-8e93-b54e9d8f21a5",
+                "target": "26962527-6960-4e6f-8d26-aa53a318c1c2"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514975",
+                "id": "39981720-b3f8-44ff-8e2c-c6592091e4e3",
+                "source": "75a2718e-b54e-451e-bc9c-0baed02286a9",
+                "target": "5fee4ea0-d42d-4896-828e-a133cca09084"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514985",
+                "id": "291da289-1caf-4bab-8552-4a4c75bc9030",
+                "source": "a317a0b6-94a1-412a-a568-1ef005d0e726",
+                "target": "d7534eec-ad5e-40d1-8765-720f430d4a41"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514948",
+                "id": "afa666c4-d597-49f1-8cb5-4ba8f1ee9b82",
+                "source": "b54baed9-19d7-429b-9aec-9b381ae5f5b1",
+                "target": "ee3f4955-b086-4119-8e6f-c0f9cf126a19"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514967",
+                "id": "4a4c66b8-50b4-4ab4-ac8c-ac924cdfd4b7",
+                "source": "23ddb368-3d23-457e-a0e8-56ed900ebc1d",
+                "target": "9f87078e-49a2-460f-8205-fd94978c278f"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514957",
+                "id": "c1805c26-2e56-44f9-81f6-a207b048f669",
+                "source": "af10eaa9-4073-4fcb-844d-a5e138b29968",
+                "target": "48b31977-37c4-490e-81f5-1f6757290a64"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514956",
+                "id": "1ba16219-ffb2-4f5f-97f8-44159e476d94",
+                "source": "f0f7ebea-685f-4145-853f-31cbcabdd452",
+                "target": "d7210591-af4e-4cf2-aba3-559c668d6208"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514954",
+                "id": "44230b69-a2dc-4b52-91fe-c8af1ab582a5",
+                "source": "21bb7c97-f56e-4c6a-b00e-c6b87d9d0d98",
+                "target": "42e4c443-cd9f-430e-965f-c6a5d55c1eee"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514995",
+                "id": "807e873c-3ede-4375-903a-c5b8db1d25b8",
+                "source": "6727f4f6-e807-4bd4-bdbc-d4d8df6949e1",
+                "target": "b200c2a9-3631-47ef-b113-9235d50e0b39"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514946",
+                "id": "6b2a88b7-a670-448c-bc6f-4e432ffd267a",
+                "source": "d28218d6-e342-4f69-8b64-6e5eb8755644",
+                "target": "02913c7f-85a4-45e7-902a-92965a8eeeb9"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514983",
+                "id": "80209a69-8f58-485f-91dd-1baa3e4d59c2",
+                "source": "564bbd61-5457-46fc-b92b-608b4c8e8334",
+                "target": "03239039-e2ed-4949-a51a-181b5859f2cb"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514969",
+                "id": "afa4811c-b65f-44fc-ba3f-58d429787f6d",
+                "source": "4c1cacca-a5b6-4679-9459-95738c51e972",
+                "target": "b4d00bc8-21f6-4042-998e-c5f4be370e5a"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514987",
+                "id": "87ba90a0-bb74-49db-9140-10a9ab66cfe5",
+                "source": "880fe392-c8dd-4cc4-9b2b-809dd6512b5e",
+                "target": "915878a9-8a56-4b1b-8286-dfb1081bdeeb"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514989",
+                "id": "9abc4558-597c-4956-9855-3f9cf0494898",
+                "source": "ce31b38c-e83a-4433-8806-0b02d7330496",
+                "target": "1628049b-eb11-4d5b-ab8b-9494a5ea7c48"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514952",
+                "id": "03bd7fc1-9033-4da8-b991-900e43c02169",
+                "source": "28c4ab09-3e69-4180-bc39-c3f882c10f56",
+                "target": "0f47161c-10c5-45a3-adf4-06a2d001226c"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514973",
+                "id": "d830dca1-15c6-40f3-a4ce-4122a430a76f",
+                "source": "8830cafe-6f80-43d8-97b2-acf9b400ef5b",
+                "target": "d02facbf-eeb8-4642-91dc-b0f7418e19da"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514965",
+                "id": "6e67ae00-55ea-45b5-94f3-26bde7b51261",
+                "source": "5b2313b8-436c-45a6-8f22-0bfe300f1331",
+                "target": "3299ec4c-a3fe-41c4-a96f-56664773a464"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514940",
+                "id": "9ce3aac6-1e23-4f5f-9a04-958bc01260f0",
+                "source": "c2eab1f2-c239-4f7a-a7ea-69ac8e4d8982",
+                "target": "a46412dc-eb3d-4dee-9330-45c861ce872b"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514950",
+                "id": "f49e9e48-c7ed-4b76-84d8-ed7c0373e559",
+                "source": "a5664432-95cc-4f09-a3c6-c2b70642044a",
+                "target": "6956af6b-e497-4d46-8a28-93da4d57c4c2"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514993",
+                "id": "d59760ad-8b86-41ad-a7b7-8a1d60176bad",
+                "source": "e344b5b6-574a-45b6-95a8-98799db2342f",
+                "target": "1366188a-0190-48ec-a37f-5b85e3ddf749"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514942",
+                "id": "78a3dce7-2647-4488-927e-b3bb4d8b3004",
+                "source": "7a48086c-ab4d-421f-85cd-4e86391ea380",
+                "target": "18dc1e7e-ebd7-4314-adb5-c1554f1865aa"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514977",
+                "id": "f4140599-4ebc-4c23-ba3d-b05f2de61e68",
+                "source": "7f47947b-0565-4dd3-a009-2092fca605b3",
+                "target": "dbc078df-947b-4e34-85dd-5e7794a2a68e"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83514971",
+                "id": "6ec9e63d-36a3-417b-a893-6dede1a62045",
+                "source": "040b1cd3-c623-4d42-a8be-9fb508bd9e67",
+                "target": "33699757-4692-4796-a988-259515681cd1"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-83514925",
+                "id": "22a7508b-6023-42ce-988f-97faadb1de64",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "3c740677-f15d-42da-8cb5-c24e08c84d6b"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-83514926",
+                "id": "0ff9db63-9df0-416d-9bbc-3a73913a195b",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "1b5063b5-a796-428f-aa58-8767487c3d90"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-83514927",
+                "id": "f3ea7d28-0553-470e-9a0d-c45091a8325a",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "d613ab64-c50c-4a7d-a310-0aabfb422648"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-83514928",
+                "id": "5005a46a-6eaf-4006-ac46-9db240dc2497",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "9e819df1-2779-4cfe-8229-a89e79c66e05"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-83514929",
+                "id": "3b2258d8-a8bd-4c11-8de7-e1c34304cb86",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "53ccabb9-66ab-4c8e-82d9-52efd555114f"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-83514930",
+                "id": "7d341ecb-cd6c-4527-a411-c592b926bfc7",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "736d9ab9-c88f-4ce0-89a7-2972c5a51713"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-83514931",
+                "id": "211bf008-4b3c-44e3-8ab4-31ad787f37ea",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "e9d0e656-23dd-460b-911c-8612619a5bd0"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-83514932",
+                "id": "fcbe3087-8a15-48f7-95df-d90037decd15",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "d48c5223-c717-4447-8cf6-8c771ef0ea1b"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-83514933",
+                "id": "fe51267b-d77c-4aab-b8af-611a31ae1945",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "c9aa5e1a-e799-4f87-8d89-485a060d1bf9"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-83514934",
+                "id": "054a48f5-c43c-45e4-a1ac-fb4edc91e876",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "58b5be63-5d29-4e52-ba80-39190c3d22c0"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-83514935",
+                "id": "71c345e7-1866-4900-af3b-683c3f105e53",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "49ff852e-78c3-4b2d-8560-9b7177ba6fe0"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-83514936",
+                "id": "e7bc2a8b-88c5-42ee-bd9b-032a4ad8c6f2",
+                "source": "02bdb286-fa1b-4427-b531-1de15fb65892",
+                "target": "a14a3ee6-21b5-4c36-9dc5-0e59d856f9e2"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f27f2069-389f-4001-ba4e-def72534d8ca",
+                    "start": 0,
+                    "end": 45
+                },
+                "value": "b200c2a9-3631-47ef-b113-9235d50e0b39",
+                "id": "8b5dc76f-1cb0-441a-b4af-024a4e55bff9"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "28e69781-97ae-4417-adb5-9586ae3119c9",
+                    "start": 0,
+                    "end": 38
+                },
+                "value": "d02facbf-eeb8-4642-91dc-b0f7418e19da",
+                "id": "7491973e-84a6-4bac-9127-3a99dc71f459"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3d374a7c-98d3-46f3-83f3-2f075be75668",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "03239039-e2ed-4949-a51a-181b5859f2cb",
+                "id": "a2440277-0e46-44c1-9cd2-f4a172668b6b"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c63ba454-253e-499b-ae04-6dd3d872eb93",
+                    "start": 0,
+                    "end": 5
+                },
+                "value": "e70af7a1-24af-4061-af53-4aaafe7d774b",
+                "id": "59228f40-dff5-4302-98b4-8f55ce28bbaa"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7e576e77-2c36-4050-a702-0255a16a9779",
+                    "start": 0,
+                    "end": 18
+                },
+                "value": "d7210591-af4e-4cf2-aba3-559c668d6208",
+                "id": "94bd7c5a-f415-4d30-bc5a-2f5d07ce3746"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "dfc76651-959a-4ac9-afae-7e017814227c",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "d7534eec-ad5e-40d1-8765-720f430d4a41",
+                "id": "0a208402-e3f9-486b-b908-fea32a4f17f0"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "5a7b6b79-fc38-4100-9e78-bfc54c1d0d5e",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "0e57d101-2179-4c9f-a5c0-7408b6f79932",
+                "id": "6cef48d1-a395-4eaf-a1ad-c6d4ecefb0c0"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cb2db707-c3f8-4123-8bea-8eacf9a97ca3",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "9f87078e-49a2-460f-8205-fd94978c278f",
+                "id": "b3d41aa6-93a7-4fa9-88e5-9c0ca508135f"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "27c971be-8aae-4b98-bbd4-c786514c06ba",
+                    "start": 0,
+                    "end": 33
+                },
+                "value": "0f47161c-10c5-45a3-adf4-06a2d001226c",
+                "id": "058efe2a-0ac2-4084-bf35-853109b3fb87"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6d0cb564-df29-49c1-894d-81680704179e",
+                    "start": 0,
+                    "end": 8
+                },
+                "value": "26962527-6960-4e6f-8d26-aa53a318c1c2",
+                "id": "65869d69-20f5-4106-831b-373345bc0eed"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "938b0025-342d-4bdc-89f3-42a7ceed8a9f",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "a46412dc-eb3d-4dee-9330-45c861ce872b",
+                "id": "d3bde262-5915-4ad5-b9be-fed7b1ad967a"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3ab31245-4343-4340-854f-96aff26ed88d",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "a46412dc-eb3d-4dee-9330-45c861ce872b",
+                "id": "c053cccc-403c-482a-9454-672f2dd567d1"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4669b8c1-19cf-43d0-aed0-c2d9b74fbb8a",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "dbc078df-947b-4e34-85dd-5e7794a2a68e",
+                "id": "76c5af60-4132-4e4b-ad5e-9175d0f49b7e"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d5511694-ff9b-4fb0-9ba2-111fdc1bbfac",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "dbc078df-947b-4e34-85dd-5e7794a2a68e",
+                "id": "8f2b976e-938b-46db-b66c-2b9cd233138e"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d8dde8d1-060b-4dd8-8705-1778173a2593",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "915878a9-8a56-4b1b-8286-dfb1081bdeeb",
+                "id": "01772a11-7829-4f55-98fc-dc188b62230c"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "40ac9b9d-5d11-4c85-b40a-30c2fb7fb90c",
+                    "start": 0,
+                    "end": 8
+                },
+                "value": "3299ec4c-a3fe-41c4-a96f-56664773a464",
+                "id": "17b53305-b001-4e50-bdd2-6c37257b294d"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "138f8305-0ba1-4b6f-b0c4-421a100f8744",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "ee3f4955-b086-4119-8e6f-c0f9cf126a19",
+                "id": "3dcf2ebf-d08f-4895-95f7-eac26eae924d"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e3eff3c6-8bee-4411-b236-7f9d94b00ddd",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "ee3f4955-b086-4119-8e6f-c0f9cf126a19",
+                "id": "18d85e07-f1dc-412e-b8d0-3dab93d3729f"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ba8748fb-5cf4-4164-bdfd-ba037f6915e0",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "02913c7f-85a4-45e7-902a-92965a8eeeb9",
+                "id": "71e87568-8d34-4a19-b44b-97764a17de16"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c74daff5-539e-4164-a03f-f32330a88a6a",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "6956af6b-e497-4d46-8a28-93da4d57c4c2",
+                "id": "79228cbe-39b9-46ca-8262-dd829d57b303"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "59f792dd-efce-435f-aecb-1636cf9b2e64",
+                    "start": 0,
+                    "end": 8
+                },
+                "value": "42e4c443-cd9f-430e-965f-c6a5d55c1eee",
+                "id": "f3fff4f9-f617-40f3-8bc8-207e672e8151"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "eb9d8318-5fba-41ef-8fd1-e89c805cb7c1",
+                    "start": 0,
+                    "end": 8
+                },
+                "value": "48b31977-37c4-490e-81f5-1f6757290a64",
+                "id": "35bf2d3d-f3a8-4c62-b124-8397f05f286e"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "038cdee8-4b49-4825-ab4a-c328727b3dee",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "1366188a-0190-48ec-a37f-5b85e3ddf749",
+                "id": "060f2843-7705-4eec-b390-364e55d7eec0"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ec146a85-1d32-490f-8f18-75817867124a",
+                    "start": 0,
+                    "end": 5
+                },
+                "value": "53830b5a-7e3e-4c89-a9e7-e8a8140a8ec3",
+                "id": "4338a690-23fe-48ff-95db-2896329225d9"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b2b76404-049e-4d29-a837-c4496e588cc2",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "33699757-4692-4796-a988-259515681cd1",
+                "id": "49a9fbf3-c13d-43d5-86ad-46fdcf439186"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "03fabc75-3fe4-4a2d-a529-3c6445172bcc",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "dd30a559-bfec-4d4f-8b0c-56fec02aa78b",
+                "id": "88a4a1cc-b6e2-4fd3-bfea-3e2c7732a4f0"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "93720a11-fd2f-4dc1-b96d-eface27f41b7",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "b3bdc431-9bd3-415c-bf44-3f39ab9345ee",
+                "id": "fed3a5df-6fa9-4ac7-9b87-bfa6f233f724"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e756b473-c825-481e-9b25-c2da76b20d83",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "5fee4ea0-d42d-4896-828e-a133cca09084",
+                "id": "56ee8c79-7247-4c3f-80b2-349853aa2669"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8e147a4c-6c3b-48bf-b917-7d4636d5a638",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "b4d00bc8-21f6-4042-998e-c5f4be370e5a",
+                "id": "22645956-899b-4c22-b894-fec3fae9b10f"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d76956d7-ee1f-430e-8f9e-1f5a9943b26a",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "1628049b-eb11-4d5b-ab8b-9494a5ea7c48",
+                "id": "94094f02-6d01-421d-904e-f25870a1a6d2"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "eb40997e-8713-44bc-a2c7-f878936fa0a7",
+                    "start": 0,
+                    "end": 5
+                },
+                "value": "18dc1e7e-ebd7-4314-adb5-c1554f1865aa",
+                "id": "7ec896a6-6ba6-44db-b5f1-93e25aba822e"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "2f2c952f-128e-49fe-8cfe-fb2c5e611261",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "e48f2a6e-0c6e-4826-a1bf-2178e38efe31",
+                "id": "1375cac8-57f9-4dbd-9a90-052cb695028c"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "64ac55ae-9483-41d4-9f3e-e4be27657ddd",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "e48f2a6e-0c6e-4826-a1bf-2178e38efe31",
+                "id": "6c598660-b336-49ed-85d2-0e8392a4b07b"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "54782251-e6f9-4446-8514-b994201c6f54",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "82307f18-11db-454d-a77e-9b3fff204005",
+                "id": "59b78f32-e379-4b7d-99f2-1b7d4b47f3b8"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_14.docx",
+        "file_name": "table_14.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 50906,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1741229048,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/02bd%2Fb286%2Ftable_14.docx",
+        "markers": [],
+        "account": [],
+        "story": "02bdb286-fa1b-4427-b531-1de15fb65892"
+    }
+}

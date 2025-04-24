@@ -1,0 +1,2316 @@
+{
+    "id": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+	"VERSION":"1.0",
+    "main_node": "e11a9e3d-1785-4f3f-98f1-0913ba7afca3",
+    "content": [
+        {
+            "type": "text",
+            "id": "e11a9e3d-1785-4f3f-98f1-0913ba7afca3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "6631cd2d-72f6-4e37-95b1-e03d37458207"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6631cd2d-72f6-4e37-95b1-e03d37458207",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d0106061-ea9f-4a10-ac68-650b09f6c9cd"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "d0106061-ea9f-4a10-ac68-650b09f6c9cd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "479037c9-2ffc-489f-947b-83805e2d3bb4",
+                "377e538c-1d5b-40c2-b490-7b9de11b80d1",
+                "56301534-d533-4a87-bb10-82e6bd756812",
+                "afff50e6-790e-42b0-a2f5-384f3fd89568",
+                "b6502c51-95c7-4636-af82-0364b9769bba",
+                "7434b05a-ee77-4153-80e0-6104e184df51",
+                "1b530bdc-89a0-478e-8691-6350bcd3bd73",
+                "c32fa946-1b4b-4011-a269-69474a8d53ac"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "479037c9-2ffc-489f-947b-83805e2d3bb4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "6b312c7c-b0fc-4771-a315-e825751efbaf",
+                "d4212ead-b3e6-4c28-bac6-80e4dba8d13e",
+                "9f816949-daff-43dd-90a5-3dff0f5ee223",
+                "7be06f18-b4f9-4957-9092-b76abad325fb",
+                "95ca542b-c6c6-4f2a-9332-a64aa8b10acc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6b312c7c-b0fc-4771-a315-e825751efbaf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ee343bbf-9b9f-49d6-926a-277729f31a48"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ee343bbf-9b9f-49d6-926a-277729f31a48",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Год",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d4212ead-b3e6-4c28-bac6-80e4dba8d13e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "cf175b06-c213-4f93-a927-8b695a4b54eb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cf175b06-c213-4f93-a927-8b695a4b54eb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Награда",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9f816949-daff-43dd-90a5-3dff0f5ee223",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "c3bda5ac-6beb-4bef-b23f-1bf7f9e93cff"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c3bda5ac-6beb-4bef-b23f-1bf7f9e93cff",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Категория",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7be06f18-b4f9-4957-9092-b76abad325fb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0d91a188-7bc7-4d35-b56f-1fa420a15f9f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0d91a188-7bc7-4d35-b56f-1fa420a15f9f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Работа",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "95ca542b-c6c6-4f2a-9332-a64aa8b10acc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0d7d1b1d-d203-4a56-9e38-d6b186017213"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0d7d1b1d-d203-4a56-9e38-d6b186017213",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Результат",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "377e538c-1d5b-40c2-b490-7b9de11b80d1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "c92d1d81-e7f0-428c-aa66-2d40f37a38ce",
+                "bf42bcdb-bdc3-48f2-8a56-c3ed86f0c4a6",
+                "ad2e0b1e-0c7d-45a9-a04b-26278f31f1fd",
+                "7b43c7e9-851c-4f59-9464-0cf037632bf7",
+                "5ee916af-fcdd-41a8-8108-d7d054dd764b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c92d1d81-e7f0-428c-aa66-2d40f37a38ce",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8f2dd545-2277-4d94-afa0-b17f7361f2d8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8f2dd545-2277-4d94-afa0-b17f7361f2d8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2019",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bf42bcdb-bdc3-48f2-8a56-c3ed86f0c4a6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5f7a2a3d-2cba-453b-b102-bddf1dc80952"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5f7a2a3d-2cba-453b-b102-bddf1dc80952",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Ассоциация кинокритиков Чикаго",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ad2e0b1e-0c7d-45a9-a04b-26278f31f1fd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4e8b4991-89bd-4de5-a71e-4f99811f7e9b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4e8b4991-89bd-4de5-a71e-4f99811f7e9b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Наиболее многообещающий актёр",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7b43c7e9-851c-4f59-9464-0cf037632bf7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d573fc94-c6ec-47e7-a52b-86ae9107d6ce"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d573fc94-c6ec-47e7-a52b-86ae9107d6ce",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кролик Джоджо",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5ee916af-fcdd-41a8-8108-d7d054dd764b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ea8f1dfc-37d1-4da6-bd6b-d9fc20c0e466"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ea8f1dfc-37d1-4da6-bd6b-d9fc20c0e466",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Номинация",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "56301534-d533-4a87-bb10-82e6bd756812",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "cbf976de-eb0c-45cf-9fd9-589fcc107f9a",
+                "89be294a-ef7c-4d01-b4d4-fd65314be37b",
+                "f6ef0c4b-516e-46c8-827e-cfe4d52c64bb",
+                "ee3a6cfc-8976-48f6-9b2a-1b1c5dab6d3e",
+                "6bbbb00f-5717-4d82-a03a-7430484a4cd8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cbf976de-eb0c-45cf-9fd9-589fcc107f9a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "440e8169-5c6f-40a8-acb4-e304262a7330"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "440e8169-5c6f-40a8-acb4-e304262a7330",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2020",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "89be294a-ef7c-4d01-b4d4-fd65314be37b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c71cd235-c862-4edc-9b18-6be3bcacacdf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c71cd235-c862-4edc-9b18-6be3bcacacdf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кинопремия «Выбор критиков»",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f6ef0c4b-516e-46c8-827e-cfe4d52c64bb",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3d5be762-6242-4f8b-866e-d35be5a133fd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3d5be762-6242-4f8b-866e-d35be5a133fd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Лучший молодой актёр",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ee3a6cfc-8976-48f6-9b2a-1b1c5dab6d3e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ad85b1ac-819d-4cf8-8e01-01b4f40abe74"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ad85b1ac-819d-4cf8-8e01-01b4f40abe74",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кролик Джоджо",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6bbbb00f-5717-4d82-a03a-7430484a4cd8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3961130f-bea4-478e-b057-a1baae5df8cd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3961130f-bea4-478e-b057-a1baae5df8cd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Победа",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "afff50e6-790e-42b0-a2f5-384f3fd89568",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7eb0344e-e815-4f80-a877-db56843af927",
+                "b86e5af5-641d-4d6d-916a-9fe15dc45494",
+                "0713ead3-98ca-4dd1-8cba-bc3d9dc18aa7",
+                "1bdbb979-ab51-497e-a85a-abb12d28ae7a",
+                "e7d5dce9-04ec-483a-8906-1a9f4d8e0b56"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7eb0344e-e815-4f80-a877-db56843af927",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1194a113-fe4d-4042-9e93-531a0cc49012"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1194a113-fe4d-4042-9e93-531a0cc49012",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2020",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b86e5af5-641d-4d6d-916a-9fe15dc45494",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d6252df7-9f7d-4b3c-9bc2-1b577850cd12"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d6252df7-9f7d-4b3c-9bc2-1b577850cd12",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Золотой глобус",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0713ead3-98ca-4dd1-8cba-bc3d9dc18aa7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "22eda142-96a5-4a09-a804-a7ea83fbc887"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "22eda142-96a5-4a09-a804-a7ea83fbc887",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Лучшая мужская роль в комедии или мюзикле",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1bdbb979-ab51-497e-a85a-abb12d28ae7a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ba2e559c-5bff-4c6a-8b94-a5cba1762cca"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ba2e559c-5bff-4c6a-8b94-a5cba1762cca",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кролик Джоджо",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e7d5dce9-04ec-483a-8906-1a9f4d8e0b56",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a818ebc1-34d6-45ee-ae32-865279322da4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a818ebc1-34d6-45ee-ae32-865279322da4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Номинация",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "b6502c51-95c7-4636-af82-0364b9769bba",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "af0c360e-45bd-4eeb-843e-c6fbde593f5a",
+                "15f3e8e4-067d-4c96-b238-757e3b3094f9",
+                "72150801-5b91-4653-8979-db422b04cb5a",
+                "4d37a5a6-606f-4358-85b6-974c2b4fa1e8",
+                "13a8afce-5459-4020-9415-2880f30384c3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "af0c360e-45bd-4eeb-843e-c6fbde593f5a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8e48ebb4-4c1b-46e7-a24c-37157f7c0ecb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8e48ebb4-4c1b-46e7-a24c-37157f7c0ecb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2020",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "15f3e8e4-067d-4c96-b238-757e3b3094f9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f20bb9e8-9618-49df-a5ef-e72d343d3282"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f20bb9e8-9618-49df-a5ef-e72d343d3282",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Премия Лондонского кружка кинокритиков",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "72150801-5b91-4653-8979-db422b04cb5a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0bac2d9f-3981-43a3-99cf-4e8540f00510"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0bac2d9f-3981-43a3-99cf-4e8540f00510",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Лучший британский актёр года",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4d37a5a6-606f-4358-85b6-974c2b4fa1e8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b1bad334-8afc-4bdc-a532-2054bf2ad790"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b1bad334-8afc-4bdc-a532-2054bf2ad790",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кролик Джоджо",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "13a8afce-5459-4020-9415-2880f30384c3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9514156c-a86d-48e1-88fe-ccbeac2975d6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9514156c-a86d-48e1-88fe-ccbeac2975d6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Номинация",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "7434b05a-ee77-4153-80e0-6104e184df51",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "fcc646d4-1d82-475e-836f-a19df008dd6e",
+                "dc5bf311-1ca0-4388-90e2-7fa722047c3e",
+                "14bf9163-f0d9-4fcd-a0c7-f6eb0b357727",
+                "3a926eca-3412-4e89-ba62-cb6afc8bbc09",
+                "3093c728-93d1-4a0c-92a8-51f3b21b2138"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fcc646d4-1d82-475e-836f-a19df008dd6e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d0b752cd-1d39-4669-9fde-f8412a63b037"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d0b752cd-1d39-4669-9fde-f8412a63b037",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2020",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "dc5bf311-1ca0-4388-90e2-7fa722047c3e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6742a3e9-39d4-4685-b9fa-e7ce5e97d27e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6742a3e9-39d4-4685-b9fa-e7ce5e97d27e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Премия Гильдии киноактёров США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "14bf9163-f0d9-4fcd-a0c7-f6eb0b357727",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "49102fb3-bd3c-4099-a61d-5552c0d7c4f1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "49102fb3-bd3c-4099-a61d-5552c0d7c4f1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Лучший актёрский состав в игровом кино",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3a926eca-3412-4e89-ba62-cb6afc8bbc09",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c63509ca-5acf-4ce9-9277-38574999e53c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c63509ca-5acf-4ce9-9277-38574999e53c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кролик Джоджо",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3093c728-93d1-4a0c-92a8-51f3b21b2138",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c1edd172-4f11-4687-a9ac-3919966240e1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c1edd172-4f11-4687-a9ac-3919966240e1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Номинация",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "1b530bdc-89a0-478e-8691-6350bcd3bd73",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b10834bb-18e0-480f-8e15-d1344a39aa03",
+                "285c194e-98fe-4f3f-a958-e79e891afe67",
+                "44599e0a-f38a-4e57-a0a7-edc641a9f30c",
+                "ab05b5c1-4749-40c5-909c-3e57cc479c6c",
+                "eaf50f8a-213e-4eab-b94f-8fe365117b2c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b10834bb-18e0-480f-8e15-d1344a39aa03",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2481c96c-133f-4c07-9750-57e3f9d14b93"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2481c96c-133f-4c07-9750-57e3f9d14b93",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2020",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "285c194e-98fe-4f3f-a958-e79e891afe67",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7ed90f15-0e0e-44ab-8c0a-5a2510b73ca5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7ed90f15-0e0e-44ab-8c0a-5a2510b73ca5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Премия «Молодой актёр»",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "44599e0a-f38a-4e57-a0a7-edc641a9f30c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "671a35b3-b781-4d77-b084-75135d6adeb8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "671a35b3-b781-4d77-b084-75135d6adeb8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Лучший молодой актерский ансамбль",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ab05b5c1-4749-40c5-909c-3e57cc479c6c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "39944de1-bd68-4d02-8ccb-a8ae6cae92ee"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "39944de1-bd68-4d02-8ccb-a8ae6cae92ee",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кролик Джоджо",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "eaf50f8a-213e-4eab-b94f-8fe365117b2c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3f635561-2507-450d-bb60-ae3e48e54eaa"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3f635561-2507-450d-bb60-ae3e48e54eaa",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Победа",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "c32fa946-1b4b-4011-a269-69474a8d53ac",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "1eccd56d-0383-41c4-91b3-b88c7b56fbc2",
+                "15dda94e-a780-4ed7-b20e-8853f647f106",
+                "588cd132-6520-4615-a969-18be4a7cbdee",
+                "da3ab186-d8d0-453f-b600-a6253d927323",
+                "36444d6e-ae05-40c4-911b-46ac3b74d37c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1eccd56d-0383-41c4-91b3-b88c7b56fbc2",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "dd867ca2-3d72-4b68-93bb-114982c00b2c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "dd867ca2-3d72-4b68-93bb-114982c00b2c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2021",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "15dda94e-a780-4ed7-b20e-8853f647f106",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "07ca458b-1338-4093-a8b6-937570f6c37c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "07ca458b-1338-4093-a8b6-937570f6c37c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Премия «Сатурн»",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "588cd132-6520-4615-a969-18be4a7cbdee",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "92f457cc-58d9-46b6-aef4-1ca651846b6d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "92f457cc-58d9-46b6-aef4-1ca651846b6d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Лучшая роль молодого актёра или актрисы в кинофильме",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "da3ab186-d8d0-453f-b600-a6253d927323",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a1527f8b-edd0-4381-b896-6cbfc0faba52"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a1527f8b-edd0-4381-b896-6cbfc0faba52",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кролик Джоджо",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "36444d6e-ae05-40c4-911b-46ac3b74d37c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3d7337a7-eff4-4449-8b5d-49bfb96f5dfe"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3d7337a7-eff4-4449-8b5d-49bfb96f5dfe",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Ожидается",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0194fccf-87f2-7e02-a02b-e8fdd6175a99"
+                },
+                "id": "4d336bb1-ff2d-4b7f-8a1e-9ae89097fbe1"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0194fccf-8773-7988-be0d-f4c4d8fef98c"
+                },
+                "id": "e4227967-bbba-4618-a5a9-39137a31a404"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0194fccf-8a68-7a68-bdea-70f5ff45f621"
+                },
+                "id": "ada13cb4-a152-452d-ac57-edfac77719f5"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0194fccf-88d0-7f25-a15b-60cc4e6546ac"
+                },
+                "id": "7e43aa79-acd7-473a-8d5c-057e13ae2586"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0194fccf-89b9-71ee-bfe3-a3c5bf047d4c"
+                },
+                "id": "3e25cfb9-f443-403f-a68e-2141f33053ac"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0194fccf-895f-73fe-bc21-88f635fa1829"
+                },
+                "id": "4367f584-7d42-4e6a-bcd9-8e74f5c3a700"
+            },
+            {
+                "status": "approved",
+                "type_id": "21510",
+                "value": {
+                    "concept": "0194d39b-6e5c-757a-aa3b-3b1827436334"
+                },
+                "id": "76e4d716-46d3-4b9a-b287-7a08ead7949e"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0194fccf-8873-725e-80aa-d8e3d986c01b"
+                },
+                "id": "178e022c-b6af-4396-be82-77d46d70b457"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-83399630"
+                },
+                "id": "84d15e44-1245-48a2-b6cb-08cddff7e7fc"
+            }
+        ],
+        "atom": [
+            {
+                "id": "a84d11d2-baf7-4bb5-93c6-49e2b6a5b71d",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Кинопремия «Выбор критиков»"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "25c5f6a0-1c35-42d4-a031-31af7c51e7bd",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Премия «Молодой актёр»"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6a3c21ef-0a5e-4323-9c91-f34707c3261b",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2020
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "76a65d5d-dcef-42e2-8804-be20a1109668",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Премия «Сатурн»"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6bf9656f-efb0-40ac-934e-4264739f6aee",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2021
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e620963f-a00d-4190-8e22-0cb50c228523",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Премия Гильдии киноактёров США"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "674da4e1-7d52-466c-8919-9bca3c5ed778",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2020
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8bf1f33f-96a3-4232-8e4b-e8b372a81cbc",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2020
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e06ec972-dfa8-4011-89c8-5ab46011012b",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Золотой глобус"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b3e2e42c-4908-43eb-93cc-24b4b73fcb5c",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2020
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5c244f17-4f40-4d09-beab-97e4a7945ca2",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Премия Лондонского кружка кинокритиков"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0fa60fee-e7b1-44d7-ad3d-814cdbc61e95",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2020
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ab5617c5-e37d-4be9-96f7-68837bf9e4fc",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Кролик Джоджо"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8c7facf3-e99d-4149-9271-a0c0127652f1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Лучший молодой актерский ансамбль",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "93f55e2b-c504-4d87-801e-0f422b97cb37",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Наиболее многообещающий актёр",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "dfd91f63-926f-4632-8887-93fcd5b49757",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Лучший британский актёр года",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6f29c6d2-1a9c-4621-9296-1744705a7069",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Ассоциация кинокритиков Чикаго"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9acd8b19-863e-43ad-b5dd-711ce9eadd70",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2019
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "da51756c-8edf-4173-84a0-774f95519592",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Победа",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4655aec7-0863-4185-814a-9c95d12af62b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Номинация",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "511379f2-e80a-404c-9948-d56ac9a48215",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Лучшая роль молодого актёра или актрисы в кинофильме",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ae59bdc8-0e0c-4cd8-8acc-8c3bc73b485e",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Лучшая мужская роль в комедии или мюзикле",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "fb93973b-56d6-4c75-98f4-5c50f72048ec",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Лучший молодой актёр",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "7da84941-01db-4f4d-bfbe-9da0ced5ee06",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Лучший актёрский состав в игровом кино",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5e89437e-bc0e-4f75-aaeb-f6834abb30bf",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Ожидается",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "99a97ed2-6a07-44ea-86a8-364a95081dee",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8dd71118-8707-453f-af7a-4bad2a615121",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1739408188
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f4390f7a-180d-4dfe-849b-da3158e6064f",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 51056
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ab89c84a-4ea6-47af-b245-9a325c861f7b",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1739408188
+                },
+                "status": "approved"
+            },
+            {
+                "id": "be3a25c2-e19f-4067-9816-e5d11ce327d0",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ec929791-0677-4e0f-98d0-0aff8882bc1a",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1fdd5fae-ca30-4b64-8837-18f4b1e5bd56",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3a351d84-aae5-408c-af98-e2a415cde0b1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1ca06c09-d62b-4a79-b498-f6c930a2a15c",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3263"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5c04be33-c36c-4a9e-b588-46d93cb237d7",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1739408188
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e31684d4-7073-4dcb-88bb-2bba8c63a457",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/84d1/5e44/table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ae041b25-eedb-47d3-be48-eb45685a98b7",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [
+            {
+                "status": "approved",
+                "type_id": "21540",
+                "value": "ОК-83399667",
+                "id": "b1e621f4-3dc7-4d1a-9d07-b6771d3c527a",
+                "source": "76e4d716-46d3-4b9a-b287-7a08ead7949e",
+                "target": "3e25cfb9-f443-403f-a68e-2141f33053ac"
+            },
+            {
+                "status": "approved",
+                "type_id": "21540",
+                "value": "ОК-83399668",
+                "id": "8cab040c-cd28-44de-bada-12a01839be09",
+                "source": "76e4d716-46d3-4b9a-b287-7a08ead7949e",
+                "target": "178e022c-b6af-4396-be82-77d46d70b457"
+            },
+            {
+                "status": "approved",
+                "type_id": "21540",
+                "value": "ОК-83399669",
+                "id": "55799ddd-d00a-434b-9830-b0b2fc6a82d3",
+                "source": "76e4d716-46d3-4b9a-b287-7a08ead7949e",
+                "target": "ada13cb4-a152-452d-ac57-edfac77719f5"
+            },
+            {
+                "status": "approved",
+                "type_id": "21540",
+                "value": "ОК-83399670",
+                "id": "5e241ed0-1f7d-4479-9498-5162d6227e98",
+                "source": "76e4d716-46d3-4b9a-b287-7a08ead7949e",
+                "target": "e4227967-bbba-4618-a5a9-39137a31a404"
+            },
+            {
+                "status": "approved",
+                "type_id": "21540",
+                "value": "ОК-83399671",
+                "id": "489bb8de-751d-4482-8e57-2f4a7dc47bae",
+                "source": "76e4d716-46d3-4b9a-b287-7a08ead7949e",
+                "target": "4d336bb1-ff2d-4b7f-8a1e-9ae89097fbe1"
+            },
+            {
+                "status": "approved",
+                "type_id": "21540",
+                "value": "ОК-83399672",
+                "id": "ffed90f3-4c0c-4b31-a7c1-7d7355b45390",
+                "source": "76e4d716-46d3-4b9a-b287-7a08ead7949e",
+                "target": "7e43aa79-acd7-473a-8d5c-057e13ae2586"
+            },
+            {
+                "status": "approved",
+                "type_id": "21540",
+                "value": "ОК-83399673",
+                "id": "2d443007-4ead-46cb-8716-469cabb33b6c",
+                "source": "76e4d716-46d3-4b9a-b287-7a08ead7949e",
+                "target": "4367f584-7d42-4e6a-bcd9-8e74f5c3a700"
+            }
+        ],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-83399647",
+                "id": "2b2ce699-a438-49db-877e-0bca20cfbd8d",
+                "source": "4d336bb1-ff2d-4b7f-8a1e-9ae89097fbe1",
+                "target": "76a65d5d-dcef-42e2-8804-be20a1109668"
+            },
+            {
+                "status": "approved",
+                "type_id": "21524",
+                "value": "ОК-83399660",
+                "id": "2a4df9f8-25a9-405b-9e01-1fc06ede939c",
+                "source": "4d336bb1-ff2d-4b7f-8a1e-9ae89097fbe1",
+                "target": "6bf9656f-efb0-40ac-934e-4264739f6aee"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-83399655",
+                "id": "123c357e-6553-47b7-92c3-ac7cb5698858",
+                "source": "e4227967-bbba-4618-a5a9-39137a31a404",
+                "target": "e620963f-a00d-4190-8e22-0cb50c228523"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-83399657",
+                "id": "b20f11e4-58b0-4a59-aeb3-53efc79f0cce",
+                "source": "7e43aa79-acd7-473a-8d5c-057e13ae2586",
+                "target": "e06ec972-dfa8-4011-89c8-5ab46011012b"
+            },
+            {
+                "status": "approved",
+                "type_id": "21524",
+                "value": "ОК-83399663",
+                "id": "b6a86b55-f5a5-43e9-a0b9-e8ff50e6769c",
+                "source": "7e43aa79-acd7-473a-8d5c-057e13ae2586",
+                "target": "b3e2e42c-4908-43eb-93cc-24b4b73fcb5c"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-83399651",
+                "id": "e738992b-e579-4b19-802d-e13b08c1083a",
+                "source": "4367f584-7d42-4e6a-bcd9-8e74f5c3a700",
+                "target": "5c244f17-4f40-4d09-beab-97e4a7945ca2"
+            },
+            {
+                "status": "approved",
+                "type_id": "21524",
+                "value": "ОК-83399665",
+                "id": "00914b2a-739b-4adf-8143-ddeda036d7fc",
+                "source": "4367f584-7d42-4e6a-bcd9-8e74f5c3a700",
+                "target": "0fa60fee-e7b1-44d7-ad3d-814cdbc61e95"
+            },
+            {
+                "status": "approved",
+                "type_id": "21524",
+                "value": "ОК-83399661",
+                "id": "53b85e0c-da1d-469f-89e5-b6c25231ef46",
+                "source": "e4227967-bbba-4618-a5a9-39137a31a404",
+                "target": "674da4e1-7d52-466c-8919-9bca3c5ed778"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-83399659",
+                "id": "41a00a0f-c302-402e-80e7-ee8eae266bc4",
+                "source": "ada13cb4-a152-452d-ac57-edfac77719f5",
+                "target": "a84d11d2-baf7-4bb5-93c6-49e2b6a5b71d"
+            },
+            {
+                "status": "approved",
+                "type_id": "21524",
+                "value": "ОК-83399662",
+                "id": "cfd9d144-fabc-4119-aa20-5db72376b447",
+                "source": "ada13cb4-a152-452d-ac57-edfac77719f5",
+                "target": "8bf1f33f-96a3-4232-8e4b-e8b372a81cbc"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-83399649",
+                "id": "b3797899-c8a6-4454-b42b-1a238b41f7f3",
+                "source": "3e25cfb9-f443-403f-a68e-2141f33053ac",
+                "target": "25c5f6a0-1c35-42d4-a031-31af7c51e7bd"
+            },
+            {
+                "status": "approved",
+                "type_id": "21524",
+                "value": "ОК-83399664",
+                "id": "14d5fe62-42e0-4e72-b8fe-939844ab706d",
+                "source": "3e25cfb9-f443-403f-a68e-2141f33053ac",
+                "target": "6a3c21ef-0a5e-4323-9c91-f34707c3261b"
+            },
+            {
+                "status": "approved",
+                "type_id": "21511",
+                "value": "ОК-83380829",
+                "id": "c6693680-de92-47f4-8265-92e6078faec3",
+                "source": "76e4d716-46d3-4b9a-b287-7a08ead7949e",
+                "target": "ab5617c5-e37d-4be9-96f7-68837bf9e4fc"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-83399653",
+                "id": "df4b5117-ae6d-4690-ab85-6f6a35297736",
+                "source": "178e022c-b6af-4396-be82-77d46d70b457",
+                "target": "6f29c6d2-1a9c-4621-9296-1744705a7069"
+            },
+            {
+                "status": "approved",
+                "type_id": "21524",
+                "value": "ОК-83399666",
+                "id": "2bff7526-d193-4324-8f25-3e89ff93bfa2",
+                "source": "178e022c-b6af-4396-be82-77d46d70b457",
+                "target": "9acd8b19-863e-43ad-b5dd-711ce9eadd70"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-83399634",
+                "id": "ab402562-a7a6-454a-ae6c-4530f1ce1218",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "99a97ed2-6a07-44ea-86a8-364a95081dee"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-83399635",
+                "id": "432bddd8-cd2d-477e-ab0a-648d6a57e188",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "8dd71118-8707-453f-af7a-4bad2a615121"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-83399636",
+                "id": "caccbb66-8d6a-436d-96c7-04e3297e467d",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "f4390f7a-180d-4dfe-849b-da3158e6064f"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-83399637",
+                "id": "e0c21d80-173d-4689-b76b-25bdeaf0610e",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "ab89c84a-4ea6-47af-b245-9a325c861f7b"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-83399638",
+                "id": "6b97dd7e-03ac-4fcb-b1dc-e51f74907601",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "be3a25c2-e19f-4067-9816-e5d11ce327d0"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-83399639",
+                "id": "25ae8218-f66a-4ca6-aa60-6d2262ba832c",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "ec929791-0677-4e0f-98d0-0aff8882bc1a"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-83399640",
+                "id": "2f709402-11e2-4840-bbf0-7550ad9ceacf",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "1fdd5fae-ca30-4b64-8837-18f4b1e5bd56"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-83399641",
+                "id": "793e8b5a-8658-4fc3-ae66-0fa54939798b",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "3a351d84-aae5-408c-af98-e2a415cde0b1"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-83399642",
+                "id": "8e447d96-7abe-4f9c-bb31-76598b3837d3",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "1ca06c09-d62b-4a79-b498-f6c930a2a15c"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-83399643",
+                "id": "dc5347dc-a486-4bf5-8226-08099884f7b0",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "5c04be33-c36c-4a9e-b588-46d93cb237d7"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-83399644",
+                "id": "6b028d4c-987b-4f74-807a-f5ef0c0ee22a",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "e31684d4-7073-4dcb-88bb-2bba8c63a457"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-83399645",
+                "id": "e62d907c-0382-4a3f-ad3e-8f62e48c209a",
+                "source": "84d15e44-1245-48a2-b6cb-08cddff7e7fc",
+                "target": "ae041b25-eedb-47d3-be48-eb45685a98b7"
+            }
+        ],
+        "r_property": [
+            {
+                "status": "approved",
+                "type_id": "22179",
+                "value": "ОК-83399681",
+                "id": "50c708e1-0195-424e-a105-89aae01039fa",
+                "source": "5e241ed0-1f7d-4479-9498-5162d6227e98",
+                "target": "7da84941-01db-4f4d-bfbe-9da0ced5ee06"
+            },
+            {
+                "status": "approved",
+                "type_id": "22179",
+                "value": "ОК-83399682",
+                "id": "46707ee1-d214-4222-b998-bddd6720f820",
+                "source": "489bb8de-751d-4482-8e57-2f4a7dc47bae",
+                "target": "511379f2-e80a-404c-9948-d56ac9a48215"
+            },
+            {
+                "status": "approved",
+                "type_id": "21550",
+                "value": "ОК-83399683",
+                "id": "e2c7e2d5-59d2-47ed-b7f0-51811a968ad3",
+                "source": "489bb8de-751d-4482-8e57-2f4a7dc47bae",
+                "target": "5e89437e-bc0e-4f75-aaeb-f6834abb30bf"
+            },
+            {
+                "status": "approved",
+                "type_id": "22179",
+                "value": "ОК-83399684",
+                "id": "46b55cee-6af1-4fb3-9548-2c7aeba020ca",
+                "source": "ffed90f3-4c0c-4b31-a7c1-7d7355b45390",
+                "target": "ae59bdc8-0e0c-4cd8-8acc-8c3bc73b485e"
+            },
+            {
+                "status": "approved",
+                "type_id": "22179",
+                "value": "ОК-83399686",
+                "id": "edf0f810-5a9f-496e-af80-979e4feb79e4",
+                "source": "2d443007-4ead-46cb-8716-469cabb33b6c",
+                "target": "dfd91f63-926f-4632-8887-93fcd5b49757"
+            },
+            {
+                "status": "new",
+                "type_id": "21550",
+                "id": "dcf59229-487d-4676-bd42-500e04301ee7",
+                "source": "8cab040c-cd28-44de-bada-12a01839be09",
+                "target": "4655aec7-0863-4185-814a-9c95d12af62b"
+            },
+            {
+                "status": "new",
+                "type_id": "21550",
+                "id": "66332a53-f445-4e43-acb9-eb145a94619a",
+                "source": "55799ddd-d00a-434b-9830-b0b2fc6a82d3",
+                "target": "da51756c-8edf-4173-84a0-774f95519592"
+            },
+            {
+                "status": "new",
+                "type_id": "21550",
+                "id": "890a6733-a904-40d5-aaf9-b1e40887fac3",
+                "source": "ffed90f3-4c0c-4b31-a7c1-7d7355b45390",
+                "target": "4655aec7-0863-4185-814a-9c95d12af62b"
+            },
+            {
+                "status": "new",
+                "type_id": "21550",
+                "id": "00412a8a-b884-406a-b876-cf6d30df10ce",
+                "source": "2d443007-4ead-46cb-8716-469cabb33b6c",
+                "target": "4655aec7-0863-4185-814a-9c95d12af62b"
+            },
+            {
+                "status": "approved",
+                "type_id": "21550",
+                "value": "ОК-83399674",
+                "id": "7d4d5ed4-b92e-4165-9a7d-7d690502af8e",
+                "source": "b1e621f4-3dc7-4d1a-9d07-b6771d3c527a",
+                "target": "da51756c-8edf-4173-84a0-774f95519592"
+            },
+            {
+                "status": "approved",
+                "type_id": "22179",
+                "value": "ОК-83399675",
+                "id": "4b325fce-e508-4e40-baa5-d9447c2444a4",
+                "source": "b1e621f4-3dc7-4d1a-9d07-b6771d3c527a",
+                "target": "8c7facf3-e99d-4149-9271-a0c0127652f1"
+            },
+            {
+                "status": "approved",
+                "type_id": "22179",
+                "value": "ОК-83399677",
+                "id": "8eb63722-9146-439a-abd6-2231c44a758e",
+                "source": "8cab040c-cd28-44de-bada-12a01839be09",
+                "target": "93f55e2b-c504-4d87-801e-0f422b97cb37"
+            },
+            {
+                "status": "approved",
+                "type_id": "22179",
+                "value": "ОК-83399679",
+                "id": "7cc216d6-7f33-4786-ae02-4d626e0c4add",
+                "source": "55799ddd-d00a-434b-9830-b0b2fc6a82d3",
+                "target": "fb93973b-56d6-4c75-98f4-5c50f72048ec"
+            },
+            {
+                "status": "approved",
+                "type_id": "21550",
+                "value": "ОК-83399680",
+                "id": "66c9bf9e-1ce0-4258-8423-2ebf2e12454a",
+                "source": "5e241ed0-1f7d-4479-9498-5162d6227e98",
+                "target": "4655aec7-0863-4185-814a-9c95d12af62b"
+            }
+        ],
+        "component": [],
+        "mention": [
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3961130f-bea4-478e-b057-a1baae5df8cd",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "da51756c-8edf-4173-84a0-774f95519592",
+                "id": "c8a45e1c-418f-466b-a2f4-7a3ed0d06f98"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ea8f1dfc-37d1-4da6-bd6b-d9fc20c0e466",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "4655aec7-0863-4185-814a-9c95d12af62b",
+                "id": "a305a7d2-8099-4d3d-b0d1-8a79a999e17d"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a818ebc1-34d6-45ee-ae32-865279322da4",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "4655aec7-0863-4185-814a-9c95d12af62b",
+                "id": "77193798-5bab-4edb-ba7f-57ec67a7438a"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9514156c-a86d-48e1-88fe-ccbeac2975d6",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "4655aec7-0863-4185-814a-9c95d12af62b",
+                "id": "c5c66e16-aaad-4afd-863a-23d979e3cb13"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "671a35b3-b781-4d77-b084-75135d6adeb8",
+                    "start": 0,
+                    "end": 33
+                },
+                "value": "8c7facf3-e99d-4149-9271-a0c0127652f1",
+                "id": "80265e59-3229-4c65-992c-43d8404b9a63"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3f635561-2507-450d-bb60-ae3e48e54eaa",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "da51756c-8edf-4173-84a0-774f95519592",
+                "id": "9acd367c-2197-4e0a-be36-8e912225e1b8"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "2481c96c-133f-4c07-9750-57e3f9d14b93",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "6a3c21ef-0a5e-4323-9c91-f34707c3261b",
+                "id": "97459a9b-105b-45f7-a88b-226224561816"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "39944de1-bd68-4d02-8ccb-a8ae6cae92ee",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "ab5617c5-e37d-4be9-96f7-68837bf9e4fc",
+                "id": "8659925c-af98-47fe-b23b-1bb9b3d267c2"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a1527f8b-edd0-4381-b896-6cbfc0faba52",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "ab5617c5-e37d-4be9-96f7-68837bf9e4fc",
+                "id": "2d375d55-ecc6-4fb0-b60b-d8c8235667cc"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ad85b1ac-819d-4cf8-8e01-01b4f40abe74",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "ab5617c5-e37d-4be9-96f7-68837bf9e4fc",
+                "id": "e172e826-0bef-4e5a-8506-7f99b9bdb00d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d573fc94-c6ec-47e7-a52b-86ae9107d6ce",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "ab5617c5-e37d-4be9-96f7-68837bf9e4fc",
+                "id": "1fce3d61-4325-4121-8043-fc913dc2db82"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ba2e559c-5bff-4c6a-8b94-a5cba1762cca",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "ab5617c5-e37d-4be9-96f7-68837bf9e4fc",
+                "id": "1360424e-f6b9-4d4e-b560-01b3e04db107"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b1bad334-8afc-4bdc-a532-2054bf2ad790",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "ab5617c5-e37d-4be9-96f7-68837bf9e4fc",
+                "id": "e84e9de2-38fc-4b73-88f6-c7220e563b5c"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4e8b4991-89bd-4de5-a71e-4f99811f7e9b",
+                    "start": 0,
+                    "end": 29
+                },
+                "value": "93f55e2b-c504-4d87-801e-0f422b97cb37",
+                "id": "6b71e167-1cb1-4735-a520-683ce3514d68"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8f2dd545-2277-4d94-afa0-b17f7361f2d8",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "9acd8b19-863e-43ad-b5dd-711ce9eadd70",
+                "id": "02cc29a5-8fbb-4b0f-acc6-3c62cc33d0f1"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3d5be762-6242-4f8b-866e-d35be5a133fd",
+                    "start": 0,
+                    "end": 20
+                },
+                "value": "fb93973b-56d6-4c75-98f4-5c50f72048ec",
+                "id": "3aceeb96-c986-47f1-a17b-19ef219e7a3c"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "440e8169-5c6f-40a8-acb4-e304262a7330",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "8bf1f33f-96a3-4232-8e4b-e8b372a81cbc",
+                "id": "09e5923d-52c6-47c7-90f8-733b854565d4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c1edd172-4f11-4687-a9ac-3919966240e1",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "4655aec7-0863-4185-814a-9c95d12af62b",
+                "id": "1ea9bb2e-8e52-44a7-a000-b493f8cdab09"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "49102fb3-bd3c-4099-a61d-5552c0d7c4f1",
+                    "start": 0,
+                    "end": 38
+                },
+                "value": "7da84941-01db-4f4d-bfbe-9da0ced5ee06",
+                "id": "60c03b8d-768e-4be6-9369-42e4acf85363"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6742a3e9-39d4-4685-b9fa-e7ce5e97d27e",
+                    "start": 0,
+                    "end": 30
+                },
+                "value": "e620963f-a00d-4190-8e22-0cb50c228523",
+                "id": "4415dc81-466e-4e75-9b1e-078d62c58cad"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "92f457cc-58d9-46b6-aef4-1ca651846b6d",
+                    "start": 0,
+                    "end": 52
+                },
+                "value": "511379f2-e80a-404c-9948-d56ac9a48215",
+                "id": "a5322a93-cce4-4cde-a5c7-939189351a5f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3d7337a7-eff4-4449-8b5d-49bfb96f5dfe",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "5e89437e-bc0e-4f75-aaeb-f6834abb30bf",
+                "id": "4d18a545-d6e0-47ae-9f37-78f861ef154d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "dd867ca2-3d72-4b68-93bb-114982c00b2c",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "6bf9656f-efb0-40ac-934e-4264739f6aee",
+                "id": "ffdb8f9b-fa7a-4cb3-a420-bb4f6c85befa"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "07ca458b-1338-4093-a8b6-937570f6c37c",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "76a65d5d-dcef-42e2-8804-be20a1109668",
+                "id": "b68b8693-9c84-4926-b943-ec7be7c20e5a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "22eda142-96a5-4a09-a804-a7ea83fbc887",
+                    "start": 0,
+                    "end": 41
+                },
+                "value": "ae59bdc8-0e0c-4cd8-8acc-8c3bc73b485e",
+                "id": "7b576d58-fceb-420b-8d45-00ab6a202ccf"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1194a113-fe4d-4042-9e93-531a0cc49012",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "b3e2e42c-4908-43eb-93cc-24b4b73fcb5c",
+                "id": "0f5f3713-e751-4b5d-beef-5281ed01ab1c"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d6252df7-9f7d-4b3c-9bc2-1b577850cd12",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "e06ec972-dfa8-4011-89c8-5ab46011012b",
+                "id": "36bbe95b-3921-46cc-a7f1-ce5eb99da85d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0bac2d9f-3981-43a3-99cf-4e8540f00510",
+                    "start": 0,
+                    "end": 28
+                },
+                "value": "dfd91f63-926f-4632-8887-93fcd5b49757",
+                "id": "4fa46cfe-1d53-4bdc-8aff-5de9bc98f379"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8e48ebb4-4c1b-46e7-a24c-37157f7c0ecb",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "0fa60fee-e7b1-44d7-ad3d-814cdbc61e95",
+                "id": "d75f5bdc-891a-4532-bcd1-6dcc7d705864"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f20bb9e8-9618-49df-a5ef-e72d343d3282",
+                    "start": 0,
+                    "end": 38
+                },
+                "value": "5c244f17-4f40-4d09-beab-97e4a7945ca2",
+                "id": "cf0aeadd-40b9-4e54-9774-d4728dd56fd8"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "5f7a2a3d-2cba-453b-b102-bddf1dc80952",
+                    "start": 0,
+                    "end": 30
+                },
+                "value": "6f29c6d2-1a9c-4621-9296-1744705a7069",
+                "id": "1c67f71e-2649-40bf-9e46-f97bba073913"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c63509ca-5acf-4ce9-9277-38574999e53c",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "ab5617c5-e37d-4be9-96f7-68837bf9e4fc",
+                "id": "465a9fbc-f4f6-4ac8-acaf-3bb25c37c303"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d0b752cd-1d39-4669-9fde-f8412a63b037",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "674da4e1-7d52-466c-8919-9bca3c5ed778",
+                "id": "4d288f5a-5835-44a1-9c6d-d368bdc3bceb"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c71cd235-c862-4edc-9b18-6be3bcacacdf",
+                    "start": 0,
+                    "end": 27
+                },
+                "value": "a84d11d2-baf7-4bb5-93c6-49e2b6a5b71d",
+                "id": "76b4db09-737c-41b7-acb0-4a0a53f09971"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7ed90f15-0e0e-44ab-8c0a-5a2510b73ca5",
+                    "start": 0,
+                    "end": 22
+                },
+                "value": "25c5f6a0-1c35-42d4-a031-31af7c51e7bd",
+                "id": "774cb96b-edcf-4d17-b72e-d2a24b46ece6"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_1.docx",
+        "file_name": "table_1.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 51056,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1739408188,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/84d1%2F5e44%2Ftable_1.docx",
+        "markers": [],
+        "account": [],
+        "story": "84d15e44-1245-48a2-b6cb-08cddff7e7fc"
+    }
+}

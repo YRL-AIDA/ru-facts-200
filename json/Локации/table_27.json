@@ -1,0 +1,1766 @@
+{
+    "id": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+	"VERSION":"1.0",
+    "main_node": "efa8e665-5056-4dec-aea9-af8a82b57f76",
+    "content": [
+        {
+            "type": "text",
+            "id": "efa8e665-5056-4dec-aea9-af8a82b57f76",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "eb7a468c-43b9-4595-b769-fdaad93353ff"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "eb7a468c-43b9-4595-b769-fdaad93353ff",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "dfd52cdb-c7ae-4b56-9246-c6c284f99b31"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "dfd52cdb-c7ae-4b56-9246-c6c284f99b31",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "4abd1516-2d30-48f3-94a9-565f5306d644",
+                "de44b1dc-8561-4815-8f93-32a9d8f75f3c",
+                "28f0ea34-b238-4863-9a83-1205f5307f7b",
+                "1141427c-d70c-4b48-b470-5dee09d4351f",
+                "f390560f-1bbc-4433-b1e2-e4af6ad0d5bc",
+                "53f6b88c-c2af-4ea8-a097-cad6a875dd19",
+                "4259d263-c4f0-4474-bc2c-fbeaa8e31e80"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "4abd1516-2d30-48f3-94a9-565f5306d644",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "04aa0cf0-8573-4fcf-b857-10869c6a0c9d",
+                "92dc6d3d-9600-45da-b4e9-1a0ab70f9f57",
+                "649462d5-a33a-453a-8d7b-f624f0d72764",
+                "e2bf96a6-c902-40c1-bb76-5184586c5c8d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "04aa0cf0-8573-4fcf-b857-10869c6a0c9d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "29f982bd-6c10-4102-9627-975e47a4ca54"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "29f982bd-6c10-4102-9627-975e47a4ca54",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Название",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "92dc6d3d-9600-45da-b4e9-1a0ab70f9f57",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "e05c9f20-b167-487b-811b-5a99227f0a03"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e05c9f20-b167-487b-811b-5a99227f0a03",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Китайские иероглифы",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "649462d5-a33a-453a-8d7b-f624f0d72764",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "01e34d68-e02e-45e8-b7c2-a65c91f619d9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "01e34d68-e02e-45e8-b7c2-a65c91f619d9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Пиньинь",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e2bf96a6-c902-40c1-bb76-5184586c5c8d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2e27f098-d494-4dee-af2c-77c53010097e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2e27f098-d494-4dee-af2c-77c53010097e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Официальная романизация",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "de44b1dc-8561-4815-8f93-32a9d8f75f3c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "894f2fd4-abd3-4476-8541-c57f1b68cb09",
+                "d79bbefd-03f9-4b95-baa5-0f81c0729bbc",
+                "7ff6b1c6-a312-428e-a8d9-a12038ab1114",
+                "874e3100-eb33-43fc-a5b9-8577c9b1a9a1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "894f2fd4-abd3-4476-8541-c57f1b68cb09",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "85ef6955-a3cf-453f-b793-fda423bc8d53"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "85ef6955-a3cf-453f-b793-fda423bc8d53",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Город Гаосюн",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d79bbefd-03f9-4b95-baa5-0f81c0729bbc",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2b20c3c4-b576-435f-9b87-000bdd83770f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2b20c3c4-b576-435f-9b87-000bdd83770f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "高雄市",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7ff6b1c6-a312-428e-a8d9-a12038ab1114",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e43eb075-188e-465c-832f-0399e6ca08cd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e43eb075-188e-465c-832f-0399e6ca08cd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Gāoxióng",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "874e3100-eb33-43fc-a5b9-8577c9b1a9a1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "41377ea1-a61c-4588-afa3-84bacddbc69b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "41377ea1-a61c-4588-afa3-84bacddbc69b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Kaohsiung City",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "28f0ea34-b238-4863-9a83-1205f5307f7b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "115822e7-5f07-42c7-acf8-6fb7088240b5",
+                "bef994f4-e7d4-4ad5-bcff-22211eaa2147",
+                "0975b090-19c5-487f-b9a7-e0e799d5bcef",
+                "8505360d-bcb3-4945-a066-7c9b33102b56"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "115822e7-5f07-42c7-acf8-6fb7088240b5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8de797e6-5e07-4da6-a570-0ad3a0c941b5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8de797e6-5e07-4da6-a570-0ad3a0c941b5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Город Новый Тайбэй",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bef994f4-e7d4-4ad5-bcff-22211eaa2147",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9afff035-45e1-4407-9e90-ed1fc8faa2c7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9afff035-45e1-4407-9e90-ed1fc8faa2c7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "新北市",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0975b090-19c5-487f-b9a7-e0e799d5bcef",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0f777439-1df4-46c3-a501-42ea2068534c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0f777439-1df4-46c3-a501-42ea2068534c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Xīnběi",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8505360d-bcb3-4945-a066-7c9b33102b56",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e2a371b2-0201-4882-9a91-a741ff9fda14"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e2a371b2-0201-4882-9a91-a741ff9fda14",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "New Taipei City",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "1141427c-d70c-4b48-b470-5dee09d4351f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "767b1ad0-62b4-4d21-9a8a-6a5c1de988f0",
+                "572fe4cb-c502-43d7-a2c9-40984ff06a47",
+                "eb1a9f7a-56cf-4467-b37a-9084b17acd66",
+                "704064cd-b08a-4963-b536-357aec8aa81b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "767b1ad0-62b4-4d21-9a8a-6a5c1de988f0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "da7cec10-5f40-441f-90cd-2fe487dc00d4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "da7cec10-5f40-441f-90cd-2fe487dc00d4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Город Тайбэй",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "572fe4cb-c502-43d7-a2c9-40984ff06a47",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "67660725-fc45-40db-a7d6-045ad618b397"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "67660725-fc45-40db-a7d6-045ad618b397",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "臺北市，台北市",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "eb1a9f7a-56cf-4467-b37a-9084b17acd66",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f82e2a7b-871f-4491-82a8-ed621902909d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f82e2a7b-871f-4491-82a8-ed621902909d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Táiběi",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "704064cd-b08a-4963-b536-357aec8aa81b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8be994f3-6f65-4cfc-a542-417061e2f436"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8be994f3-6f65-4cfc-a542-417061e2f436",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Taipei City",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "f390560f-1bbc-4433-b1e2-e4af6ad0d5bc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "191b382e-f8eb-494c-8fb0-a523fdf2f74b",
+                "28789ccf-4648-4a2b-b7a7-0edaddaee22b",
+                "f2126dcc-a91e-4df3-ac8e-15363aa4199a",
+                "9f8900fb-d27e-40e4-b9cd-65a30ee0828b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "191b382e-f8eb-494c-8fb0-a523fdf2f74b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4a3a23e3-c2a2-45d2-b70c-bb1d09fafa1b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4a3a23e3-c2a2-45d2-b70c-bb1d09fafa1b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Город Тайнань",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "28789ccf-4648-4a2b-b7a7-0edaddaee22b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ae6ba8cc-0769-4b20-b3ec-d608385cbffe"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ae6ba8cc-0769-4b20-b3ec-d608385cbffe",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "臺南市，台南市",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f2126dcc-a91e-4df3-ac8e-15363aa4199a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9f5d8553-4a3b-485f-8c81-7a6e568eb665"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9f5d8553-4a3b-485f-8c81-7a6e568eb665",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Táinán",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9f8900fb-d27e-40e4-b9cd-65a30ee0828b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8c10a187-d845-4dba-8463-9ddd1ace8bef"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8c10a187-d845-4dba-8463-9ddd1ace8bef",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Tainan City",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "53f6b88c-c2af-4ea8-a097-cad6a875dd19",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d41eabf9-392d-42c1-a160-14c6758054f0",
+                "b1726914-ff7d-4e57-a865-886d6cba8625",
+                "1217125c-22e9-4b04-b916-d35e0dcacce7",
+                "292b6f86-c769-40b2-aec9-d6fa8fdaddee"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d41eabf9-392d-42c1-a160-14c6758054f0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "583ff5bb-ba21-4289-a52e-655d82ed8844"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "583ff5bb-ba21-4289-a52e-655d82ed8844",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Город Тайчжун",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b1726914-ff7d-4e57-a865-886d6cba8625",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cd5bb054-1da3-4131-92f1-36d2260ca52b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cd5bb054-1da3-4131-92f1-36d2260ca52b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "臺中市，台中市",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1217125c-22e9-4b04-b916-d35e0dcacce7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cbc63749-0f05-45c6-a021-32f8635286da"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cbc63749-0f05-45c6-a021-32f8635286da",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Táizhōng",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "292b6f86-c769-40b2-aec9-d6fa8fdaddee",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e5d149b9-beac-4f05-aaf2-083b9befda67"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e5d149b9-beac-4f05-aaf2-083b9befda67",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Taichung City",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "4259d263-c4f0-4474-bc2c-fbeaa8e31e80",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "66150ec6-7f0f-45fc-9119-d21cb0296e4b",
+                "18ac0267-82f7-4c45-a299-2300d144952b",
+                "db7fdca1-06f3-4a46-83d4-9f39d84b8204",
+                "ce5950b3-57d6-404e-baf8-875f85a12242"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "66150ec6-7f0f-45fc-9119-d21cb0296e4b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f5e0f7b3-6149-4b96-ada4-42e63a1de4fb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f5e0f7b3-6149-4b96-ada4-42e63a1de4fb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Город Таоюань",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "18ac0267-82f7-4c45-a299-2300d144952b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "159bff93-83ff-448b-8eb0-824ba76f5c00"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "159bff93-83ff-448b-8eb0-824ba76f5c00",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "桃園市",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "db7fdca1-06f3-4a46-83d4-9f39d84b8204",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fa59e357-461d-481f-87a8-1417f5ad792d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fa59e357-461d-481f-87a8-1417f5ad792d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Táoyuán",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ce5950b3-57d6-404e-baf8-875f85a12242",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "bb6a115d-ed66-4421-bf4b-cd7ccb723c4c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "bb6a115d-ed66-4421-bf4b-cd7ccb723c4c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Taoyuan City",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "1381",
+                "value": {
+                    "concept": "01961e4a-f6a3-745c-9cb1-7a6c1f04fef7"
+                },
+                "id": "b7966ff6-c61a-41af-bfc4-94fde25fbbf5"
+            },
+            {
+                "status": "approved",
+                "type_id": "1381",
+                "value": {
+                    "concept": "01961e4a-f5a0-77ea-b1c7-c6ed7d5b6eaa"
+                },
+                "id": "00f3d4d7-6eb8-42a6-a7c5-60a124a40fdd"
+            },
+            {
+                "status": "approved",
+                "type_id": "1381",
+                "value": {
+                    "concept": "01961e4a-f4cd-71e2-abc7-f8528595e2e9"
+                },
+                "id": "ddfc2294-7295-432b-9736-16f26e49f3c8"
+            },
+            {
+                "status": "approved",
+                "type_id": "1381",
+                "value": {
+                    "concept": "01961e4a-f5e4-794c-a707-21ac86d85ba9"
+                },
+                "id": "1eabefaf-4006-433f-92ba-a26847580949"
+            },
+            {
+                "status": "approved",
+                "type_id": "1381",
+                "value": {
+                    "concept": "01961e4a-f46c-7757-b516-6e10ce11bc4d"
+                },
+                "id": "534b531f-3f5f-4544-b4e5-78d56dd306a0"
+            },
+            {
+                "status": "approved",
+                "type_id": "1381",
+                "value": {
+                    "concept": "01961e4a-f632-7d2e-94cd-58d7e8226997"
+                },
+                "id": "e7375cdb-addc-4f83-8d06-f46bf3cac059"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-97651737"
+                },
+                "id": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674"
+            }
+        ],
+        "atom": [
+            {
+                "id": "f44f1131-463e-4a31-8634-c3c399602464",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Город Гаосюн"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5140d8cf-6529-4cdb-8d62-9fe14f5f584b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Gāoxióng",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "20aab084-aa72-43e6-b8c8-4f97742759b7",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "高雄市",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "56632360-3f81-445b-b3fd-02e18096dbee",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Kaohsiung City",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9fc509b5-7e27-44b8-9f35-2fdc57f455ae",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Город Тайнань"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0b4a1e01-e7f8-45ef-9d5e-b1e109f3da1f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Táinán",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "98d1ccef-c873-425b-b149-1f6a21a9ec7c",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Tainan City",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9ac2ae26-5042-4202-86c7-b475e2e7fc70",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "臺南市，台南市",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "fb55ba35-2ad5-4a67-8f7e-2be41712bc26",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Город Новый Тайбэй"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "cb292243-6bfa-45d8-89e3-5a2e1ee039bd",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "新北市",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "922eb651-cce5-4883-a014-5cc358d82ba0",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Xīnběi",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "18fd8ed6-5f7a-4d7f-911e-04ac3cc535af",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "New Taipei City",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "bd112ae8-00f6-40a7-86f3-aaae65436617",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Город Таоюань"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c34ded24-0001-4a21-b4b4-0f614922b6e6",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "桃園市",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e5e7abe7-c710-46de-9ff9-9dca4641fce2",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Táoyuán",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b5d8a712-ac7e-4c97-acd9-40fe87088ca8",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Taoyuan City",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c6752ccd-8c27-43f4-9ade-208280ce70c7",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Город Тайбэй"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c2458fbc-95ba-4596-afb2-03080acd1e2b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "臺北市，台北市",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8074f335-ba85-453d-96d8-8b28d9d28f3f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Taipei City",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "33640700-1569-4027-b7c0-2ea0d1b5cc72",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Táiběi",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0a87bb3c-ccbe-46fc-970f-3edf9bcfabea",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Город Тайчжун"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8bc1c1a8-5111-4987-9e71-11349dd2bac1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Taichung City",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4e60a11e-ef68-4d91-8747-5cfe132a8ed8",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "臺中市，台中市",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0c97fdca-bca8-435c-933d-4e1f225fd432",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Táizhōng",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3cb0007e-530b-4876-8694-3f32500788f1",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b71aca28-0575-4b68-a536-052e3af7e6a6",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_27.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2bfe0a46-7e8c-4493-8588-f634655185e6",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "987b925e-f41b-4c22-8b25-344bbfec00ef",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_27.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "bc3c75ff-1ee0-4797-a7cc-435fa5f22f17",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3608"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "69bb18f8-c311-4650-a388-6ed1e6357ec4",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 50508
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8f299180-a642-4234-885a-95c1cb32c517",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1744264947
+                },
+                "status": "approved"
+            },
+            {
+                "id": "947592b4-af1a-4a9f-b20e-de76624cf8d7",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1744264947
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4c859b6f-6ff0-48cd-95d7-e84d4d8651a3",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1744264947
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3b979e0b-db94-4794-bb3e-52d45a410265",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/6cb1/c2ad/table_27.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1ede32ca-72c1-486e-be5e-356e2e98b68d",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f7003df9-6805-481b-97b1-dc5f33d1ab01",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "24131",
+                "value": "ОК-97651768",
+                "id": "76734a74-aff5-4ced-88c5-6347d055c3b8",
+                "source": "00f3d4d7-6eb8-42a6-a7c5-60a124a40fdd",
+                "target": "0b4a1e01-e7f8-45ef-9d5e-b1e109f3da1f"
+            },
+            {
+                "status": "approved",
+                "type_id": "1384",
+                "value": "ОК-97651754",
+                "id": "fb5eea8d-9a0b-4945-8463-dca3df9e6057",
+                "source": "b7966ff6-c61a-41af-bfc4-94fde25fbbf5",
+                "target": "f44f1131-463e-4a31-8634-c3c399602464"
+            },
+            {
+                "status": "approved",
+                "type_id": "1384",
+                "value": "ОК-97651764",
+                "id": "6b50fb32-45bf-473a-af17-3f192fd76b48",
+                "source": "00f3d4d7-6eb8-42a6-a7c5-60a124a40fdd",
+                "target": "9fc509b5-7e27-44b8-9f35-2fdc57f455ae"
+            },
+            {
+                "status": "approved",
+                "type_id": "24131",
+                "value": "ОК-97651765",
+                "id": "a1617de3-6795-47ea-86ba-a4582739cac5",
+                "source": "b7966ff6-c61a-41af-bfc4-94fde25fbbf5",
+                "target": "5140d8cf-6529-4cdb-8d62-9fe14f5f584b"
+            },
+            {
+                "status": "approved",
+                "type_id": "24111",
+                "value": "ОК-97651766",
+                "id": "a07ddd9c-3685-452e-aea4-250082512844",
+                "source": "b7966ff6-c61a-41af-bfc4-94fde25fbbf5",
+                "target": "20aab084-aa72-43e6-b8c8-4f97742759b7"
+            },
+            {
+                "status": "approved",
+                "type_id": "24129",
+                "value": "ОК-97651767",
+                "id": "035bb1a4-16f3-4bf2-a3c2-eee3ebfb07ed",
+                "source": "b7966ff6-c61a-41af-bfc4-94fde25fbbf5",
+                "target": "56632360-3f81-445b-b3fd-02e18096dbee"
+            },
+            {
+                "status": "approved",
+                "type_id": "24129",
+                "value": "ОК-97651769",
+                "id": "8ac05d7e-cbe7-456b-9869-6a9e69ddaf9f",
+                "source": "00f3d4d7-6eb8-42a6-a7c5-60a124a40fdd",
+                "target": "98d1ccef-c873-425b-b149-1f6a21a9ec7c"
+            },
+            {
+                "status": "approved",
+                "type_id": "24111",
+                "value": "ОК-97651770",
+                "id": "2640c25b-4712-45b0-94c7-811c9b2c4e14",
+                "source": "00f3d4d7-6eb8-42a6-a7c5-60a124a40fdd",
+                "target": "9ac2ae26-5042-4202-86c7-b475e2e7fc70"
+            },
+            {
+                "status": "approved",
+                "type_id": "1384",
+                "value": "ОК-97651756",
+                "id": "49946e65-c7b7-4713-9dbf-5916ec866d94",
+                "source": "ddfc2294-7295-432b-9736-16f26e49f3c8",
+                "target": "fb55ba35-2ad5-4a67-8f7e-2be41712bc26"
+            },
+            {
+                "status": "approved",
+                "type_id": "24111",
+                "value": "ОК-97651771",
+                "id": "75e15f6d-4d92-4276-b0cb-baaacb751eec",
+                "source": "ddfc2294-7295-432b-9736-16f26e49f3c8",
+                "target": "cb292243-6bfa-45d8-89e3-5a2e1ee039bd"
+            },
+            {
+                "status": "approved",
+                "type_id": "24131",
+                "value": "ОК-97651772",
+                "id": "4046f510-5679-47a5-9991-0a0aa59b93b1",
+                "source": "ddfc2294-7295-432b-9736-16f26e49f3c8",
+                "target": "922eb651-cce5-4883-a014-5cc358d82ba0"
+            },
+            {
+                "status": "approved",
+                "type_id": "24129",
+                "value": "ОК-97651773",
+                "id": "acf88073-2f56-40cf-bf93-dc4d5b042e45",
+                "source": "ddfc2294-7295-432b-9736-16f26e49f3c8",
+                "target": "18fd8ed6-5f7a-4d7f-911e-04ac3cc535af"
+            },
+            {
+                "status": "approved",
+                "type_id": "1384",
+                "value": "ОК-97651760",
+                "id": "8a3712e5-f1ba-47cd-b1dd-1cfe9575b6d8",
+                "source": "1eabefaf-4006-433f-92ba-a26847580949",
+                "target": "bd112ae8-00f6-40a7-86f3-aaae65436617"
+            },
+            {
+                "status": "approved",
+                "type_id": "24111",
+                "value": "ОК-97651774",
+                "id": "73e9109e-6d30-44ab-95fc-d56ea082c71e",
+                "source": "1eabefaf-4006-433f-92ba-a26847580949",
+                "target": "c34ded24-0001-4a21-b4b4-0f614922b6e6"
+            },
+            {
+                "status": "approved",
+                "type_id": "24131",
+                "value": "ОК-97651775",
+                "id": "a47be4ae-f671-4354-9ee9-6af0386d03a8",
+                "source": "1eabefaf-4006-433f-92ba-a26847580949",
+                "target": "e5e7abe7-c710-46de-9ff9-9dca4641fce2"
+            },
+            {
+                "status": "approved",
+                "type_id": "24129",
+                "value": "ОК-97651776",
+                "id": "b5005364-d3cb-47b2-b71c-0c3eb8ac9673",
+                "source": "1eabefaf-4006-433f-92ba-a26847580949",
+                "target": "b5d8a712-ac7e-4c97-acd9-40fe87088ca8"
+            },
+            {
+                "status": "approved",
+                "type_id": "1384",
+                "value": "ОК-97651758",
+                "id": "67438ed6-b6fa-4a07-b684-97e41fcb7c20",
+                "source": "534b531f-3f5f-4544-b4e5-78d56dd306a0",
+                "target": "c6752ccd-8c27-43f4-9ade-208280ce70c7"
+            },
+            {
+                "status": "approved",
+                "type_id": "24111",
+                "value": "ОК-97651777",
+                "id": "66c1b7d9-6d21-4530-9130-d6d8b1bcea27",
+                "source": "534b531f-3f5f-4544-b4e5-78d56dd306a0",
+                "target": "c2458fbc-95ba-4596-afb2-03080acd1e2b"
+            },
+            {
+                "status": "approved",
+                "type_id": "24129",
+                "value": "ОК-97651778",
+                "id": "4d1b87bf-8502-4e75-b0b0-8847f2f02f08",
+                "source": "534b531f-3f5f-4544-b4e5-78d56dd306a0",
+                "target": "8074f335-ba85-453d-96d8-8b28d9d28f3f"
+            },
+            {
+                "status": "approved",
+                "type_id": "24131",
+                "value": "ОК-97651779",
+                "id": "b86dcd4b-ff61-42aa-9c20-b7df54d5a8d9",
+                "source": "534b531f-3f5f-4544-b4e5-78d56dd306a0",
+                "target": "33640700-1569-4027-b7c0-2ea0d1b5cc72"
+            },
+            {
+                "status": "approved",
+                "type_id": "1384",
+                "value": "ОК-97651762",
+                "id": "2c08200d-c2ac-4416-9e59-428c61a26a6f",
+                "source": "e7375cdb-addc-4f83-8d06-f46bf3cac059",
+                "target": "0a87bb3c-ccbe-46fc-970f-3edf9bcfabea"
+            },
+            {
+                "status": "approved",
+                "type_id": "24129",
+                "value": "ОК-97651780",
+                "id": "8f518c19-22d1-4c3b-9642-ff0c9e7a5981",
+                "source": "e7375cdb-addc-4f83-8d06-f46bf3cac059",
+                "target": "8bc1c1a8-5111-4987-9e71-11349dd2bac1"
+            },
+            {
+                "status": "approved",
+                "type_id": "24111",
+                "value": "ОК-97651781",
+                "id": "697d657e-96ad-4414-a346-47d9b7852369",
+                "source": "e7375cdb-addc-4f83-8d06-f46bf3cac059",
+                "target": "4e60a11e-ef68-4d91-8747-5cfe132a8ed8"
+            },
+            {
+                "status": "approved",
+                "type_id": "24131",
+                "value": "ОК-97651782",
+                "id": "cdd3a2e2-e3f5-4faa-8ca9-24aa804ce13c",
+                "source": "e7375cdb-addc-4f83-8d06-f46bf3cac059",
+                "target": "0c97fdca-bca8-435c-933d-4e1f225fd432"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-97651741",
+                "id": "d4b23dcb-b4c2-4b41-8785-ec822f28d5a9",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "3cb0007e-530b-4876-8694-3f32500788f1"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-97651742",
+                "id": "f95f6d65-d585-4f74-86f6-5790c9940a3d",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "b71aca28-0575-4b68-a536-052e3af7e6a6"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-97651743",
+                "id": "b18c5cb9-2340-4d16-a3a2-f75378307c39",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "2bfe0a46-7e8c-4493-8588-f634655185e6"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-97651744",
+                "id": "7ad2e9a7-5e77-4d09-bcb1-90a2dce71ac7",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "987b925e-f41b-4c22-8b25-344bbfec00ef"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-97651745",
+                "id": "9f539499-fc8c-473e-b22d-233fee947c55",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "bc3c75ff-1ee0-4797-a7cc-435fa5f22f17"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-97651746",
+                "id": "e8bb2d84-4e9d-4c5c-be0b-7d7af7f6a9f6",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "69bb18f8-c311-4650-a388-6ed1e6357ec4"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-97651747",
+                "id": "4a923cb1-1e08-42e0-a44f-d66ca5f85ed1",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "8f299180-a642-4234-885a-95c1cb32c517"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-97651748",
+                "id": "f3f5f773-262f-4625-8a0f-fcbb06f8090f",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "947592b4-af1a-4a9f-b20e-de76624cf8d7"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-97651749",
+                "id": "c68129ec-b37d-4c74-b250-2581b948ce4e",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "4c859b6f-6ff0-48cd-95d7-e84d4d8651a3"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-97651750",
+                "id": "a512cf15-956e-4fd4-8f06-9393f09dc511",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "3b979e0b-db94-4794-bb3e-52d45a410265"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-97651751",
+                "id": "caf95fd7-efc8-46f5-9cee-f83344030518",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "1ede32ca-72c1-486e-be5e-356e2e98b68d"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-97651752",
+                "id": "579d8f68-b55f-4e94-ac20-b70a852be2be",
+                "source": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674",
+                "target": "f7003df9-6805-481b-97b1-dc5f33d1ab01"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8c10a187-d845-4dba-8463-9ddd1ace8bef",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "98d1ccef-c873-425b-b149-1f6a21a9ec7c",
+                "id": "1d4900f3-eb66-44cf-9ce6-a1d78e19741d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9f5d8553-4a3b-485f-8c81-7a6e568eb665",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "0b4a1e01-e7f8-45ef-9d5e-b1e109f3da1f",
+                "id": "4d047dc0-ec78-4522-bdb9-ff7e4408e7c2"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ae6ba8cc-0769-4b20-b3ec-d608385cbffe",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "9ac2ae26-5042-4202-86c7-b475e2e7fc70",
+                "id": "bd758cdc-48d0-431c-a5f6-661c68e8cb07"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "41377ea1-a61c-4588-afa3-84bacddbc69b",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "56632360-3f81-445b-b3fd-02e18096dbee",
+                "id": "799c040c-ea7e-4c4f-8b5f-052e2efe7282"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e43eb075-188e-465c-832f-0399e6ca08cd",
+                    "start": 0,
+                    "end": 8
+                },
+                "value": "5140d8cf-6529-4cdb-8d62-9fe14f5f584b",
+                "id": "cc8c9c2d-f6ac-41c1-b380-a28b3fe3b5fc"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "2b20c3c4-b576-435f-9b87-000bdd83770f",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "20aab084-aa72-43e6-b8c8-4f97742759b7",
+                "id": "8ff749d3-ba0f-4b92-a9a5-dd6881394ed2"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f82e2a7b-871f-4491-82a8-ed621902909d",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "33640700-1569-4027-b7c0-2ea0d1b5cc72",
+                "id": "99ea508d-8507-4bf0-b80e-659a64eba9bb"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "67660725-fc45-40db-a7d6-045ad618b397",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "c2458fbc-95ba-4596-afb2-03080acd1e2b",
+                "id": "356b2d9c-de0d-4342-b1a7-8f1fe58d90da"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8be994f3-6f65-4cfc-a542-417061e2f436",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "8074f335-ba85-453d-96d8-8b28d9d28f3f",
+                "id": "1d329155-800b-476e-aaae-09148019a188"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "bb6a115d-ed66-4421-bf4b-cd7ccb723c4c",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "b5d8a712-ac7e-4c97-acd9-40fe87088ca8",
+                "id": "73f77c01-5e04-4e38-a808-180537be5c05"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fa59e357-461d-481f-87a8-1417f5ad792d",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "e5e7abe7-c710-46de-9ff9-9dca4641fce2",
+                "id": "c635034f-52ba-4c2e-903e-931dda9f9cac"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "159bff93-83ff-448b-8eb0-824ba76f5c00",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "c34ded24-0001-4a21-b4b4-0f614922b6e6",
+                "id": "6ad8216c-12b3-4aae-b321-0a3a6064b700"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cd5bb054-1da3-4131-92f1-36d2260ca52b",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "4e60a11e-ef68-4d91-8747-5cfe132a8ed8",
+                "id": "56bf4c49-9c87-4af7-9cc9-3d31629e6d1d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e5d149b9-beac-4f05-aaf2-083b9befda67",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "8bc1c1a8-5111-4987-9e71-11349dd2bac1",
+                "id": "bb2a934d-d91c-49c2-b99b-2881c9144584"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cbc63749-0f05-45c6-a021-32f8635286da",
+                    "start": 0,
+                    "end": 8
+                },
+                "value": "0c97fdca-bca8-435c-933d-4e1f225fd432",
+                "id": "faf27211-1a67-454b-a478-61a9a1a68ab9"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e2a371b2-0201-4882-9a91-a741ff9fda14",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "18fd8ed6-5f7a-4d7f-911e-04ac3cc535af",
+                "id": "0e3b68c8-f134-4634-8d9f-f899a96ac1e6"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0f777439-1df4-46c3-a501-42ea2068534c",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "922eb651-cce5-4883-a014-5cc358d82ba0",
+                "id": "90679557-9a4f-408e-9596-81e09b1118cc"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9afff035-45e1-4407-9e90-ed1fc8faa2c7",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "cb292243-6bfa-45d8-89e3-5a2e1ee039bd",
+                "id": "fb392ba9-bfbc-4324-ad47-d359edac80e3"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "583ff5bb-ba21-4289-a52e-655d82ed8844",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "0a87bb3c-ccbe-46fc-970f-3edf9bcfabea",
+                "id": "1450c62d-f5e3-4fb8-8162-2158c0d37b70"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f5e0f7b3-6149-4b96-ada4-42e63a1de4fb",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "bd112ae8-00f6-40a7-86f3-aaae65436617",
+                "id": "1db7324f-eff9-4156-b7f5-1ae3d85cf730"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "85ef6955-a3cf-453f-b793-fda423bc8d53",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "f44f1131-463e-4a31-8634-c3c399602464",
+                "id": "7f875b61-47d9-499b-aaf6-a30c9fb76e98"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "da7cec10-5f40-441f-90cd-2fe487dc00d4",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "c6752ccd-8c27-43f4-9ade-208280ce70c7",
+                "id": "95142e1f-a62d-41ea-9529-ca5548b51c28"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8de797e6-5e07-4da6-a570-0ad3a0c941b5",
+                    "start": 0,
+                    "end": 18
+                },
+                "value": "fb55ba35-2ad5-4a67-8f7e-2be41712bc26",
+                "id": "c0182933-a200-4944-a912-3f88923ae426"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4a3a23e3-c2a2-45d2-b70c-bb1d09fafa1b",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "9fc509b5-7e27-44b8-9f35-2fdc57f455ae",
+                "id": "d14decf0-4708-43b0-b37f-2e9c24f72095"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_27.docx",
+        "file_name": "table_27.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 50508,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1744264947,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/6cb1%2Fc2ad%2Ftable_27.docx",
+        "markers": [],
+        "account": [],
+        "story": "6cb1c2ad-ff0f-42bb-b8a4-5f875c7c1674"
+    }
+}

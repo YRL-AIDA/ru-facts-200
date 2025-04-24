@@ -1,0 +1,5011 @@
+{
+    "id": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+	"VERSION":"1.0",
+    "main_node": "e10d286e-186c-405e-913f-7257e8fdfda8",
+    "content": [
+        {
+            "type": "text",
+            "id": "e10d286e-186c-405e-913f-7257e8fdfda8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "f60b2362-2841-469b-b7ee-57c18d480176"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f60b2362-2841-469b-b7ee-57c18d480176",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "271f8d39-72f7-44e0-a9e5-e68c1709de21"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "271f8d39-72f7-44e0-a9e5-e68c1709de21",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b6c3ef7a-241b-4673-b3f1-9dd5d6649f18",
+                "9025bd68-0ed1-45a5-9b46-f3c10c73e9c6",
+                "44833ed8-27f7-40fa-8e5c-867e41aff4a5",
+                "edca8122-e85f-425d-b19a-442a384437cd",
+                "c2d7163a-ca4a-49c7-9745-0532dc2bf9d3",
+                "3e0cfcd2-573f-445c-b5f2-4745aa96deb3",
+                "1027f004-7d20-41b0-ad7c-4eba7a8916d6",
+                "7848605f-28cf-4574-b900-0d2877546287",
+                "df6a14c1-e704-472d-8893-f92f922f539c",
+                "b266ede0-5497-4272-b06c-2a9d7e426b1e",
+                "09dc31dd-665a-4d44-8d39-fc0f950a68ae",
+                "edf0be4a-de2a-443b-af87-cd0e8581f9d9",
+                "a02abde1-33d7-4446-91a8-604d860c09b6",
+                "7673cfc2-3a06-4c30-9385-a3211403405b",
+                "cc1dbdf2-09ad-41bc-b3ec-53548dd3be63",
+                "98cdd95e-85c2-4bd3-8388-cfdf1c5e869d",
+                "071b2377-bed1-456f-b338-ba5c840ac979",
+                "4d21b997-6452-451d-a3c6-f9b6a9e4c7f0",
+                "7fd860c9-9005-4755-97db-2234de739448"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "b6c3ef7a-241b-4673-b3f1-9dd5d6649f18",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "276e6b91-995e-4216-b864-407daee1ecc0",
+                "b0ec238e-9175-4a10-ac8b-e802f13b6c1f",
+                "a71c4550-529f-4928-a7a1-cc8a412c7e63",
+                "38985be1-994a-4830-acc3-60bd7699706e",
+                "58dd15e6-92ea-4dd4-b7e7-76d62af6977e",
+                "f60e4a03-c968-406f-914c-f2a4892f51e0",
+                "630a4ad6-04b6-4ebf-8ee4-7a640eb507b2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "276e6b91-995e-4216-b864-407daee1ecc0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d76b4d9e-510f-4b02-96b3-99950535ab86"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d76b4d9e-510f-4b02-96b3-99950535ab86",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Статистика[7][8]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b0ec238e-9175-4a10-ac8b-e802f13b6c1f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "44bcc238-0782-4baa-be3b-ad6ff5b17e07"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "44bcc238-0782-4baa-be3b-ad6ff5b17e07",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Статистика[7][8]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a71c4550-529f-4928-a7a1-cc8a412c7e63",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7341d62a-0732-47bd-b68c-1d7f09a418b6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7341d62a-0732-47bd-b68c-1d7f09a418b6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Статистика[7][8]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "38985be1-994a-4830-acc3-60bd7699706e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "74b5f792-519a-492f-a8a6-c4da3b8a4d66"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "74b5f792-519a-492f-a8a6-c4da3b8a4d66",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Статистика[7][8]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "58dd15e6-92ea-4dd4-b7e7-76d62af6977e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "5b8cabf7-bd48-4296-99a3-4bf172056852"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5b8cabf7-bd48-4296-99a3-4bf172056852",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Статистика[7][8]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f60e4a03-c968-406f-914c-f2a4892f51e0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "54d0aa97-552e-4230-aff1-3206c8ec07b5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "54d0aa97-552e-4230-aff1-3206c8ec07b5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Статистика[7][8]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "630a4ad6-04b6-4ebf-8ee4-7a640eb507b2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "aeebe860-27d1-454d-b710-95fb0154f439"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "aeebe860-27d1-454d-b710-95fb0154f439",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Статистика[7][8]",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "9025bd68-0ed1-45a5-9b46-f3c10c73e9c6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "3064d464-568b-42bf-a5a3-8fb000bce97c",
+                "3d3c7c35-dfab-4923-b4cf-ecefc4da8f7c",
+                "01065ab0-8f20-4be9-91ff-fc460c760dc4",
+                "e7ba85f3-f4cf-4af5-94e3-a24539150d0e",
+                "965e197d-79ce-46cb-951c-907fdf0479a7",
+                "925cab65-4767-453e-ad9b-04899c7568ea",
+                "8bc40eba-d800-467d-bffd-461621a9294d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3064d464-568b-42bf-a5a3-8fb000bce97c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "860302c1-8e79-44e1-b061-3094891bd707"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "860302c1-8e79-44e1-b061-3094891bd707",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "№",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3d3c7c35-dfab-4923-b4cf-ecefc4da8f7c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2288f900-8a79-4c20-a078-d8f4fccc5982"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2288f900-8a79-4c20-a078-d8f4fccc5982",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Дата",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "01065ab0-8f20-4be9-91ff-fc460c760dc4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "c4fc8b88-c159-4f20-b1e1-06b6a7da6b2c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c4fc8b88-c159-4f20-b1e1-06b6a7da6b2c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Место проведения",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e7ba85f3-f4cf-4af5-94e3-a24539150d0e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d96f2a27-a5ff-40f6-8e92-c53756638c4a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d96f2a27-a5ff-40f6-8e92-c53756638c4a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Соперник",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "965e197d-79ce-46cb-951c-907fdf0479a7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "9248c283-8674-4b18-9dae-0662d76a0fd5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9248c283-8674-4b18-9dae-0662d76a0fd5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Счёт",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "925cab65-4767-453e-ad9b-04899c7568ea",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "4ae7fa89-b341-4438-b9cd-dbec0ed1c9ab"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4ae7fa89-b341-4438-b9cd-dbec0ed1c9ab",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Голы",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8bc40eba-d800-467d-bffd-461621a9294d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d5d644d0-deab-475e-afd4-17d755e04abb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d5d644d0-deab-475e-afd4-17d755e04abb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Соревнование",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "44833ed8-27f7-40fa-8e5c-867e41aff4a5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "9c4c3c1f-75b6-4125-a308-182e747fcf2e",
+                "abaeab31-fbc5-4f1f-a8e2-e76b6a4d4fb5",
+                "febe6758-4c05-454b-8f63-e64a92a05da1",
+                "4fad7f23-69ae-4de2-8052-445d39c50599",
+                "de929b63-1157-47c8-ba1f-b5dc7f8d94dd",
+                "f6a0c2bb-82bc-4d73-aff0-a6edd4ca052e",
+                "c4025bb3-80df-4761-9334-5378f73d8d4e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9c4c3c1f-75b6-4125-a308-182e747fcf2e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e7aa1238-754f-4a5c-be29-6893a6bdadc2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e7aa1238-754f-4a5c-be29-6893a6bdadc2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "abaeab31-fbc5-4f1f-a8e2-e76b6a4d4fb5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6186ef77-57fa-40da-a20f-e9cbc67b2965"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6186ef77-57fa-40da-a20f-e9cbc67b2965",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "5 февраля 1986",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "febe6758-4c05-454b-8f63-e64a92a05da1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "aba8e158-f57f-4970-8be1-1ef8db1db889"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "aba8e158-f57f-4970-8be1-1ef8db1db889",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "«Оранж Боул», Майами, США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4fad7f23-69ae-4de2-8052-445d39c50599",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a3f4b536-fac9-4600-ab56-05545c1da28a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a3f4b536-fac9-4600-ab56-05545c1da28a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Канада",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "de929b63-1157-47c8-ba1f-b5dc7f8d94dd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5399654c-a95f-4b15-9fa8-8a857355a823"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5399654c-a95f-4b15-9fa8-8a857355a823",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "0:0",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f6a0c2bb-82bc-4d73-aff0-a6edd4ca052e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fc99332d-f369-4250-b147-963c14ec6b8a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fc99332d-f369-4250-b147-963c14ec6b8a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c4025bb3-80df-4761-9334-5378f73d8d4e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b23c8a56-b337-4262-a694-74e0c477d83d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b23c8a56-b337-4262-a694-74e0c477d83d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Турнир Майами",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "edca8122-e85f-425d-b19a-442a384437cd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "28f9daf7-4526-45b6-ad34-62106cbba5d9",
+                "5e524a43-ee77-46d7-bece-649bf0614c89",
+                "f0999cc0-29ae-4ceb-a12a-d9ac39812f2e",
+                "559a072e-ff95-42cb-8af9-92498862d64c",
+                "a8442e40-7a72-43a8-97a2-4903f355a13b",
+                "fbfdb3f0-ce4f-4367-9d84-8a83117d081b",
+                "792baf6e-84a2-490f-8442-73af218b5bd1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "28f9daf7-4526-45b6-ad34-62106cbba5d9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "acf87672-210b-47f4-aed0-06d4b25b6ab5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "acf87672-210b-47f4-aed0-06d4b25b6ab5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5e524a43-ee77-46d7-bece-649bf0614c89",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0d869251-c8e7-4ad7-83b2-8656f5b033df"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0d869251-c8e7-4ad7-83b2-8656f5b033df",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "7 февраля 1986",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f0999cc0-29ae-4ceb-a12a-d9ac39812f2e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fc9d2a7b-0f2f-4556-b16a-75d4be893a88"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fc9d2a7b-0f2f-4556-b16a-75d4be893a88",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "«Оранж Боул», Майами, США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "559a072e-ff95-42cb-8af9-92498862d64c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e42fb00a-17e4-4687-a94a-1e106773e03b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e42fb00a-17e4-4687-a94a-1e106773e03b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Уругвай",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a8442e40-7a72-43a8-97a2-4903f355a13b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "35faae93-7d4e-4811-bf93-33334a94017d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "35faae93-7d4e-4811-bf93-33334a94017d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1:1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fbfdb3f0-ce4f-4367-9d84-8a83117d081b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1bc22ac1-be5b-494d-b385-83874e755128"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1bc22ac1-be5b-494d-b385-83874e755128",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "792baf6e-84a2-490f-8442-73af218b5bd1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "631c81ef-2436-4236-b482-6d2c092d061d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "631c81ef-2436-4236-b482-6d2c092d061d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Турнир Майами",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "c2d7163a-ca4a-49c7-9745-0532dc2bf9d3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "cc211471-b411-4911-ac04-38e270f0fe26",
+                "9176d760-2f04-4b48-b4ec-7b09d82e4c4c",
+                "f1d06493-6c5d-438a-999d-dd78d289804a",
+                "d88a1765-012a-4657-bfe9-df8f94f3171c",
+                "eec81705-ac2d-489e-8189-8cab09cee1c6",
+                "273495c1-06bf-4d29-b98a-3eceaa5eda0b",
+                "21bb5ddc-e064-4eed-8938-876970832fe1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cc211471-b411-4911-ac04-38e270f0fe26",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "30519ffc-1a75-4c78-ba63-bae351537ff5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "30519ffc-1a75-4c78-ba63-bae351537ff5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9176d760-2f04-4b48-b4ec-7b09d82e4c4c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "58205335-5d5c-4b9a-bad4-4cf24fa21cc9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "58205335-5d5c-4b9a-bad4-4cf24fa21cc9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "23 мая 1987",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f1d06493-6c5d-438a-999d-dd78d289804a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9d284001-d2b8-48c0-b213-5234658dc3a6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9d284001-d2b8-48c0-b213-5234658dc3a6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Сент-Джонс, Канада",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d88a1765-012a-4657-bfe9-df8f94f3171c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e89de757-cb00-4a59-9736-c8dd58c65486"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e89de757-cb00-4a59-9736-c8dd58c65486",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Канада",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "eec81705-ac2d-489e-8189-8cab09cee1c6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "312c7697-9223-4930-bee8-a565819c2f1a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "312c7697-9223-4930-bee8-a565819c2f1a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "0:2",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "273495c1-06bf-4d29-b98a-3eceaa5eda0b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f11e7e94-5239-4ec8-a899-c42b27dc9cbe"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f11e7e94-5239-4ec8-a899-c42b27dc9cbe",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "21bb5ddc-e064-4eed-8938-876970832fe1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "92c6ba59-9a31-4278-a775-9fe36b4dcd11"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "92c6ba59-9a31-4278-a775-9fe36b4dcd11",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Квалификация Предолимпийского турнира КОНКАКАФ 1988",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "3e0cfcd2-573f-445c-b5f2-4745aa96deb3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "933f97fe-f146-4bd8-a589-47e90268590d",
+                "85182e5e-786c-4c69-b49b-7e62dbf4ddc0",
+                "9e0300a3-7fec-4752-8528-ab64389bb4e3",
+                "70b7baef-4aa0-4b04-908b-4d0d2de71a4e",
+                "8d1d5124-1edc-4ee7-9660-976abcc36c92",
+                "79136e4a-eacf-4cff-834a-90b258fb4e04",
+                "7a782c5b-8774-448a-9b24-c0a705d26c1a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "933f97fe-f146-4bd8-a589-47e90268590d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b00871ef-9ed7-4487-abf3-57ecb8cc70b4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b00871ef-9ed7-4487-abf3-57ecb8cc70b4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "85182e5e-786c-4c69-b49b-7e62dbf4ddc0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a7f58d4b-39b4-4c47-adb7-e170bdf0c507"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a7f58d4b-39b4-4c47-adb7-e170bdf0c507",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "30 мая 1987",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9e0300a3-7fec-4752-8528-ab64389bb4e3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "70e65590-69ae-46b1-ada4-8c1e57b99e5e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "70e65590-69ae-46b1-ada4-8c1e57b99e5e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Фентон, США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "70b7baef-4aa0-4b04-908b-4d0d2de71a4e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "57044d50-d5fa-4895-ac32-1e783e73a951"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "57044d50-d5fa-4895-ac32-1e783e73a951",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Канада",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8d1d5124-1edc-4ee7-9660-976abcc36c92",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2677d433-96e4-4945-84ca-bcb75c9998c6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2677d433-96e4-4945-84ca-bcb75c9998c6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "3:0",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "79136e4a-eacf-4cff-834a-90b258fb4e04",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "307f3b5c-429f-42c8-85eb-82896597d271"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "307f3b5c-429f-42c8-85eb-82896597d271",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7a782c5b-8774-448a-9b24-c0a705d26c1a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b63c035a-80a9-4e47-869a-a80ea5e9cb2f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b63c035a-80a9-4e47-869a-a80ea5e9cb2f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Квалификация Предолимпийского турнира КОНКАКАФ 1988",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "1027f004-7d20-41b0-ad7c-4eba7a8916d6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2f794cc8-a30e-46fa-965a-7a466785b881",
+                "818b2945-b09c-4efd-9470-8ea1bdb06331",
+                "54118bbe-d9d0-4dcb-be5e-d73e69b75078",
+                "2778306e-b2ab-4cef-9b73-4df78747289e",
+                "909e420e-a863-4b5a-81c0-06eb44c06bae",
+                "36c277ac-f722-45e6-925b-ec40c7ed3127",
+                "be97d09e-fa40-4c7a-8f5d-11bb33958b95"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2f794cc8-a30e-46fa-965a-7a466785b881",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "779d9f54-b771-476f-ad3e-330fd061784f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "779d9f54-b771-476f-ad3e-330fd061784f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "818b2945-b09c-4efd-9470-8ea1bdb06331",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4015c2fd-86f7-42c9-8920-5e5f10c86893"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4015c2fd-86f7-42c9-8920-5e5f10c86893",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "5 сентября 1987",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "54118bbe-d9d0-4dcb-be5e-d73e69b75078",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "165fe983-b73c-4bd4-829d-b0db2ef00ec1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "165fe983-b73c-4bd4-829d-b0db2ef00ec1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Фентон, США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2778306e-b2ab-4cef-9b73-4df78747289e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4724168e-0348-4a0a-8afe-4e10180dd14e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4724168e-0348-4a0a-8afe-4e10180dd14e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Тринидад и Тобаго",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "909e420e-a863-4b5a-81c0-06eb44c06bae",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c5e3535f-a371-4c02-b498-9c564f65070e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c5e3535f-a371-4c02-b498-9c564f65070e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "4:1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "36c277ac-f722-45e6-925b-ec40c7ed3127",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c1e84a6a-0640-466c-be26-1a031ddf6929"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c1e84a6a-0640-466c-be26-1a031ddf6929",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "3",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "be97d09e-fa40-4c7a-8f5d-11bb33958b95",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "124217a9-2c32-43ac-92b3-a2b3800dccaa"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "124217a9-2c32-43ac-92b3-a2b3800dccaa",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Предолимпийский турнир КОНКАКАФ 1988",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "7848605f-28cf-4574-b900-0d2877546287",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "cf575e11-2505-4071-b760-8ef94913e392",
+                "0cab2847-a09c-4e21-b590-40fd808e82e3",
+                "3e909e46-6ff9-430a-b2dc-47dca6b9219c",
+                "7367c442-0d39-4a3a-8d11-77d008299e41",
+                "d1036c76-4561-4dc1-8f87-ed8cb78fa557",
+                "6285846c-2581-4e4f-a16f-a3b454c976b2",
+                "e5f28339-3b3d-4f8b-9d7e-9eb976ec8879"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cf575e11-2505-4071-b760-8ef94913e392",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ad353f14-2175-4dc9-b7d6-5c3708d1cd6b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ad353f14-2175-4dc9-b7d6-5c3708d1cd6b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0cab2847-a09c-4e21-b590-40fd808e82e3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4f7fc175-7321-47e3-9737-7f6eb8f1c1f5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4f7fc175-7321-47e3-9737-7f6eb8f1c1f5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "20 сентября 1987",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3e909e46-6ff9-430a-b2dc-47dca6b9219c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "53d2db69-09fa-47d6-9357-21112cc4ef96"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "53d2db69-09fa-47d6-9357-21112cc4ef96",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "«Куинс Парк Овал», Порт-оф-Спейн, Тринидад и Тобаго",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7367c442-0d39-4a3a-8d11-77d008299e41",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4f99ddb3-d3d5-4787-a07c-93ce38c5d5af"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4f99ddb3-d3d5-4787-a07c-93ce38c5d5af",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Тринидад и Тобаго",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d1036c76-4561-4dc1-8f87-ed8cb78fa557",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f46d3a3f-8774-4704-8b15-978794308c17"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f46d3a3f-8774-4704-8b15-978794308c17",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1:0",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6285846c-2581-4e4f-a16f-a3b454c976b2",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7394b21e-f2ef-4195-9b2c-20a8adcc0ec0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7394b21e-f2ef-4195-9b2c-20a8adcc0ec0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e5f28339-3b3d-4f8b-9d7e-9eb976ec8879",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "49e2ad41-f111-4e57-93e1-5fedf4542321"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "49e2ad41-f111-4e57-93e1-5fedf4542321",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Предолимпийский турнир КОНКАКАФ 1988",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "df6a14c1-e704-472d-8893-f92f922f539c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "365d587e-5bf0-4942-9312-a40f83618ed0",
+                "00ab25db-67b1-4d82-bcd0-ee374bc52905",
+                "9c08edf2-77d4-4a6b-88e1-7f8d68a734f4",
+                "7daf8bad-f404-445e-b3b0-c36523fe9894",
+                "7a8c9d11-7a89-4bea-9b3d-d2806cf7290e",
+                "8fd535c3-67e1-4547-b775-424c956e17e4",
+                "92c9a376-256f-49d3-827f-b0d7572ee9c4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "365d587e-5bf0-4942-9312-a40f83618ed0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ab1b769c-bd8b-49de-8485-0059c9786725"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ab1b769c-bd8b-49de-8485-0059c9786725",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "00ab25db-67b1-4d82-bcd0-ee374bc52905",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "32112b81-45d9-421a-a3e2-4c192470c09a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "32112b81-45d9-421a-a3e2-4c192470c09a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "18 октября 1987",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9c08edf2-77d4-4a6b-88e1-7f8d68a734f4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4b624ea8-f850-4b82-ada9-9c348cb59a8b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4b624ea8-f850-4b82-ada9-9c348cb59a8b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Сан-Сальвадор, Сальвадор",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7daf8bad-f404-445e-b3b0-c36523fe9894",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "31c7ac85-99ac-4410-8665-c05e2a7f50bd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "31c7ac85-99ac-4410-8665-c05e2a7f50bd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Сальвадор",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7a8c9d11-7a89-4bea-9b3d-d2806cf7290e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "de0e9950-40e1-4cb4-8662-5c687611217d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "de0e9950-40e1-4cb4-8662-5c687611217d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "4:2",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8fd535c3-67e1-4547-b775-424c956e17e4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0bdcbd9f-0529-49df-8a73-2a0f2e9b18ed"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0bdcbd9f-0529-49df-8a73-2a0f2e9b18ed",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "92c9a376-256f-49d3-827f-b0d7572ee9c4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ee2086b1-f895-48d0-ae14-2176c35d82a5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ee2086b1-f895-48d0-ae14-2176c35d82a5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Предолимпийский турнир КОНКАКАФ 1988",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "b266ede0-5497-4272-b06c-2a9d7e426b1e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "3fd534e9-eff8-46db-85f8-d5373832f161",
+                "5d9f9f84-25dc-48a0-9276-6bf8335866ac",
+                "1ce5082c-1358-420e-85b8-9637f4cffe81",
+                "7bf9e9ee-b790-4baa-a0da-1999c8abdf51",
+                "d1379f01-01e9-444a-8f27-b838009a6c15",
+                "37c240bc-54b5-4f50-9346-58754233ac47",
+                "9827bc30-a1fb-41bc-ad24-be136ed2003a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3fd534e9-eff8-46db-85f8-d5373832f161",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8138ef64-8ff6-4bbc-9070-79e14a87c03e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8138ef64-8ff6-4bbc-9070-79e14a87c03e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "3",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5d9f9f84-25dc-48a0-9276-6bf8335866ac",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3f2b2679-7757-4cf9-84c8-62baff9d4438"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3f2b2679-7757-4cf9-84c8-62baff9d4438",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "14 мая 1988",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1ce5082c-1358-420e-85b8-9637f4cffe81",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "18c6cdce-5f12-4cf3-baba-54d8b2f580a9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "18c6cdce-5f12-4cf3-baba-54d8b2f580a9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "«Оранж Боул», Майами, США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7bf9e9ee-b790-4baa-a0da-1999c8abdf51",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "931d6ce0-d8bc-407f-9dfa-179666b6ab29"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "931d6ce0-d8bc-407f-9dfa-179666b6ab29",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Колумбия",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d1379f01-01e9-444a-8f27-b838009a6c15",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "901846da-885b-4525-a884-04fb7bc3ba1b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "901846da-885b-4525-a884-04fb7bc3ba1b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "0:2",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "37c240bc-54b5-4f50-9346-58754233ac47",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "db056765-2245-414f-b56b-b3e6dead6779"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "db056765-2245-414f-b56b-b3e6dead6779",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9827bc30-a1fb-41bc-ad24-be136ed2003a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "eefeae02-ef7d-401f-8575-07310b26331a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "eefeae02-ef7d-401f-8575-07310b26331a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Товарищеский матч",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "09dc31dd-665a-4d44-8d39-fc0f950a68ae",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "89ddfb85-8efc-4659-9dab-37db9186c8eb",
+                "b00eb392-2a6b-4785-bdb1-0903f3eac772",
+                "7ed71fda-105c-4c28-b26b-e7a6149a50a6",
+                "1df23df1-8e79-451a-bcd5-c8a24c769e1c",
+                "cd7e789c-759f-49bd-87e7-fd291f20ccce",
+                "d9fd81fa-005a-456c-99bc-a2f592f17079",
+                "1ef5eff9-7387-4cdb-bce7-dae25baf88c5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "89ddfb85-8efc-4659-9dab-37db9186c8eb",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "61705655-7d21-4559-808f-7f8655f6c17e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "61705655-7d21-4559-808f-7f8655f6c17e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b00eb392-2a6b-4785-bdb1-0903f3eac772",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ecf612fa-db4f-4df5-ab01-3b683c068e5c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ecf612fa-db4f-4df5-ab01-3b683c068e5c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "25 мая 1988",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7ed71fda-105c-4c28-b26b-e7a6149a50a6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "67b7e8da-fbaa-48a0-8be9-769776b602f7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "67b7e8da-fbaa-48a0-8be9-769776b602f7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Индианаполис, США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1df23df1-8e79-451a-bcd5-c8a24c769e1c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f29f31f9-911e-4a7b-9757-577972089814"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f29f31f9-911e-4a7b-9757-577972089814",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Сальвадор",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cd7e789c-759f-49bd-87e7-fd291f20ccce",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9ebedbe6-7308-4102-8ea1-586b1edbd930"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9ebedbe6-7308-4102-8ea1-586b1edbd930",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "4:1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d9fd81fa-005a-456c-99bc-a2f592f17079",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d68f1d14-82c1-4905-9b8a-85c9f963f878"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d68f1d14-82c1-4905-9b8a-85c9f963f878",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1ef5eff9-7387-4cdb-bce7-dae25baf88c5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "374ef716-0817-41fa-9708-062bab50fa35"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "374ef716-0817-41fa-9708-062bab50fa35",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Предолимпийский турнир КОНКАКАФ 1988",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "edf0be4a-de2a-443b-af87-cd0e8581f9d9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d9f3d0eb-d7c4-4006-ad2e-230aeb4e8605",
+                "b41cb69e-8470-4895-9468-55325a47c08a",
+                "156fef52-ddb6-4865-b7f4-2874126d3914",
+                "693662b4-90a6-4bf6-8c83-6f4e75439efc",
+                "82a5002c-368f-4952-b2f8-b5170db06b60",
+                "a8fab89b-c7ce-4606-aaf9-50018375a88f",
+                "fec8849d-2c62-44c9-8fb8-529dc2868a05"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d9f3d0eb-d7c4-4006-ad2e-230aeb4e8605",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fa1a66ba-e7ec-4fcd-bf4f-372653fcef1c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fa1a66ba-e7ec-4fcd-bf4f-372653fcef1c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b41cb69e-8470-4895-9468-55325a47c08a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "249b9341-87ca-4228-9a06-a57a0a31778a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "249b9341-87ca-4228-9a06-a57a0a31778a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "18 сентября 1988",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "156fef52-ddb6-4865-b7f4-2874126d3914",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3c2ee43f-6272-48b8-a385-3f8d2d330029"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3c2ee43f-6272-48b8-a385-3f8d2d330029",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Гражданский стадион, Тэгу, Республика Корея",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "693662b4-90a6-4bf6-8c83-6f4e75439efc",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9a54bc34-bf3b-40e7-9bac-e710607fce4a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9a54bc34-bf3b-40e7-9bac-e710607fce4a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Аргентина",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "82a5002c-368f-4952-b2f8-b5170db06b60",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e37df1e0-f63d-4617-9297-83c6e8c3dc3b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e37df1e0-f63d-4617-9297-83c6e8c3dc3b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1:1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a8fab89b-c7ce-4606-aaf9-50018375a88f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e9d6ee31-6424-452d-b5be-c553bd5559e4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e9d6ee31-6424-452d-b5be-c553bd5559e4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fec8849d-2c62-44c9-8fb8-529dc2868a05",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "78e94790-92a8-48ac-a81f-9aa7ea36c8bd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "78e94790-92a8-48ac-a81f-9aa7ea36c8bd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Летние Олимпийские игры 1988",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "a02abde1-33d7-4446-91a8-604d860c09b6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "1d1ac056-b867-4a35-8e1a-106502ed837b",
+                "38812196-9122-4200-9254-3d99f82f1782",
+                "83d53fb9-1bab-435b-9655-092228225646",
+                "f2c12a2a-11b3-4781-9084-de926200560b",
+                "bf8544da-03ba-4523-9ae3-2eb6e49c1b59",
+                "b4fd8b58-d057-4200-b183-0dff0263945f",
+                "ebc5de9c-c621-4a85-92df-cdb40f66c740"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1d1ac056-b867-4a35-8e1a-106502ed837b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2bd99168-d078-4118-8935-4da3b26906b4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2bd99168-d078-4118-8935-4da3b26906b4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "38812196-9122-4200-9254-3d99f82f1782",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "930b8241-f1e6-450a-bb56-000738495acf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "930b8241-f1e6-450a-bb56-000738495acf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "20 сентября 1988",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "83d53fb9-1bab-435b-9655-092228225646",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "756c35a1-8292-4d5d-be69-789eec5920ea"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "756c35a1-8292-4d5d-be69-789eec5920ea",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "«Пусан Кудок», Пусан, Республика Корея",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f2c12a2a-11b3-4781-9084-de926200560b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f71db3f3-df7e-411d-b8d0-531933140ffa"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f71db3f3-df7e-411d-b8d0-531933140ffa",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Республика Корея",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bf8544da-03ba-4523-9ae3-2eb6e49c1b59",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d2f01f3d-87a2-4c2c-b64f-c59c43d7ee3b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d2f01f3d-87a2-4c2c-b64f-c59c43d7ee3b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "0:0",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b4fd8b58-d057-4200-b183-0dff0263945f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a39c9c61-5cc3-43bf-9ed0-27c8ab1d40c7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a39c9c61-5cc3-43bf-9ed0-27c8ab1d40c7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ebc5de9c-c621-4a85-92df-cdb40f66c740",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9078e3b0-80a1-4137-810b-66db85d17bbc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9078e3b0-80a1-4137-810b-66db85d17bbc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Летние Олимпийские игры 1988",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "7673cfc2-3a06-4c30-9385-a3211403405b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "39c34fe3-557e-4dad-a932-93c5e209faa7",
+                "066558ed-c146-4b3b-88a3-c531c9888b62",
+                "a6a6ce05-0898-48fe-ac83-4a58006638d6",
+                "545dcaf2-a814-4574-ae31-196224cd1159",
+                "0b24e224-a655-4981-9cdb-6fbef787ed58",
+                "52e54269-40db-4ef8-a645-c76cfed2edf5",
+                "d2ecfe53-47a3-4ca8-a87f-6cda1c7ba5b2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "39c34fe3-557e-4dad-a932-93c5e209faa7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a80aeac7-9f49-48b3-9aba-d3e12c208853"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a80aeac7-9f49-48b3-9aba-d3e12c208853",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "066558ed-c146-4b3b-88a3-c531c9888b62",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "74510bf9-c046-470c-ba41-25179a5f2a9f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "74510bf9-c046-470c-ba41-25179a5f2a9f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "22 сентября 1988",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a6a6ce05-0898-48fe-ac83-4a58006638d6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "159d9081-07cb-47e8-ab83-64d3c9e5810a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "159d9081-07cb-47e8-ab83-64d3c9e5810a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Гражданский стадион, Тэгу, Республика Корея",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "545dcaf2-a814-4574-ae31-196224cd1159",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2e5579b2-d108-43ae-be13-3dc5b27ae7a1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2e5579b2-d108-43ae-be13-3dc5b27ae7a1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0b24e224-a655-4981-9cdb-6fbef787ed58",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "167fa74c-467e-4b08-9eb8-054ffca850b7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "167fa74c-467e-4b08-9eb8-054ffca850b7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2:4",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "52e54269-40db-4ef8-a645-c76cfed2edf5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cff79ae0-2bcd-45e9-9f6c-8b9eb2d933b1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cff79ae0-2bcd-45e9-9f6c-8b9eb2d933b1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d2ecfe53-47a3-4ca8-a87f-6cda1c7ba5b2",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5fee6caf-3f09-4029-9fc0-2c544344c584"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5fee6caf-3f09-4029-9fc0-2c544344c584",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Летние Олимпийские игры 1988",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "cc1dbdf2-09ad-41bc-b3ec-53548dd3be63",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "239cd2e9-33fc-4159-b7ff-b70fbdec0a6f",
+                "09748479-fcfb-4a5d-8fe7-a03b147939a6",
+                "d7ad0ea5-1f88-4bb8-8f93-5b031b4ed935",
+                "158b836d-6447-4b42-aa67-428ac661c88e",
+                "d17d4858-9687-4cf6-a8e3-e20a801114d3",
+                "c20d31f9-b887-475c-a841-890d06cd4711",
+                "4abe9e92-8264-4680-b0c2-cbe0e3346c4c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "239cd2e9-33fc-4159-b7ff-b70fbdec0a6f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5f5f2332-ad63-488f-880f-29d24be4c81a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5f5f2332-ad63-488f-880f-29d24be4c81a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "4",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "09748479-fcfb-4a5d-8fe7-a03b147939a6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2d285bb0-9380-4916-b94d-762e7adbb078"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2d285bb0-9380-4916-b94d-762e7adbb078",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "16 апреля 1989",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d7ad0ea5-1f88-4bb8-8f93-5b031b4ed935",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "57d5c88e-3b2f-4b89-b1a1-fd4db9a7414f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "57d5c88e-3b2f-4b89-b1a1-fd4db9a7414f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "«Рикардо Саприсса», Сан-Хосе, Коста-Рика",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "158b836d-6447-4b42-aa67-428ac661c88e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9ab98857-4feb-49f7-bdc4-78e49b10f7b0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9ab98857-4feb-49f7-bdc4-78e49b10f7b0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Коста-Рика",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d17d4858-9687-4cf6-a8e3-e20a801114d3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "bd6d0027-9dce-4691-964a-77c18e0509a0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "bd6d0027-9dce-4691-964a-77c18e0509a0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "0:1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c20d31f9-b887-475c-a841-890d06cd4711",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6a705f3f-3022-4e1a-8748-889a31d26cf4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6a705f3f-3022-4e1a-8748-889a31d26cf4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4abe9e92-8264-4680-b0c2-cbe0e3346c4c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5eedc02e-ccee-413d-9364-6a9a2c7dec79"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5eedc02e-ccee-413d-9364-6a9a2c7dec79",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Чемпионат наций КОНКАКАФ 1989",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "98cdd95e-85c2-4bd3-8388-cfdf1c5e869d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2cec11fe-2183-493f-90e6-444dd87a8331",
+                "d79052d1-3f86-45b5-9ab5-1336d8d46467",
+                "09487c63-3752-4ba3-8a67-26d7ac11f91c",
+                "54ef27d9-8093-4673-9ec5-fc510c34ef3d",
+                "01e0036b-14cf-45d9-b682-27db4f28cacd",
+                "578f59db-4082-4c26-b079-3640b981b2b0",
+                "3755b077-06d4-4218-a02f-68db638311df"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2cec11fe-2183-493f-90e6-444dd87a8331",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a4619e6b-1e3f-4a57-b0a7-3ae37e1161ae"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a4619e6b-1e3f-4a57-b0a7-3ae37e1161ae",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "5",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d79052d1-3f86-45b5-9ab5-1336d8d46467",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a64f5ff5-2df5-4639-a62a-0c7a9c27ab7d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a64f5ff5-2df5-4639-a62a-0c7a9c27ab7d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "30 апреля 1989",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "09487c63-3752-4ba3-8a67-26d7ac11f91c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3da10896-6d63-4f1b-bfa6-4c8715eede2b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3da10896-6d63-4f1b-bfa6-4c8715eede2b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "«Биг Арк Стэдиум», Сент-Луис, США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "54ef27d9-8093-4673-9ec5-fc510c34ef3d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7135d4a0-ae84-4110-8bbc-0cfe53c2698c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7135d4a0-ae84-4110-8bbc-0cfe53c2698c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Коста-Рика",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "01e0036b-14cf-45d9-b682-27db4f28cacd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d5fbfbcc-7185-4481-86ca-88d93ffe35b5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d5fbfbcc-7185-4481-86ca-88d93ffe35b5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1:0",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "578f59db-4082-4c26-b079-3640b981b2b0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7598bae4-705a-499f-ba46-13e75b2c277b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7598bae4-705a-499f-ba46-13e75b2c277b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3755b077-06d4-4218-a02f-68db638311df",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "271463b2-6479-4115-8a33-2cb59a822bb5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "271463b2-6479-4115-8a33-2cb59a822bb5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Чемпионат наций КОНКАКАФ 1989",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "071b2377-bed1-456f-b338-ba5c840ac979",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "8800eed8-1355-444a-a82a-a144b5c4f78f",
+                "76e65a86-20ed-4d40-bb52-cb8bcb1ddcf7",
+                "f5fc2f0a-1c0a-466c-baf6-46efec27451a",
+                "851c6af6-3550-4b5a-a722-ec730daa8dc9",
+                "2b8fffdd-c4cb-4579-a194-26280bcf2702",
+                "4c681061-2309-418f-8209-c7ef1b4998eb",
+                "ddc7e625-ff78-412e-956b-9f9450955ebe"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8800eed8-1355-444a-a82a-a144b5c4f78f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "db98ea58-728a-47bc-bf69-5a5d277a2f0c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "db98ea58-728a-47bc-bf69-5a5d277a2f0c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "6",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "76e65a86-20ed-4d40-bb52-cb8bcb1ddcf7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a2a68296-6cd8-46d3-b455-8befb43d91e7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a2a68296-6cd8-46d3-b455-8befb43d91e7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "13 мая 1989",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f5fc2f0a-1c0a-466c-baf6-46efec27451a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "135c64b3-ea1e-4b96-925b-39184e8850d7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "135c64b3-ea1e-4b96-925b-39184e8850d7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "«Мёрдок Стэдиум», Торранс, США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "851c6af6-3550-4b5a-a722-ec730daa8dc9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "526d56ca-5406-4ef0-a20d-804a2919cd21"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "526d56ca-5406-4ef0-a20d-804a2919cd21",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Тринидад и Тобаго",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2b8fffdd-c4cb-4579-a194-26280bcf2702",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5fbb7887-0ef9-4803-b28d-7fcdd376ff5b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5fbb7887-0ef9-4803-b28d-7fcdd376ff5b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1:1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4c681061-2309-418f-8209-c7ef1b4998eb",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7a9b75d0-81f7-4283-8aab-ae28f1aa9755"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7a9b75d0-81f7-4283-8aab-ae28f1aa9755",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ddc7e625-ff78-412e-956b-9f9450955ebe",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e4d471c9-cb5d-487a-9e33-7fe8a6aac117"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e4d471c9-cb5d-487a-9e33-7fe8a6aac117",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Чемпионат наций КОНКАКАФ 1989",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "4d21b997-6452-451d-a3c6-f9b6a9e4c7f0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "63aa3d98-1ebf-4117-8b0b-338227b33624",
+                "559ff396-4c92-431b-b0b2-15fe22feddfb",
+                "b1c71443-dde8-4317-a0b8-25c9a65e52a1",
+                "48b3424d-db2f-4173-a6be-a17ed402d1bd",
+                "c53dee57-9da4-407f-8598-bc34461d2826",
+                "ed3ded66-52c9-4d82-a55d-5d7b7149e051",
+                "5ef39b87-b7c1-4ed4-914e-a9b7d301752f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "63aa3d98-1ebf-4117-8b0b-338227b33624",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f7fceff2-41d4-47d0-9948-28b36b382e1f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f7fceff2-41d4-47d0-9948-28b36b382e1f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "7",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "559ff396-4c92-431b-b0b2-15fe22feddfb",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "45145df9-4357-4bd4-85ad-49651407a8f4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "45145df9-4357-4bd4-85ad-49651407a8f4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2 февраля 1990",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b1c71443-dde8-4317-a0b8-25c9a65e52a1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "07be316f-f830-4430-a0a6-cad0e6aeba5f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "07be316f-f830-4430-a0a6-cad0e6aeba5f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "«Оранж Боул», Майами, США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "48b3424d-db2f-4173-a6be-a17ed402d1bd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5fdd0668-2512-42c7-ac77-5e71068c7fe5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5fdd0668-2512-42c7-ac77-5e71068c7fe5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Коста-Рика",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c53dee57-9da4-407f-8598-bc34461d2826",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c899e718-01c6-4d56-ad22-8f659211585e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c899e718-01c6-4d56-ad22-8f659211585e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "0:2",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ed3ded66-52c9-4d82-a55d-5d7b7149e051",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1a5e835e-82c4-4069-86ad-62c0159cdb06"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1a5e835e-82c4-4069-86ad-62c0159cdb06",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5ef39b87-b7c1-4ed4-914e-a9b7d301752f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3e9ef29d-9ca5-44cc-bfda-4c237ce4e125"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3e9ef29d-9ca5-44cc-bfda-4c237ce4e125",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Турнир Майами",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "7fd860c9-9005-4755-97db-2234de739448",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "085a668b-3b30-499b-bd3d-8abd2dee4325",
+                "ae8e0c4f-72bb-42c3-9e33-fe9adc6a6cdf",
+                "57ef1e69-1c92-4936-bf5b-7f88ad768064",
+                "42f88337-3ab5-412a-b543-fdac42b7e577",
+                "c5753dc7-0627-4b07-8f98-89624b2a80fc",
+                "aafca921-a191-4fe7-853f-6017b823f55c",
+                "5dc27b51-b82b-46cb-bc20-c908e4890caf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "085a668b-3b30-499b-bd3d-8abd2dee4325",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "71a89be4-c581-4cef-ad71-16c5ad75e11a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "71a89be4-c581-4cef-ad71-16c5ad75e11a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "8",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ae8e0c4f-72bb-42c3-9e33-fe9adc6a6cdf",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7ee09830-eba8-4662-b907-88f7d4d87fff"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7ee09830-eba8-4662-b907-88f7d4d87fff",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "4 февраля 1990",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "57ef1e69-1c92-4936-bf5b-7f88ad768064",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "650a4775-6dcd-45db-a63f-c09738678cf2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "650a4775-6dcd-45db-a63f-c09738678cf2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "«Оранж Боул», Майами, США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "42f88337-3ab5-412a-b543-fdac42b7e577",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0dd24a66-32cb-451e-adb4-c5c634856c53"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0dd24a66-32cb-451e-adb4-c5c634856c53",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Колумбия",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c5753dc7-0627-4b07-8f98-89624b2a80fc",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "baf851a2-0c84-47e6-a1c5-434562a6c152"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "baf851a2-0c84-47e6-a1c5-434562a6c152",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1:1(8:9 по пен.)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "aafca921-a191-4fe7-853f-6017b823f55c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3bd39f4f-452e-465a-9e67-3f8a3579c63d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3bd39f4f-452e-465a-9e67-3f8a3579c63d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "—",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5dc27b51-b82b-46cb-bc20-c908e4890caf",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7832cac1-26ec-4459-b045-23780d084374"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7832cac1-26ec-4459-b045-23780d084374",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Турнир Майами",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195fa33-9c52-7b15-b21d-40089dab184c"
+                },
+                "id": "6da4a9ba-6f54-485a-a169-07810adc4a9e"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195fa33-99f1-7b0d-af2a-e8906f2e9e8f"
+                },
+                "id": "63989b49-b194-4eda-aed0-db96e42218ed"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195eb6e-0122-72c8-8903-88612c123a90"
+                },
+                "id": "596cfdb8-6caa-40d8-b9ed-8b2b8f7ee836"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195fa33-9b87-711e-b00a-acbdfe2781fa"
+                },
+                "id": "af71d7f9-884e-4b47-81d2-ed54d92879b0"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195fa33-993a-7861-b8b0-7bf3a57047ba"
+                },
+                "id": "0cadf180-4f07-473b-8eb1-991b510f43dc"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195fa33-9e5d-7857-a296-cedc8d7db39b"
+                },
+                "id": "4792ec72-9581-4818-8c19-6859ae9775b2"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-97615468"
+                },
+                "id": "693b06ff-f774-414a-89e2-d49bdf9d68b0"
+            }
+        ],
+        "atom": [
+            {
+                "id": "c45d995d-a912-4494-9165-8adbdf0255e7",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "6281940c-ef5d-4e37-9d1a-a0fa65c88ef6",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "a277c561-826c-490b-87be-a517eefc068e",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "f91401b5-f936-40ec-a731-b11ecc277d60",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "f3754a83-68bd-45d2-b24d-b6bd5218b5e7",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "d0f7ffd7-8030-4da4-aada-adb11dae6104",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "8d042ee3-4bc9-4a1e-afb1-cc23055ea140",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "b1550491-3486-4e97-a53f-8bffab8e9b3d",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "34aa3c42-6edc-464e-bf52-7e5045fd44ac",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "0a20bbf8-ed19-49f6-bf2c-e901a62ec1e4",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "14b77aa4-a757-4f9c-8cee-6009d2f7230c",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "cba39c94-d5b0-4025-87e8-b894a3b61d33",
+                "type_id": "74",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "e69bf0f9-ea3d-478f-abae-064356256cf5",
+                "type_id": "74",
+                "value": {
+                    "type": "GeoPointValue",
+                    "point": {
+                        "latitude": 42.2084308,
+                        "longitude": -75.8019734
+                    },
+                    "name": "Town of Fenton, Broome County, New York, United States",
+                    "confidence": 0.14285714285714285
+                },
+                "status": "approved"
+            },
+            {
+                "id": "624e07a5-6561-4850-86b7-6e5927bb4910",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1987,
+                        "month": 10,
+                        "day": 18
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a5afc7b6-b5d6-4ea6-b6bb-72c080e0fc00",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1987,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c6cba007-725d-4ebf-9845-f907af001c56",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1987,
+                        "month": 9,
+                        "day": 5
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "01595a7e-b5e2-4bb5-b7b1-923e463f636e",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1988,
+                        "month": 5,
+                        "day": 25
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "00973b22-03ef-4443-b884-bdd8b89cfa4b",
+                "type_id": "74",
+                "value": {
+                    "type": "GeoPointValue",
+                    "point": {
+                        "latitude": 13.6989939,
+                        "longitude": -89.1914249
+                    },
+                    "name": "Municipio de San Salvador, San Salvador, Departamento de San Salvador, El Salvador",
+                    "confidence": 0.1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "049db45b-08f2-47f8-8fed-810257281ca2",
+                "type_id": "74",
+                "value": {
+                    "type": "GeoPointValue",
+                    "point": {
+                        "latitude": 39.7683331,
+                        "longitude": -86.1583502
+                    },
+                    "name": "Indianapolis, Marion County, Indiana, United States",
+                    "confidence": 0.5
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e04cc9f6-7ec8-4278-b662-f148136d2221",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Летние Олимпийские игры 1988"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "68a6ea91-fcd1-4cd5-a339-831744e111b0",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1988,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "628814c0-9151-4dbf-b76b-af77e8b07b0a",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1988,
+                        "month": 9,
+                        "day": 22
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "bf85740d-a4ff-4e08-80a8-fcd9e3453104",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1988,
+                        "month": 9,
+                        "day": 18
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a8465eeb-5ac3-451f-ae3b-e901e5e1c737",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Товарищеский матч"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "43d80888-629f-4407-bfba-a72c98584d8d",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1988,
+                        "month": 5,
+                        "day": 14
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "006ed150-456b-48ea-982d-e2edda6adf8d",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1986,
+                        "month": 2,
+                        "day": 5
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "20c3e7dd-bb37-4d6b-8fc6-9b5575298035",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Чемпионат наций КОНКАКАФ 1989"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e39288b3-0e17-4b46-9b6e-801666c08154",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1987,
+                        "month": 5,
+                        "day": 30
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c4f1f316-7e86-4d27-a06c-e9728206ddff",
+                "type_id": "74",
+                "value": {
+                    "type": "GeoPointValue",
+                    "point": {
+                        "latitude": 47.5614705,
+                        "longitude": -52.7126162
+                    },
+                    "name": "St. John's, Newfoundland, Newfoundland and Labrador, Canada",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e6d0b4cc-bf22-441e-adef-67c74ccf0af6",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1987,
+                        "month": 5,
+                        "day": 23
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3caf77ed-5f91-425c-96c4-2f80d26aeddb",
+                "type_id": "74",
+                "value": {
+                    "type": "GeoPointValue",
+                    "point": {
+                        "latitude": 42.2084308,
+                        "longitude": -75.8019734
+                    },
+                    "name": "Town of Fenton, Broome County, New York, United States",
+                    "confidence": 0.14285714285714285
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8634d153-3166-4a31-b9e3-74a4888b2517",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Турнир Майами"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "57eb2a01-152d-4ed2-989d-c919af43219b",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1990,
+                        "month": 2,
+                        "day": 2
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6f541dbc-65c6-4b69-aef7-dcb1f89fea91",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1986,
+                        "month": 2,
+                        "day": 7
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "266a657e-f519-4191-83cb-2fbc518e3be8",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1990,
+                        "month": 2,
+                        "day": 4
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ce10e4d1-4c3f-4d51-861c-caa432eaba91",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Предолимпийский турнир КОНКАКАФ 1988"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0345c5ab-9130-4975-8c27-3c4326a72868",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Квалификация Предолимпийского турнира КОНКАКАФ 1988"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c8035367-e5aa-42f7-8941-081c6db19867",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1989,
+                        "month": 5,
+                        "day": 13
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a08f76d1-38aa-4adc-9005-daac8fe166e8",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1989,
+                        "month": 4,
+                        "day": 16
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f2a549c5-bd34-4fed-a388-75a92f99fc55",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1989,
+                        "month": 4,
+                        "day": 30
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a298db74-1ec2-4781-9a19-a87b728cd6f8",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5b45c89f-dbd6-4a3e-9d1e-d12e75af54e9",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743659363
+                },
+                "status": "approved"
+            },
+            {
+                "id": "07ccd9b1-54a1-43f4-9db6-1c9323c4afd5",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 52096
+                },
+                "status": "approved"
+            },
+            {
+                "id": "31b70e9f-dae6-4924-9813-bb78a87b76ef",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743659363
+                },
+                "status": "approved"
+            },
+            {
+                "id": "124851bf-2ccf-4030-84d7-1a7d413fc87f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_24.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8ed0afac-1e2c-499e-a7da-6aa054241b07",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "20913e4f-ea81-4498-be74-17ecbbd25e72",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b6e837f0-7f94-4b28-8f05-1a3d2c52a762",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_24.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6a68aad9-7eae-4afd-a07c-7bf11dac72d8",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3546"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "36c221db-b82e-438b-b8b3-d2bf940b87ae",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743659363
+                },
+                "status": "approved"
+            },
+            {
+                "id": "080225c8-9c78-4a85-9ea6-a4f9becb5460",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/693b/06ff/table_24.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "42ecc48c-a766-4974-87a3-6adf4881d4e2",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [],
+        "property": [
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "a01a3946-930a-476b-aae5-57a1769a1c8c",
+                "source": "4792ec72-9581-4818-8c19-6859ae9775b2",
+                "target": "a277c561-826c-490b-87be-a517eefc068e"
+            },
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "45dd27ab-c084-46dc-89f2-7b35a6453e4f",
+                "source": "4792ec72-9581-4818-8c19-6859ae9775b2",
+                "target": "c45d995d-a912-4494-9165-8adbdf0255e7"
+            },
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "618017b1-3991-438b-874d-29dfe10c4b04",
+                "source": "4792ec72-9581-4818-8c19-6859ae9775b2",
+                "target": "6281940c-ef5d-4e37-9d1a-a0fa65c88ef6"
+            },
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "605a369d-9e75-4a2f-ba88-0ab8fdfbdab6",
+                "source": "6da4a9ba-6f54-485a-a169-07810adc4a9e",
+                "target": "f91401b5-f936-40ec-a731-b11ecc277d60"
+            },
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "ec876512-f339-4198-8c9a-2775c5b2fa2a",
+                "source": "0cadf180-4f07-473b-8eb1-991b510f43dc",
+                "target": "b1550491-3486-4e97-a53f-8bffab8e9b3d"
+            },
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "fb17d3aa-1806-4680-a785-f60875e22407",
+                "source": "0cadf180-4f07-473b-8eb1-991b510f43dc",
+                "target": "8d042ee3-4bc9-4a1e-afb1-cc23055ea140"
+            },
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "fa23d30d-d7bf-4c71-a7ae-4c2aeddb3780",
+                "source": "0cadf180-4f07-473b-8eb1-991b510f43dc",
+                "target": "f3754a83-68bd-45d2-b24d-b6bd5218b5e7"
+            },
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "f82bc8db-5133-4691-9513-0a192d9a65b2",
+                "source": "0cadf180-4f07-473b-8eb1-991b510f43dc",
+                "target": "d0f7ffd7-8030-4da4-aada-adb11dae6104"
+            },
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "add29db2-e203-465d-91f3-9b0fa7627717",
+                "source": "63989b49-b194-4eda-aed0-db96e42218ed",
+                "target": "0a20bbf8-ed19-49f6-bf2c-e901a62ec1e4"
+            },
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "5d6272c0-d3ea-4ad8-a416-fb5158dffcdf",
+                "source": "63989b49-b194-4eda-aed0-db96e42218ed",
+                "target": "14b77aa4-a757-4f9c-8cee-6009d2f7230c"
+            },
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "70b66eb8-73df-4c86-b155-f77445b9caf9",
+                "source": "63989b49-b194-4eda-aed0-db96e42218ed",
+                "target": "34aa3c42-6edc-464e-bf52-7e5045fd44ac"
+            },
+            {
+                "status": "new",
+                "type_id": "23879",
+                "id": "a9623753-eee1-4214-b52e-d215675a4de3",
+                "source": "596cfdb8-6caa-40d8-b9ed-8b2b8f7ee836",
+                "target": "cba39c94-d5b0-4025-87e8-b894a3b61d33"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-97615489",
+                "id": "a2b138a7-3683-4260-b4ab-a2e75c8069cb",
+                "source": "6da4a9ba-6f54-485a-a169-07810adc4a9e",
+                "target": "ce10e4d1-4c3f-4d51-861c-caa432eaba91"
+            },
+            {
+                "status": "approved",
+                "type_id": "23879",
+                "value": "ОК-97615494",
+                "id": "4a17357f-7e07-4145-8bd3-ec7bb28958c1",
+                "source": "6da4a9ba-6f54-485a-a169-07810adc4a9e",
+                "target": "e69bf0f9-ea3d-478f-abae-064356256cf5"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-97615485",
+                "id": "a2384735-e3e6-41f2-9e4c-b3d9779982d8",
+                "source": "4792ec72-9581-4818-8c19-6859ae9775b2",
+                "target": "20c3e7dd-bb37-4d6b-8fc6-9b5575298035"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-97615491",
+                "id": "5b1ee264-325c-40b4-b538-b7e8e131c1bc",
+                "source": "af71d7f9-884e-4b47-81d2-ed54d92879b0",
+                "target": "0345c5ab-9130-4975-8c27-3c4326a72868"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615495",
+                "id": "1f379618-0a69-41d9-b262-19ceebc669c4",
+                "source": "6da4a9ba-6f54-485a-a169-07810adc4a9e",
+                "target": "624e07a5-6561-4850-86b7-6e5927bb4910"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615496",
+                "id": "a5c414b0-729e-4145-a384-721b646df35b",
+                "source": "6da4a9ba-6f54-485a-a169-07810adc4a9e",
+                "target": "a5afc7b6-b5d6-4ea6-b6bb-72c080e0fc00"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615497",
+                "id": "d6f5a783-e665-4fb5-85ce-a79b072f970f",
+                "source": "6da4a9ba-6f54-485a-a169-07810adc4a9e",
+                "target": "c6cba007-725d-4ebf-9845-f907af001c56"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615498",
+                "id": "53174a49-94f0-47d8-9468-cd780e8b77b0",
+                "source": "6da4a9ba-6f54-485a-a169-07810adc4a9e",
+                "target": "01595a7e-b5e2-4bb5-b7b1-923e463f636e"
+            },
+            {
+                "status": "approved",
+                "type_id": "23879",
+                "value": "ОК-97615499",
+                "id": "02271db0-d2b5-413e-a365-29f3836fafb5",
+                "source": "6da4a9ba-6f54-485a-a169-07810adc4a9e",
+                "target": "00973b22-03ef-4443-b884-bdd8b89cfa4b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23879",
+                "value": "ОК-97615500",
+                "id": "b5bcae6a-180d-4f40-9bef-e2426785a96f",
+                "source": "6da4a9ba-6f54-485a-a169-07810adc4a9e",
+                "target": "049db45b-08f2-47f8-8fed-810257281ca2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-97615493",
+                "id": "787d2fb0-a0e7-4a96-8cd2-93feaae45670",
+                "source": "63989b49-b194-4eda-aed0-db96e42218ed",
+                "target": "e04cc9f6-7ec8-4278-b662-f148136d2221"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615501",
+                "id": "29cdaecd-c7cb-4c01-a05e-8a46e5b79aaf",
+                "source": "63989b49-b194-4eda-aed0-db96e42218ed",
+                "target": "68a6ea91-fcd1-4cd5-a339-831744e111b0"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615502",
+                "id": "85ddc386-fbf8-4f5c-8cae-3e3c1f473294",
+                "source": "63989b49-b194-4eda-aed0-db96e42218ed",
+                "target": "628814c0-9151-4dbf-b76b-af77e8b07b0a"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615503",
+                "id": "a95f6348-93f7-414b-a662-27c798b5b633",
+                "source": "63989b49-b194-4eda-aed0-db96e42218ed",
+                "target": "bf85740d-a4ff-4e08-80a8-fcd9e3453104"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94954531",
+                "id": "445661ac-550b-46c6-ac8d-968e3a3b72ad",
+                "source": "596cfdb8-6caa-40d8-b9ed-8b2b8f7ee836",
+                "target": "a8465eeb-5ac3-451f-ae3b-e901e5e1c737"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615504",
+                "id": "770fc19d-2ff2-4142-a437-c6791ceba9f4",
+                "source": "596cfdb8-6caa-40d8-b9ed-8b2b8f7ee836",
+                "target": "43d80888-629f-4407-bfba-a72c98584d8d"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615513",
+                "id": "5bf64667-b7fd-4ecb-b8e8-8d44a2d6eb1c",
+                "source": "4792ec72-9581-4818-8c19-6859ae9775b2",
+                "target": "c8035367-e5aa-42f7-8941-081c6db19867"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615514",
+                "id": "f84ad1ae-5ba7-4cf3-9ac0-ed03492a12fb",
+                "source": "4792ec72-9581-4818-8c19-6859ae9775b2",
+                "target": "a08f76d1-38aa-4adc-9005-daac8fe166e8"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615505",
+                "id": "9eaca034-ce8b-47bf-9b83-8ef556fc68c9",
+                "source": "af71d7f9-884e-4b47-81d2-ed54d92879b0",
+                "target": "e39288b3-0e17-4b46-9b6e-801666c08154"
+            },
+            {
+                "status": "approved",
+                "type_id": "23879",
+                "value": "ОК-97615506",
+                "id": "fd1831e2-f7db-43ff-a8ee-accd2d53942f",
+                "source": "af71d7f9-884e-4b47-81d2-ed54d92879b0",
+                "target": "c4f1f316-7e86-4d27-a06c-e9728206ddff"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615507",
+                "id": "50df56f4-ed93-4a54-9b89-41615f9b40b8",
+                "source": "af71d7f9-884e-4b47-81d2-ed54d92879b0",
+                "target": "e6d0b4cc-bf22-441e-adef-67c74ccf0af6"
+            },
+            {
+                "status": "approved",
+                "type_id": "23879",
+                "value": "ОК-97615508",
+                "id": "234aaec8-2a54-4c6d-912e-e61f2d95d754",
+                "source": "af71d7f9-884e-4b47-81d2-ed54d92879b0",
+                "target": "3caf77ed-5f91-425c-96c4-2f80d26aeddb"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-97615487",
+                "id": "2a374669-78fa-4f18-8185-af37570d5d35",
+                "source": "0cadf180-4f07-473b-8eb1-991b510f43dc",
+                "target": "8634d153-3166-4a31-b9e3-74a4888b2517"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615509",
+                "id": "14fd9161-c7a8-4125-bbf3-d1a1df678fcf",
+                "source": "0cadf180-4f07-473b-8eb1-991b510f43dc",
+                "target": "006ed150-456b-48ea-982d-e2edda6adf8d"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615510",
+                "id": "9e118ab7-d69f-44e2-b4a7-f5bf9e4c50c5",
+                "source": "0cadf180-4f07-473b-8eb1-991b510f43dc",
+                "target": "57eb2a01-152d-4ed2-989d-c919af43219b"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615511",
+                "id": "1255aa8f-bb02-4913-814d-a62a26da0d9c",
+                "source": "0cadf180-4f07-473b-8eb1-991b510f43dc",
+                "target": "6f541dbc-65c6-4b69-aef7-dcb1f89fea91"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615512",
+                "id": "3567d79b-b54f-4c22-8911-8a5e6644d5c8",
+                "source": "0cadf180-4f07-473b-8eb1-991b510f43dc",
+                "target": "266a657e-f519-4191-83cb-2fbc518e3be8"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-97615515",
+                "id": "2d4798bb-25a0-43e0-b23d-48959298c770",
+                "source": "4792ec72-9581-4818-8c19-6859ae9775b2",
+                "target": "f2a549c5-bd34-4fed-a388-75a92f99fc55"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-97615472",
+                "id": "24062bbd-73d8-4d5f-a13d-c685fe59f139",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "a298db74-1ec2-4781-9a19-a87b728cd6f8"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-97615473",
+                "id": "af281423-b51c-471c-89b9-c8c7ce4eb5fe",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "5b45c89f-dbd6-4a3e-9d1e-d12e75af54e9"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-97615474",
+                "id": "b0328084-86e7-4c74-941c-36b317d74dac",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "07ccd9b1-54a1-43f4-9db6-1c9323c4afd5"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-97615475",
+                "id": "c2bcc994-41b6-4899-b12e-0aa2869ebfc2",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "31b70e9f-dae6-4924-9813-bb78a87b76ef"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-97615476",
+                "id": "e9fedceb-7b0c-427e-b5fc-47e9834a2f64",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "124851bf-2ccf-4030-84d7-1a7d413fc87f"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-97615477",
+                "id": "8445a519-eab5-4c91-bc7d-7a9e8d6ae67e",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "8ed0afac-1e2c-499e-a7da-6aa054241b07"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-97615478",
+                "id": "fc6d10b3-3fb9-4926-a527-032e25238ee0",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "20913e4f-ea81-4498-be74-17ecbbd25e72"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-97615479",
+                "id": "31c3bf83-41b5-4bcd-8d0f-9424cf836057",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "b6e837f0-7f94-4b28-8f05-1a3d2c52a762"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-97615480",
+                "id": "285d8e15-35d8-46cc-b9e8-d994f7380454",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "6a68aad9-7eae-4afd-a07c-7bf11dac72d8"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-97615481",
+                "id": "e3ca81d8-54de-45e8-b23c-bde1c946d0db",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "36c221db-b82e-438b-b8b3-d2bf940b87ae"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-97615482",
+                "id": "71be581f-b7a6-4732-8c74-8e0da2315ec7",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "080225c8-9c78-4a85-9ea6-a4f9becb5460"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-97615483",
+                "id": "61118c94-30b3-428f-b67f-3d0ababc54aa",
+                "source": "693b06ff-f774-414a-89e2-d49bdf9d68b0",
+                "target": "42ecc48c-a766-4974-87a3-6adf4881d4e2"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "135c64b3-ea1e-4b96-925b-39184e8850d7",
+                    "start": 0,
+                    "end": 30
+                },
+                "value": "6281940c-ef5d-4e37-9d1a-a0fa65c88ef6",
+                "id": "0f2bfc2e-ac0f-46a8-8f22-91c0b720ca77"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3da10896-6d63-4f1b-bfa6-4c8715eede2b",
+                    "start": 0,
+                    "end": 33
+                },
+                "value": "c45d995d-a912-4494-9165-8adbdf0255e7",
+                "id": "3186f683-ee39-4acb-b06b-f54690703b52"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "57d5c88e-3b2f-4b89-b1a1-fd4db9a7414f",
+                    "start": 0,
+                    "end": 40
+                },
+                "value": "a277c561-826c-490b-87be-a517eefc068e",
+                "id": "3c449d36-fcdd-45e2-b197-88641edc01d4"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "53d2db69-09fa-47d6-9357-21112cc4ef96",
+                    "start": 0,
+                    "end": 51
+                },
+                "value": "f91401b5-f936-40ec-a731-b11ecc277d60",
+                "id": "93521a0f-b383-4173-b017-b5700165f37d"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "07be316f-f830-4430-a0a6-cad0e6aeba5f",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "d0f7ffd7-8030-4da4-aada-adb11dae6104",
+                "id": "a28605af-9dae-4479-a516-659c7ba10229"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fc9d2a7b-0f2f-4556-b16a-75d4be893a88",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "b1550491-3486-4e97-a53f-8bffab8e9b3d",
+                "id": "e829e5cd-aeed-4f2f-8dec-af987f676591"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "aba8e158-f57f-4970-8be1-1ef8db1db889",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "8d042ee3-4bc9-4a1e-afb1-cc23055ea140",
+                "id": "e4925c71-6efa-44c6-91ce-15150713c9ef"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "650a4775-6dcd-45db-a63f-c09738678cf2",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "f3754a83-68bd-45d2-b24d-b6bd5218b5e7",
+                "id": "8ac89dc5-1f51-45b2-aada-57a6643c6842"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "756c35a1-8292-4d5d-be69-789eec5920ea",
+                    "start": 0,
+                    "end": 38
+                },
+                "value": "0a20bbf8-ed19-49f6-bf2c-e901a62ec1e4",
+                "id": "2c8e58e2-cf3f-4186-940f-5b1dc838068d"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3c2ee43f-6272-48b8-a385-3f8d2d330029",
+                    "start": 0,
+                    "end": 43
+                },
+                "value": "14b77aa4-a757-4f9c-8cee-6009d2f7230c",
+                "id": "977a6ef6-5e78-43e5-968b-1a23d3b50987"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "159d9081-07cb-47e8-ab83-64d3c9e5810a",
+                    "start": 0,
+                    "end": 43
+                },
+                "value": "34aa3c42-6edc-464e-bf52-7e5045fd44ac",
+                "id": "70fc690a-1feb-442c-857a-b5efb8979e6a"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "18c6cdce-5f12-4cf3-baba-54d8b2f580a9",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "cba39c94-d5b0-4025-87e8-b894a3b61d33",
+                "id": "f3bcf653-cce7-4920-86a4-59c3cd40a6df"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6186ef77-57fa-40da-a20f-e9cbc67b2965",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "006ed150-456b-48ea-982d-e2edda6adf8d",
+                "id": "8a1ec151-d398-4ebe-a13d-3025ada8a012"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7832cac1-26ec-4459-b045-23780d084374",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "8634d153-3166-4a31-b9e3-74a4888b2517",
+                "id": "66b6288f-56ae-4b41-8b40-e4df0044dbad"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "631c81ef-2436-4236-b482-6d2c092d061d",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "8634d153-3166-4a31-b9e3-74a4888b2517",
+                "id": "ff99fbee-5b8c-486a-b77d-06fa835bafcf"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3e9ef29d-9ca5-44cc-bfda-4c237ce4e125",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "8634d153-3166-4a31-b9e3-74a4888b2517",
+                "id": "08eb70c1-bd09-4689-87b5-6f4ea8c40e73"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b23c8a56-b337-4262-a694-74e0c477d83d",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "8634d153-3166-4a31-b9e3-74a4888b2517",
+                "id": "acd4c638-f521-4031-be0c-bda55794adf9"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "45145df9-4357-4bd4-85ad-49651407a8f4",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "57eb2a01-152d-4ed2-989d-c919af43219b",
+                "id": "4c53481c-4d7e-4b0e-a8a0-055e95583343"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7ee09830-eba8-4662-b907-88f7d4d87fff",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "266a657e-f519-4191-83cb-2fbc518e3be8",
+                "id": "b6d1ff61-f9a5-4d07-9a98-431f84ac9231"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9078e3b0-80a1-4137-810b-66db85d17bbc",
+                    "start": 0,
+                    "end": 28
+                },
+                "value": "e04cc9f6-7ec8-4278-b662-f148136d2221",
+                "id": "28a3f5db-3803-4b51-baa8-90a3e7389900"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "930b8241-f1e6-450a-bb56-000738495acf",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "68a6ea91-fcd1-4cd5-a339-831744e111b0",
+                "id": "9c38c4c2-9ede-4868-b0aa-33267b206e09"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "78e94790-92a8-48ac-a81f-9aa7ea36c8bd",
+                    "start": 0,
+                    "end": 28
+                },
+                "value": "e04cc9f6-7ec8-4278-b662-f148136d2221",
+                "id": "51557a1d-e14c-4087-ae71-d84488cc4550"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "5fee6caf-3f09-4029-9fc0-2c544344c584",
+                    "start": 0,
+                    "end": 28
+                },
+                "value": "e04cc9f6-7ec8-4278-b662-f148136d2221",
+                "id": "db5da9da-fabb-48f1-bb65-f29e8aa9b316"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "74510bf9-c046-470c-ba41-25179a5f2a9f",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "628814c0-9151-4dbf-b76b-af77e8b07b0a",
+                "id": "8f501e1b-72fe-4d75-ba15-405db9254bd9"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "249b9341-87ca-4228-9a06-a57a0a31778a",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "bf85740d-a4ff-4e08-80a8-fcd9e3453104",
+                "id": "e241526b-6c3e-4450-a1fd-f983b77c2ba2"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "eefeae02-ef7d-401f-8575-07310b26331a",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "a8465eeb-5ac3-451f-ae3b-e901e5e1c737",
+                "id": "0273633d-abe8-40ca-bbf8-afca57be3c78"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3f2b2679-7757-4cf9-84c8-62baff9d4438",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "43d80888-629f-4407-bfba-a72c98584d8d",
+                "id": "597272d9-a5c9-4aed-8db1-efe11baf62dd"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a2a68296-6cd8-46d3-b455-8befb43d91e7",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "c8035367-e5aa-42f7-8941-081c6db19867",
+                "id": "5a77688f-6742-4049-838d-bf1c23018ae0"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a64f5ff5-2df5-4639-a62a-0c7a9c27ab7d",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "f2a549c5-bd34-4fed-a388-75a92f99fc55",
+                "id": "6643e42c-c9b2-4a16-818e-f3064b4cd22b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "271463b2-6479-4115-8a33-2cb59a822bb5",
+                    "start": 0,
+                    "end": 29
+                },
+                "value": "20c3e7dd-bb37-4d6b-8fc6-9b5575298035",
+                "id": "9d380c6e-b07a-4ccd-b8bb-6d8174af16dd"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "5eedc02e-ccee-413d-9364-6a9a2c7dec79",
+                    "start": 0,
+                    "end": 29
+                },
+                "value": "20c3e7dd-bb37-4d6b-8fc6-9b5575298035",
+                "id": "d7f18c92-6416-4ec0-a210-fe22f672a049"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "2d285bb0-9380-4916-b94d-762e7adbb078",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "a08f76d1-38aa-4adc-9005-daac8fe166e8",
+                "id": "004f3e28-e7e0-4ea0-acea-091e76c0e2e5"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9d284001-d2b8-48c0-b213-5234658dc3a6",
+                    "start": 0,
+                    "end": 18
+                },
+                "value": "c4f1f316-7e86-4d27-a06c-e9728206ddff",
+                "id": "f8cd3d8f-778a-43d0-8949-253019a52276"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "92c6ba59-9a31-4278-a775-9fe36b4dcd11",
+                    "start": 0,
+                    "end": 51
+                },
+                "value": "0345c5ab-9130-4975-8c27-3c4326a72868",
+                "id": "99bb3ae8-6a5f-4971-8018-1b251d9be4c6"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a7f58d4b-39b4-4c47-adb7-e170bdf0c507",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "e39288b3-0e17-4b46-9b6e-801666c08154",
+                "id": "772e81ea-7fb6-42f4-b2cf-334672ad244f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "58205335-5d5c-4b9a-bad4-4cf24fa21cc9",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "e6d0b4cc-bf22-441e-adef-67c74ccf0af6",
+                "id": "09d26545-26eb-4887-9e83-f2784809032d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "70e65590-69ae-46b1-ada4-8c1e57b99e5e",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "3caf77ed-5f91-425c-96c4-2f80d26aeddb",
+                "id": "60472743-0e3c-4f68-ba41-53107fecda26"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ee2086b1-f895-48d0-ae14-2176c35d82a5",
+                    "start": 0,
+                    "end": 36
+                },
+                "value": "ce10e4d1-4c3f-4d51-861c-caa432eaba91",
+                "id": "5c2ea064-1ed8-419e-b98a-762d8fefee12"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "32112b81-45d9-421a-a3e2-4c192470c09a",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "624e07a5-6561-4850-86b7-6e5927bb4910",
+                "id": "c64a2135-78cc-4c32-8d1e-25ff0d47080d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4015c2fd-86f7-42c9-8920-5e5f10c86893",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "c6cba007-725d-4ebf-9845-f907af001c56",
+                "id": "7a2e5d60-4883-49b9-be2f-316d2c8269c6"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4f7fc175-7321-47e3-9737-7f6eb8f1c1f5",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "a5afc7b6-b5d6-4ea6-b6bb-72c080e0fc00",
+                "id": "76f06843-f876-4b40-b728-f278709a9a1b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "165fe983-b73c-4bd4-829d-b0db2ef00ec1",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "e69bf0f9-ea3d-478f-abae-064356256cf5",
+                "id": "6d567047-331a-4acc-aaef-b11a7be5d678"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ecf612fa-db4f-4df5-ab01-3b683c068e5c",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "01595a7e-b5e2-4bb5-b7b1-923e463f636e",
+                "id": "287a9858-6cc5-476e-8d12-83709561a084"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "49e2ad41-f111-4e57-93e1-5fedf4542321",
+                    "start": 0,
+                    "end": 36
+                },
+                "value": "ce10e4d1-4c3f-4d51-861c-caa432eaba91",
+                "id": "037779fd-6533-4987-8cc8-255befee4cab"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "67b7e8da-fbaa-48a0-8be9-769776b602f7",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "049db45b-08f2-47f8-8fed-810257281ca2",
+                "id": "331370e1-4b11-4511-81d6-61006324a52d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "124217a9-2c32-43ac-92b3-a2b3800dccaa",
+                    "start": 0,
+                    "end": 36
+                },
+                "value": "ce10e4d1-4c3f-4d51-861c-caa432eaba91",
+                "id": "9909a255-acca-45fb-af8f-56bc70b237f8"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "374ef716-0817-41fa-9708-062bab50fa35",
+                    "start": 0,
+                    "end": 36
+                },
+                "value": "ce10e4d1-4c3f-4d51-861c-caa432eaba91",
+                "id": "31b1790f-2e18-4d2c-b88f-723432d8d9e1"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4b624ea8-f850-4b82-ada9-9c348cb59a8b",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "00973b22-03ef-4443-b884-bdd8b89cfa4b",
+                "id": "9c170778-f20d-456a-b615-a71f70240c5c"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0d869251-c8e7-4ad7-83b2-8656f5b033df",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "6f541dbc-65c6-4b69-aef7-dcb1f89fea91",
+                "id": "b9862aec-d2f0-4254-a1f2-ace64e749c19"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b63c035a-80a9-4e47-869a-a80ea5e9cb2f",
+                    "start": 0,
+                    "end": 51
+                },
+                "value": "0345c5ab-9130-4975-8c27-3c4326a72868",
+                "id": "4d786268-6eee-4669-8094-cdcb62505b03"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e4d471c9-cb5d-487a-9e33-7fe8a6aac117",
+                    "start": 0,
+                    "end": 29
+                },
+                "value": "20c3e7dd-bb37-4d6b-8fc6-9b5575298035",
+                "id": "cf58191a-956b-4d73-b717-862a855709ae"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_24.docx",
+        "file_name": "table_24.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 52096,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1743659363,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/693b%2F06ff%2Ftable_24.docx",
+        "markers": [],
+        "account": [],
+        "story": "693b06ff-f774-414a-89e2-d49bdf9d68b0"
+    }
+}

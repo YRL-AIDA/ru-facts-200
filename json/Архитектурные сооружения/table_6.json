@@ -1,0 +1,2942 @@
+{
+    "id": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+	"VERSION":"1.0",
+    "main_node": "65ed225c-a4dd-4420-8b94-9a286509f1f1",
+    "content": [
+        {
+            "type": "text",
+            "id": "65ed225c-a4dd-4420-8b94-9a286509f1f1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "6c77b9bf-49a1-4682-b916-f5f6e7c4aacb"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6c77b9bf-49a1-4682-b916-f5f6e7c4aacb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "25272a63-7195-460d-869e-d0b081ee4540"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "25272a63-7195-460d-869e-d0b081ee4540",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "37c16c3d-7f94-4472-9ef8-c7ded1f876ed",
+                "8f03a223-bba6-4bd4-9805-cc9969312d86",
+                "384ac891-a3bd-40ed-94be-34393a1e3b30",
+                "336df0f9-2a34-4ce7-a4da-924f77e7a0d5",
+                "0ac5809d-4327-436e-a50f-9f888b91cd5f",
+                "c05f5198-4607-4561-a321-f620450e620f",
+                "956c7366-0c27-4aed-b2b0-103129e45bea",
+                "0941b6a9-a2fa-4da9-8b76-16c5f89b3748",
+                "d81ffc64-cae1-4033-8d24-00480cbde2dd",
+                "43c84c19-5e70-4742-aedb-b31ce880a360",
+                "188bae4e-5be5-4fc6-a549-3de7edaf75e7",
+                "1db752f0-c259-42c2-89a0-ae3e3d6fc326"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "37c16c3d-7f94-4472-9ef8-c7ded1f876ed",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "749ddf33-335c-4181-80d5-8a4c96100303",
+                "e380f941-13c2-41ec-9fa6-5b7512d9e864",
+                "879f9f54-5798-459d-8e93-2ec5d42b5b69",
+                "0b1670e2-3fc0-43a5-a936-fd3b6ae62a0a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "749ddf33-335c-4181-80d5-8a4c96100303",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d214b61c-5183-4198-bfeb-66247bc620f3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d214b61c-5183-4198-bfeb-66247bc620f3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Название при основании",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e380f941-13c2-41ec-9fa6-5b7512d9e864",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "21fe2b7f-736f-4fc1-a87e-06399b27b60b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "21fe2b7f-736f-4fc1-a87e-06399b27b60b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Современное название",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "879f9f54-5798-459d-8e93-2ec5d42b5b69",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "53a6748e-c319-466a-b16c-5ddcef82bfd6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "53a6748e-c319-466a-b16c-5ddcef82bfd6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "УчреждениеОткрытие",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0b1670e2-3fc0-43a5-a936-fd3b6ae62a0a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "c7b126f0-b359-40b6-9185-bca6275c45cd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c7b126f0-b359-40b6-9185-bca6275c45cd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Период существования",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "8f03a223-bba6-4bd4-9805-cc9969312d86",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7879a168-84a3-4780-868b-69f119011d6e",
+                "2235c12a-9885-4b27-bb11-7b985da82c96",
+                "c8c4edd4-a473-4fa3-be74-3e77f2b96246",
+                "39313b9c-c814-4dfb-96ba-35545a7ce986"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7879a168-84a3-4780-868b-69f119011d6e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8aa2314b-ca1f-48ca-9341-5b46a02d5693"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8aa2314b-ca1f-48ca-9341-5b46a02d5693",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Императорский Московский университет[15]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2235c12a-9885-4b27-bb11-7b985da82c96",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e20fdfe8-6bcd-4a02-8609-5a3f0e9cfaaa"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e20fdfe8-6bcd-4a02-8609-5a3f0e9cfaaa",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Московский государственный университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c8c4edd4-a473-4fa3-be74-3e77f2b96246",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d790b973-3f03-4dc5-9737-e272c83cc5aa"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d790b973-3f03-4dc5-9737-e272c83cc5aa",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "12 (23) января 1755, 26 апреля (7 мая) 1755",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "39313b9c-c814-4dfb-96ba-35545a7ce986",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9a387520-6461-433e-a9ad-8f7efb47bc22"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9a387520-6461-433e-a9ad-8f7efb47bc22",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(1755—1917)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "384ac891-a3bd-40ed-94be-34393a1e3b30",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "34918125-0b20-4fd1-87ee-b1b18e015187",
+                "507cf9af-7857-4338-aff0-66f18e04ccc8",
+                "71f3bb8c-3932-4ec1-a38c-ad02974333a6",
+                "d0bb0c47-840d-4c66-b5fa-9ed4e6e0bdf6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "34918125-0b20-4fd1-87ee-b1b18e015187",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e3fb8554-378d-4675-91ec-476a2f24a5fb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e3fb8554-378d-4675-91ec-476a2f24a5fb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Императорский Дерптский университет(1802—1893)Императорский Юрьевский университет(1893—1917)[17]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "507cf9af-7857-4338-aff0-66f18e04ccc8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "81fb3f52-b4d2-4986-b0f3-18e209f65110"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "81fb3f52-b4d2-4986-b0f3-18e209f65110",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Тартуский университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "71f3bb8c-3932-4ec1-a38c-ad02974333a6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "add922da-b1b0-4a3f-9251-15426e98ea61"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "add922da-b1b0-4a3f-9251-15426e98ea61",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "4 (15) мая 1799, 1 (13) мая 1802[18]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d0bb0c47-840d-4c66-b5fa-9ed4e6e0bdf6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "364432f1-baa4-4a85-9e41-bd108fb271db"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "364432f1-baa4-4a85-9e41-bd108fb271db",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(1802—1917)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "336df0f9-2a34-4ce7-a4da-924f77e7a0d5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "cf442538-03c7-4fc2-8e8a-af43456c7baf",
+                "38467d1a-8f98-4202-8f2c-26be9401844a",
+                "73807281-2655-4eb3-8b79-8b2b5a4999b5",
+                "deb83ac1-e75e-4051-8a42-0d86f17818e6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cf442538-03c7-4fc2-8e8a-af43456c7baf",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5c355b92-ae6f-40bc-bdb6-bc86fbc305ce"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5c355b92-ae6f-40bc-bdb6-bc86fbc305ce",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Императорский Виленский университет[19]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "38467d1a-8f98-4202-8f2c-26be9401844a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "19d44d72-f492-442c-89d8-6559adea9431"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "19d44d72-f492-442c-89d8-6559adea9431",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Вильнюсский университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "73807281-2655-4eb3-8b79-8b2b5a4999b5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c4fe419c-6577-4501-b69b-950df17fabc1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c4fe419c-6577-4501-b69b-950df17fabc1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "18 (30) мая 1803",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "deb83ac1-e75e-4051-8a42-0d86f17818e6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "008a1d0b-351f-49c1-94fe-d2e3bf614859"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "008a1d0b-351f-49c1-94fe-d2e3bf614859",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(1803—1832)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "0ac5809d-4327-436e-a50f-9f888b91cd5f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "4b965339-d9e2-4f91-be8a-97ce528e22dd",
+                "71cb83a8-8a6f-476f-a981-6df3d37b1e99",
+                "709dd8a6-8d1c-401a-b1e0-14f95757c5f3",
+                "bc043bd9-cd69-4882-95a1-2fa078ab0449"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4b965339-d9e2-4f91-be8a-97ce528e22dd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7a469fbf-a4cf-4643-91b4-d1eed5b4c31f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7a469fbf-a4cf-4643-91b4-d1eed5b4c31f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Императорский Харьковский университет[20]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "71cb83a8-8a6f-476f-a981-6df3d37b1e99",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "72099bb4-1081-4006-8820-d8c0c7e8f293"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "72099bb4-1081-4006-8820-d8c0c7e8f293",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Харьковский национальный университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "709dd8a6-8d1c-401a-b1e0-14f95757c5f3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ac0f290f-cc99-48f3-a4f7-e75394eda08e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ac0f290f-cc99-48f3-a4f7-e75394eda08e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "24 января (5 февраля) 1803, 17 (29) января 1805[21]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bc043bd9-cd69-4882-95a1-2fa078ab0449",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f08a92e5-b7c9-412c-9ffc-c37a741b9615"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f08a92e5-b7c9-412c-9ffc-c37a741b9615",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(1803—1917)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "c05f5198-4607-4561-a321-f620450e620f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "93a81c1c-3647-4fdd-81fc-68e24ba8e29e",
+                "4eb2732c-3c28-45e1-a31f-fcc21f8cb543",
+                "ed5fc692-e413-4c59-8ae7-594bbffbb34b",
+                "f476a049-f3b9-480d-9678-17fff2b83c38"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "93a81c1c-3647-4fdd-81fc-68e24ba8e29e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cf554ca9-6044-45b1-b03c-023255af5857"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cf554ca9-6044-45b1-b03c-023255af5857",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Императорский Казанский университет[22]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4eb2732c-3c28-45e1-a31f-fcc21f8cb543",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1e0a0a51-aca1-47a5-8f9d-6e292d05eb5e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1e0a0a51-aca1-47a5-8f9d-6e292d05eb5e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Казанский государственный университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ed5fc692-e413-4c59-8ae7-594bbffbb34b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3f4a2915-5b73-4fe6-96eb-1e01533589bf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3f4a2915-5b73-4fe6-96eb-1e01533589bf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "5 (17) ноября 1804",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f476a049-f3b9-480d-9678-17fff2b83c38",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "bbca6cb5-d9d6-4b87-be82-ad5745457c0e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "bbca6cb5-d9d6-4b87-be82-ad5745457c0e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(1804—1917)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "956c7366-0c27-4aed-b2b0-103129e45bea",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "49d4aa47-f79b-4ccb-829e-eb5e08a485e1",
+                "b9a28608-1993-45d5-a6f9-114878f8fa8f",
+                "f3c89f8c-fb85-4e93-a62b-5b4bccee1a9e",
+                "81996f63-6ba0-41cf-91be-9a3179827bf0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "49d4aa47-f79b-4ccb-829e-eb5e08a485e1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0d356b3d-2200-42f8-a5d2-8ddf759bc713"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0d356b3d-2200-42f8-a5d2-8ddf759bc713",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Санкт-Петербургский Императорский университет(1821—1914)Петроградский Императорский университет(1914—1917)[23]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b9a28608-1993-45d5-a6f9-114878f8fa8f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9fa95572-fd39-460c-a9f1-f9a3bd957207"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9fa95572-fd39-460c-a9f1-f9a3bd957207",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Санкт-Петербургский государственный университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f3c89f8c-fb85-4e93-a62b-5b4bccee1a9e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f702afe5-5ed2-4c4f-87f9-f1658630e1ce"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f702afe5-5ed2-4c4f-87f9-f1658630e1ce",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "8 (20) февраля 18195, (17) ноября 1819",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "81996f63-6ba0-41cf-91be-9a3179827bf0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9febc36d-73b2-4285-ace8-16ef7e1e5d7d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9febc36d-73b2-4285-ace8-16ef7e1e5d7d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(1819—1917)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "0941b6a9-a2fa-4da9-8b76-16c5f89b3748",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "40fb66e4-88ec-48de-bca3-85fe430455fd",
+                "fca37a96-04b7-4128-81b1-fbfebf81b0ba",
+                "a92d80ee-8b55-470c-b278-b101127df08b",
+                "882a62b0-c1ba-4a67-8f5c-e7b0c75ff202"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "40fb66e4-88ec-48de-bca3-85fe430455fd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "98133fd9-5b25-417b-baba-85ae6e463e0c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "98133fd9-5b25-417b-baba-85ae6e463e0c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Императорский Киевский университет Святого Владимира[24]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fca37a96-04b7-4128-81b1-fbfebf81b0ba",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6f1a46ac-0898-4673-ab6a-f1e9ae775183"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6f1a46ac-0898-4673-ab6a-f1e9ae775183",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Киевский национальный университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a92d80ee-8b55-470c-b278-b101127df08b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "281f9f2c-ddff-4540-959e-cbb05e6bc46b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "281f9f2c-ddff-4540-959e-cbb05e6bc46b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "15 (27) июля 1834",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "882a62b0-c1ba-4a67-8f5c-e7b0c75ff202",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9e75d428-6116-4476-9c93-ead7c2fd5e77"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9e75d428-6116-4476-9c93-ead7c2fd5e77",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(1834—1917)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "d81ffc64-cae1-4033-8d24-00480cbde2dd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "4257ba36-b778-4759-aef3-67e94762c5e0",
+                "14317cda-5aa7-4414-bd16-8678737d315a",
+                "dc1bf96e-eaf7-43da-91cd-8402949cac0b",
+                "f884d81e-49dc-4a10-8c9c-1068b1abcf99"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4257ba36-b778-4759-aef3-67e94762c5e0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8f184e3c-0330-4909-aa42-c2e3ef2a99d9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8f184e3c-0330-4909-aa42-c2e3ef2a99d9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Императорский Новороссийский университет[25]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "14317cda-5aa7-4414-bd16-8678737d315a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "bce7d8cb-8d5f-4468-8ad8-a886d423dabd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "bce7d8cb-8d5f-4468-8ad8-a886d423dabd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Одесский национальный университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "dc1bf96e-eaf7-43da-91cd-8402949cac0b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4d92a24c-514f-412c-aca0-ee105acca24f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4d92a24c-514f-412c-aca0-ee105acca24f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1 (13) мая 1865",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f884d81e-49dc-4a10-8c9c-1068b1abcf99",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "38dc62c3-6340-4793-9e95-90122dd17e0a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "38dc62c3-6340-4793-9e95-90122dd17e0a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(1865—1917)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "43c84c19-5e70-4742-aedb-b31ce880a360",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "f592bdb7-7696-4fd5-87b8-bf79f7fdb495",
+                "e0bc2697-3f5d-4b94-9964-ac41532a778f",
+                "fb2e1158-e75a-4723-8d01-3f23209035b0",
+                "2f89e850-b4c9-477e-8a9f-516eb41bece4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f592bdb7-7696-4fd5-87b8-bf79f7fdb495",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6720ffc4-b7dc-4e93-b323-600e68f2848d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6720ffc4-b7dc-4e93-b323-600e68f2848d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Императорский Варшавский университет[26]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e0bc2697-3f5d-4b94-9964-ac41532a778f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1bd2ca2f-8c1e-4081-acae-d0c64caaca43"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1bd2ca2f-8c1e-4081-acae-d0c64caaca43",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Варшавский университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fb2e1158-e75a-4723-8d01-3f23209035b0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "58028ba0-f45a-45c8-9edf-cf98dd200092"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "58028ba0-f45a-45c8-9edf-cf98dd200092",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "12 (24) октября 1869",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2f89e850-b4c9-477e-8a9f-516eb41bece4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0b623355-ad09-411d-93de-5c981b1f9e78"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0b623355-ad09-411d-93de-5c981b1f9e78",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(1869—1917)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "188bae4e-5be5-4fc6-a549-3de7edaf75e7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "bcdaebeb-7b6d-4573-9281-4349c85216b1",
+                "a5aafc34-2bcc-47fd-a26a-354d2a94a773",
+                "95d4908b-d5d5-48c7-b26e-fda3b1453ada",
+                "fc57715d-8866-4c76-ae29-21d9e46b8810"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bcdaebeb-7b6d-4573-9281-4349c85216b1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c3dbbc3c-3b89-4106-85e8-4aeb7e83fe97"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c3dbbc3c-3b89-4106-85e8-4aeb7e83fe97",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Томский Императорский Университет[27]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a5aafc34-2bcc-47fd-a26a-354d2a94a773",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1cf19cd8-0b9f-47c6-a38a-ed8ad4cd9d9f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1cf19cd8-0b9f-47c6-a38a-ed8ad4cd9d9f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Томский государственный университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "95d4908b-d5d5-48c7-b26e-fda3b1453ada",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c2da7628-60d1-4146-941c-35ef67f80332"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c2da7628-60d1-4146-941c-35ef67f80332",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "16 (28) мая 1878, 22 июля (3 августа) 1888",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fc57715d-8866-4c76-ae29-21d9e46b8810",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8bf57504-0a64-41f3-bd78-1ac8d6eab21f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8bf57504-0a64-41f3-bd78-1ac8d6eab21f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(1888—1917)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "1db752f0-c259-42c2-89a0-ae3e3d6fc326",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "e10c54b0-f4e9-4d4a-b76d-21ba9c4d1dde",
+                "28570222-b9f8-4cec-b516-4d22b9391079",
+                "069a380c-1a3a-4057-842f-a662a0943180",
+                "a8e45762-c581-443c-a3e6-c6d772d15aa2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e10c54b0-f4e9-4d4a-b76d-21ba9c4d1dde",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b40b2667-db96-4d9c-ba78-89413cb4f309"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b40b2667-db96-4d9c-ba78-89413cb4f309",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Императорский Николаевский Саратовский университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "28570222-b9f8-4cec-b516-4d22b9391079",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "25ac4347-fa9e-4fdf-8c27-81d526cfb5fa"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "25ac4347-fa9e-4fdf-8c27-81d526cfb5fa",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Саратовский государственный университет",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "069a380c-1a3a-4057-842f-a662a0943180",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "212984f3-1471-45b6-b3b6-c0542a372078"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "212984f3-1471-45b6-b3b6-c0542a372078",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "10 (23) июня 1909",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a8e45762-c581-443c-a3e6-c6d772d15aa2",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a69fbc18-276d-416a-8c40-97e3ca908916"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a69fbc18-276d-416a-8c40-97e3ca908916",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(1909—1917)",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "01958804-cf90-7326-8510-d42d60b0901e"
+                },
+                "id": "5eaa7ad7-1a6d-4e3e-97b4-8ee7d199ac59"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "01958804-d018-7476-b1e4-1147c23da12e"
+                },
+                "id": "f80a5343-b7f1-4fef-aa68-a1b6f6559037"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "01958804-d5fa-7cc1-964b-dc33b098fbf4"
+                },
+                "id": "d30580e6-3d2a-4f9e-a076-e4ee56ad9c14"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "01958804-d4cc-776c-927f-579984182790"
+                },
+                "id": "71379973-fa34-4d69-abd2-0e827a9a5c70"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "01958804-cecd-796f-b35b-f2ba06e4ac15"
+                },
+                "id": "b5994aa8-030f-45bf-9f02-0de122c1edf9"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "01958804-d1ae-7772-8de3-de623bfb43b3"
+                },
+                "id": "612410e9-7315-4b8d-90e0-a51daa2e75d1"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "01958804-cd42-7eae-b758-9deb79014414"
+                },
+                "id": "6a389f9d-239e-4d77-97d9-f2a94b9d417c"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "01958804-cdb4-7678-8103-57c8cd6c1d95"
+                },
+                "id": "983962ae-acf1-4584-82f6-efef8fb67c74"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "01958804-d0e5-7b53-b232-9ee7307937b6"
+                },
+                "id": "dc2c648b-2558-4cc8-bd87-350d7c36b93f"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "01958804-d3c2-7165-a8c4-99b63ac3b072"
+                },
+                "id": "1f65debe-85df-463b-ba4c-17d8f0f3d762"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "01958804-d2c0-7763-9529-cf0ea444726e"
+                },
+                "id": "55657c0c-2ca6-4665-9861-91a7f96307ac"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-85397657"
+                },
+                "id": "92cd1923-a6fa-4dae-86a3-1ca92e74a909"
+            }
+        ],
+        "atom": [
+            {
+                "id": "1181fc05-a7ef-4cb9-82b6-e2d6c5e4eb61",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Одесский национальный университет"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2603f179-2780-4cca-8ae3-67d2fa41ce1b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Императорский Новороссийский университет",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f8cb66fc-9993-4edf-9df6-080b2fbdcdb1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1865—1917",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c24bb5f7-9840-473d-a510-8456da079d0a",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1865,
+                        "month": 5,
+                        "day": 1
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "db766dc0-8dd9-45f6-bad6-af2249ed6f00",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Харьковский национальный университет"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "79e3cf30-780f-42e9-b93a-328b19c02d01",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Киевский национальный университет"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "81a8c24b-222a-455f-a410-d60afc851050",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Тартуский университет"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8e4550aa-f110-4da2-88ed-c4e7f48c8684",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Санкт-Петербургский Императорский университет(1821—1914)Петроградский Императорский университет(1914—1917)",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "88634fbf-fb8b-4ce3-957f-c6d2e36033dc",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1819—1917",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c7902496-2c74-43f1-aac9-e9f5b50b5004",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Императорский Киевский университет Святого Владимира",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2828fcf5-5df6-4dcd-8f56-70b2a3954c66",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1834,
+                        "month": 7,
+                        "day": 15
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d875199d-af95-4cf3-aacd-66dcf48ad141",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1834—1917",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "75d88c64-9558-4a2d-9716-f2c425c769a9",
+                "type_id": "13",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "de96bf7e-ced9-4dda-93e0-61e0b541bdc6",
+                "type_id": "13",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "d1ed54bc-9fc0-4c7a-8fc5-8c5cad0b6379",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Варшавский университет"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c6d0d78f-3d12-4211-a5b0-16de02b2ca0d",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Вильнюсский университет"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f38a371e-8071-4ecd-94f0-1a46b43474fd",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1803—1832",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "61425f78-eb82-453f-9f8e-6974fb218f41",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Императорский Виленский университет",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "58949fa9-60b3-46dc-b48d-48cad1ae5ec7",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1803,
+                        "month": 5,
+                        "day": 18
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5afd2af6-7d43-43e2-a08e-4049e543f49b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Императорский Харьковский университет",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "79f3052c-aa3f-4ef7-acbb-9e69c0df2f83",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1803—1917",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6fb97de1-9b7d-445a-bdc6-a43dc17de8f5",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Томский государственный университет"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4a1e4d77-1345-4e07-a8b4-8a68af2c1963",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1888—1917",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4938567e-8823-4cbd-965c-981ec6642371",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Томский Императорский Университет",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "34efc3d0-ad3b-40eb-b7a9-5febe31bce39",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1878,
+                        "month": 5,
+                        "day": 16
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d521170b-5804-4ccf-8366-c7dfbeee875a",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1799,
+                        "month": 5,
+                        "day": 4
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6cefe76b-28c2-4187-9617-b2f47b91bccb",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1802—1917",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0f1a3d92-3ac1-479d-94df-3db7ce3f560a",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Императорский Дерптский университет(1802—1893)Императорский Юрьевский университет(1893—1917)",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "252cf6e5-f027-4fcb-95c0-74d4aa8f526d",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Санкт-Петербургский государственный университет"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "42138ad5-9bd5-4074-a93d-c2f5260949dd",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Казанский государственный университет"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e15b8f8f-5615-49f9-9396-a019341c1e60",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Императорский Казанский университет",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "19ad82ab-0f46-461c-8401-c0383c3ad703",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1804—1917",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0ba7f026-6ffb-4e8a-8eac-cf894a295bd3",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1804,
+                        "month": 11,
+                        "day": 5
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "32e0ccfe-ff00-4098-959e-7109d6a20836",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Саратовский государственный университет"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c00ab643-cb5f-46df-8993-072d5731710d",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1909,
+                        "month": 6,
+                        "day": 10
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f94972c4-f15a-473a-a94c-be4d29927209",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Императорский Николаевский Саратовский университет",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c912be7f-cfaf-497d-b1cf-4d912f71ffb5",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1909—1917",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "27005ea1-cefa-44a8-8cee-025d21b4dfdb",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Императорский Варшавский университет",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3200df82-fb0d-43f3-8e53-3e266f078201",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1869—1917",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "80832a13-2d45-415e-891f-33410a633ea7",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1869,
+                        "month": 10,
+                        "day": 12
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3d842cc1-274e-45cd-acf7-e0e5ad5524ac",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Московский государственный университет"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f1ac774b-9cac-4ea9-9dc2-f8c57dcfe47b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Императорский Московский университет",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9e9eae69-84bf-48b1-b485-6beacc1f6844",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1755,
+                        "month": 1,
+                        "day": 12
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2f076927-9ddb-4d75-a6f2-ce8c9d2a5562",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1755—1917",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d4edcb21-c1dd-4e64-8f72-efbaf31b906e",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "12c2591d-3024-4836-9e82-9b60d957d5aa",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741743861
+                },
+                "status": "approved"
+            },
+            {
+                "id": "140dd61e-8617-4b1f-b326-8a82c78bf342",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 51762
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8a26b298-fca7-4b53-a822-9b43f788987c",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741743861
+                },
+                "status": "approved"
+            },
+            {
+                "id": "424b112b-0ce9-40f6-88a7-e31e59df883b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_6.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ee40521d-5419-4ee7-b95d-90bbfb426f09",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "20a64a61-d521-44a7-8f4a-5814dd50f72c",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "051a1ad4-4b21-4650-b117-6299085fde8e",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_6.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "87066e81-e426-409c-b7a0-fc9ae3b9d047",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3391"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4fadd7db-2d90-4a85-aed0-28b05924b421",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741743861
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e64ccf85-644b-4a51-b0b3-54afa1388669",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/92cd/1923/table_6.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0081d7db-9a1a-462b-9c04-a84164abe7c4",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397630",
+                "id": "5ac3ac04-5c31-4ecc-9c2f-a8b01e14c264",
+                "source": "b5994aa8-030f-45bf-9f02-0de122c1edf9",
+                "target": "1181fc05-a7ef-4cb9-82b6-e2d6c5e4eb61"
+            },
+            {
+                "status": "approved",
+                "type_id": "22966",
+                "value": "ОК-85397640",
+                "id": "313812c3-1457-4e2f-a6e9-b9c20dc563a6",
+                "source": "b5994aa8-030f-45bf-9f02-0de122c1edf9",
+                "target": "2603f179-2780-4cca-8ae3-67d2fa41ce1b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23026",
+                "value": "ОК-85397673",
+                "id": "45511732-33b4-4658-9dc7-a1f589bd3056",
+                "source": "b5994aa8-030f-45bf-9f02-0de122c1edf9",
+                "target": "f8cb66fc-9993-4edf-9df6-080b2fbdcdb1"
+            },
+            {
+                "status": "approved",
+                "type_id": "22970",
+                "value": "ОК-85397639",
+                "id": "d8f58563-580b-41e1-90e9-cde19ece6e5c",
+                "source": "b5994aa8-030f-45bf-9f02-0de122c1edf9",
+                "target": "c24bb5f7-9840-473d-a510-8456da079d0a"
+            },
+            {
+                "status": "approved",
+                "type_id": "22966",
+                "value": "ОК-85397641",
+                "id": "6e652ad9-18e0-462a-a037-9abd99ab499e",
+                "source": "983962ae-acf1-4584-82f6-efef8fb67c74",
+                "target": "61425f78-eb82-453f-9f8e-6974fb218f41"
+            },
+            {
+                "status": "approved",
+                "type_id": "22970",
+                "value": "ОК-85397642",
+                "id": "7c27e4b2-3944-4115-86cf-dc04ee4d690c",
+                "source": "983962ae-acf1-4584-82f6-efef8fb67c74",
+                "target": "58949fa9-60b3-46dc-b48d-48cad1ae5ec7"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397628",
+                "id": "9b155ca8-d1de-4c8e-b5d3-ea75c81a4192",
+                "source": "f80a5343-b7f1-4fef-aa68-a1b6f6559037",
+                "target": "81a8c24b-222a-455f-a410-d60afc851050"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397632",
+                "id": "cfa29e42-5909-4a50-83db-c98a5eff637e",
+                "source": "5eaa7ad7-1a6d-4e3e-97b4-8ee7d199ac59",
+                "target": "252cf6e5-f027-4fcb-95c0-74d4aa8f526d"
+            },
+            {
+                "status": "approved",
+                "type_id": "22966",
+                "value": "ОК-85397643",
+                "id": "b9a4b9ec-acb2-4563-863f-086b58ced206",
+                "source": "5eaa7ad7-1a6d-4e3e-97b4-8ee7d199ac59",
+                "target": "8e4550aa-f110-4da2-88ed-c4e7f48c8684"
+            },
+            {
+                "status": "approved",
+                "type_id": "23026",
+                "value": "ОК-85397681",
+                "id": "80ce7769-ca05-4652-b618-35b658836fda",
+                "source": "5eaa7ad7-1a6d-4e3e-97b4-8ee7d199ac59",
+                "target": "88634fbf-fb8b-4ce3-957f-c6d2e36033dc"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397620",
+                "id": "ba099cf4-5710-479f-9fba-b5c99f2484e3",
+                "source": "1f65debe-85df-463b-ba4c-17d8f0f3d762",
+                "target": "79e3cf30-780f-42e9-b93a-328b19c02d01"
+            },
+            {
+                "status": "approved",
+                "type_id": "22966",
+                "value": "ОК-85397652",
+                "id": "287b2069-db72-45ba-bf28-2cb7a8893384",
+                "source": "1f65debe-85df-463b-ba4c-17d8f0f3d762",
+                "target": "c7902496-2c74-43f1-aac9-e9f5b50b5004"
+            },
+            {
+                "status": "approved",
+                "type_id": "22970",
+                "value": "ОК-85397651",
+                "id": "cf6f4237-b169-4c36-878a-3f336710fa6e",
+                "source": "1f65debe-85df-463b-ba4c-17d8f0f3d762",
+                "target": "2828fcf5-5df6-4dcd-8f56-70b2a3954c66"
+            },
+            {
+                "status": "approved",
+                "type_id": "23026",
+                "value": "ОК-85397678",
+                "id": "886ab308-a44c-4c74-8b16-a578b04be5af",
+                "source": "1f65debe-85df-463b-ba4c-17d8f0f3d762",
+                "target": "d875199d-af95-4cf3-aacd-66dcf48ad141"
+            },
+            {
+                "status": "new",
+                "type_id": "22970",
+                "id": "df865230-865c-4d25-bf8a-72e7c62e2ccf",
+                "source": "5eaa7ad7-1a6d-4e3e-97b4-8ee7d199ac59",
+                "target": "75d88c64-9558-4a2d-9716-f2c425c769a9"
+            },
+            {
+                "status": "new",
+                "type_id": "22970",
+                "id": "4cb70ea2-3c25-4e38-9d2a-67ff61e5d547",
+                "source": "612410e9-7315-4b8d-90e0-a51daa2e75d1",
+                "target": "de96bf7e-ced9-4dda-93e0-61e0b541bdc6"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397634",
+                "id": "1587288a-395c-43a6-96ab-37dc6ea38f9d",
+                "source": "612410e9-7315-4b8d-90e0-a51daa2e75d1",
+                "target": "db766dc0-8dd9-45f6-bad6-af2249ed6f00"
+            },
+            {
+                "status": "approved",
+                "type_id": "22966",
+                "value": "ОК-85397650",
+                "id": "1e3a0121-b247-48aa-bbad-ea3bbdd8a64c",
+                "source": "612410e9-7315-4b8d-90e0-a51daa2e75d1",
+                "target": "5afd2af6-7d43-43e2-a08e-4049e543f49b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23026",
+                "value": "ОК-85397674",
+                "id": "8074e8fe-39ae-40d9-9baa-536f706b3349",
+                "source": "612410e9-7315-4b8d-90e0-a51daa2e75d1",
+                "target": "79f3052c-aa3f-4ef7-acbb-9e69c0df2f83"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397624",
+                "id": "00230e76-60d2-4319-8c63-7896a3b12e52",
+                "source": "6a389f9d-239e-4d77-97d9-f2a94b9d417c",
+                "target": "d1ed54bc-9fc0-4c7a-8fc5-8c5cad0b6379"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397618",
+                "id": "1abdb82a-31ad-4d31-8d4c-0976301d78f2",
+                "source": "983962ae-acf1-4584-82f6-efef8fb67c74",
+                "target": "c6d0d78f-3d12-4211-a5b0-16de02b2ca0d"
+            },
+            {
+                "status": "approved",
+                "type_id": "23026",
+                "value": "ОК-85397676",
+                "id": "eb7f8f73-f070-4e46-a135-356d8aee6368",
+                "source": "983962ae-acf1-4584-82f6-efef8fb67c74",
+                "target": "f38a371e-8071-4ecd-94f0-1a46b43474fd"
+            },
+            {
+                "status": "approved",
+                "type_id": "22966",
+                "value": "ОК-85397645",
+                "id": "94b3f60d-6065-4067-a372-3ebd893bdff8",
+                "source": "6a389f9d-239e-4d77-97d9-f2a94b9d417c",
+                "target": "27005ea1-cefa-44a8-8cee-025d21b4dfdb"
+            },
+            {
+                "status": "approved",
+                "type_id": "23026",
+                "value": "ОК-85397675",
+                "id": "045111de-0cca-4eda-bbaf-e94095e54902",
+                "source": "6a389f9d-239e-4d77-97d9-f2a94b9d417c",
+                "target": "3200df82-fb0d-43f3-8e53-3e266f078201"
+            },
+            {
+                "status": "approved",
+                "type_id": "22970",
+                "value": "ОК-85397644",
+                "id": "f15b650e-6a9a-486d-8cbf-d4c91c45f821",
+                "source": "6a389f9d-239e-4d77-97d9-f2a94b9d417c",
+                "target": "80832a13-2d45-415e-891f-33410a633ea7"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397636",
+                "id": "dc24e5d0-d97a-459c-8070-20dd3879a19a",
+                "source": "dc2c648b-2558-4cc8-bd87-350d7c36b93f",
+                "target": "6fb97de1-9b7d-445a-bdc6-a43dc17de8f5"
+            },
+            {
+                "status": "approved",
+                "type_id": "23026",
+                "value": "ОК-85397677",
+                "id": "d638b6d0-b0a8-4b63-880b-2a15cc39bf35",
+                "source": "dc2c648b-2558-4cc8-bd87-350d7c36b93f",
+                "target": "4a1e4d77-1345-4e07-a8b4-8a68af2c1963"
+            },
+            {
+                "status": "approved",
+                "type_id": "22966",
+                "value": "ОК-85397647",
+                "id": "c29ae2ca-dde3-408d-8346-aef85a9d0ad1",
+                "source": "dc2c648b-2558-4cc8-bd87-350d7c36b93f",
+                "target": "4938567e-8823-4cbd-965c-981ec6642371"
+            },
+            {
+                "status": "approved",
+                "type_id": "22970",
+                "value": "ОК-85397646",
+                "id": "f31bde8a-49bd-4818-9070-cfa8af05403a",
+                "source": "dc2c648b-2558-4cc8-bd87-350d7c36b93f",
+                "target": "34efc3d0-ad3b-40eb-b7a9-5febe31bce39"
+            },
+            {
+                "status": "approved",
+                "type_id": "22970",
+                "value": "ОК-85397637",
+                "id": "8818d483-a7fd-4fc0-940c-8fb1c0c35a9d",
+                "source": "f80a5343-b7f1-4fef-aa68-a1b6f6559037",
+                "target": "d521170b-5804-4ccf-8366-c7dfbeee875a"
+            },
+            {
+                "status": "approved",
+                "type_id": "23026",
+                "value": "ОК-85397680",
+                "id": "080155ab-3bb8-4335-b665-a668970f44bb",
+                "source": "f80a5343-b7f1-4fef-aa68-a1b6f6559037",
+                "target": "6cefe76b-28c2-4187-9617-b2f47b91bccb"
+            },
+            {
+                "status": "approved",
+                "type_id": "22966",
+                "value": "ОК-85397638",
+                "id": "fcb6c3df-b317-41f0-93c7-759f5b8930d1",
+                "source": "f80a5343-b7f1-4fef-aa68-a1b6f6559037",
+                "target": "0f1a3d92-3ac1-479d-94df-3db7ce3f560a"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397616",
+                "id": "9ddd98a4-ce3e-45e2-976b-0e83e97ae89d",
+                "source": "55657c0c-2ca6-4665-9861-91a7f96307ac",
+                "target": "3d842cc1-274e-45cd-acf7-e0e5ad5524ac"
+            },
+            {
+                "status": "approved",
+                "type_id": "22966",
+                "value": "ОК-85397648",
+                "id": "27f5defe-5209-48a5-9b2b-1ff5416f7b2a",
+                "source": "55657c0c-2ca6-4665-9861-91a7f96307ac",
+                "target": "f1ac774b-9cac-4ea9-9dc2-f8c57dcfe47b"
+            },
+            {
+                "status": "approved",
+                "type_id": "22970",
+                "value": "ОК-85397649",
+                "id": "cefbaab3-8739-420f-8ed6-8243b6633438",
+                "source": "55657c0c-2ca6-4665-9861-91a7f96307ac",
+                "target": "9e9eae69-84bf-48b1-b485-6beacc1f6844"
+            },
+            {
+                "status": "approved",
+                "type_id": "23026",
+                "value": "ОК-85397679",
+                "id": "a0e05ebf-80b4-4daf-8fd5-5054d50fa682",
+                "source": "55657c0c-2ca6-4665-9861-91a7f96307ac",
+                "target": "2f076927-9ddb-4d75-a6f2-ce8c9d2a5562"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397622",
+                "id": "fe4e96e5-6b2e-4501-8d10-df9b001fa58f",
+                "source": "d30580e6-3d2a-4f9e-a076-e4ee56ad9c14",
+                "target": "42138ad5-9bd5-4074-a93d-c2f5260949dd"
+            },
+            {
+                "status": "approved",
+                "type_id": "22966",
+                "value": "ОК-85397653",
+                "id": "b003680c-8610-4159-b566-86e100026c0d",
+                "source": "d30580e6-3d2a-4f9e-a076-e4ee56ad9c14",
+                "target": "e15b8f8f-5615-49f9-9396-a019341c1e60"
+            },
+            {
+                "status": "approved",
+                "type_id": "23026",
+                "value": "ОК-85397682",
+                "id": "565575ec-aead-4a38-b9ed-7a56f2d243f3",
+                "source": "d30580e6-3d2a-4f9e-a076-e4ee56ad9c14",
+                "target": "19ad82ab-0f46-461c-8401-c0383c3ad703"
+            },
+            {
+                "status": "approved",
+                "type_id": "22970",
+                "value": "ОК-85397654",
+                "id": "caad1469-2ce4-4202-bf6e-85dbf72fc15c",
+                "source": "d30580e6-3d2a-4f9e-a076-e4ee56ad9c14",
+                "target": "0ba7f026-6ffb-4e8a-8eac-cf894a295bd3"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397626",
+                "id": "0cb7f74b-806a-4dea-bedc-05b9dcf2140f",
+                "source": "71379973-fa34-4d69-abd2-0e827a9a5c70",
+                "target": "32e0ccfe-ff00-4098-959e-7109d6a20836"
+            },
+            {
+                "status": "approved",
+                "type_id": "22970",
+                "value": "ОК-85397656",
+                "id": "330f2a29-ff45-49a5-a231-10355b01b6a5",
+                "source": "71379973-fa34-4d69-abd2-0e827a9a5c70",
+                "target": "c00ab643-cb5f-46df-8993-072d5731710d"
+            },
+            {
+                "status": "approved",
+                "type_id": "22966",
+                "value": "ОК-85397655",
+                "id": "f5e5ca9d-2106-41ef-a576-b4ef80bc201e",
+                "source": "71379973-fa34-4d69-abd2-0e827a9a5c70",
+                "target": "f94972c4-f15a-473a-a94c-be4d29927209"
+            },
+            {
+                "status": "approved",
+                "type_id": "23026",
+                "value": "ОК-85397683",
+                "id": "693ae532-7029-4210-9b40-5928af30ac34",
+                "source": "71379973-fa34-4d69-abd2-0e827a9a5c70",
+                "target": "c912be7f-cfaf-497d-b1cf-4d912f71ffb5"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-85397661",
+                "id": "cde1f71f-4afc-4abd-b3b8-8e498d968869",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "d4edcb21-c1dd-4e64-8f72-efbaf31b906e"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-85397662",
+                "id": "5e6c1379-effa-4033-8f70-fb44dacdccf3",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "12c2591d-3024-4836-9e82-9b60d957d5aa"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-85397663",
+                "id": "f869182c-b506-4f5c-93d7-78e8e9c6719d",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "140dd61e-8617-4b1f-b326-8a82c78bf342"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-85397664",
+                "id": "a56ce013-f9b4-4bbb-a2a1-500750fa9aef",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "8a26b298-fca7-4b53-a822-9b43f788987c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-85397665",
+                "id": "c24194c3-5cc1-4f4d-9909-323dafc6ba93",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "424b112b-0ce9-40f6-88a7-e31e59df883b"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-85397666",
+                "id": "72ff7803-e251-4190-9164-3b5e88065482",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "ee40521d-5419-4ee7-b95d-90bbfb426f09"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-85397667",
+                "id": "2cb3bdaf-8b0a-4690-ae01-86e1d1a8f5eb",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "20a64a61-d521-44a7-8f4a-5814dd50f72c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-85397668",
+                "id": "41f7a655-9f75-4482-a55b-4dd96e23fee2",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "051a1ad4-4b21-4650-b117-6299085fde8e"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-85397669",
+                "id": "bd3ac5ab-c8ea-4bc6-a8bc-f6be5ddd49a6",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "87066e81-e426-409c-b7a0-fc9ae3b9d047"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-85397670",
+                "id": "0e59760e-fd26-432a-a810-ffb140d686cd",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "4fadd7db-2d90-4a85-aed0-28b05924b421"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-85397671",
+                "id": "47e8d98c-7597-4983-8a60-138b9eb3da43",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "e64ccf85-644b-4a51-b0b3-54afa1388669"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-85397672",
+                "id": "b50eb8d6-96b2-47e2-aba2-599246015655",
+                "source": "92cd1923-a6fa-4dae-86a3-1ca92e74a909",
+                "target": "0081d7db-9a1a-462b-9c04-a84164abe7c4"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f702afe5-5ed2-4c4f-87f9-f1658630e1ce",
+                    "start": 0,
+                    "end": 20
+                },
+                "value": "75d88c64-9558-4a2d-9716-f2c425c769a9",
+                "id": "d22248fa-1e43-4afa-896d-75b6110af1e3"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ac0f290f-cc99-48f3-a4f7-e75394eda08e",
+                    "start": 0,
+                    "end": 26
+                },
+                "value": "de96bf7e-ced9-4dda-93e0-61e0b541bdc6",
+                "id": "5d4578aa-bf25-466c-828b-0bffa516c7c8"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "add922da-b1b0-4a3f-9251-15426e98ea61",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "d521170b-5804-4ccf-8366-c7dfbeee875a",
+                "id": "26a5f034-57de-48d6-a7a8-06a4a26163b4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "81fb3f52-b4d2-4986-b0f3-18e209f65110",
+                    "start": 0,
+                    "end": 21
+                },
+                "value": "81a8c24b-222a-455f-a410-d60afc851050",
+                "id": "40803c8c-2d7e-489a-a881-0dcf8e17974f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "364432f1-baa4-4a85-9e41-bd108fb271db",
+                    "start": 1,
+                    "end": 10
+                },
+                "value": "6cefe76b-28c2-4187-9617-b2f47b91bccb",
+                "id": "284d5579-6865-43d1-af7c-fcc1ac074f13"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3f4a2915-5b73-4fe6-96eb-1e01533589bf",
+                    "start": 0,
+                    "end": 18
+                },
+                "value": "0ba7f026-6ffb-4e8a-8eac-cf894a295bd3",
+                "id": "1ba7d62b-eef9-4f8b-b404-32f769d62eca"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cf554ca9-6044-45b1-b03c-023255af5857",
+                    "start": 0,
+                    "end": 35
+                },
+                "value": "e15b8f8f-5615-49f9-9396-a019341c1e60",
+                "id": "aaf8fb4f-6c4d-4c01-8fac-a1a88211f670"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "bbca6cb5-d9d6-4b87-be82-ad5745457c0e",
+                    "start": 1,
+                    "end": 10
+                },
+                "value": "19ad82ab-0f46-461c-8401-c0383c3ad703",
+                "id": "36bcbb56-80c0-4021-9eec-4e2975466c1a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0b623355-ad09-411d-93de-5c981b1f9e78",
+                    "start": 1,
+                    "end": 10
+                },
+                "value": "3200df82-fb0d-43f3-8e53-3e266f078201",
+                "id": "e9d75a76-37d4-43c2-aa00-e12c446fa979"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "58028ba0-f45a-45c8-9edf-cf98dd200092",
+                    "start": 0,
+                    "end": 20
+                },
+                "value": "80832a13-2d45-415e-891f-33410a633ea7",
+                "id": "355a5827-ef91-459e-91bb-b9d5d1056b85"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6720ffc4-b7dc-4e93-b323-600e68f2848d",
+                    "start": 0,
+                    "end": 36
+                },
+                "value": "27005ea1-cefa-44a8-8cee-025d21b4dfdb",
+                "id": "39c22d28-0616-4552-b0de-7d8bb7dc77bb"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "38dc62c3-6340-4793-9e95-90122dd17e0a",
+                    "start": 1,
+                    "end": 10
+                },
+                "value": "f8cb66fc-9993-4edf-9df6-080b2fbdcdb1",
+                "id": "5b6f73cf-b59d-4bd3-b578-5a4cf17260e2"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4d92a24c-514f-412c-aca0-ee105acca24f",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "c24bb5f7-9840-473d-a510-8456da079d0a",
+                "id": "89cf25c0-f174-4adb-b405-6ce3897ef4b4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "bce7d8cb-8d5f-4468-8ad8-a886d423dabd",
+                    "start": 0,
+                    "end": 33
+                },
+                "value": "1181fc05-a7ef-4cb9-82b6-e2d6c5e4eb61",
+                "id": "b2fbfdc5-8007-4c75-8cc1-fd8beb02ac20"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8f184e3c-0330-4909-aa42-c2e3ef2a99d9",
+                    "start": 0,
+                    "end": 40
+                },
+                "value": "2603f179-2780-4cca-8ae3-67d2fa41ce1b",
+                "id": "df345ae1-263e-43a1-a1f2-7722e5e6ade6"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0d356b3d-2200-42f8-a5d2-8ddf759bc713",
+                    "start": 0,
+                    "end": 106
+                },
+                "value": "8e4550aa-f110-4da2-88ed-c4e7f48c8684",
+                "id": "efd69c94-a746-4f54-b743-8ea09660704c"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9febc36d-73b2-4285-ace8-16ef7e1e5d7d",
+                    "start": 1,
+                    "end": 10
+                },
+                "value": "88634fbf-fb8b-4ce3-957f-c6d2e36033dc",
+                "id": "f74dd042-0462-4b1d-9aba-7639bda8830b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9fa95572-fd39-460c-a9f1-f9a3bd957207",
+                    "start": 0,
+                    "end": 47
+                },
+                "value": "252cf6e5-f027-4fcb-95c0-74d4aa8f526d",
+                "id": "33d531e3-0533-4cce-9460-9c109073ae4b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "72099bb4-1081-4006-8820-d8c0c7e8f293",
+                    "start": 0,
+                    "end": 36
+                },
+                "value": "db766dc0-8dd9-45f6-bad6-af2249ed6f00",
+                "id": "9d5eaf50-ed39-4bbf-a14c-d9b34e8c960b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7a469fbf-a4cf-4643-91b4-d1eed5b4c31f",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "5afd2af6-7d43-43e2-a08e-4049e543f49b",
+                "id": "f61c5334-d346-4439-ba0d-ba187ded62a9"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f08a92e5-b7c9-412c-9ffc-c37a741b9615",
+                    "start": 1,
+                    "end": 10
+                },
+                "value": "79f3052c-aa3f-4ef7-acbb-9e69c0df2f83",
+                "id": "89068778-6a23-4a8e-997e-6deb5da61ded"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "281f9f2c-ddff-4540-959e-cbb05e6bc46b",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "2828fcf5-5df6-4dcd-8f56-70b2a3954c66",
+                "id": "ad597ded-0ddb-41d0-b9a4-55d17043ad0f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "98133fd9-5b25-417b-baba-85ae6e463e0c",
+                    "start": 0,
+                    "end": 52
+                },
+                "value": "c7902496-2c74-43f1-aac9-e9f5b50b5004",
+                "id": "14bec4f3-e02d-4ec1-97a5-307d16940196"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6f1a46ac-0898-4673-ab6a-f1e9ae775183",
+                    "start": 0,
+                    "end": 33
+                },
+                "value": "79e3cf30-780f-42e9-b93a-328b19c02d01",
+                "id": "e51b0d95-78a0-4446-b3c4-2168257f0f80"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9e75d428-6116-4476-9c93-ead7c2fd5e77",
+                    "start": 1,
+                    "end": 10
+                },
+                "value": "d875199d-af95-4cf3-aacd-66dcf48ad141",
+                "id": "407875ab-25ee-45e8-b2c3-0164d2a126e8"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c4fe419c-6577-4501-b69b-950df17fabc1",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "58949fa9-60b3-46dc-b48d-48cad1ae5ec7",
+                "id": "fda30408-c552-45c8-953a-566be2bc24c7"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "008a1d0b-351f-49c1-94fe-d2e3bf614859",
+                    "start": 1,
+                    "end": 10
+                },
+                "value": "f38a371e-8071-4ecd-94f0-1a46b43474fd",
+                "id": "0e46aa1a-a496-4ee4-8cbc-e5f970a70273"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "5c355b92-ae6f-40bc-bdb6-bc86fbc305ce",
+                    "start": 0,
+                    "end": 35
+                },
+                "value": "61425f78-eb82-453f-9f8e-6974fb218f41",
+                "id": "ba907341-b350-464f-9c94-664322608e96"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "19d44d72-f492-442c-89d8-6559adea9431",
+                    "start": 0,
+                    "end": 23
+                },
+                "value": "c6d0d78f-3d12-4211-a5b0-16de02b2ca0d",
+                "id": "d0c3580f-3063-4b29-874b-683961ca861b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c2da7628-60d1-4146-941c-35ef67f80332",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "34efc3d0-ad3b-40eb-b7a9-5febe31bce39",
+                "id": "8148cde1-7562-4bf2-a22e-0f05a8944d57"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c3dbbc3c-3b89-4106-85e8-4aeb7e83fe97",
+                    "start": 0,
+                    "end": 33
+                },
+                "value": "4938567e-8823-4cbd-965c-981ec6642371",
+                "id": "6b7f64fe-1acc-42a8-9e5e-dc7e39631ce1"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8bf57504-0a64-41f3-bd78-1ac8d6eab21f",
+                    "start": 1,
+                    "end": 10
+                },
+                "value": "4a1e4d77-1345-4e07-a8b4-8a68af2c1963",
+                "id": "5faa4e7b-fbae-479b-b28c-8fbf64e1e9e2"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1cf19cd8-0b9f-47c6-a38a-ed8ad4cd9d9f",
+                    "start": 0,
+                    "end": 35
+                },
+                "value": "6fb97de1-9b7d-445a-bdc6-a43dc17de8f5",
+                "id": "870e4f86-1288-46b0-a7b6-d8570de25523"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "25ac4347-fa9e-4fdf-8c27-81d526cfb5fa",
+                    "start": 0,
+                    "end": 39
+                },
+                "value": "32e0ccfe-ff00-4098-959e-7109d6a20836",
+                "id": "d2622a15-1591-4027-8b83-e27e86da04ea"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a69fbc18-276d-416a-8c40-97e3ca908916",
+                    "start": 1,
+                    "end": 10
+                },
+                "value": "c912be7f-cfaf-497d-b1cf-4d912f71ffb5",
+                "id": "9872cdc8-a9de-4a74-9a2d-9856c69c30ad"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "212984f3-1471-45b6-b3b6-c0542a372078",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "c00ab643-cb5f-46df-8993-072d5731710d",
+                "id": "0c2f2d1b-2db2-4763-8a94-60bc9379a2b2"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b40b2667-db96-4d9c-ba78-89413cb4f309",
+                    "start": 0,
+                    "end": 50
+                },
+                "value": "f94972c4-f15a-473a-a94c-be4d29927209",
+                "id": "5660bfd1-faa3-4d98-80d0-0085001979af"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d790b973-3f03-4dc5-9737-e272c83cc5aa",
+                    "start": 0,
+                    "end": 19
+                },
+                "value": "9e9eae69-84bf-48b1-b485-6beacc1f6844",
+                "id": "5bd6eeef-5f10-47bf-9b42-fd613feca8a3"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e20fdfe8-6bcd-4a02-8609-5a3f0e9cfaaa",
+                    "start": 0,
+                    "end": 38
+                },
+                "value": "3d842cc1-274e-45cd-acf7-e0e5ad5524ac",
+                "id": "71a08a7c-0e63-44f7-aaae-b67304716926"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9a387520-6461-433e-a9ad-8f7efb47bc22",
+                    "start": 1,
+                    "end": 10
+                },
+                "value": "2f076927-9ddb-4d75-a6f2-ce8c9d2a5562",
+                "id": "7eb3fae8-8bfe-4a1c-9d14-91b211c8139b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8aa2314b-ca1f-48ca-9341-5b46a02d5693",
+                    "start": 0,
+                    "end": 36
+                },
+                "value": "f1ac774b-9cac-4ea9-9dc2-f8c57dcfe47b",
+                "id": "66a9fb90-b8fc-4b9f-990f-e2c8e34a500d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1e0a0a51-aca1-47a5-8f9d-6e292d05eb5e",
+                    "start": 0,
+                    "end": 37
+                },
+                "value": "42138ad5-9bd5-4074-a93d-c2f5260949dd",
+                "id": "0d47088d-8b4c-470f-baf2-f64ab2c4f88d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e3fb8554-378d-4675-91ec-476a2f24a5fb",
+                    "start": 0,
+                    "end": 92
+                },
+                "value": "0f1a3d92-3ac1-479d-94df-3db7ce3f560a",
+                "id": "362058b3-6618-4767-9ecc-bbe1ad6e264e"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1bd2ca2f-8c1e-4081-acae-d0c64caaca43",
+                    "start": 0,
+                    "end": 22
+                },
+                "value": "d1ed54bc-9fc0-4c7a-8fc5-8c5cad0b6379",
+                "id": "5bfda78a-e4d4-4a9c-8abc-bffcd51ac4c7"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_6.docx",
+        "file_name": "table_6.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 51762,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1741743861,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/92cd%2F1923%2Ftable_6.docx",
+        "markers": [],
+        "account": [],
+        "story": "92cd1923-a6fa-4dae-86a3-1ca92e74a909"
+    }
+}

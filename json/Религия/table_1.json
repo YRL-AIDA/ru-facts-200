@@ -1,0 +1,1435 @@
+{
+    "id": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+	"VERSION":"1.0",
+    "main_node": "42e3a38c-48cf-4f9c-95b9-dc5926bdee7c",
+    "content": [
+        {
+            "type": "text",
+            "id": "42e3a38c-48cf-4f9c-95b9-dc5926bdee7c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7c972d5e-0aa3-45d1-aa11-9568ff4052cc"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7c972d5e-0aa3-45d1-aa11-9568ff4052cc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "cdf763ba-b944-4036-9f56-542df3a163e8"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "cdf763ba-b944-4036-9f56-542df3a163e8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "685cd46b-19fe-4cb1-94de-809fe977be32",
+                "ab581bd4-9b27-443e-9427-eaefa8f6237b",
+                "6de3ade4-5e40-4b30-9a4f-271230a386a6",
+                "21617cfa-2bf4-46ef-bca5-2e94ab97de36",
+                "bb0b08da-37aa-4dae-90ad-cce72f39d79d",
+                "5a0a5e20-7dbb-4025-b45b-293b269d3e6a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "685cd46b-19fe-4cb1-94de-809fe977be32",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "68d16ebb-c3e9-44cc-85f2-45b6c6b7572d",
+                "d03e0830-54b3-4daa-8849-535e2d20bc8e",
+                "a73e846f-2cc0-41f2-9fcd-41f15a55165a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "68d16ebb-c3e9-44cc-85f2-45b6c6b7572d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "6f01979a-055a-440d-84b8-7ecd926908b3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6f01979a-055a-440d-84b8-7ecd926908b3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "года",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d03e0830-54b3-4daa-8849-535e2d20bc8e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "5535fdcc-5be9-4c2d-99bf-ece0f09af3f2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5535fdcc-5be9-4c2d-99bf-ece0f09af3f2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Фамилия, имя, отчество",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a73e846f-2cc0-41f2-9fcd-41f15a55165a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d671a56a-edeb-4c70-9917-289c74754f43"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d671a56a-edeb-4c70-9917-289c74754f43",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Примечания",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "ab581bd4-9b27-443e-9427-eaefa8f6237b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "671dfef2-5e76-44cf-aa35-9ebe742339a9",
+                "ffd080f0-5014-4ff6-a6ce-5a3609e64344",
+                "47926b91-dea0-4757-8a3c-31b7ed6afd6f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "671dfef2-5e76-44cf-aa35-9ebe742339a9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "91bb6b85-b0e0-4a81-ae19-d55e95f690ea"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "91bb6b85-b0e0-4a81-ae19-d55e95f690ea",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "до 1937",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ffd080f0-5014-4ff6-a6ce-5a3609e64344",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "08063830-003f-42a0-a92c-08a4b973e66b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "08063830-003f-42a0-a92c-08a4b973e66b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Благосклонский Михаил Николаевич (1881-1937)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "47926b91-dea0-4757-8a3c-31b7ed6afd6f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "350d6731-7012-48a7-92e9-d5e4667a866a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "350d6731-7012-48a7-92e9-d5e4667a866a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Протоиерей, служил с матушкой Александрой Лукиничной (1886-1937), скончались в одно время в нищете.",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "6de3ade4-5e40-4b30-9a4f-271230a386a6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0b79b977-699a-47ca-bf89-80af789dddf9",
+                "bed04f37-257b-4b21-b412-6177031cbdac",
+                "92e48dcb-4ab8-4a23-8f04-00a3e3966533"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0b79b977-699a-47ca-bf89-80af789dddf9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "abdef694-d18c-4b58-84fb-d43fedbbfd37"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "abdef694-d18c-4b58-84fb-d43fedbbfd37",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1946",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bed04f37-257b-4b21-b412-6177031cbdac",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fc9adb09-2852-46fd-8c3b-a9000e976af3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fc9adb09-2852-46fd-8c3b-a9000e976af3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Артёмов Михаил Михайлович (1898-?)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "92e48dcb-4ab8-4a23-8f04-00a3e3966533",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ef2ed943-8207-49f3-b22f-bad6cfa63fd1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ef2ed943-8207-49f3-b22f-bad6cfa63fd1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Из крестьян, родился в д. Грешное Волынского р-на Орловской области, псаломщик церкви в с. Велегож (1946), определён диаконом к церкви в с. Туртень Октябрьского р-на, диакон в Белёве, церкви св. Дмитрия Солунского в Туле (1952), в пос. Чернь, Иоанно-Предтеченской церкви в Венёве, Никольской церкви в пос. Крапивна Щекинского р-на, судим (1932).",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "21617cfa-2bf4-46ef-bca5-2e94ab97de36",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2de681fa-cb6d-4977-9750-5d9ff064f4e0",
+                "290f21e2-b2ed-4ac8-b9f8-6d9246a2557b",
+                "3aaa6a36-d9f6-4a70-9798-700a7931243b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2de681fa-cb6d-4977-9750-5d9ff064f4e0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "264ed10d-4791-400a-936f-4ffc11f0b95a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "264ed10d-4791-400a-936f-4ffc11f0b95a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1948",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "290f21e2-b2ed-4ac8-b9f8-6d9246a2557b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fb6fa114-42df-448d-a03b-80da3644dd7a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fb6fa114-42df-448d-a03b-80da3644dd7a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Бажанов Сергей Михайлович (1882-?)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3aaa6a36-d9f6-4a70-9798-700a7931243b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a4f4c25a-7fe8-454f-b7b3-122f34ea88fb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a4f4c25a-7fe8-454f-b7b3-122f34ea88fb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Родился в Денисово Тульской обл, псаломщик с. Денисово Покровской церкви (1899-1912), диакон там же (до 1920), священник Успенской церкви в с. Красино Каширского уезда (1920-1930), Николаевской церкви с. Венёв-монастырь (1943), пос. Крапивна (1943-1948), с. Велегож (1948), с. Туртень Октябрьского р-на (Ефремовского или Воловского) (1948-1950), настоятель Никольской церкви пос. Крапивна (1950-1954), третий священник с. Новоселебное Болоховского р-на (с 1954).",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "bb0b08da-37aa-4dae-90ad-cce72f39d79d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "fac5a84b-1355-419e-b9f5-deb50a99c614",
+                "1a69341e-0d68-45a8-83ef-9e9f2210adf6",
+                "6c884b00-eb8f-4210-bc5b-a65f8d32ecd1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fac5a84b-1355-419e-b9f5-deb50a99c614",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7edd1e81-aba6-4a66-ab5a-d93fde937cdd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7edd1e81-aba6-4a66-ab5a-d93fde937cdd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1948-1949",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1a69341e-0d68-45a8-83ef-9e9f2210adf6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9d06d2fe-8e78-451c-983d-2f7964f586d6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9d06d2fe-8e78-451c-983d-2f7964f586d6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Петров Михаил Михайлович (15.11.1893-?)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6c884b00-eb8f-4210-bc5b-a65f8d32ecd1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ac24c4df-b3cd-46a1-a4ca-e2f3e19cbef2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ac24c4df-b3cd-46a1-a4ca-e2f3e19cbef2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Священник, сын диакона, окончил Потемкинское училище (1913), учитель в с. Мишины Поляны Белевского р-на (1913–1915), участвовал в империалистической войне и был псаломщиком при воинской части (1915–1918), служил в Тульской епархии, находился в заключении (1937– 1947), настоятель в Велегоже (1948–1949), служил в церквях Тульской епархии (до 1955).",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "5a0a5e20-7dbb-4025-b45b-293b269d3e6a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "04a7c323-24b9-40c8-877f-1f37267cc337",
+                "cd0520e0-6420-4d8f-9355-3e923c6bf086",
+                "68096061-0b2c-46c6-b06e-2dd1065d7f84"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "04a7c323-24b9-40c8-877f-1f37267cc337",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2fd10c28-0e42-4d49-b8c0-0184add70422"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2fd10c28-0e42-4d49-b8c0-0184add70422",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1991 по н.в",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cd0520e0-6420-4d8f-9355-3e923c6bf086",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d3e86370-a1b4-486b-949c-d6fb03f0e9bd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d3e86370-a1b4-486b-949c-d6fb03f0e9bd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Матвеев Валентин Алексеевич",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "68096061-0b2c-46c6-b06e-2dd1065d7f84",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "233cc2a5-f0f1-4b29-83e8-e4bec82fe002"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "233cc2a5-f0f1-4b29-83e8-e4bec82fe002",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Родился (1947), священник, художник, реставратор, оформлял Крестовую церковь в епархии (1976), писал иконы и портреты архиереев. Рукоположен во диакона Всехсвятского кафедрального собора Тулы (1989), клирик Всехсвятского кафедрального собора Тулы (до 1990), настоятель Свято-Троицкого храма в с. Бехово Заокского р-на (с 1990), Богородицерождественского храма в с. Велегож Заокского р-на (1991). Благочинный Тульской епархии по Заокскому р-ну (2001–2002). Награды: набедренник и камилавка при рукоположении (1989), наперсный крест (1990), протоиерейство (2002), медаль ордена «За заслуги перед Отечеством» без мечей (2005), палица (2007).",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195da38-dc7b-7564-b0ed-97b97b044ecd"
+                },
+                "id": "9fc50994-082a-485e-807d-739b17db92ac"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195da38-dd25-7170-a927-2fa9e78f46b6"
+                },
+                "id": "f5dffe9c-55f2-47d0-b1a5-6a906262bcdf"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195da38-dbcd-794d-ac01-94ba1ad7560e"
+                },
+                "id": "94edf38d-9550-4318-b594-2e8534a2a651"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195da38-da69-7d21-bf60-ad795a6d404a"
+                },
+                "id": "4b32fb2e-0845-4397-bcf8-de598fd56820"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195da38-dafb-7a85-b5e5-52ae3b1df9f3"
+                },
+                "id": "ced7746e-1c15-4a33-9b45-9a1ec83d6dac"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-94952559"
+                },
+                "id": "26bcf1dc-4280-4269-8778-676cdb55a8fd"
+            }
+        ],
+        "atom": [
+            {
+                "id": "8c12a1eb-bef3-45c4-b501-46c926bfcca2",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Родился в Денисово Тульской обл, псаломщик с. Денисово Покровской церкви (1899-1912), диакон там же (до 1920), священник Успенской церкви в с. Красино Каширского уезда (1920-1930), Николаевской церкви с. Венёв-монастырь (1943), пос. Крапивна (1943-1948), с. Велегож (1948), с. Туртень Октябрьского р-на (Ефремовского или Воловского) (1948-1950), настоятель Никольской церкви пос. Крапивна (1950-1954), третий священник с. Новоселебное Болоховского р-на (с 1954).",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "efb7daff-6082-45f3-83e8-c73ddedd2273",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1882
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "832234ff-3f13-460e-a3e4-ed7236072efb",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1948
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "52c9420c-41eb-4f6f-ae9d-32c7adcde58c",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1946
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d7745977-9dfd-4e74-a374-2fcae80c8931",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Из крестьян, родился в д. Грешное Волынского р-на Орловской области, псаломщик церкви в с. Велегож (1946), определён диаконом к церкви в с. Туртень Октябрьского р-на, диакон в Белёве, церкви св. Дмитрия Солунского в Туле (1952), в пос. Чернь, Иоанно-Предтеченской церкви в Венёве, Никольской церкви в пос. Крапивна Щекинского р-на, судим (1932).",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "cb81f47e-07ba-4fbd-9291-7d0628c29971",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1898
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5e3b5643-69ff-436e-9381-dea25aa2369c",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Священник, сын диакона, окончил Потемкинское училище (1913), учитель в с. Мишины Поляны Белевского р-на (1913–1915), участвовал в империалистической войне и был псаломщиком при воинской части (1915–1918), служил в Тульской епархии, находился в заключении (1937– 1947), настоятель в Велегоже (1948–1949), служил в церквях Тульской епархии (до 1955).",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f7597bbb-e1e3-4e03-9138-4761b98443b0",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1991
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "449db2d5-2613-4e52-b6f9-d798d9c94cd7",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Родился (1947), священник, художник, реставратор, оформлял Крестовую церковь в епархии (1976), писал иконы и портреты архиереев. Рукоположен во диакона Всехсвятского кафедрального собора Тулы (1989), клирик Всехсвятского кафедрального собора Тулы (до 1990), настоятель Свято-Троицкого храма в с. Бехово Заокского р-на (с 1990), Богородицерождественского храма в с. Велегож Заокского р-на (1991). Благочинный Тульской епархии по Заокскому р-ну (2001–2002). Награды: набедренник и камилавка при рукоположении (1989), наперсный крест (1990), протоиерейство (2002), медаль ордена «За заслуги перед Отечеством» без мечей (2005), палица (2007).",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "20a61922-ba07-4d59-ad04-5ffc00d3b977",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Бажанов Сергей Михайлович"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "99ff6635-109f-47d0-9aaa-7cf8105ece9d",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Артёмов Михаил Михайлович"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "bc64cef8-4b2c-47bd-b7c8-9f41e36a283c",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Петров Михаил Михайлович"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "95d2ce49-7946-468b-806b-9592ddc55279",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Матвеев Валентин Алексеевич"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "80b17d5e-d275-44b7-a5be-55b46c170bc5",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Благосклонский Михаил Николаевич"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "11a4eeb2-79ae-420b-bf7a-ab7678c8a8a6",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Протоиерей, служил с матушкой Александрой Лукиничной (1886-1937), скончались в одно время в нищете.",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2c5c35eb-7f72-4ab1-b18f-c6db9cec973e",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1937
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a8352bb0-1a28-4f99-bfc8-67c1f5b0081a",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1881
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d6adb276-9d3f-4f4b-b76e-1464fe0a6db2",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1949
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "31391447-5f49-47ec-89bd-4ebbc6e311b8",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1893,
+                        "month": 11,
+                        "day": 15
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "811b5d3c-5939-4bc9-bd79-229d93e19035",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1948
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d6c81141-f187-4182-8979-9b9b40fedaec",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ad703f57-3a78-490a-8110-f53ea7ef2316",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743122850
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8ecc764e-59a4-4e8c-be16-db0959f65a96",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 52509
+                },
+                "status": "approved"
+            },
+            {
+                "id": "30f8dc52-5515-4152-a65f-c7993de23572",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743122850
+                },
+                "status": "approved"
+            },
+            {
+                "id": "16ad623d-11d3-41d7-b494-3f41921656d7",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "63a54dd4-1414-47d2-bc29-8fd2613d9365",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "67fbf14b-d3ea-4bed-b810-ddbce43d7610",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b2418c36-7f90-4d64-829a-8324d69c92a3",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "81a304b6-8219-4688-9f1d-60e1c800dd13",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3504"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "860eb2a3-562c-4d37-9526-a57f4ff1d0ac",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743122850
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4e92153b-7c4e-4406-8a82-50475bba0578",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/26bc/f1dc/table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9ff9ddf6-7a20-4cc0-81c0-2b7dd22024ad",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-94952580",
+                "id": "39cfe328-2f1e-44e4-9765-a0554079d8de",
+                "source": "9fc50994-082a-485e-807d-739b17db92ac",
+                "target": "95d2ce49-7946-468b-806b-9592ddc55279"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-94952585",
+                "id": "45b0bdbd-06fb-4785-a0b8-f78f053df942",
+                "source": "9fc50994-082a-485e-807d-739b17db92ac",
+                "target": "f7597bbb-e1e3-4e03-9138-4761b98443b0"
+            },
+            {
+                "status": "approved",
+                "type_id": "23863",
+                "value": "ОК-94952586",
+                "id": "9cf9950d-0784-4cf4-9b42-bfc9c84d23fe",
+                "source": "9fc50994-082a-485e-807d-739b17db92ac",
+                "target": "449db2d5-2613-4e52-b6f9-d798d9c94cd7"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-94952578",
+                "id": "458e7fdd-b1ed-400e-b7f2-bcc057d915ad",
+                "source": "f5dffe9c-55f2-47d0-b1a5-6a906262bcdf",
+                "target": "20a61922-ba07-4d59-ad04-5ffc00d3b977"
+            },
+            {
+                "status": "approved",
+                "type_id": "23863",
+                "value": "ОК-94952587",
+                "id": "4a7150cd-45c9-4f51-af7c-eab3c205518a",
+                "source": "f5dffe9c-55f2-47d0-b1a5-6a906262bcdf",
+                "target": "8c12a1eb-bef3-45c4-b501-46c926bfcca2"
+            },
+            {
+                "status": "approved",
+                "type_id": "694",
+                "value": "ОК-94952588",
+                "id": "88507280-9303-4c18-a2d2-c46a32a55261",
+                "source": "f5dffe9c-55f2-47d0-b1a5-6a906262bcdf",
+                "target": "efb7daff-6082-45f3-83e8-c73ddedd2273"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-94952589",
+                "id": "87da043b-28ec-45d7-a1de-77f06828a010",
+                "source": "f5dffe9c-55f2-47d0-b1a5-6a906262bcdf",
+                "target": "832234ff-3f13-460e-a3e4-ed7236072efb"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-94952576",
+                "id": "c0308388-9979-445d-9b07-6c83d2d22949",
+                "source": "94edf38d-9550-4318-b594-2e8534a2a651",
+                "target": "80b17d5e-d275-44b7-a5be-55b46c170bc5"
+            },
+            {
+                "status": "approved",
+                "type_id": "23863",
+                "value": "ОК-94952590",
+                "id": "3da480ee-2012-4913-99cf-9c8d61ea4ba1",
+                "source": "94edf38d-9550-4318-b594-2e8534a2a651",
+                "target": "11a4eeb2-79ae-420b-bf7a-ab7678c8a8a6"
+            },
+            {
+                "status": "approved",
+                "type_id": "696",
+                "value": "ОК-94952591",
+                "id": "59f10a2c-fd30-4748-aeb2-6bb6d2763876",
+                "source": "94edf38d-9550-4318-b594-2e8534a2a651",
+                "target": "2c5c35eb-7f72-4ab1-b18f-c6db9cec973e"
+            },
+            {
+                "status": "approved",
+                "type_id": "694",
+                "value": "ОК-94952592",
+                "id": "bb2ddd37-1d36-4657-a704-4e1ba6ed5aea",
+                "source": "94edf38d-9550-4318-b594-2e8534a2a651",
+                "target": "a8352bb0-1a28-4f99-bfc8-67c1f5b0081a"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-94952593",
+                "id": "21049cfe-7dce-48e8-b436-a30d42dcc9ce",
+                "source": "94edf38d-9550-4318-b594-2e8534a2a651",
+                "target": "2c5c35eb-7f72-4ab1-b18f-c6db9cec973e"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-94952582",
+                "id": "551002c5-30d1-449c-8f50-87283ac8d4d7",
+                "source": "4b32fb2e-0845-4397-bcf8-de598fd56820",
+                "target": "99ff6635-109f-47d0-9aaa-7cf8105ece9d"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-94952594",
+                "id": "22481d73-f353-4324-a0bd-f6b848094697",
+                "source": "4b32fb2e-0845-4397-bcf8-de598fd56820",
+                "target": "52c9420c-41eb-4f6f-ae9d-32c7adcde58c"
+            },
+            {
+                "status": "approved",
+                "type_id": "23863",
+                "value": "ОК-94952595",
+                "id": "1dcc57c6-36ce-42a2-98aa-4c303bae72fd",
+                "source": "4b32fb2e-0845-4397-bcf8-de598fd56820",
+                "target": "d7745977-9dfd-4e74-a374-2fcae80c8931"
+            },
+            {
+                "status": "approved",
+                "type_id": "694",
+                "value": "ОК-94952596",
+                "id": "adfbab69-2595-430e-aa9e-fd6bea888d44",
+                "source": "4b32fb2e-0845-4397-bcf8-de598fd56820",
+                "target": "cb81f47e-07ba-4fbd-9291-7d0628c29971"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-94952584",
+                "id": "4a3c19fb-1963-4728-86e2-b05a6dde3ef2",
+                "source": "ced7746e-1c15-4a33-9b45-9a1ec83d6dac",
+                "target": "bc64cef8-4b2c-47bd-b7c8-9f41e36a283c"
+            },
+            {
+                "status": "approved",
+                "type_id": "23863",
+                "value": "ОК-94952597",
+                "id": "cefc7e09-1cf2-4555-a4c0-d329986bea67",
+                "source": "ced7746e-1c15-4a33-9b45-9a1ec83d6dac",
+                "target": "5e3b5643-69ff-436e-9381-dea25aa2369c"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-94952598",
+                "id": "16c6a3d0-635a-4d96-ac23-f04f33527a7a",
+                "source": "ced7746e-1c15-4a33-9b45-9a1ec83d6dac",
+                "target": "d6adb276-9d3f-4f4b-b76e-1464fe0a6db2"
+            },
+            {
+                "status": "approved",
+                "type_id": "694",
+                "value": "ОК-94952599",
+                "id": "eeb2375b-8559-4de9-af0b-bd532cbb9d5a",
+                "source": "ced7746e-1c15-4a33-9b45-9a1ec83d6dac",
+                "target": "31391447-5f49-47ec-89bd-4ebbc6e311b8"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-94952600",
+                "id": "b1b51d72-ce1a-44f4-be15-c13b632da2eb",
+                "source": "ced7746e-1c15-4a33-9b45-9a1ec83d6dac",
+                "target": "811b5d3c-5939-4bc9-bd79-229d93e19035"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-94952563",
+                "id": "0753058b-62b9-4d72-906e-349437089f95",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "d6c81141-f187-4182-8979-9b9b40fedaec"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-94952564",
+                "id": "91745e7b-24f6-49ab-9042-7697848c38df",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "ad703f57-3a78-490a-8110-f53ea7ef2316"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-94952565",
+                "id": "b78eafb9-c211-4e89-8be1-67b39f0947f9",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "8ecc764e-59a4-4e8c-be16-db0959f65a96"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-94952566",
+                "id": "510a1d68-d869-48b8-b4b5-4af6bf8838ad",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "30f8dc52-5515-4152-a65f-c7993de23572"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-94952567",
+                "id": "e05fd9c7-c4ac-4fbb-acab-2f8f25ef6051",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "16ad623d-11d3-41d7-b494-3f41921656d7"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-94952568",
+                "id": "442f3925-969f-45b2-b687-5bbdca642ee9",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "63a54dd4-1414-47d2-bc29-8fd2613d9365"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-94952569",
+                "id": "948da6a6-f99b-4a26-88e3-8e6d748d68cf",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "67fbf14b-d3ea-4bed-b810-ddbce43d7610"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-94952570",
+                "id": "ea11ff04-e9a2-4f4c-b3e6-cc10b63cb38f",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "b2418c36-7f90-4d64-829a-8324d69c92a3"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-94952571",
+                "id": "2cd3f80b-37e9-4091-b567-78bbdc418dad",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "81a304b6-8219-4688-9f1d-60e1c800dd13"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-94952572",
+                "id": "ae2562d7-42b0-4926-b018-38e11e256071",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "860eb2a3-562c-4d37-9526-a57f4ff1d0ac"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-94952573",
+                "id": "05facef0-a8ad-4628-914d-5086a21c1c29",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "4e92153b-7c4e-4406-8a82-50475bba0578"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-94952574",
+                "id": "a1a50920-47b8-488b-acfb-217645da6d5d",
+                "source": "26bcf1dc-4280-4269-8778-676cdb55a8fd",
+                "target": "9ff9ddf6-7a20-4cc0-81c0-2b7dd22024ad"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "08063830-003f-42a0-a92c-08a4b973e66b",
+                    "start": 34,
+                    "end": 38
+                },
+                "value": "a8352bb0-1a28-4f99-bfc8-67c1f5b0081a",
+                "id": "07e747c7-edec-4960-8362-23ceb1bd0db9"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fb6fa114-42df-448d-a03b-80da3644dd7a",
+                    "start": 27,
+                    "end": 31
+                },
+                "value": "efb7daff-6082-45f3-83e8-c73ddedd2273",
+                "id": "8978a6b0-c7bb-43d2-b424-b15a634e1247"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "264ed10d-4791-400a-936f-4ffc11f0b95a",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "832234ff-3f13-460e-a3e4-ed7236072efb",
+                "id": "fcafb5b2-dee0-43ed-b888-3b52d0ae3d14"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "08063830-003f-42a0-a92c-08a4b973e66b",
+                    "start": 39,
+                    "end": 43
+                },
+                "value": "2c5c35eb-7f72-4ab1-b18f-c6db9cec973e",
+                "id": "186c1f47-5339-494b-85b5-705f1dd7ad36"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "91bb6b85-b0e0-4a81-ae19-d55e95f690ea",
+                    "start": 3,
+                    "end": 7
+                },
+                "value": "2c5c35eb-7f72-4ab1-b18f-c6db9cec973e",
+                "id": "0b2c9290-1c00-432c-8537-debbcb028c77"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "350d6731-7012-48a7-92e9-d5e4667a866a",
+                    "start": 0,
+                    "end": 99
+                },
+                "value": "11a4eeb2-79ae-420b-bf7a-ab7678c8a8a6",
+                "id": "697f352f-5cc2-4fc6-96ed-57142241b231"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a4f4c25a-7fe8-454f-b7b3-122f34ea88fb",
+                    "start": 0,
+                    "end": 462
+                },
+                "value": "8c12a1eb-bef3-45c4-b501-46c926bfcca2",
+                "id": "1444198b-f426-48be-9e96-95ed8e55b7cf"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fc9adb09-2852-46fd-8c3b-a9000e976af3",
+                    "start": 27,
+                    "end": 31
+                },
+                "value": "cb81f47e-07ba-4fbd-9291-7d0628c29971",
+                "id": "b43f0f0b-d565-4794-babe-361a4bd52455"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ef2ed943-8207-49f3-b22f-bad6cfa63fd1",
+                    "start": 0,
+                    "end": 345
+                },
+                "value": "d7745977-9dfd-4e74-a374-2fcae80c8931",
+                "id": "ae7cf0d3-0152-4c9b-a702-a2a4a9d7a44b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "abdef694-d18c-4b58-84fb-d43fedbbfd37",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "52c9420c-41eb-4f6f-ae9d-32c7adcde58c",
+                "id": "5f1af092-27e9-4a32-9d27-61c3662e6b6b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "2fd10c28-0e42-4d49-b8c0-0184add70422",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "f7597bbb-e1e3-4e03-9138-4761b98443b0",
+                "id": "1448f4d2-61a1-4c90-a800-4f3200da336f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "233cc2a5-f0f1-4b29-83e8-e4bec82fe002",
+                    "start": 0,
+                    "end": 638
+                },
+                "value": "449db2d5-2613-4e52-b6f9-d798d9c94cd7",
+                "id": "8ac7784b-9daf-40c1-b6e9-1e18ce551a78"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d3e86370-a1b4-486b-949c-d6fb03f0e9bd",
+                    "start": 0,
+                    "end": 27
+                },
+                "value": "95d2ce49-7946-468b-806b-9592ddc55279",
+                "id": "8a7b41b9-70e6-4966-94f9-e1de2989d05e"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7edd1e81-aba6-4a66-ab5a-d93fde937cdd",
+                    "start": 5,
+                    "end": 9
+                },
+                "value": "d6adb276-9d3f-4f4b-b76e-1464fe0a6db2",
+                "id": "14cb8a02-c9ed-4b77-88a5-f2a3901e26ad"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7edd1e81-aba6-4a66-ab5a-d93fde937cdd",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "811b5d3c-5939-4bc9-bd79-229d93e19035",
+                "id": "1a87aa1b-c078-41d8-a84e-c823009181bf"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9d06d2fe-8e78-451c-983d-2f7964f586d6",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "bc64cef8-4b2c-47bd-b7c8-9f41e36a283c",
+                "id": "555a4344-e1d6-463b-bcd1-7ce9d38b55b4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ac24c4df-b3cd-46a1-a4ca-e2f3e19cbef2",
+                    "start": 0,
+                    "end": 348
+                },
+                "value": "5e3b5643-69ff-436e-9381-dea25aa2369c",
+                "id": "c083dc80-3c43-4e2a-8579-c4ebbeae9d34"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9d06d2fe-8e78-451c-983d-2f7964f586d6",
+                    "start": 26,
+                    "end": 36
+                },
+                "value": "31391447-5f49-47ec-89bd-4ebbc6e311b8",
+                "id": "6d94af33-82eb-4a8b-b617-ad0d085ebb45"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fb6fa114-42df-448d-a03b-80da3644dd7a",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "20a61922-ba07-4d59-ad04-5ffc00d3b977",
+                "id": "33999e72-cb0b-4df5-80e9-9614eb3368cb"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "08063830-003f-42a0-a92c-08a4b973e66b",
+                    "start": 0,
+                    "end": 32
+                },
+                "value": "80b17d5e-d275-44b7-a5be-55b46c170bc5",
+                "id": "7d19b677-8f94-488f-96c8-79f0479d4883"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fc9adb09-2852-46fd-8c3b-a9000e976af3",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "99ff6635-109f-47d0-9aaa-7cf8105ece9d",
+                "id": "f4376ecd-e751-40d7-ab0b-bc4bc75a2aae"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_1.docx",
+        "file_name": "table_1.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 52509,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1743122850,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/26bc%2Ff1dc%2Ftable_1.docx",
+        "markers": [],
+        "account": [],
+        "story": "26bcf1dc-4280-4269-8778-676cdb55a8fd"
+    }
+}

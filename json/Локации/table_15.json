@@ -1,0 +1,1219 @@
+{
+    "id": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+	"VERSION":"1.0",
+    "main_node": "5233f92b-8580-43ac-b8a1-a59c11b1f112",
+    "content": [
+        {
+            "type": "text",
+            "id": "5233f92b-8580-43ac-b8a1-a59c11b1f112",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "43c1ecc5-c2ae-4ae3-9cdb-98c29980bfab"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "43c1ecc5-c2ae-4ae3-9cdb-98c29980bfab",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7ccfe563-1169-433d-8eb2-9df948be6f7f"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "7ccfe563-1169-433d-8eb2-9df948be6f7f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "19388ca9-6412-4103-bc45-210e9bfaeda9",
+                "361f3eb7-f937-4072-895d-c7607a9c437d",
+                "a300209a-c8e9-46e1-8d2f-24fc30880a8c",
+                "e3a5b6b2-c790-4d0c-bdc6-a5c898ee3b7c",
+                "a2730133-4b29-4932-a34d-8248c21d37f0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "19388ca9-6412-4103-bc45-210e9bfaeda9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "cf506ced-8c17-4414-aaa8-eeeed3f550a5",
+                "b8eaa661-d40c-4f97-8482-538fe37031d2",
+                "b8d4005d-d813-4a77-b622-dacf59d635d7",
+                "e5db10bf-e519-4c60-9371-8c59097626c6",
+                "ab3452db-2283-4b35-9cf9-4988f0b9b39e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cf506ced-8c17-4414-aaa8-eeeed3f550a5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7af34fa0-6b31-48f6-95d3-a3147104ebda"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7af34fa0-6b31-48f6-95d3-a3147104ebda",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Административный округ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b8eaa661-d40c-4f97-8482-538fe37031d2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "17df58de-11df-4454-9258-3e2a08ac72db"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "17df58de-11df-4454-9258-3e2a08ac72db",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Площадь, км²",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b8d4005d-d813-4a77-b622-dacf59d635d7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ca9a16e9-d04b-4745-bb86-19b4875628b4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ca9a16e9-d04b-4745-bb86-19b4875628b4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Население, чел.",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e5db10bf-e519-4c60-9371-8c59097626c6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "703b1c1a-8d23-44fd-aa79-5da09e758e73"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "703b1c1a-8d23-44fd-aa79-5da09e758e73",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Количество районов",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ab3452db-2283-4b35-9cf9-4988f0b9b39e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b6a3c58c-17de-479a-a772-aa3d09fda4ce"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b6a3c58c-17de-479a-a772-aa3d09fda4ce",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Количество районов",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "361f3eb7-f937-4072-895d-c7607a9c437d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "a87366a2-6efd-4b98-bbc8-d4c53198e7bd",
+                "87368834-2738-4213-a182-ebc3afeafdc2",
+                "1c45515c-3f5a-43d1-9763-dc5c967586c7",
+                "ae2559c2-b613-48fc-b1f7-8299ae0c6ceb",
+                "adf862ba-3302-4b51-9fd3-fd662881de2d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a87366a2-6efd-4b98-bbc8-d4c53198e7bd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d5a1ad2f-02eb-415c-b6e7-457ba22038c9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d5a1ad2f-02eb-415c-b6e7-457ba22038c9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Административный округ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "87368834-2738-4213-a182-ebc3afeafdc2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "a03d5e1e-deab-49a5-b8cd-1c15637d068a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a03d5e1e-deab-49a5-b8cd-1c15637d068a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Площадь, км²",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1c45515c-3f5a-43d1-9763-dc5c967586c7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "24e73e0f-ba64-4928-abba-7637f2e66dc3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "24e73e0f-ba64-4928-abba-7637f2e66dc3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Население, чел.",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ae2559c2-b613-48fc-b1f7-8299ae0c6ceb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "570aa13f-4df5-41c3-bea6-4fbde84ca4c4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "570aa13f-4df5-41c3-bea6-4fbde84ca4c4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "сельских",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "adf862ba-3302-4b51-9fd3-fd662881de2d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "387f073d-f7ee-4122-a908-33d670dc6f66"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "387f073d-f7ee-4122-a908-33d670dc6f66",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "городских",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "a300209a-c8e9-46e1-8d2f-24fc30880a8c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "4e275cf8-c838-4021-8406-7cba06922524",
+                "23b2bbb1-e74a-4ad6-9087-57f68c4be040",
+                "d72f6d60-79d4-41a9-ab1a-d422eb0d4def",
+                "ecb84ee1-7c94-4cdb-a37b-86e0672f9f95",
+                "788b63c6-280f-48a5-8944-83bac9a4f5d5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4e275cf8-c838-4021-8406-7cba06922524",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fd023cf1-8fe8-4330-b5cd-ec9aaf23f3f4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fd023cf1-8fe8-4330-b5cd-ec9aaf23f3f4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Округ Кёнигсберг",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "23b2bbb1-e74a-4ad6-9087-57f68c4be040",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "80199e76-4e47-4fe7-86d3-a8237346fc9c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "80199e76-4e47-4fe7-86d3-a8237346fc9c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "21.108,17",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d72f6d60-79d4-41a9-ab1a-d422eb0d4def",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1618b569-1b73-40e7-a263-ef40f3ba77b2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1618b569-1b73-40e7-a263-ef40f3ba77b2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1.204.386",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ecb84ee1-7c94-4cdb-a37b-86e0672f9f95",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a2030f03-2af8-46a4-bb2e-b13d4bac4075"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a2030f03-2af8-46a4-bb2e-b13d4bac4075",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "19",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "788b63c6-280f-48a5-8944-83bac9a4f5d5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "90120fdf-6e4d-4098-b6d6-504d0fcdccb0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "90120fdf-6e4d-4098-b6d6-504d0fcdccb0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "e3a5b6b2-c790-4d0c-bdc6-a5c898ee3b7c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "396215d4-ef5f-48e3-8e6b-89f7cf3a3c5e",
+                "614439ad-2c8b-4f1b-9af1-337ed3535908",
+                "411e4f4f-b5ce-44d9-859e-7bf43945d68d",
+                "b107a5d2-312c-426d-9ed7-b2af38f892d0",
+                "c69d1adb-2317-4cb6-a01e-eeea389b70bb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "396215d4-ef5f-48e3-8e6b-89f7cf3a3c5e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4fa2286a-d189-4fae-8f58-c5f04442ba48"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4fa2286a-d189-4fae-8f58-c5f04442ba48",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Округ Гумбиннен",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "614439ad-2c8b-4f1b-9af1-337ed3535908",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cfcd2ba4-a20e-4079-94d8-46493746ec8d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cfcd2ba4-a20e-4079-94d8-46493746ec8d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "15.885,72",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "411e4f4f-b5ce-44d9-859e-7bf43945d68d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "469a2838-8412-4e40-8d9f-e0f37a79b4b2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "469a2838-8412-4e40-8d9f-e0f37a79b4b2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "792.240",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b107a5d2-312c-426d-9ed7-b2af38f892d0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d5bc8a56-cfe6-4a5e-9555-548c86cfa68a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d5bc8a56-cfe6-4a5e-9555-548c86cfa68a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "16",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c69d1adb-2317-4cb6-a01e-eeea389b70bb",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ec45bbdb-381d-4539-835f-83dfbfbb60b7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ec45bbdb-381d-4539-835f-83dfbfbb60b7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "a2730133-4b29-4932-a34d-8248c21d37f0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0702a38a-f33b-40a8-9feb-bbb90ca5f80a",
+                "964c8092-a2bd-4f90-8ae1-1d0667d3ca37",
+                "7f92b6b0-7237-4652-82b7-1ab3600f3fd0",
+                "1e53efb3-8726-4a27-9861-ca225a82e986",
+                "a373c126-b5de-4d6d-8b72-5badf9d1e4f7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0702a38a-f33b-40a8-9feb-bbb90ca5f80a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "eba6db8c-e76f-4cef-b103-8f288cfb6d2a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "eba6db8c-e76f-4cef-b103-8f288cfb6d2a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Всего по провинции",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "964c8092-a2bd-4f90-8ae1-1d0667d3ca37",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "e635f998-5ced-4f68-b638-e17115ff84a5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e635f998-5ced-4f68-b638-e17115ff84a5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "36.993,89",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7f92b6b0-7237-4652-82b7-1ab3600f3fd0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "516ba10b-6cb6-423d-b760-fa2df59dbad4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "516ba10b-6cb6-423d-b760-fa2df59dbad4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1.996.626",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1e53efb3-8726-4a27-9861-ca225a82e986",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "1684d70e-98f5-4730-b44a-fd6c51a1e9e7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1684d70e-98f5-4730-b44a-fd6c51a1e9e7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "35",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a373c126-b5de-4d6d-8b72-5badf9d1e4f7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "6361730b-cba5-4dba-8a2e-1534b0db7793"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6361730b-cba5-4dba-8a2e-1534b0db7793",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "019569e9-f4d5-7db7-a8de-efa0617fa3df"
+                    }
+                ],
+                "id": "6f0560e8-88e5-4cd6-a14f-ac0834b78dc7"
+            },
+            {
+                "status": "new",
+                "type_id": "1381",
+                "value": [
+                    {
+                        "concept": "019569e9-f57a-7209-b96e-d7f332fade28"
+                    }
+                ],
+                "id": "ded73d6c-01c4-4472-b00c-662c83a47a27"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-83515012"
+                },
+                "id": "c6336967-fb0c-4543-9b20-bf11d4b190a0"
+            }
+        ],
+        "atom": [
+            {
+                "id": "da83b2dc-807c-4598-9ac5-7d3a1ace30e8",
+                "type_id": "569",
+                "value": [
+                    {
+                        "type": "IntValue",
+                        "value": 19,
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "a4a86481-6a5a-42e2-b8ab-25c3778bbcb9",
+                "type_id": "570",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "d16b6f77-7d83-4cb9-8a4e-4c06efd14871",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Округ Кёнигсберг"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "f3ad01a5-daef-4a14-9742-99c0be2bb5d3",
+                "type_id": "570",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "fed0e35b-1401-4c14-9f1a-f6680b0f5330",
+                "type_id": "569",
+                "value": [
+                    {
+                        "type": "IntValue",
+                        "value": 1,
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "32edfa28-60c7-4bba-949e-437d78f5f73d",
+                "type_id": "569",
+                "value": [
+                    {
+                        "type": "IntValue",
+                        "value": 1,
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "b509a314-c0ab-40ef-b9d1-cb1b41b4f781",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Округ Гумбиннен"
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "164d654f-3cdb-4876-b923-073184ba816a",
+                "type_id": "570",
+                "value": [
+                    {
+                        "type": "DoubleValue",
+                        "value": 792.24,
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "775d18f5-545c-470a-a126-f4b8ccb570c9",
+                "type_id": "570",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "b47fd866-a40e-4a94-9a2d-1949523defd9",
+                "type_id": "569",
+                "value": [
+                    {
+                        "type": "IntValue",
+                        "value": 16,
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "e402dc8c-fdd4-489f-8a75-efe6b23538d5",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2eb16e67-d479-4174-a5a9-5176e6d77854",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741238628
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c105a923-9d9b-4a45-8ce3-3cc4a7a37a92",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 50576
+                },
+                "status": "approved"
+            },
+            {
+                "id": "40a47b5e-5c54-4bba-a9c7-7cd6c23a69d2",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741238628
+                },
+                "status": "approved"
+            },
+            {
+                "id": "efd27ee0-4978-4b28-8d4d-2e84dfa485be",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_15.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f6c89c19-0742-4e03-a5b3-81f7b954781b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "14f71bd0-3096-4e61-b077-7c61086307b0",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "69a30911-c428-41b2-952c-619d8aa87de5",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_15.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c7fcd012-6feb-427b-a94a-ac91ae70e296",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3358"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "92c06601-1260-4122-91ba-13a2a40509a9",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741238628
+                },
+                "status": "approved"
+            },
+            {
+                "id": "82d98bd2-7270-42c5-a215-4414241288ea",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/c633/6967/table_15.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "959b2fa3-8936-4f3c-a87f-5e3dadefe62a",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [],
+        "property": [
+            {
+                "status": "new",
+                "type_id": "22754",
+                "id": "0d7c59e0-5616-453f-ae06-a3b4bc2cae84",
+                "source": "ded73d6c-01c4-4472-b00c-662c83a47a27",
+                "target": "f3ad01a5-daef-4a14-9742-99c0be2bb5d3"
+            },
+            {
+                "status": "new",
+                "type_id": "2784",
+                "id": "e48e4201-4f16-4027-bdb9-9747236c7000",
+                "source": "ded73d6c-01c4-4472-b00c-662c83a47a27",
+                "target": "a4a86481-6a5a-42e2-b8ab-25c3778bbcb9"
+            },
+            {
+                "status": "new",
+                "type_id": "22754",
+                "id": "dc2ca6ba-e5a1-4d47-9d51-6413940ef765",
+                "source": "6f0560e8-88e5-4cd6-a14f-ac0834b78dc7",
+                "target": "775d18f5-545c-470a-a126-f4b8ccb570c9"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83515031",
+                "id": "5121c1ab-246a-403c-998c-c970665cdec0",
+                "source": "ded73d6c-01c4-4472-b00c-662c83a47a27",
+                "target": "d16b6f77-7d83-4cb9-8a4e-4c06efd14871"
+            },
+            {
+                "status": "new",
+                "type_id": "1384",
+                "value": "ОК-83515029",
+                "id": "3cffeda8-78b0-4ea9-86f1-eb868f7e81e3",
+                "source": "6f0560e8-88e5-4cd6-a14f-ac0834b78dc7",
+                "target": "b509a314-c0ab-40ef-b9d1-cb1b41b4f781"
+            },
+            {
+                "status": "new",
+                "type_id": "22756",
+                "value": "ОК-83515032",
+                "id": "7f3b7fa8-3fa1-4737-a1a9-326c8b3f2e2e",
+                "source": "6f0560e8-88e5-4cd6-a14f-ac0834b78dc7",
+                "target": "32edfa28-60c7-4bba-949e-437d78f5f73d"
+            },
+            {
+                "status": "new",
+                "type_id": "22760",
+                "value": "ОК-83515033",
+                "id": "b03a8ed6-68af-458c-82cc-974dbfac1fb8",
+                "source": "6f0560e8-88e5-4cd6-a14f-ac0834b78dc7",
+                "target": "b47fd866-a40e-4a94-9a2d-1949523defd9"
+            },
+            {
+                "status": "new",
+                "type_id": "2784",
+                "value": "ОК-83515034",
+                "id": "0edde169-a458-462a-adb1-02441f3527fa",
+                "source": "6f0560e8-88e5-4cd6-a14f-ac0834b78dc7",
+                "target": "164d654f-3cdb-4876-b923-073184ba816a"
+            },
+            {
+                "status": "new",
+                "type_id": "22756",
+                "value": "ОК-83515035",
+                "id": "a1d86331-6f85-44cf-a122-3d92a81501b9",
+                "source": "ded73d6c-01c4-4472-b00c-662c83a47a27",
+                "target": "fed0e35b-1401-4c14-9f1a-f6680b0f5330"
+            },
+            {
+                "status": "new",
+                "type_id": "22760",
+                "value": "ОК-83515036",
+                "id": "11ea3f23-352c-4fb7-8e4c-1650ddd27128",
+                "source": "ded73d6c-01c4-4472-b00c-662c83a47a27",
+                "target": "da83b2dc-807c-4598-9ac5-7d3a1ace30e8"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-83515016",
+                "id": "f11194d4-c766-4919-a29d-1e7b634939aa",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "e402dc8c-fdd4-489f-8a75-efe6b23538d5"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-83515017",
+                "id": "c8acc34a-4028-48a5-ac7c-b6475cc10fbc",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "2eb16e67-d479-4174-a5a9-5176e6d77854"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-83515018",
+                "id": "72ee2711-2493-4230-ba20-e7bb27f16957",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "c105a923-9d9b-4a45-8ce3-3cc4a7a37a92"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-83515019",
+                "id": "5a041952-7f09-4af6-8046-2fabd63e2fcf",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "40a47b5e-5c54-4bba-a9c7-7cd6c23a69d2"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-83515020",
+                "id": "f015dbab-12fb-44ca-884a-7348e259a217",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "efd27ee0-4978-4b28-8d4d-2e84dfa485be"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-83515021",
+                "id": "75029167-284f-459c-817f-90c2d57ac084",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "f6c89c19-0742-4e03-a5b3-81f7b954781b"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-83515022",
+                "id": "eff6f989-955a-4f6d-a379-a710178cc331",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "14f71bd0-3096-4e61-b077-7c61086307b0"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-83515023",
+                "id": "776e7e45-29a3-402d-b2cb-99f7e6e8e058",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "69a30911-c428-41b2-952c-619d8aa87de5"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-83515024",
+                "id": "0e4d3a55-b0f6-48a3-a8d7-0fffa1795c65",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "c7fcd012-6feb-427b-a94a-ac91ae70e296"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-83515025",
+                "id": "00afb0b3-c00b-453e-ba44-b075f590b3ab",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "92c06601-1260-4122-91ba-13a2a40509a9"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-83515026",
+                "id": "9ac07d55-d512-4acc-b0f5-42c41c40dabf",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "82d98bd2-7270-42c5-a215-4414241288ea"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-83515027",
+                "id": "bad8f62f-77bb-4dc1-82d9-e3ae8a115342",
+                "source": "c6336967-fb0c-4543-9b20-bf11d4b190a0",
+                "target": "959b2fa3-8936-4f3c-a87f-5e3dadefe62a"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fd023cf1-8fe8-4330-b5cd-ec9aaf23f3f4",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "d16b6f77-7d83-4cb9-8a4e-4c06efd14871",
+                "id": "def41667-1cbe-48c3-9bfb-ee2ad5676f33"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a2030f03-2af8-46a4-bb2e-b13d4bac4075",
+                    "start": 0,
+                    "end": 2
+                },
+                "value": "da83b2dc-807c-4598-9ac5-7d3a1ace30e8",
+                "id": "277c3ee1-327d-41b3-af71-4dad412d2cb1"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "80199e76-4e47-4fe7-86d3-a8237346fc9c",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "f3ad01a5-daef-4a14-9742-99c0be2bb5d3",
+                "id": "bd5b5dc2-cb0f-4c89-bbfc-ed4fa6871c12"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "90120fdf-6e4d-4098-b6d6-504d0fcdccb0",
+                    "start": 0,
+                    "end": 1
+                },
+                "value": "fed0e35b-1401-4c14-9f1a-f6680b0f5330",
+                "id": "950a6f73-1584-47db-ba3a-3875d98816e9"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1618b569-1b73-40e7-a263-ef40f3ba77b2",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "a4a86481-6a5a-42e2-b8ab-25c3778bbcb9",
+                "id": "41a834d5-c16f-4428-bec2-9f44267ff952"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "469a2838-8412-4e40-8d9f-e0f37a79b4b2",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "164d654f-3cdb-4876-b923-073184ba816a",
+                "id": "dc5d2683-422a-402b-b744-6cc587f377e4"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d5bc8a56-cfe6-4a5e-9555-548c86cfa68a",
+                    "start": 0,
+                    "end": 2
+                },
+                "value": "b47fd866-a40e-4a94-9a2d-1949523defd9",
+                "id": "d3c4e987-f197-4f60-a361-4520dc61512b"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4fa2286a-d189-4fae-8f58-c5f04442ba48",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "b509a314-c0ab-40ef-b9d1-cb1b41b4f781",
+                "id": "865bc72f-aa05-4963-a991-71f494c803c3"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cfcd2ba4-a20e-4079-94d8-46493746ec8d",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "775d18f5-545c-470a-a126-f4b8ccb570c9",
+                "id": "9c316cc6-1dc3-4443-8e9b-588a9fe45e92"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ec45bbdb-381d-4539-835f-83dfbfbb60b7",
+                    "start": 0,
+                    "end": 1
+                },
+                "value": "32edfa28-60c7-4bba-949e-437d78f5f73d",
+                "id": "746f11b3-f47e-4140-bb90-eb432a70e8b3"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_15.docx",
+        "file_name": "table_15.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 50576,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1741238628,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/c633%2F6967%2Ftable_15.docx",
+        "markers": [],
+        "account": [],
+        "story": "c6336967-fb0c-4543-9b20-bf11d4b190a0"
+    }
+}

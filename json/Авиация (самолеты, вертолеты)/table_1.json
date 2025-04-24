@@ -1,0 +1,2066 @@
+{
+    "id": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+	"VERSION":"1.0",
+    "main_node": "e8360e6a-a698-4b10-bd7a-6936a8bbeb6e",
+    "content": [
+        {
+            "type": "text",
+            "id": "e8360e6a-a698-4b10-bd7a-6936a8bbeb6e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0b607f8b-8349-4568-b634-21201cfde438"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0b607f8b-8349-4568-b634-21201cfde438",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "860674c1-f5ae-44f6-a07a-e9d480a50857"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "860674c1-f5ae-44f6-a07a-e9d480a50857",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "27567fc3-9c53-40d8-b913-d5b031df8fbe",
+                "ef82f8c2-9687-424e-b973-e38f6cd23874",
+                "20e10c35-5196-4962-8ed3-9e80a9dec510",
+                "c94c7ef2-2abb-4cae-ae67-ade011c652ca",
+                "5c9dfc99-3184-444c-a56a-d739ff487645",
+                "d3509d13-b169-4647-bf3a-399ee4450bc4",
+                "e846a838-dc44-44e0-adc9-e7752f48acd2",
+                "c177c7dc-b9ff-4c12-97c0-a64cc8521bea",
+                "e91f6517-5105-4ce7-a36c-5ef1cffb3861",
+                "92af0a2b-4555-41fc-9556-dee773b79b87",
+                "a4fcc4a0-82d3-458d-896e-bb6fa57c90a5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "27567fc3-9c53-40d8-b913-d5b031df8fbe",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ec6ef7d0-8bbd-4760-a55e-5fbb9fdf1c19",
+                "91f28673-c4f5-49c4-a59d-f6ced905db47",
+                "5eec0666-e507-4912-bbf9-20547dd66eb2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ec6ef7d0-8bbd-4760-a55e-5fbb9fdf1c19",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "4c77c4fd-e4eb-432d-937b-59f4b8142016"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4c77c4fd-e4eb-432d-937b-59f4b8142016",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Наименование",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "91f28673-c4f5-49c4-a59d-f6ced905db47",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b4825f8c-aa8b-4754-960e-603383ea47d0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b4825f8c-aa8b-4754-960e-603383ea47d0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Производитель",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5eec0666-e507-4912-bbf9-20547dd66eb2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d8841e47-eff6-457d-a6f0-47d3ebaa3049"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d8841e47-eff6-457d-a6f0-47d3ebaa3049",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Примечание",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "ef82f8c2-9687-424e-b973-e38f6cd23874",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d2c74787-f9b1-4735-91dc-12b2a73a2217",
+                "99c212f5-4807-4a1a-9803-069de8c12ba4",
+                "12815cde-4d9f-4491-a60c-94c6c29751ef"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d2c74787-f9b1-4735-91dc-12b2a73a2217",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ed637e85-fc0e-427e-8d18-0fd9c7526fac"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ed637e85-fc0e-427e-8d18-0fd9c7526fac",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Z-5",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "99c212f5-4807-4a1a-9803-069de8c12ba4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "83094a8a-4c26-473c-8347-de4d930ebb22"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "83094a8a-4c26-473c-8347-de4d930ebb22",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Harbin",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "12815cde-4d9f-4491-a60c-94c6c29751ef",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f73f9338-12fb-4baa-878a-ec199aa0fd0c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f73f9338-12fb-4baa-878a-ec199aa0fd0c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Копия Ми-4 , снят с вооружения",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "20e10c35-5196-4962-8ed3-9e80a9dec510",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "77a5e618-e470-4523-bff1-c150f2f09bd4",
+                "7bc04b42-4f46-42f5-871e-2ddfe11d4ee1",
+                "d22d0750-fb5e-4e1f-8ab1-e24e74feda78"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "77a5e618-e470-4523-bff1-c150f2f09bd4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7ab27c55-0dcb-4b2b-b664-2daa24f44932"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7ab27c55-0dcb-4b2b-b664-2daa24f44932",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Z-6",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7bc04b42-4f46-42f5-871e-2ddfe11d4ee1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b98cdf2e-5c04-491c-b84f-45346a4e1413"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b98cdf2e-5c04-491c-b84f-45346a4e1413",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d22d0750-fb5e-4e1f-8ab1-e24e74feda78",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7e1ce360-abbd-4cf4-8155-bccf62d5a19c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7e1ce360-abbd-4cf4-8155-bccf62d5a19c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Экспортные Ми-8Т и Ми-17",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "c94c7ef2-2abb-4cae-ae67-ade011c652ca",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ad2e8ce1-6b4c-4f4a-a503-421e30200c93",
+                "21f893c4-1012-4e23-803d-865353096fbb",
+                "756d7447-1a1d-40e7-9db3-4bc8d0656d94"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ad2e8ce1-6b4c-4f4a-a503-421e30200c93",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8010a784-7b7d-43ed-9958-26773f1c61e2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8010a784-7b7d-43ed-9958-26773f1c61e2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Z-7",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "21f893c4-1012-4e23-803d-865353096fbb",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "42f28d0a-835d-4687-a887-e923275f47ab"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "42f28d0a-835d-4687-a887-e923275f47ab",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Changhe",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "756d7447-1a1d-40e7-9db3-4bc8d0656d94",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cf895b73-1550-4547-8e97-177d4129274b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cf895b73-1550-4547-8e97-177d4129274b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Разработка прекращена",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "5c9dfc99-3184-444c-a56a-d739ff487645",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "a63bab11-2054-4f84-b017-7a20b58d0be3",
+                "f816927d-e0a6-4ba2-99f8-8fab07d01584",
+                "ea2f1a3f-7504-4f3e-995c-f384e32c02bd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a63bab11-2054-4f84-b017-7a20b58d0be3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9a7368ab-e0ef-4b8f-9111-59f9ad073fb3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9a7368ab-e0ef-4b8f-9111-59f9ad073fb3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Z-8",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f816927d-e0a6-4ba2-99f8-8fab07d01584",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8c57dc33-dfd9-4e49-8f58-4e7e6a80da64"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8c57dc33-dfd9-4e49-8f58-4e7e6a80da64",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Changhe",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ea2f1a3f-7504-4f3e-995c-f384e32c02bd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4a6aa63b-4f35-43e6-b987-2202f7bdb49c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4a6aa63b-4f35-43e6-b987-2202f7bdb49c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Противолодочный, копия Aérospatiale Super Frelon",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "d3509d13-b169-4647-bf3a-399ee4450bc4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ebca21ba-210c-42d0-9b99-678fe21ebf65",
+                "55f81838-b249-48e5-aac2-ddb4c3711848",
+                "bf07c16e-c625-4aac-a4b5-18c581a940d1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ebca21ba-210c-42d0-9b99-678fe21ebf65",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "16b86d9e-a4dd-4798-9fd6-af8517b6cd1a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "16b86d9e-a4dd-4798-9fd6-af8517b6cd1a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Z-9",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "55f81838-b249-48e5-aac2-ddb4c3711848",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1a256c3e-a9af-4997-b72e-59534a136809"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1a256c3e-a9af-4997-b72e-59534a136809",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Harbin",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bf07c16e-c625-4aac-a4b5-18c581a940d1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6683592a-c7d7-4735-bf7b-bcf3e1a419a6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6683592a-c7d7-4735-bf7b-bcf3e1a419a6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Многоцелевой вертолёт, копия Eurocopter Dauphin",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "e846a838-dc44-44e0-adc9-e7752f48acd2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "a6c45c07-4070-4641-b4a0-c7e6f4e1a0e2",
+                "aac8cfef-cde9-48b4-8a72-fe0731cdda5a",
+                "73aa249d-4cfd-4a3b-a7ed-297844b16335"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a6c45c07-4070-4641-b4a0-c7e6f4e1a0e2",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8d87977e-09ac-4c2b-8790-6ca4dd6daf92"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8d87977e-09ac-4c2b-8790-6ca4dd6daf92",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Z-19",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "aac8cfef-cde9-48b4-8a72-fe0731cdda5a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b64da89c-b1df-49a4-91b0-9a107f2b157e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b64da89c-b1df-49a4-91b0-9a107f2b157e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Harbin",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "73aa249d-4cfd-4a3b-a7ed-297844b16335",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "516d9450-520d-4e13-b7af-93ea4662efcf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "516d9450-520d-4e13-b7af-93ea4662efcf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Ударный вертолёт, основанный на Z-9",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "c177c7dc-b9ff-4c12-97c0-a64cc8521bea",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ff52ed2a-6d0d-4909-8fe8-4864d2f4a73c",
+                "6e45c940-63d5-4b12-ae14-ae67f0167636",
+                "f1ec78dd-5051-4097-835f-06cfe1bc3837"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ff52ed2a-6d0d-4909-8fe8-4864d2f4a73c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d02c08ae-f9bc-4f72-8be1-74efa9e3d1c3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d02c08ae-f9bc-4f72-8be1-74efa9e3d1c3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "WZ-10",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6e45c940-63d5-4b12-ae14-ae67f0167636",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4c8de601-6979-4747-b1d4-a26cc8d0e6ea"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4c8de601-6979-4747-b1d4-a26cc8d0e6ea",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Changhe",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f1ec78dd-5051-4097-835f-06cfe1bc3837",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "362d07f3-f1d8-4654-8102-3a4bf127760d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "362d07f3-f1d8-4654-8102-3a4bf127760d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Ударный вертолёт с тандемной кабиной",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "e91f6517-5105-4ce7-a36c-5ef1cffb3861",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "228b6547-f707-4831-aa57-1f877874cdf6",
+                "fee5a95b-86ce-4e0b-be36-ea212d7b37d1",
+                "42813c1c-f434-469e-872b-d8bc00d96778"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "228b6547-f707-4831-aa57-1f877874cdf6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ccc429b9-0450-4629-a37a-4084ac025a7b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ccc429b9-0450-4629-a37a-4084ac025a7b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Z-11",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fee5a95b-86ce-4e0b-be36-ea212d7b37d1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "eb9e2474-d422-4e6e-8b92-39f5c7274344"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "eb9e2474-d422-4e6e-8b92-39f5c7274344",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Changhe",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "42813c1c-f434-469e-872b-d8bc00d96778",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1e155d45-9ec0-4a54-83ad-f43fc5da96d7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1e155d45-9ec0-4a54-83ad-f43fc5da96d7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Лёгкий вертолёт общего назначения, копия AS350B Squirrel",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "92af0a2b-4555-41fc-9556-dee773b79b87",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "e1a0fc56-d3e0-4d14-8cdc-fcdc1be1a9b7",
+                "f8bf6b33-b115-47d0-8a1b-eb961daa6ca0",
+                "1cab2364-0e99-4487-9a29-bb54788ba942"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e1a0fc56-d3e0-4d14-8cdc-fcdc1be1a9b7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8fc78bb9-85ff-4346-b10d-d91628c3cf68"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8fc78bb9-85ff-4346-b10d-d91628c3cf68",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "EC-120",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f8bf6b33-b115-47d0-8a1b-eb961daa6ca0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3fb1a742-f33e-4101-a7fc-c2617294a95d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3fb1a742-f33e-4101-a7fc-c2617294a95d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Harbin",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1cab2364-0e99-4487-9a29-bb54788ba942",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "aa00c693-98c3-4467-9ac1-f62a75349527"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "aa00c693-98c3-4467-9ac1-f62a75349527",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Совместная разработка с Eurocopter",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "a4fcc4a0-82d3-458d-896e-bb6fa57c90a5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "8af9ca41-481c-403e-a2db-ab03233f9336",
+                "a4242969-8a81-4d52-a31d-49422f168f50",
+                "02563edd-b403-4a1d-a949-2f692ba14276"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8af9ca41-481c-403e-a2db-ab03233f9336",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e6026e91-7a78-42fb-ba82-f817ed6639ce"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e6026e91-7a78-42fb-ba82-f817ed6639ce",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Z-15/EC-175",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a4242969-8a81-4d52-a31d-49422f168f50",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8c6f629f-9ee7-4bf4-83d6-c6da1d0c1346"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8c6f629f-9ee7-4bf4-83d6-c6da1d0c1346",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Harbin",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "02563edd-b403-4a1d-a949-2f692ba14276",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5b112a57-6088-472e-9412-52eb3afb67ba"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5b112a57-6088-472e-9412-52eb3afb67ba",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "средний вертолёт (6 т) общего назначения, совместная разработка с Eurocopter ; аналог Agusta A109",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "6942",
+                "value": {
+                    "concept": "0195a36d-f51d-7843-b0f2-b30f4958237b"
+                },
+                "id": "270f4ba4-309b-4bf0-ab1d-7e487325a830"
+            },
+            {
+                "status": "approved",
+                "type_id": "6942",
+                "value": {
+                    "concept": "0195a36d-f564-7c9e-a246-0e99ad842b85"
+                },
+                "id": "f8e3c698-439c-4c90-ac5d-2d70243fa2c1"
+            },
+            {
+                "status": "approved",
+                "type_id": "6942",
+                "value": {
+                    "concept": "0195a36d-f044-7d15-b4d9-d81a6ab54338"
+                },
+                "id": "cc0ccede-0da2-42a0-a925-52d072d6f205"
+            },
+            {
+                "status": "approved",
+                "type_id": "6942",
+                "value": {
+                    "concept": "0195a36d-effb-750b-b35c-478cdfeca53c"
+                },
+                "id": "90e0b3f6-2e48-42c8-b214-203261940840"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "0194f5b3-116a-793e-af97-a191c47220d4"
+                },
+                "id": "f5bd7ee6-d947-4c25-9b39-f5ff43388d16"
+            },
+            {
+                "status": "approved",
+                "type_id": "6942",
+                "value": {
+                    "concept": "0195a36d-f77b-7e4c-9538-2bc12c864ae1"
+                },
+                "id": "fb7812a2-f43c-43be-98e0-a593d6e7ebf5"
+            },
+            {
+                "status": "approved",
+                "type_id": "6942",
+                "value": {
+                    "concept": "0195a36d-f161-71ee-8c12-ae3da6fc6d8d"
+                },
+                "id": "1945849a-7fed-452b-9b0d-943f38b5d446"
+            },
+            {
+                "status": "approved",
+                "type_id": "6942",
+                "value": {
+                    "concept": "0195a36d-f08d-76e3-963d-46d509cfcbea"
+                },
+                "id": "c71923ca-714e-4732-a73f-accf28fb6deb"
+            },
+            {
+                "status": "approved",
+                "type_id": "6942",
+                "value": {
+                    "concept": "0195a36d-f7bd-725e-852a-f53cecafb9b4"
+                },
+                "id": "3e3c3844-4b55-4370-9bba-ca4c4446097a"
+            },
+            {
+                "status": "approved",
+                "type_id": "6942",
+                "value": {
+                    "concept": "0195a36d-f6ad-7aaa-b532-19d6ba3c46c3"
+                },
+                "id": "fe58cf25-88e8-4b89-87e1-f48c5f8cf8ff"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "0195a375-72a3-76b4-984d-61eb50658c1f"
+                },
+                "id": "cc48845f-4011-4c44-88d3-a8ccab5c0ca7"
+            },
+            {
+                "status": "approved",
+                "type_id": "6942",
+                "value": {
+                    "concept": "0195a36d-f2a0-74de-b06d-12cdfeb7dc1d"
+                },
+                "id": "59d581f5-e36d-4ec2-b44c-b625b632a160"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-85404316"
+                },
+                "id": "adcd3334-3001-421a-b0fb-cedb3f40faa0"
+            }
+        ],
+        "atom": [
+            {
+                "id": "97861355-f552-4ef9-a883-97ec4e7da4ea",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Z-6"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "53005321-e329-4349-8d08-e731bd8dec45",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Экспортные Ми-8Т и Ми-17",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "36cd6a2e-34fc-4e18-93fc-8a89fbd2a85b",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Z-7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a475a97f-5b17-40d2-ac23-e6f4cf4e1d93",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Разработка прекращена",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "58edcca0-d2d2-422b-8d3a-b30ecc7becad",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Z-8"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5b06835e-a373-4d45-8850-ab189e6c04d3",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Противолодочный, копия Aérospatiale Super Frelon",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f8d2ffc7-03db-40a4-ae2d-85d6aaf22e9d",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Z-19"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d243488d-9929-4a03-ad36-8ad9b7475b15",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Ударный вертолёт, основанный на Z-9",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "74f459e1-1dd9-469e-acf3-da70cc85958c",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Changhe"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d3d8397e-0ab2-45ef-9535-208cd8691861",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Z-11"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e934fa7b-f5b1-4654-975d-994ccd6aa852",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Лёгкий вертолёт общего назначения, копия AS350B Squirrel",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "44752bda-bc8b-458b-be60-ed0394bf7eda",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "WZ-10"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ea0433ca-f1f3-40f6-a2a3-4b09c87f5f6f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Ударный вертолёт с тандемной кабиной",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "143c0ded-a5e8-4c15-9f25-fe70de6ecaf7",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Z-9"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f2fd664e-0e9e-4682-a78a-26806119c554",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Многоцелевой вертолёт, копия Eurocopter Dauphin",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "fd000703-8d08-4a35-b8cf-a264321a3b65",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Harbin"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d01107da-8e0f-435b-8534-75520b778e6c",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Z-5"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "bf728119-2eda-465c-a26e-30929c159ca9",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Копия Ми-4 , снят с вооружения",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6d9a4477-d0eb-40f5-a22c-62e03c71c5da",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Z-15/EC-175"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "84f5e686-c93e-4705-937d-40a4763cb955",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "средний вертолёт (6 т) общего назначения, совместная разработка с Eurocopter ; аналог Agusta A109",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "74f3c8f7-2267-4133-8c4a-c3211d4cf8b3",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "EC-120"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ac0da3f6-c013-4438-b3e4-62ea1d141215",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Совместная разработка с Eurocopter",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "7eb47f9a-47ca-4255-a6f7-53aa006b6bb0",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "7bc5f810-20cb-4f4e-9bfd-5948f376a80c",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1742204135
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b2a3961a-6c43-43f2-84ee-466c7a4cddf0",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 51088
+                },
+                "status": "approved"
+            },
+            {
+                "id": "dbb845da-5951-4833-9e8f-9d987078146a",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1742204135
+                },
+                "status": "approved"
+            },
+            {
+                "id": "080a0dc8-645c-4fd8-8b96-a242a27d759c",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "89880e62-1856-40af-9b26-b4cefb47df53",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "06ef25bf-e3ef-45be-aa66-829c1662412f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "05ed38b0-c50c-4d2c-ac62-7ce54b89d1ad",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "fddd6d31-ced5-4643-bf18-37e1fcbefce1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3425"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a063c8c9-bad2-4bfc-a67f-9eb82eb649f4",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1742204135
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4d2737b0-fef0-42cf-bd7a-36eb1cb72cbb",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/adcd/3334/table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "74aed2ea-ff63-4fcc-9eed-c79bae285730",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [
+            {
+                "status": "approved",
+                "type_id": "23361",
+                "value": "ОК-85404335",
+                "id": "c3018615-e47b-4721-9448-c8b7f2d81a73",
+                "source": "f5bd7ee6-d947-4c25-9b39-f5ff43388d16",
+                "target": "fe58cf25-88e8-4b89-87e1-f48c5f8cf8ff"
+            },
+            {
+                "status": "approved",
+                "type_id": "23361",
+                "value": "ОК-85404336",
+                "id": "723a0dec-c314-4136-b6ad-53e9bf469f73",
+                "source": "cc48845f-4011-4c44-88d3-a8ccab5c0ca7",
+                "target": "c71923ca-714e-4732-a73f-accf28fb6deb"
+            },
+            {
+                "status": "approved",
+                "type_id": "23361",
+                "value": "ОК-85404337",
+                "id": "9faec585-7d7f-4e94-ab8d-94bf7b05587a",
+                "source": "cc48845f-4011-4c44-88d3-a8ccab5c0ca7",
+                "target": "cc0ccede-0da2-42a0-a925-52d072d6f205"
+            },
+            {
+                "status": "approved",
+                "type_id": "23361",
+                "value": "ОК-85404338",
+                "id": "f582a2d5-7239-447d-a54f-e20bf713155d",
+                "source": "f5bd7ee6-d947-4c25-9b39-f5ff43388d16",
+                "target": "1945849a-7fed-452b-9b0d-943f38b5d446"
+            },
+            {
+                "status": "approved",
+                "type_id": "23361",
+                "value": "ОК-85404339",
+                "id": "bcd8a2df-bf48-459d-afed-ff1b3a9ba226",
+                "source": "f5bd7ee6-d947-4c25-9b39-f5ff43388d16",
+                "target": "90e0b3f6-2e48-42c8-b214-203261940840"
+            },
+            {
+                "status": "approved",
+                "type_id": "23361",
+                "value": "ОК-85404340",
+                "id": "78549cf7-f8ea-410d-9397-794bea98d294",
+                "source": "f5bd7ee6-d947-4c25-9b39-f5ff43388d16",
+                "target": "fb7812a2-f43c-43be-98e0-a593d6e7ebf5"
+            },
+            {
+                "status": "approved",
+                "type_id": "23361",
+                "value": "ОК-85404341",
+                "id": "e15650d0-bf4f-404f-851d-f2f09cc80546",
+                "source": "f5bd7ee6-d947-4c25-9b39-f5ff43388d16",
+                "target": "59d581f5-e36d-4ec2-b44c-b625b632a160"
+            },
+            {
+                "status": "approved",
+                "type_id": "23361",
+                "value": "ОК-85404342",
+                "id": "9c706e7c-6bd8-4183-9452-bbda47b0000d",
+                "source": "cc48845f-4011-4c44-88d3-a8ccab5c0ca7",
+                "target": "270f4ba4-309b-4bf0-ab1d-7e487325a830"
+            },
+            {
+                "status": "approved",
+                "type_id": "23361",
+                "value": "ОК-85404343",
+                "id": "dda938f0-bf55-4a7c-8b03-6a23521a025a",
+                "source": "cc48845f-4011-4c44-88d3-a8ccab5c0ca7",
+                "target": "3e3c3844-4b55-4370-9bba-ca4c4446097a"
+            }
+        ],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "6945",
+                "value": "ОК-85404279",
+                "id": "4e1519f0-2693-4f48-a717-0265a3944d84",
+                "source": "270f4ba4-309b-4bf0-ab1d-7e487325a830",
+                "target": "d3d8397e-0ab2-45ef-9535-208cd8691861"
+            },
+            {
+                "status": "approved",
+                "type_id": "6945",
+                "value": "ОК-85404285",
+                "id": "c40bd703-1e85-4f3c-b12d-aa924210d525",
+                "source": "f8e3c698-439c-4c90-ac5d-2d70243fa2c1",
+                "target": "97861355-f552-4ef9-a883-97ec4e7da4ea"
+            },
+            {
+                "status": "approved",
+                "type_id": "23359",
+                "value": "ОК-85404289",
+                "id": "e5f81356-8133-4ff3-976b-a172ccde9f2e",
+                "source": "f8e3c698-439c-4c90-ac5d-2d70243fa2c1",
+                "target": "53005321-e329-4349-8d08-e731bd8dec45"
+            },
+            {
+                "status": "approved",
+                "type_id": "6945",
+                "value": "ОК-85404269",
+                "id": "65bc3e74-d746-405a-8570-90b0af7aaf69",
+                "source": "fb7812a2-f43c-43be-98e0-a593d6e7ebf5",
+                "target": "d01107da-8e0f-435b-8534-75520b778e6c"
+            },
+            {
+                "status": "approved",
+                "type_id": "6945",
+                "value": "ОК-85404273",
+                "id": "e2b56121-2bc1-4bb3-900e-e0412d7a37c4",
+                "source": "c71923ca-714e-4732-a73f-accf28fb6deb",
+                "target": "36cd6a2e-34fc-4e18-93fc-8a89fbd2a85b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23359",
+                "value": "ОК-85404287",
+                "id": "12a72169-ba93-47d5-897b-c8fe3827281f",
+                "source": "c71923ca-714e-4732-a73f-accf28fb6deb",
+                "target": "a475a97f-5b17-40d2-ac23-e6f4cf4e1d93"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-85404334",
+                "id": "74d7e607-be29-4b72-a2c8-e3afb3769564",
+                "source": "f5bd7ee6-d947-4c25-9b39-f5ff43388d16",
+                "target": "fd000703-8d08-4a35-b8cf-a264321a3b65"
+            },
+            {
+                "status": "approved",
+                "type_id": "6945",
+                "value": "ОК-85404281",
+                "id": "4becc311-bf61-4c97-9364-eb19b104aca3",
+                "source": "3e3c3844-4b55-4370-9bba-ca4c4446097a",
+                "target": "58edcca0-d2d2-422b-8d3a-b30ecc7becad"
+            },
+            {
+                "status": "approved",
+                "type_id": "23359",
+                "value": "ОК-85404292",
+                "id": "a5c13e23-9a03-4dcf-a388-54c1416691e4",
+                "source": "3e3c3844-4b55-4370-9bba-ca4c4446097a",
+                "target": "5b06835e-a373-4d45-8850-ab189e6c04d3"
+            },
+            {
+                "status": "approved",
+                "type_id": "6945",
+                "value": "ОК-85404267",
+                "id": "ff914bea-bc08-4f3b-b4fa-d431de715d2d",
+                "source": "59d581f5-e36d-4ec2-b44c-b625b632a160",
+                "target": "74f3c8f7-2267-4133-8c4a-c3211d4cf8b3"
+            },
+            {
+                "status": "approved",
+                "type_id": "6945",
+                "value": "ОК-85404275",
+                "id": "4f7fdb5c-1e0c-4ca0-9e05-1b5cb9ad3491",
+                "source": "fe58cf25-88e8-4b89-87e1-f48c5f8cf8ff",
+                "target": "f8d2ffc7-03db-40a4-ae2d-85d6aaf22e9d"
+            },
+            {
+                "status": "approved",
+                "type_id": "23359",
+                "value": "ОК-85404288",
+                "id": "f72f6e05-d804-4dfc-836a-04766c3edac3",
+                "source": "fe58cf25-88e8-4b89-87e1-f48c5f8cf8ff",
+                "target": "d243488d-9929-4a03-ad36-8ad9b7475b15"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-85404333",
+                "id": "60e6ea8b-e14c-426b-80e0-76f2c3ed9901",
+                "source": "cc48845f-4011-4c44-88d3-a8ccab5c0ca7",
+                "target": "74f459e1-1dd9-469e-acf3-da70cc85958c"
+            },
+            {
+                "status": "approved",
+                "type_id": "23359",
+                "value": "ОК-85404293",
+                "id": "69d4b0dd-9ca3-45fd-9523-cef7823f1360",
+                "source": "fb7812a2-f43c-43be-98e0-a593d6e7ebf5",
+                "target": "bf728119-2eda-465c-a26e-30929c159ca9"
+            },
+            {
+                "status": "approved",
+                "type_id": "6945",
+                "value": "ОК-85404283",
+                "id": "75416665-4890-498c-9068-d58194c1aa11",
+                "source": "1945849a-7fed-452b-9b0d-943f38b5d446",
+                "target": "6d9a4477-d0eb-40f5-a22c-62e03c71c5da"
+            },
+            {
+                "status": "approved",
+                "type_id": "23359",
+                "value": "ОК-85404291",
+                "id": "b8d575bf-2cb2-4dbe-ba81-3bace14cb08a",
+                "source": "1945849a-7fed-452b-9b0d-943f38b5d446",
+                "target": "84f5e686-c93e-4705-937d-40a4763cb955"
+            },
+            {
+                "status": "approved",
+                "type_id": "23359",
+                "value": "ОК-85404294",
+                "id": "e1f991bb-ccf6-48d0-be29-722365d7eb15",
+                "source": "270f4ba4-309b-4bf0-ab1d-7e487325a830",
+                "target": "e934fa7b-f5b1-4654-975d-994ccd6aa852"
+            },
+            {
+                "status": "approved",
+                "type_id": "6945",
+                "value": "ОК-85404277",
+                "id": "8341512a-f9ca-48b8-b832-8d8da1696336",
+                "source": "cc0ccede-0da2-42a0-a925-52d072d6f205",
+                "target": "44752bda-bc8b-458b-be60-ed0394bf7eda"
+            },
+            {
+                "status": "approved",
+                "type_id": "23359",
+                "value": "ОК-85404295",
+                "id": "14ced97a-f609-4ec5-bdab-6c32b5716d94",
+                "source": "cc0ccede-0da2-42a0-a925-52d072d6f205",
+                "target": "ea0433ca-f1f3-40f6-a2a3-4b09c87f5f6f"
+            },
+            {
+                "status": "approved",
+                "type_id": "6945",
+                "value": "ОК-85404271",
+                "id": "f8378e1f-343c-4339-896d-c43fcd6d9a9f",
+                "source": "90e0b3f6-2e48-42c8-b214-203261940840",
+                "target": "143c0ded-a5e8-4c15-9f25-fe70de6ecaf7"
+            },
+            {
+                "status": "approved",
+                "type_id": "23359",
+                "value": "ОК-85404290",
+                "id": "3268a892-cf2d-4a12-94d6-b4528a87035a",
+                "source": "90e0b3f6-2e48-42c8-b214-203261940840",
+                "target": "f2fd664e-0e9e-4682-a78a-26806119c554"
+            },
+            {
+                "status": "approved",
+                "type_id": "23359",
+                "value": "ОК-85404286",
+                "id": "a2b9deb6-e11e-4ae6-9333-09273820c95e",
+                "source": "59d581f5-e36d-4ec2-b44c-b625b632a160",
+                "target": "ac0da3f6-c013-4438-b3e4-62ea1d141215"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-85404320",
+                "id": "397c6380-be70-4852-982a-e86f16a56995",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "7eb47f9a-47ca-4255-a6f7-53aa006b6bb0"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-85404321",
+                "id": "2b9f4a2f-abae-405b-bd6b-e08356230f84",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "7bc5f810-20cb-4f4e-9bfd-5948f376a80c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-85404322",
+                "id": "878363ef-e7c0-4099-9b15-7c1b5e17206f",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "b2a3961a-6c43-43f2-84ee-466c7a4cddf0"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-85404323",
+                "id": "c1f657d7-a1c2-452d-b8c1-59bfdc71b499",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "dbb845da-5951-4833-9e8f-9d987078146a"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-85404324",
+                "id": "d2e44259-deaa-44c8-94a7-90335887d66e",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "080a0dc8-645c-4fd8-8b96-a242a27d759c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-85404325",
+                "id": "b3465a7b-862c-40d4-b9c9-7fb7c749c2df",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "89880e62-1856-40af-9b26-b4cefb47df53"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-85404326",
+                "id": "18fdc2d3-1984-4517-bec3-68ae40adfbd8",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "06ef25bf-e3ef-45be-aa66-829c1662412f"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-85404327",
+                "id": "d1da875e-1b5b-4e63-becf-630b481312fd",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "05ed38b0-c50c-4d2c-ac62-7ce54b89d1ad"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-85404328",
+                "id": "244da8ae-cbf4-456a-8d62-860eb601b07f",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "fddd6d31-ced5-4643-bf18-37e1fcbefce1"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-85404329",
+                "id": "9ea1ff9f-f58a-405d-8bd1-f42ef863563b",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "a063c8c9-bad2-4bfc-a67f-9eb82eb649f4"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-85404330",
+                "id": "4e889476-4b43-4faa-b25b-cc67ab6cf261",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "4d2737b0-fef0-42cf-bd7a-36eb1cb72cbb"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-85404331",
+                "id": "a2ded60c-e9dd-4d9f-81dd-588e0db501ac",
+                "source": "adcd3334-3001-421a-b0fb-cedb3f40faa0",
+                "target": "74aed2ea-ff63-4fcc-9eed-c79bae285730"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "516d9450-520d-4e13-b7af-93ea4662efcf",
+                    "start": 0,
+                    "end": 35
+                },
+                "value": "d243488d-9929-4a03-ad36-8ad9b7475b15",
+                "id": "2ec31f60-df21-4a08-9003-7b18d9a22660"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b64da89c-b1df-49a4-91b0-9a107f2b157e",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "fd000703-8d08-4a35-b8cf-a264321a3b65",
+                "id": "1e656dd4-3ae7-44b2-99cb-1b904db3dac4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "83094a8a-4c26-473c-8347-de4d930ebb22",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "fd000703-8d08-4a35-b8cf-a264321a3b65",
+                "id": "146bf544-e8f8-4597-9ad9-31ac58cd7ba0"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3fb1a742-f33e-4101-a7fc-c2617294a95d",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "fd000703-8d08-4a35-b8cf-a264321a3b65",
+                "id": "7228db95-abec-4700-a698-56e4446a742a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1a256c3e-a9af-4997-b72e-59534a136809",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "fd000703-8d08-4a35-b8cf-a264321a3b65",
+                "id": "7e8e6528-87e9-4369-a489-b7bb8a95c72b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cf895b73-1550-4547-8e97-177d4129274b",
+                    "start": 0,
+                    "end": 21
+                },
+                "value": "a475a97f-5b17-40d2-ac23-e6f4cf4e1d93",
+                "id": "faa448b4-4f14-4a08-a63f-323b55343d5a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8c57dc33-dfd9-4e49-8f58-4e7e6a80da64",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "74f459e1-1dd9-469e-acf3-da70cc85958c",
+                "id": "19dee430-8a19-4013-a592-1250503d4afb"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "42f28d0a-835d-4687-a887-e923275f47ab",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "74f459e1-1dd9-469e-acf3-da70cc85958c",
+                "id": "e0f0caaa-1914-491d-a853-66a48bcb5f7c"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4c8de601-6979-4747-b1d4-a26cc8d0e6ea",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "74f459e1-1dd9-469e-acf3-da70cc85958c",
+                "id": "70f69f8d-ec6e-4bf2-87d9-04ad01be59da"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "362d07f3-f1d8-4654-8102-3a4bf127760d",
+                    "start": 0,
+                    "end": 36
+                },
+                "value": "ea0433ca-f1f3-40f6-a2a3-4b09c87f5f6f",
+                "id": "ef4d3663-613b-44f2-97fc-5b068da413a7"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "5b112a57-6088-472e-9412-52eb3afb67ba",
+                    "start": 0,
+                    "end": 97
+                },
+                "value": "84f5e686-c93e-4705-937d-40a4763cb955",
+                "id": "ad28338d-2b41-494b-a8ab-06f20f8f78e8"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e6026e91-7a78-42fb-ba82-f817ed6639ce",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "6d9a4477-d0eb-40f5-a22c-62e03c71c5da",
+                "id": "42081d95-e6db-40e0-9093-2d9ae0fbf0df"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "16b86d9e-a4dd-4798-9fd6-af8517b6cd1a",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "143c0ded-a5e8-4c15-9f25-fe70de6ecaf7",
+                "id": "c783feee-91c0-4619-aacb-49371d067448"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6683592a-c7d7-4735-bf7b-bcf3e1a419a6",
+                    "start": 0,
+                    "end": 47
+                },
+                "value": "f2fd664e-0e9e-4682-a78a-26806119c554",
+                "id": "5c710fd2-8aa4-41cd-9802-966d6babb022"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ed637e85-fc0e-427e-8d18-0fd9c7526fac",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "d01107da-8e0f-435b-8534-75520b778e6c",
+                "id": "2177f403-d3f3-47ff-8f61-f04d1d0900c4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f73f9338-12fb-4baa-878a-ec199aa0fd0c",
+                    "start": 0,
+                    "end": 30
+                },
+                "value": "bf728119-2eda-465c-a26e-30929c159ca9",
+                "id": "fca0c2f0-2ec2-4568-a0a2-d97c2465fead"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "aa00c693-98c3-4467-9ac1-f62a75349527",
+                    "start": 0,
+                    "end": 34
+                },
+                "value": "ac0da3f6-c013-4438-b3e4-62ea1d141215",
+                "id": "afaf13ea-cc9b-41fe-8d6a-0210e5ab8b77"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8fc78bb9-85ff-4346-b10d-d91628c3cf68",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "74f3c8f7-2267-4133-8c4a-c3211d4cf8b3",
+                "id": "6d519126-3878-4a85-a2d2-a67fccdcff86"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1e155d45-9ec0-4a54-83ad-f43fc5da96d7",
+                    "start": 0,
+                    "end": 56
+                },
+                "value": "e934fa7b-f5b1-4654-975d-994ccd6aa852",
+                "id": "70112f12-aa3c-406a-a9d0-00a68eeb2cc5"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ccc429b9-0450-4629-a37a-4084ac025a7b",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "d3d8397e-0ab2-45ef-9535-208cd8691861",
+                "id": "12687117-86d5-475b-9b34-b069f66be1aa"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9a7368ab-e0ef-4b8f-9111-59f9ad073fb3",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "58edcca0-d2d2-422b-8d3a-b30ecc7becad",
+                "id": "84d14e0d-3588-4099-98ff-7415a29d8949"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4a6aa63b-4f35-43e6-b987-2202f7bdb49c",
+                    "start": 0,
+                    "end": 48
+                },
+                "value": "5b06835e-a373-4d45-8850-ab189e6c04d3",
+                "id": "0fdedb31-f977-4741-a8f2-f224b78a8cb0"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7e1ce360-abbd-4cf4-8155-bccf62d5a19c",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "53005321-e329-4349-8d08-e731bd8dec45",
+                "id": "89d7207d-d37e-4487-8b59-9f6d2ed50010"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7ab27c55-0dcb-4b2b-b664-2daa24f44932",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "97861355-f552-4ef9-a883-97ec4e7da4ea",
+                "id": "96ca3ea8-c9ed-4c72-b31d-8075ef02d075"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8010a784-7b7d-43ed-9958-26773f1c61e2",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "36cd6a2e-34fc-4e18-93fc-8a89fbd2a85b",
+                "id": "05519716-55c7-499e-b4af-6e9112401e42"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d02c08ae-f9bc-4f72-8be1-74efa9e3d1c3",
+                    "start": 0,
+                    "end": 5
+                },
+                "value": "44752bda-bc8b-458b-be60-ed0394bf7eda",
+                "id": "2761f6ce-7ef7-460d-8acc-4ea988745e78"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8c6f629f-9ee7-4bf4-83d6-c6da1d0c1346",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "fd000703-8d08-4a35-b8cf-a264321a3b65",
+                "id": "5fee8841-1470-4f1f-bd57-0473c80a91df"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8d87977e-09ac-4c2b-8790-6ca4dd6daf92",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "f8d2ffc7-03db-40a4-ae2d-85d6aaf22e9d",
+                "id": "ba2207d7-7664-4445-9809-38c263656bb2"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "eb9e2474-d422-4e6e-8b92-39f5c7274344",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "74f459e1-1dd9-469e-acf3-da70cc85958c",
+                "id": "c6522119-0ae6-47fa-8144-64e5a251b2ba"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_1.docx",
+        "file_name": "table_1.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 51088,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1742204135,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/adcd%2F3334%2Ftable_1.docx",
+        "markers": [],
+        "account": [],
+        "story": "adcd3334-3001-421a-b0fb-cedb3f40faa0"
+    }
+}

@@ -1,0 +1,5658 @@
+{
+    "id": "1feef003-897c-435f-bd9c-12beafe73939",
+	"VERSION":"1.0",
+    "main_node": "43bbb793-bcc7-4af9-b2d7-e2fa48a11831",
+    "content": [
+        {
+            "type": "text",
+            "id": "43bbb793-bcc7-4af9-b2d7-e2fa48a11831",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "a8611a4b-d536-40b7-a034-c0732adf926e"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a8611a4b-d536-40b7-a034-c0732adf926e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "72cde8c3-fa56-4523-ad1e-af8cca2b90c2"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "72cde8c3-fa56-4523-ad1e-af8cca2b90c2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "3033e7a1-a194-4892-84b8-eb9f17ca36e2",
+                "024e0795-780c-4d5a-95f7-8991811b4f64",
+                "a3b421ed-4868-4872-acf4-a757df6a8ccf",
+                "2f4339f7-5f26-4f49-9b0d-4a3de6e2f4e3",
+                "7babd411-1633-4bdf-a75a-aa84ca6562cb",
+                "efde40f9-769a-4f09-b864-f5a05ad50354",
+                "4d133e90-1533-4c75-96af-7e7c5aa0e868",
+                "93427259-0b35-4932-a98b-638cb50db667",
+                "1e048c71-0849-464e-8e82-c63ab56f7101",
+                "b5ad4b17-8a6c-4a08-bcab-9861717c911b",
+                "9556876a-c4ce-4652-8b75-02658e88271b",
+                "08e731e9-6ffc-4334-99ad-55cd6e29ce46",
+                "2448e0cc-c4dc-4146-bab7-9cb0caec5bbb",
+                "d4d7180c-15f9-4e54-9598-f7a047b985a8",
+                "cbdce111-5ca3-4275-8c16-369128d276d1",
+                "a96813bf-04b8-49aa-8c01-5edf1a26f06d",
+                "95d6684f-7773-465a-8b68-ab68c80bbf7e",
+                "54b3d4ee-73e4-449a-b1d7-29f0af73f14c",
+                "ee9241dc-8dfd-4951-b3f1-f47efd2f544c",
+                "70db0350-d0e2-48ef-ad32-1bce6ac17063",
+                "8abf5ffa-6aba-4003-ae51-b18fb6d5fb48",
+                "367061dd-69e9-43ae-8cd6-094a7a785205",
+                "c5340a74-ccff-4024-937d-32234e09c2cc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "3033e7a1-a194-4892-84b8-eb9f17ca36e2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "28f2dc41-4614-41ec-915b-1f7bcd67e28e",
+                "94d11b8b-3b8c-4753-9724-9816a73bfdaf",
+                "faa532b4-6e60-4c1d-aefc-3cb79a3f4237",
+                "f6d54a0f-ac45-48e7-a9ff-7dfd21ac3002",
+                "36e7df2b-88c6-4465-9c2f-01d32d77a431",
+                "ebc20134-55d1-44fa-9e30-5e492cc526a4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "28f2dc41-4614-41ec-915b-1f7bcd67e28e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "652ee90c-0f4b-4aad-9569-60f891b98d6c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "652ee90c-0f4b-4aad-9569-60f891b98d6c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "№",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "94d11b8b-3b8c-4753-9724-9816a73bfdaf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "91cfb46a-4549-4471-934d-6b5dbe15179e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "91cfb46a-4549-4471-934d-6b5dbe15179e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Unnamed: 1_level_0",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "faa532b4-6e60-4c1d-aefc-3cb79a3f4237",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "c8b7c060-dd31-4c45-a9cf-022359719b8c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c8b7c060-dd31-4c45-a9cf-022359719b8c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Глава правительства",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f6d54a0f-ac45-48e7-a9ff-7dfd21ac3002",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "041dec30-a703-4fbd-bab3-bd27aadab9f9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "041dec30-a703-4fbd-bab3-bd27aadab9f9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "В должности",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "36e7df2b-88c6-4465-9c2f-01d32d77a431",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "212f384a-f2b7-4077-aef8-54635ca3b3b0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "212f384a-f2b7-4077-aef8-54635ca3b3b0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "В должности",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ebc20134-55d1-44fa-9e30-5e492cc526a4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "aef6687c-7acc-4975-964c-0055a35e25c2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "aef6687c-7acc-4975-964c-0055a35e25c2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Партия",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "024e0795-780c-4d5a-95f7-8991811b4f64",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ff6add2a-ac92-4349-b3e1-cdeb84efc995",
+                "9b5c70d9-85ee-4dfb-b145-39b8e204acef",
+                "93b4c6e2-ea8c-4bea-91db-56ec6792a8b9",
+                "acd0ac5f-d371-4b69-93eb-e6ac670d3a51",
+                "51ad7f3b-8601-4b36-be80-4d1a56b8fc79",
+                "a2c26136-fbad-43db-9226-fe4e5a7103cb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ff6add2a-ac92-4349-b3e1-cdeb84efc995",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "85ab046e-e1f5-436b-8fdb-a34d25be7498"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "85ab046e-e1f5-436b-8fdb-a34d25be7498",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Народных Комиссаров СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9b5c70d9-85ee-4dfb-b145-39b8e204acef",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "770bfbe1-a139-47a8-b8c4-0c2a8216b324"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "770bfbe1-a139-47a8-b8c4-0c2a8216b324",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Народных Комиссаров СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "93b4c6e2-ea8c-4bea-91db-56ec6792a8b9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7c771d5a-7ddd-400a-b286-b6c3881358f2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7c771d5a-7ddd-400a-b286-b6c3881358f2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Народных Комиссаров СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "acd0ac5f-d371-4b69-93eb-e6ac670d3a51",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "18cdd8ff-a173-4af4-bf73-3efdee14aa71"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "18cdd8ff-a173-4af4-bf73-3efdee14aa71",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Народных Комиссаров СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "51ad7f3b-8601-4b36-be80-4d1a56b8fc79",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "8eb89b63-1f3f-4ea6-80de-e6fec8bb934d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8eb89b63-1f3f-4ea6-80de-e6fec8bb934d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Народных Комиссаров СССР.1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a2c26136-fbad-43db-9226-fe4e5a7103cb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "5216539a-8597-4fd6-999b-f186c08ed838"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5216539a-8597-4fd6-999b-f186c08ed838",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Народных Комиссаров СССР",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "a3b421ed-4868-4872-acf4-a757df6a8ccf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2e54987e-cb06-48e0-b363-dba7c0d540f9",
+                "b5c9db1f-e356-42eb-bcfb-652753efca5e",
+                "77468eeb-156e-4bb9-a45b-fb31e5fe849f",
+                "c5cfb773-bcb2-4b1d-8f51-9c8778cb535a",
+                "df5a8b0a-377d-43fd-9175-5c252dc0a8b8",
+                "c1eb6199-3576-4ce8-8014-0b254b2539e4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2e54987e-cb06-48e0-b363-dba7c0d540f9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b9899c61-4c6f-44da-991e-9a77d8468077"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b9899c61-4c6f-44da-991e-9a77d8468077",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b5c9db1f-e356-42eb-bcfb-652753efca5e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "bfec2085-b9cd-4243-980b-05bcca6b3a3f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "bfec2085-b9cd-4243-980b-05bcca6b3a3f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "77468eeb-156e-4bb9-a45b-fb31e5fe849f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "85758e74-0b15-4207-add4-e5c50068828a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "85758e74-0b15-4207-add4-e5c50068828a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Владимир Ильич Ленин",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c5cfb773-bcb2-4b1d-8f51-9c8778cb535a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fcd4ae33-0342-45f8-9fb8-3f0804a340c5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fcd4ae33-0342-45f8-9fb8-3f0804a340c5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "6 июля 1923",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "df5a8b0a-377d-43fd-9175-5c252dc0a8b8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c51ba886-656b-4c32-9f2d-aa61225c12d1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c51ba886-656b-4c32-9f2d-aa61225c12d1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "21 января 1924",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c1eb6199-3576-4ce8-8014-0b254b2539e4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7c3cdec2-3166-4c64-9be6-55e9590189ce"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7c3cdec2-3166-4c64-9be6-55e9590189ce",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "РКП(б)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "2f4339f7-5f26-4f49-9b0d-4a3de6e2f4e3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "fe907952-77ca-4b84-87f0-fee70cabf838",
+                "70426990-96d6-4519-8ede-263a10bbf736",
+                "e47f5a1a-0a01-44de-a637-3a5b7bd0b285",
+                "8b099aa3-3ea6-4d60-a502-8d65f09f8701",
+                "257bbdad-03e0-4789-a651-7d473a18093d",
+                "89ef2f8f-650f-4d8c-91be-1d50157746c1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fe907952-77ca-4b84-87f0-fee70cabf838",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0626cdc4-69d1-41d7-8723-257c290276cd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0626cdc4-69d1-41d7-8723-257c290276cd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "70426990-96d6-4519-8ede-263a10bbf736",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "696246a5-986a-4ea9-8a8f-5a012d2af156"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "696246a5-986a-4ea9-8a8f-5a012d2af156",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e47f5a1a-0a01-44de-a637-3a5b7bd0b285",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6a552709-037a-4ba8-bcd3-30472f698033"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6a552709-037a-4ba8-bcd3-30472f698033",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Алексей Иванович Рыков",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8b099aa3-3ea6-4d60-a502-8d65f09f8701",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3683200f-3bd3-40e0-a4d9-8c40a656be8c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3683200f-3bd3-40e0-a4d9-8c40a656be8c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2 февраля 1924",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "257bbdad-03e0-4789-a651-7d473a18093d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cc88c1ac-75e7-4ad6-a892-7056ea9ebbcc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cc88c1ac-75e7-4ad6-a892-7056ea9ebbcc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "19 декабря 1930",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "89ef2f8f-650f-4d8c-91be-1d50157746c1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d7a512a7-fbe4-4099-9616-ffce327463df"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d7a512a7-fbe4-4099-9616-ffce327463df",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "РКП(б) / ВКП(б)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "7babd411-1633-4bdf-a75a-aa84ca6562cb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "75b8fe30-3ab4-4230-9ef1-f0442044a097",
+                "3316bed7-496c-4868-b388-b118db0512e3",
+                "f1f3c57c-6e98-459b-b9de-faedfab1ab6e",
+                "37eb6136-bce9-4752-b333-d59a642a97c0",
+                "0b7c4ab7-b144-4072-be3d-60cc76ec912a",
+                "42caf168-f815-4ac3-a525-a1ccf3ad49d3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "75b8fe30-3ab4-4230-9ef1-f0442044a097",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ef80f8cb-d8ea-49c6-84a8-b213b21bed2b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ef80f8cb-d8ea-49c6-84a8-b213b21bed2b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "3",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3316bed7-496c-4868-b388-b118db0512e3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4ebc8732-78da-4768-a289-dda545f2872a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4ebc8732-78da-4768-a289-dda545f2872a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f1f3c57c-6e98-459b-b9de-faedfab1ab6e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0662ed42-017b-4c7f-ac73-178c88984f20"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0662ed42-017b-4c7f-ac73-178c88984f20",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Вячеслав Михайлович Молотов",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "37eb6136-bce9-4752-b333-d59a642a97c0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "62a2e164-523e-45e1-b100-f2e88a843627"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "62a2e164-523e-45e1-b100-f2e88a843627",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "19 декабря 1930",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0b7c4ab7-b144-4072-be3d-60cc76ec912a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "354b9afb-dbf0-4aa8-9598-fe14b9fd2a9b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "354b9afb-dbf0-4aa8-9598-fe14b9fd2a9b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "6 мая 1941",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "42caf168-f815-4ac3-a525-a1ccf3ad49d3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e65a3fb3-e742-4792-91e0-0453f49eb23b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e65a3fb3-e742-4792-91e0-0453f49eb23b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "ВКП(б)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "efde40f9-769a-4f09-b864-f5a05ad50354",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "5fe9698a-b1b0-4960-9a08-c9e9c7e404fc",
+                "84e802f7-6abc-4375-9afc-b50a839d9670",
+                "bbf7300c-9737-44af-a5c0-9e0fd6d15451",
+                "ddf64f8e-4439-420f-8fd2-618b6fc776b4",
+                "021b6f81-b3ff-4a98-b913-8f08099085d6",
+                "dea3a394-8b16-40e3-bf99-5cfbb011c9d3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5fe9698a-b1b0-4960-9a08-c9e9c7e404fc",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8217df4b-cead-4402-bf4d-f53e4118f6c5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8217df4b-cead-4402-bf4d-f53e4118f6c5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "4",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "84e802f7-6abc-4375-9afc-b50a839d9670",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "379a5a04-f58f-41a3-b5f0-850259db0599"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "379a5a04-f58f-41a3-b5f0-850259db0599",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bbf7300c-9737-44af-a5c0-9e0fd6d15451",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "04293dba-46e8-484e-93ab-81d6599ec87c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "04293dba-46e8-484e-93ab-81d6599ec87c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Иосиф Виссарионович Сталин",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ddf64f8e-4439-420f-8fd2-618b6fc776b4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d6bca452-e8d7-476a-92bf-c552f65ecda1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d6bca452-e8d7-476a-92bf-c552f65ecda1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "6 мая 1941",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "021b6f81-b3ff-4a98-b913-8f08099085d6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b0c000bd-c8ba-48f7-b738-dba597792fc4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b0c000bd-c8ba-48f7-b738-dba597792fc4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "15 марта 1946",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "dea3a394-8b16-40e3-bf99-5cfbb011c9d3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b9b08f61-e094-4ef2-b5e7-bdfc3a17805d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b9b08f61-e094-4ef2-b5e7-bdfc3a17805d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "ВКП(б)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "4d133e90-1533-4c75-96af-7e7c5aa0e868",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "8dc8a17b-c1dd-4509-b549-67bb212226c9",
+                "87bc29be-6676-49ce-93dd-5122b41bfc62",
+                "ee99197d-4140-4c35-9af2-7cc94273ed96",
+                "306cae81-a0f1-4d90-ad9c-70facd0451dc",
+                "7c5941f5-bdec-4874-b267-dcd70cf12867",
+                "c9eda792-0703-493b-bef6-530fc2fbdacf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8dc8a17b-c1dd-4509-b549-67bb212226c9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "51d8e819-019b-4d99-8841-b792960866a6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "51d8e819-019b-4d99-8841-b792960866a6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Министров СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "87bc29be-6676-49ce-93dd-5122b41bfc62",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "52622ca8-8cad-41a6-91b4-e8f2dbaadb91"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "52622ca8-8cad-41a6-91b4-e8f2dbaadb91",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Министров СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ee99197d-4140-4c35-9af2-7cc94273ed96",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "5347bc20-4d7c-46b7-915d-0d33d334d46b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5347bc20-4d7c-46b7-915d-0d33d334d46b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Министров СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "306cae81-a0f1-4d90-ad9c-70facd0451dc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "de955e14-f59e-4c9e-8478-97e87671a057"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "de955e14-f59e-4c9e-8478-97e87671a057",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Министров СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7c5941f5-bdec-4874-b267-dcd70cf12867",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b089b857-84cc-4623-9857-a5b4b6ffe937"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b089b857-84cc-4623-9857-a5b4b6ffe937",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Министров СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c9eda792-0703-493b-bef6-530fc2fbdacf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0c3c85e0-434b-42ca-b339-e1162dc81a38"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0c3c85e0-434b-42ca-b339-e1162dc81a38",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатели Совета Министров СССР",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "93427259-0b35-4932-a98b-638cb50db667",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "c26385c3-1c7d-4228-92a2-1073f53993ea",
+                "efa97e37-2c1a-4496-891a-14f767726260",
+                "eb597561-2f03-4bf5-8406-60da955fb06b",
+                "fc9132b3-3fe7-45ce-8bac-a615257bed2e",
+                "79f6a132-3745-48cd-960a-1cea803ec03b",
+                "5c7b3d83-c647-492f-85fd-90222d57b32e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c26385c3-1c7d-4228-92a2-1073f53993ea",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5e52774b-8e80-4d4d-bd37-376d71ca8a43"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5e52774b-8e80-4d4d-bd37-376d71ca8a43",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "4",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "efa97e37-2c1a-4496-891a-14f767726260",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7ec91da4-a3f5-4060-83ad-23925b2f27b8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7ec91da4-a3f5-4060-83ad-23925b2f27b8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "eb597561-2f03-4bf5-8406-60da955fb06b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ffba382d-7e8a-4b6a-9868-0cbcb5af8f03"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ffba382d-7e8a-4b6a-9868-0cbcb5af8f03",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Иосиф Виссарионович Сталин",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fc9132b3-3fe7-45ce-8bac-a615257bed2e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2b7a5fd9-2f03-4f67-9490-351fb989ef39"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2b7a5fd9-2f03-4f67-9490-351fb989ef39",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "15 марта 1946",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "79f6a132-3745-48cd-960a-1cea803ec03b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "48978805-3c1b-429e-abd0-f01ef64be60b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "48978805-3c1b-429e-abd0-f01ef64be60b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "5 марта 1953",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5c7b3d83-c647-492f-85fd-90222d57b32e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3ce990c2-21fc-42c4-8f5c-72d095d6a0ba"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3ce990c2-21fc-42c4-8f5c-72d095d6a0ba",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "ВКП(б) / КПСС",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "1e048c71-0849-464e-8e82-c63ab56f7101",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "bdc292ea-e10c-427e-9912-1c6f90c0ff0d",
+                "98223705-3e6e-4769-b651-6e860d261903",
+                "0f68b06e-a9be-4196-9156-1fbeaf74d271",
+                "2809a561-ece1-449e-9ce3-c11e91180b83",
+                "e387e171-f252-4307-b1cc-da1dbd07f4c2",
+                "d6191d2d-0a0f-4de9-8035-bead08849404"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bdc292ea-e10c-427e-9912-1c6f90c0ff0d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e0057012-4a1a-444e-b614-e30d26b43292"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e0057012-4a1a-444e-b614-e30d26b43292",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "5",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "98223705-3e6e-4769-b651-6e860d261903",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1b8d00dc-4c10-4afd-a8d8-23b1112a3fdc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1b8d00dc-4c10-4afd-a8d8-23b1112a3fdc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0f68b06e-a9be-4196-9156-1fbeaf74d271",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "737460b4-9eca-4fdd-9ed3-b7522d065bbf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "737460b4-9eca-4fdd-9ed3-b7522d065bbf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Георгий Максимилианович Маленков",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2809a561-ece1-449e-9ce3-c11e91180b83",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6a5c5828-1667-4793-b71a-9c5ba4fc1de0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6a5c5828-1667-4793-b71a-9c5ba4fc1de0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "5 марта 1953",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e387e171-f252-4307-b1cc-da1dbd07f4c2",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "931f0e8a-2e4d-4a80-bf57-da7595f840aa"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "931f0e8a-2e4d-4a80-bf57-da7595f840aa",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "8 февраля 1955",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d6191d2d-0a0f-4de9-8035-bead08849404",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "60b93968-d6f2-4f45-8fc9-e643791e48d1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "60b93968-d6f2-4f45-8fc9-e643791e48d1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "КПСС",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "b5ad4b17-8a6c-4a08-bcab-9861717c911b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "c99a23e8-8e41-4ec8-bc79-4771b603f654",
+                "f641ee58-d0dc-4c1e-ba66-4e3af62d83d9",
+                "443085ea-371e-4a03-afc5-c9546feec277",
+                "afcb67a7-1c63-4986-b6fd-f1da386e7ca0",
+                "c51ead1d-549e-4d20-a54c-f633241e1c09",
+                "b61496e1-9007-4c95-a44b-f2e7d4c98cf7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c99a23e8-8e41-4ec8-bc79-4771b603f654",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a27981f1-e0e3-4070-9190-92d757fb4365"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a27981f1-e0e3-4070-9190-92d757fb4365",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "6",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f641ee58-d0dc-4c1e-ba66-4e3af62d83d9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b8c2b89e-89bb-4ca2-a719-e3eda4c054c5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b8c2b89e-89bb-4ca2-a719-e3eda4c054c5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "443085ea-371e-4a03-afc5-c9546feec277",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fe34f4d4-8e6f-4e96-be08-01ffa948d275"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fe34f4d4-8e6f-4e96-be08-01ffa948d275",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Николай Александрович Булганин",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "afcb67a7-1c63-4986-b6fd-f1da386e7ca0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f682d91a-1b05-46b4-bd93-847d3083922d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f682d91a-1b05-46b4-bd93-847d3083922d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "8 февраля 1955",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c51ead1d-549e-4d20-a54c-f633241e1c09",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "822aab9a-05e6-40d5-a1b0-1dc4e6f0aecf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "822aab9a-05e6-40d5-a1b0-1dc4e6f0aecf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "27 марта 1958",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b61496e1-9007-4c95-a44b-f2e7d4c98cf7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "977fdfcf-2f07-4110-b42a-909c2026434f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "977fdfcf-2f07-4110-b42a-909c2026434f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "КПСС",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "9556876a-c4ce-4652-8b75-02658e88271b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "6e317c52-7341-4d1e-854d-dd39ba704989",
+                "b35ab7b4-8dc6-4198-a277-55ddf481b0f5",
+                "3c4b29e9-cc2f-44ce-be1f-87f3bdc44d34",
+                "a4aedea2-9db4-4b0e-81e8-1215a614450c",
+                "1a993fa2-046e-493c-ba7b-315b1a6f4c86",
+                "d75e38de-a359-48c9-99c5-4d646f06109c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6e317c52-7341-4d1e-854d-dd39ba704989",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1edbe19c-a569-47b6-8816-0807dfa5d6dc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1edbe19c-a569-47b6-8816-0807dfa5d6dc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "7",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b35ab7b4-8dc6-4198-a277-55ddf481b0f5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "bd60dafd-e8a2-4a14-87ad-07e382f7aeb2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "bd60dafd-e8a2-4a14-87ad-07e382f7aeb2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3c4b29e9-cc2f-44ce-be1f-87f3bdc44d34",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2c7324f2-c47d-4f5a-85c3-c10e4238045f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2c7324f2-c47d-4f5a-85c3-c10e4238045f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Никита Сергеевич Хрущёв",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a4aedea2-9db4-4b0e-81e8-1215a614450c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "55086e33-5a1e-4a27-bf08-fda0ac66ed22"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "55086e33-5a1e-4a27-bf08-fda0ac66ed22",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "27 марта 1958",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1a993fa2-046e-493c-ba7b-315b1a6f4c86",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "aa4a0624-e86b-44f1-9031-6e0c25a6dd24"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "aa4a0624-e86b-44f1-9031-6e0c25a6dd24",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "15 октября 1964",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d75e38de-a359-48c9-99c5-4d646f06109c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c1b316cb-18f6-4225-9eb7-44eb231513d6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c1b316cb-18f6-4225-9eb7-44eb231513d6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "КПСС",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "08e731e9-6ffc-4334-99ad-55cd6e29ce46",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d607b493-210f-47e1-ab8e-32157c410aed",
+                "d1b83603-ccee-4458-a46b-0a220799e222",
+                "91652421-6eb5-4ac1-bb8c-f1c39b335d6d",
+                "053b9b26-0661-4a59-8e23-25d9c60c51bb",
+                "654b776a-49b2-40b4-90cc-98091c580e50",
+                "9314c50b-d0a7-4997-99b6-b314f77c4c8c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d607b493-210f-47e1-ab8e-32157c410aed",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "69a989d9-fb06-46e0-9bfd-5522b1eb3dc5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "69a989d9-fb06-46e0-9bfd-5522b1eb3dc5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "8",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d1b83603-ccee-4458-a46b-0a220799e222",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "01fc3f35-90e2-4558-a60e-2940f5c7d174"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "01fc3f35-90e2-4558-a60e-2940f5c7d174",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "91652421-6eb5-4ac1-bb8c-f1c39b335d6d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "07bb5b1b-21d1-4017-84a5-e082cf02354f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "07bb5b1b-21d1-4017-84a5-e082cf02354f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Алексей Николаевич Косыгин",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "053b9b26-0661-4a59-8e23-25d9c60c51bb",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "115708a1-ea61-4eff-8fec-5fe44f96b015"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "115708a1-ea61-4eff-8fec-5fe44f96b015",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "15 октября 1964",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "654b776a-49b2-40b4-90cc-98091c580e50",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f82c9b13-2d2c-472f-8348-54e68fb1bc31"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f82c9b13-2d2c-472f-8348-54e68fb1bc31",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "23 октября 1980",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9314c50b-d0a7-4997-99b6-b314f77c4c8c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e4c26755-dc43-4a99-b21c-a00135272c06"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e4c26755-dc43-4a99-b21c-a00135272c06",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "КПСС",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "2448e0cc-c4dc-4146-bab7-9cb0caec5bbb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7b6d270e-cabc-4df5-9c75-b60b03f6ace4",
+                "01019000-4937-460b-88ac-f467852aed59",
+                "2b2825ee-fd57-4c31-841e-e7a38a000040",
+                "c468c040-b27a-408a-bad2-016d7ae53048",
+                "a4082723-9a20-435c-b65a-40e419567dd0",
+                "f5bd6616-0e65-4929-ad2d-c258818430f5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7b6d270e-cabc-4df5-9c75-b60b03f6ace4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ef565ccb-8453-4025-8d56-18cbb6157440"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ef565ccb-8453-4025-8d56-18cbb6157440",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "9",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "01019000-4937-460b-88ac-f467852aed59",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1ff70f30-01e2-41d6-99a9-3ac28adc3a82"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1ff70f30-01e2-41d6-99a9-3ac28adc3a82",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2b2825ee-fd57-4c31-841e-e7a38a000040",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b4e7d49b-3111-4297-aa25-f30b88e2e0bf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b4e7d49b-3111-4297-aa25-f30b88e2e0bf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Николай Александрович Тихонов",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c468c040-b27a-408a-bad2-016d7ae53048",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fb38041d-e442-4179-91cc-3b75e886e576"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fb38041d-e442-4179-91cc-3b75e886e576",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "23 октября 1980",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a4082723-9a20-435c-b65a-40e419567dd0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "98e2e50a-6ebf-4b83-ac67-be228b539a45"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "98e2e50a-6ebf-4b83-ac67-be228b539a45",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "27 сентября 1985",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f5bd6616-0e65-4929-ad2d-c258818430f5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f2d8c905-1f2b-458e-bee1-36013b2a5fb8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f2d8c905-1f2b-458e-bee1-36013b2a5fb8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "КПСС",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "d4d7180c-15f9-4e54-9598-f7a047b985a8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "17ccb5b2-49e9-4ac1-9d80-32a9b14074b8",
+                "f44ed0c1-dc4f-433d-a696-51e5135c0604",
+                "3343b3df-00be-4829-bdf4-2f92a5b2a964",
+                "3ce70635-026d-4a1f-b5c0-61aac8cd0473",
+                "565e660f-10d8-4c33-8899-965aef799c1a",
+                "b7ab4b7f-db3b-47b5-83dc-95ddc76c2bf3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "17ccb5b2-49e9-4ac1-9d80-32a9b14074b8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2b59291f-abe4-492b-8ecc-e22f1c8704f7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2b59291f-abe4-492b-8ecc-e22f1c8704f7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "10",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f44ed0c1-dc4f-433d-a696-51e5135c0604",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e6c24472-24b7-405a-85a6-1bbb4553b394"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e6c24472-24b7-405a-85a6-1bbb4553b394",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3343b3df-00be-4829-bdf4-2f92a5b2a964",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d1fa865f-f876-45c8-bfef-afd9b82fdb44"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d1fa865f-f876-45c8-bfef-afd9b82fdb44",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Николай Иванович Рыжков",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3ce70635-026d-4a1f-b5c0-61aac8cd0473",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "dadae659-8a38-427d-bd16-98670a694d2f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "dadae659-8a38-427d-bd16-98670a694d2f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "27 сентября 1985",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "565e660f-10d8-4c33-8899-965aef799c1a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "13e68485-e688-473c-9910-990982298f66"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "13e68485-e688-473c-9910-990982298f66",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "14 января 1991",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b7ab4b7f-db3b-47b5-83dc-95ddc76c2bf3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "80120ef7-1dd3-4818-811b-4c26dc763198"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "80120ef7-1dd3-4818-811b-4c26dc763198",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "КПСС",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "cbdce111-5ca3-4275-8c16-369128d276d1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "075bfea8-ad15-42af-a706-f919e8e86b8a",
+                "4ed6a420-1dcb-4353-a6fd-a8f45b1248c6",
+                "edd31b88-7819-4db7-b2ea-d3c1eddda796",
+                "5ae46cd0-cc02-4aa8-8c88-d39b406ebeee",
+                "6e7eadeb-4851-4d42-a11d-b9d603479f2c",
+                "7f20c5e6-67da-40a6-8c03-45faab00d7a5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "075bfea8-ad15-42af-a706-f919e8e86b8a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "3ee3f75e-0b4d-4fe8-b8d3-f31783d9a5ab"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3ee3f75e-0b4d-4fe8-b8d3-f31783d9a5ab",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Премьер-министры СССР (руководители Кабинета Министров СССР)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4ed6a420-1dcb-4353-a6fd-a8f45b1248c6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "5be40135-bdca-4764-9cba-f49fda760392"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5be40135-bdca-4764-9cba-f49fda760392",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Премьер-министры СССР (руководители Кабинета Министров СССР)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "edd31b88-7819-4db7-b2ea-d3c1eddda796",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "65dd99ac-0367-44a1-8318-88f48c4dbeec"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "65dd99ac-0367-44a1-8318-88f48c4dbeec",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Премьер-министры СССР (руководители Кабинета Министров СССР)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5ae46cd0-cc02-4aa8-8c88-d39b406ebeee",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "60a4d6c2-a0e5-49b3-a825-ab6b1b5c5ecc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "60a4d6c2-a0e5-49b3-a825-ab6b1b5c5ecc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Премьер-министры СССР (руководители Кабинета Министров СССР)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6e7eadeb-4851-4d42-a11d-b9d603479f2c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "1529beb1-613c-42b3-9326-bf077bfdfdfe"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1529beb1-613c-42b3-9326-bf077bfdfdfe",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Премьер-министры СССР (руководители Кабинета Министров СССР)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7f20c5e6-67da-40a6-8c03-45faab00d7a5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "e75ec3c4-4d24-49a4-9303-eff41f5fd63c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e75ec3c4-4d24-49a4-9303-eff41f5fd63c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Премьер-министры СССР (руководители Кабинета Министров СССР)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "a96813bf-04b8-49aa-8c01-5edf1a26f06d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "249d1cca-9121-4ccc-980a-fdc13865b28b",
+                "80a35aa4-04b9-4b80-9732-9c100a123259",
+                "1781e59e-43e8-4f8e-9fc3-eac2990632d8",
+                "4c3dfc9b-5008-4519-a9bc-95dd88fc3924",
+                "0b2f11e5-cfe5-470e-9c5b-e8deada33726",
+                "3b7450b1-6150-4ef1-b3dd-41ba4ddf776a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "249d1cca-9121-4ccc-980a-fdc13865b28b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3dc066ce-b5bb-4041-92cc-a531875077ab"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3dc066ce-b5bb-4041-92cc-a531875077ab",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "11",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "80a35aa4-04b9-4b80-9732-9c100a123259",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7a4c1bf7-6a7a-4605-9014-9306ba7262e3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7a4c1bf7-6a7a-4605-9014-9306ba7262e3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1781e59e-43e8-4f8e-9fc3-eac2990632d8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8861f109-da2b-4cf8-8085-77ca8ede7d33"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8861f109-da2b-4cf8-8085-77ca8ede7d33",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Валентин Сергеевич Павлов",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4c3dfc9b-5008-4519-a9bc-95dd88fc3924",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c699c30f-7108-45e7-abe6-8e84dc430170"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c699c30f-7108-45e7-abe6-8e84dc430170",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "14 января 1991",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0b2f11e5-cfe5-470e-9c5b-e8deada33726",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "51aed978-e7ea-45a2-b053-8692326357c2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "51aed978-e7ea-45a2-b053-8692326357c2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "28 августа 1991",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3b7450b1-6150-4ef1-b3dd-41ba4ddf776a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "342f215c-3dd9-4d06-b6bb-b9b824dab649"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "342f215c-3dd9-4d06-b6bb-b9b824dab649",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "КПСС",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "95d6684f-7773-465a-8b68-ab68c80bbf7e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "eec2e0be-1b7b-491c-acfa-e3891cae2d7d",
+                "ccf64b73-50e6-49b9-9705-1308b7b94346",
+                "8d97f296-b98b-424c-b03f-042b04af8a19",
+                "0f65482a-35d3-4e87-a18d-4e2fab6990d4",
+                "1ecfdfd5-a193-4c7a-8d2b-bb9d1e88cdfe",
+                "9208df8e-5794-447a-83e5-141793b5ea51"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "eec2e0be-1b7b-491c-acfa-e3891cae2d7d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "536182d7-56d2-446f-b451-34dd9bd4e9eb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "536182d7-56d2-446f-b451-34dd9bd4e9eb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "(и. о.)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ccf64b73-50e6-49b9-9705-1308b7b94346",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1dbb0d5e-ec70-473a-9c17-3dba0f28f40a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1dbb0d5e-ec70-473a-9c17-3dba0f28f40a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8d97f296-b98b-424c-b03f-042b04af8a19",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1011c43f-90b2-4851-8738-11437e2bdf63"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1011c43f-90b2-4851-8738-11437e2bdf63",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Виталий Хуссейнович Догужиев",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0f65482a-35d3-4e87-a18d-4e2fab6990d4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0bce2ab9-649f-467f-b13e-989789993a2c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0bce2ab9-649f-467f-b13e-989789993a2c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "19 августа 1991[7]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1ecfdfd5-a193-4c7a-8d2b-bb9d1e88cdfe",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0c4fbb96-5b0c-4d80-afac-d2b7d7ecbfb5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0c4fbb96-5b0c-4d80-afac-d2b7d7ecbfb5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "28 августа 1991[8]",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9208df8e-5794-447a-83e5-141793b5ea51",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fb43cea9-cb21-461d-8d71-f0b1f0d5efde"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fb43cea9-cb21-461d-8d71-f0b1f0d5efde",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "КПСС",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "54b3d4ee-73e4-449a-b1d7-29f0af73f14c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b1e4cdc0-fe0e-475d-9e73-ce3d13a403fd",
+                "bde059ab-c5cc-4209-a64a-ed4c95604c70",
+                "0773e242-dfa8-431c-96c9-510c12ffb835",
+                "7aa03a90-da0c-4607-9d79-03a8b4d2c1d9",
+                "529f6020-6f2d-4a06-be70-b596de42eeaf",
+                "e293e034-1e1c-4fa1-83c6-e06bf932cf03"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b1e4cdc0-fe0e-475d-9e73-ce3d13a403fd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "6c0a6447-1e91-4a26-9e4e-86e3db59eefa"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6c0a6447-1e91-4a26-9e4e-86e3db59eefa",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Руководитель Комитета по оперативному управлению народным хозяйством СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bde059ab-c5cc-4209-a64a-ed4c95604c70",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "402665c6-93f2-4eb0-a60b-481d2f6b1acd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "402665c6-93f2-4eb0-a60b-481d2f6b1acd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Руководитель Комитета по оперативному управлению народным хозяйством СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0773e242-dfa8-431c-96c9-510c12ffb835",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "88e2a454-7fde-4aad-837c-9f5dc516a66d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "88e2a454-7fde-4aad-837c-9f5dc516a66d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Руководитель Комитета по оперативному управлению народным хозяйством СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7aa03a90-da0c-4607-9d79-03a8b4d2c1d9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "47b1f121-8954-45c5-866d-bf9b7fc00e56"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "47b1f121-8954-45c5-866d-bf9b7fc00e56",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Руководитель Комитета по оперативному управлению народным хозяйством СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "529f6020-6f2d-4a06-be70-b596de42eeaf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2fe759a9-0795-4b98-87d1-7d9f56f25d5f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2fe759a9-0795-4b98-87d1-7d9f56f25d5f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Руководитель Комитета по оперативному управлению народным хозяйством СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e293e034-1e1c-4fa1-83c6-e06bf932cf03",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "1d86e1de-6c22-43c6-ba45-0ee1df54fd80"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1d86e1de-6c22-43c6-ba45-0ee1df54fd80",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Руководитель Комитета по оперативному управлению народным хозяйством СССР",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "ee9241dc-8dfd-4951-b3f1-f47efd2f544c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "a391de83-5f4f-4816-81d2-abd1845bcf30",
+                "e2c6fbf1-ada3-4b1b-a674-0bd5bea6e016",
+                "17cf01a4-6b96-4345-9f44-e7ad311cf135",
+                "a1127023-5b38-4fe0-a265-5e9b479894e4",
+                "dfb59f55-90dd-4815-aa67-155f62b87a6a",
+                "f26a2488-26b0-4039-860e-91c934a4583c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a391de83-5f4f-4816-81d2-abd1845bcf30",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cd859298-3602-4b6d-985e-fc959d254760"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cd859298-3602-4b6d-985e-fc959d254760",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "12",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e2c6fbf1-ada3-4b1b-a674-0bd5bea6e016",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f87d2aaf-0853-4e0d-aa2d-53736cfff686"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f87d2aaf-0853-4e0d-aa2d-53736cfff686",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "17cf01a4-6b96-4345-9f44-e7ad311cf135",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "bc90f5db-cf70-4a47-9c84-9163a39b1751"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "bc90f5db-cf70-4a47-9c84-9163a39b1751",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Иван Степанович Силаев",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a1127023-5b38-4fe0-a265-5e9b479894e4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6d9c1fdf-eaa4-430b-a355-6e37db74b0b5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6d9c1fdf-eaa4-430b-a355-6e37db74b0b5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "24 августа 1991",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "dfb59f55-90dd-4815-aa67-155f62b87a6a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e0de28a2-7c39-4d47-8b15-74499776ac0c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e0de28a2-7c39-4d47-8b15-74499776ac0c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "26 декабря 1991",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f26a2488-26b0-4039-860e-91c934a4583c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ac41695a-5708-45ed-bcd4-375b700c9a50"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ac41695a-5708-45ed-bcd4-375b700c9a50",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "КПСС / без партии[9]",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "70db0350-d0e2-48ef-ad32-1bce6ac17063",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "8dfe0722-6548-483f-867b-1b0e1667ea05",
+                "4c69aedf-c00a-4df2-b1b2-03ab55d09586",
+                "3661106b-f26a-40d3-8e78-ef5f8a04d85c",
+                "1165f235-d3f6-40fe-bc7c-fbdd5e0cef8c",
+                "7a267b33-5c77-4c60-8473-873d70e31870",
+                "e257396b-8ac6-4b18-82ca-dae019ff0f4c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8dfe0722-6548-483f-867b-1b0e1667ea05",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "9e6e4bbf-d154-4ecf-bdb7-adee48354a22"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9e6e4bbf-d154-4ecf-bdb7-adee48354a22",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межреспубликанского экономического комитета СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4c69aedf-c00a-4df2-b1b2-03ab55d09586",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "de07adc9-8127-473f-92fb-f5057849c267"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "de07adc9-8127-473f-92fb-f5057849c267",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межреспубликанского экономического комитета СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3661106b-f26a-40d3-8e78-ef5f8a04d85c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "1f4e2a14-2fcb-4f19-823f-a294b8aa72e2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1f4e2a14-2fcb-4f19-823f-a294b8aa72e2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межреспубликанского экономического комитета СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1165f235-d3f6-40fe-bc7c-fbdd5e0cef8c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b2283f56-0dc0-4bfd-a221-f5ba5dae2ae0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b2283f56-0dc0-4bfd-a221-f5ba5dae2ae0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межреспубликанского экономического комитета СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7a267b33-5c77-4c60-8473-873d70e31870",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "def43607-fe3a-42e5-88a2-122a4dab92ff"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "def43607-fe3a-42e5-88a2-122a4dab92ff",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межреспубликанского экономического комитета СССР",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e257396b-8ac6-4b18-82ca-dae019ff0f4c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "f4df4303-2ef5-4c5e-87fd-a65d01a0596c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f4df4303-2ef5-4c5e-87fd-a65d01a0596c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межреспубликанского экономического комитета СССР",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "8abf5ffa-6aba-4003-ae51-b18fb6d5fb48",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "beaed9f2-33b9-4da7-b72d-65ccf2ddc66d",
+                "9f74ca05-1e6b-4e56-bff5-91a49ceac81b",
+                "ca952b3c-8b5b-4efc-b1fe-bdf965831e9d",
+                "29514888-a6ef-4f32-a1fd-861e6e8a16ea",
+                "a7cbc17a-e0b7-47fc-add9-ca7896c7e79f",
+                "d495e614-666d-4a11-b4b7-2f4b97f486e2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "beaed9f2-33b9-4da7-b72d-65ccf2ddc66d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "57aacb1c-7d4b-469a-86d1-800eab6243e8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "57aacb1c-7d4b-469a-86d1-800eab6243e8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "12",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9f74ca05-1e6b-4e56-bff5-91a49ceac81b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2d775825-6c7f-4c0b-b20f-9e15b38d6110"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2d775825-6c7f-4c0b-b20f-9e15b38d6110",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ca952b3c-8b5b-4efc-b1fe-bdf965831e9d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d80c141f-c30f-49a9-b790-6b552ad09e3d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d80c141f-c30f-49a9-b790-6b552ad09e3d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Иван Степанович Силаев",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "29514888-a6ef-4f32-a1fd-861e6e8a16ea",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "edc88ed9-31fb-4a75-a4d1-d5e033dbca27"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "edc88ed9-31fb-4a75-a4d1-d5e033dbca27",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "20 сентября 1991",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a7cbc17a-e0b7-47fc-add9-ca7896c7e79f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d7bb8d94-54ef-4519-802f-57a5fab21168"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d7bb8d94-54ef-4519-802f-57a5fab21168",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "14 ноября 1991",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d495e614-666d-4a11-b4b7-2f4b97f486e2",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "542c7af5-892c-48a8-8b1b-eae5c41b3a81"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "542c7af5-892c-48a8-8b1b-eae5c41b3a81",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "КПСС / без партии[9]",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "367061dd-69e9-43ae-8cd6-094a7a785205",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "baa28c3d-93c8-4034-bf53-a55d26b1b8af",
+                "6770609d-b7ae-4cb2-813f-c6dd2098987d",
+                "a54029cb-f4b1-4fa3-9622-b60b3fadf8f3",
+                "4cb3407a-517d-4991-bafd-be68c7ae060b",
+                "65f4f453-75de-4785-ab61-257c03dc9aeb",
+                "604530dc-f7a6-463b-b279-19f0320b14a6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "baa28c3d-93c8-4034-bf53-a55d26b1b8af",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "18b07d4a-63d0-4e3a-8fdf-d7efa1f4d298"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "18b07d4a-63d0-4e3a-8fdf-d7efa1f4d298",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межгосударственного экономического комитета — Премьер-министр Экономического сообщества",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6770609d-b7ae-4cb2-813f-c6dd2098987d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "c17fe013-bb76-4740-b4ea-c765401d4fe0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c17fe013-bb76-4740-b4ea-c765401d4fe0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межгосударственного экономического комитета — Премьер-министр Экономического сообщества",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a54029cb-f4b1-4fa3-9622-b60b3fadf8f3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "189ccf64-0c0b-4293-a896-02ac42f46f1d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "189ccf64-0c0b-4293-a896-02ac42f46f1d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межгосударственного экономического комитета — Премьер-министр Экономического сообщества",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4cb3407a-517d-4991-bafd-be68c7ae060b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "8ccc6aef-6eb0-488a-8422-7d5014ff703b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8ccc6aef-6eb0-488a-8422-7d5014ff703b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межгосударственного экономического комитета — Премьер-министр Экономического сообщества",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "65f4f453-75de-4785-ab61-257c03dc9aeb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "4bf2a7a7-97cd-44f4-96b2-8a5364f6c3b3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4bf2a7a7-97cd-44f4-96b2-8a5364f6c3b3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межгосударственного экономического комитета — Премьер-министр Экономического сообщества",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "604530dc-f7a6-463b-b279-19f0320b14a6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "92ab5727-d079-4f74-beab-9124bd4ea462"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "92ab5727-d079-4f74-beab-9124bd4ea462",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Председатель Межгосударственного экономического комитета — Премьер-министр Экономического сообщества",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "c5340a74-ccff-4024-937d-32234e09c2cc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "9b84f773-72c5-4a6e-9a5c-c8792e85dd75",
+                "8e9e4753-9d8a-4c2b-b4aa-23fba84e1d22",
+                "6f7acae7-ff82-4329-accb-8be3fbb84d05",
+                "0601e5ab-4cdc-4f90-b2b6-cf3b4b61c3dc",
+                "732134b6-2d97-402c-aebb-cb71fc3c425b",
+                "e42b71be-b5d6-4d17-b6e2-b48040f0f0df"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9b84f773-72c5-4a6e-9a5c-c8792e85dd75",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9d8009ba-3ccd-456a-a8e2-4fceafb5f761"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9d8009ba-3ccd-456a-a8e2-4fceafb5f761",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "12",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8e9e4753-9d8a-4c2b-b4aa-23fba84e1d22",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d2e88a4f-8772-45af-b236-deb0ad674f50"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d2e88a4f-8772-45af-b236-deb0ad674f50",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6f7acae7-ff82-4329-accb-8be3fbb84d05",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "98fa7e40-ec85-4db3-a947-50310417ef89"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "98fa7e40-ec85-4db3-a947-50310417ef89",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Иван Степанович Силаев",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0601e5ab-4cdc-4f90-b2b6-cf3b4b61c3dc",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cb3b3bc8-58d2-48d6-ac6b-51ef6caf1e5d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cb3b3bc8-58d2-48d6-ac6b-51ef6caf1e5d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "14 ноября 1991",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "732134b6-2d97-402c-aebb-cb71fc3c425b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "57dfa1bd-df98-4f8f-bac3-c09ffa769747"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "57dfa1bd-df98-4f8f-bac3-c09ffa769747",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "26 декабря 1991",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e42b71be-b5d6-4d17-b6e2-b48040f0f0df",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4582226b-425e-458b-a29d-3afe2e8ffc47"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4582226b-425e-458b-a29d-3afe2e8ffc47",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "без партии[9]",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-06b1-7fb6-bc47-4948e0e894ef"
+                },
+                "id": "5ceb66c5-0d01-4263-acba-9aad0626612a"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-09c5-7215-86f5-12e7bda6138c"
+                },
+                "id": "b4849826-8c57-46d5-b782-11264e7d92c2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22664",
+                "value": {
+                    "concept": "01961a10-053b-741b-a54b-ac5511cb51f9"
+                },
+                "id": "8c70d903-e889-4a19-b9c9-c67114a8943b"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-0854-7f30-8ddd-a4b9133f473d"
+                },
+                "id": "1e999994-8b24-4d86-bffc-0b35d6eaffd6"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-0961-7f4e-8889-949081f32985"
+                },
+                "id": "c3e6463e-a240-4cc3-b43f-63ad6e9f3219"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-07a0-76df-9845-41aabcd4ec97"
+                },
+                "id": "cef0e3ce-1a68-4d69-bf73-8ffe6dd109f7"
+            },
+            {
+                "status": "approved",
+                "type_id": "22664",
+                "value": {
+                    "concept": "01961a10-04f4-7c41-956a-7ec767796798"
+                },
+                "id": "ccd8025a-db94-4683-8e0a-d0b916c7da97"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-1044-7bdb-a4ab-c81f99eee382"
+                },
+                "id": "a3bd7c87-8482-4c52-ba7e-6f1cf42d07f7"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-0ec4-7f28-8895-d48c9cc1fa1f"
+                },
+                "id": "51efbe5a-f157-4faa-9664-1847d0347bf8"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-0a94-7a3a-8a34-da635764c3a0"
+                },
+                "id": "64e3dc4b-c0e5-4339-a5bd-b7c14a24610d"
+            },
+            {
+                "status": "approved",
+                "type_id": "22664",
+                "value": {
+                    "concept": "01955b27-337d-7179-ade5-996e53a59f9f"
+                },
+                "id": "6cac0cc6-459a-4c27-a570-7961bcff2aa2"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "018f9ae1-a818-7f26-83e2-642248fcdcbc"
+                },
+                "id": "952aef15-2c49-4adf-a74b-6a969bd64827"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-0cfc-76cd-8c89-d6ead9e080ec"
+                },
+                "id": "ef7828b5-8953-483b-8bdb-68d391528f0b"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-0bb3-777d-b77b-7db7ec18c24b"
+                },
+                "id": "16c00468-34ea-40be-a6ca-cf62476ccb8c"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-0b47-77db-a0aa-cbb9c27728d1"
+                },
+                "id": "b6fe6375-0a4e-4a37-9085-6c039a9f4e48"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "01961a10-0da0-75be-8129-ee49f88a34e2"
+                },
+                "id": "6f81355d-8080-4f68-b7ea-603d973e8c82"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-97650553"
+                },
+                "id": "1feef003-897c-435f-bd9c-12beafe73939"
+            }
+        ],
+        "atom": [
+            {
+                "id": "255ed16d-0022-412a-b94f-c0c7f8d00eba",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Николай Иванович Рыжков"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4bfb5462-51f2-4ce6-9464-dcef1a51f5d1",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1991,
+                        "month": 1,
+                        "day": 14
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a30af558-fe06-441e-8bc9-4d65e1383570",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1985,
+                        "month": 9,
+                        "day": 27
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "7c138179-0630-4b66-a52f-461bcd5c12e8",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Алексей Иванович Рыков"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1f9345d8-e51d-40ec-a2c5-c355de0add5c",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1930,
+                        "month": 12,
+                        "day": 19
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8ad6aa51-38fd-4a7a-9fc8-854f534b6a74",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1924,
+                        "month": 2,
+                        "day": 2
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "abfae65f-f3b0-4396-9883-204671534821",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Валентин Сергеевич Павлов"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "32e89492-e456-415d-8f89-176da10a5d4b",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1991,
+                        "month": 8,
+                        "day": 28
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "aea7ffb8-aab1-42bf-9161-94cfa825af38",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1924,
+                        "month": 1,
+                        "day": 21
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9677d837-4220-432d-9bc7-d0531e2fecc4",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1923,
+                        "month": 7,
+                        "day": 6
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "56d0dd38-758a-4363-a9e6-dda6ffa61c3e",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Виталий Хуссейнович Догужиев"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f756a336-c3b1-4369-94ec-bf363bb2cddb",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "ВКП(б)"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "92802e05-5fdd-4073-8f58-11bd608be8ad",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1991,
+                        "month": 1,
+                        "day": 14
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4b60e0dc-262a-46de-8b8e-9023aaee240d",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Иван Степанович Силаев"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "7aa2aea8-707d-4d7e-a2d4-ef97ea142160",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1991,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0ed43fc4-6a19-41b5-880f-9cb3547d76b2",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1991,
+                        "month": 11,
+                        "day": 14
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "62d0e5ab-88a1-4ff4-b483-6056aa542ca8",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1991,
+                        "month": 12,
+                        "day": 26
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0c3ce89a-eaf4-4ad8-9c91-240fb85a561d",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1991,
+                        "month": 8,
+                        "day": 19
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1f7627ef-2f23-4fa5-87df-4be82eda6fe5",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1991,
+                        "month": 8,
+                        "day": 28
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "905a68e7-41e7-496d-bcc2-2d4f482720d1",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Алексей Николаевич Косыгин"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "85607aff-3781-4622-a0a2-99db00a404f1",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Вячеслав Михайлович Молотов"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "38c7c0bf-6133-4ef5-af56-f2df72bcf796",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1930,
+                        "month": 12,
+                        "day": 19
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c94e7182-f639-48f0-aef1-c7d159aa3b78",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1941,
+                        "month": 5,
+                        "day": 6
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ff13e68d-91e5-4d36-b5c4-6dc20d56eafe",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Николай Александрович Булганин"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0beb0f6b-477a-4607-ba00-f92c90dca471",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1958,
+                        "month": 3,
+                        "day": 27
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "cc36f72b-b6e5-4d54-8dd4-7f0aed655408",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1955,
+                        "month": 2,
+                        "day": 8
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "def76edd-131a-48e4-8ad4-d8bf84af4846",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Владимир Ильич Ленин"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a23b706a-bb04-44f3-99cf-cef0e517e8af",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1964,
+                        "month": 10,
+                        "day": 15
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "64850e4e-fd6f-443b-9f08-e877a8d94d4c",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1980,
+                        "month": 10,
+                        "day": 23
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "87a0405b-017a-44e7-9f52-e03254bc30aa",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1991,
+                        "month": 8,
+                        "day": 24
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "67a5c45d-28a0-4b4e-a209-13a6105b1766",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Николай Александрович Тихонов"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "aece6e80-b0a0-4eb9-bc59-b54ddeae574b",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1980,
+                        "month": 10,
+                        "day": 23
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a2bfc9a3-cbe0-4f82-83f2-5c33d19dfac7",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1985,
+                        "month": 9,
+                        "day": 27
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e298b0b7-d3d2-4c59-a867-228e6185ba46",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Никита Сергеевич Хрущёв"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d858abfd-f175-4038-ac7b-fd35813f0b0f",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1958,
+                        "month": 3,
+                        "day": 27
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "431ef733-d49d-4246-85a2-c24165bf7793",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1964,
+                        "month": 10,
+                        "day": 15
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "КПСС"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2e23f16f-5317-47fd-be4a-8074d2df42dc",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "РКП(б)"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "cc278a44-ae68-4545-a2b8-505080543df1",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Георгий Максимилианович Маленков"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5fdf120e-6869-477a-90b8-d655782d536e",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1955,
+                        "month": 2,
+                        "day": 8
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "460f93c1-b5b2-4c33-8dbf-162b294f3831",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1953,
+                        "month": 3,
+                        "day": 5
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ca5b9b6a-d2e1-419d-9e5f-d1ad9d2446a2",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Иосиф Виссарионович Сталин"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9bcd248d-4d2c-4330-b10d-a48a4e16f779",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1946,
+                        "month": 3,
+                        "day": 15
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a50397d6-ac2a-410d-8546-fb4e560d92eb",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1953,
+                        "month": 3,
+                        "day": 5
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "76808554-18b5-4c5a-af63-5eccea6f1f6c",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1941,
+                        "month": 5,
+                        "day": 6
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a616102b-b65c-4ec8-a013-0ef44064cc7f",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "99d2fec6-4bf6-4974-8170-8982a8e7664c",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_16.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "594ac826-f53d-4a4c-8ae5-d7862aac55ed",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6df6248d-e5a1-42a3-98d8-08857d3c5d92",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_16.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "52c0a2b7-d126-4d26-a3cf-2d88cb6d7d6c",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3593"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9cbab54b-4f39-460a-a0d3-0e2db7d6729e",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 52320
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e3a5e011-dbfc-4194-818a-4b6ef2ef7ba7",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1744193948
+                },
+                "status": "approved"
+            },
+            {
+                "id": "aab3f11d-b616-419d-933c-83152c987a45",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1744193948
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5eb64e5d-b6c3-4a6b-bdad-712cf10a4450",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1744193948
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d0935d75-b664-4ee3-9f9e-76caa277ebd1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/1fee/f003/table_16.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "af21d2b5-8439-4f95-bf69-929954972937",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e45e7f0e-7aee-4c1a-a02b-e9df53f2532c",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650628",
+                "id": "30e9150f-df14-47d9-bd23-5b88a6b652dd",
+                "source": "5ceb66c5-0d01-4263-acba-9aad0626612a",
+                "target": "6cac0cc6-459a-4c27-a570-7961bcff2aa2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650629",
+                "id": "a4fec301-6ba7-45de-a4be-dd34d69f96dd",
+                "source": "ef7828b5-8953-483b-8bdb-68d391528f0b",
+                "target": "8c70d903-e889-4a19-b9c9-c67114a8943b"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650630",
+                "id": "fc69cee9-be2d-40d5-bc03-4ab2e168e5bd",
+                "source": "ef7828b5-8953-483b-8bdb-68d391528f0b",
+                "target": "ccd8025a-db94-4683-8e0a-d0b916c7da97"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650631",
+                "id": "4b13906f-31cb-47ae-8e44-c143978c7818",
+                "source": "1e999994-8b24-4d86-bffc-0b35d6eaffd6",
+                "target": "6cac0cc6-459a-4c27-a570-7961bcff2aa2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650632",
+                "id": "2c4a748a-d1a8-4637-9a9d-4ad8d2b26d70",
+                "source": "16c00468-34ea-40be-a6ca-cf62476ccb8c",
+                "target": "6cac0cc6-459a-4c27-a570-7961bcff2aa2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650633",
+                "id": "2101eea3-6791-4e3e-b46e-e667c564eccd",
+                "source": "c3e6463e-a240-4cc3-b43f-63ad6e9f3219",
+                "target": "6cac0cc6-459a-4c27-a570-7961bcff2aa2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650634",
+                "id": "c4217c4c-a2c3-47f7-a8cc-e9ab994715b4",
+                "source": "64e3dc4b-c0e5-4339-a5bd-b7c14a24610d",
+                "target": "8c70d903-e889-4a19-b9c9-c67114a8943b"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650635",
+                "id": "71d0ea63-2068-40ac-8248-e7a9b8abd492",
+                "source": "64e3dc4b-c0e5-4339-a5bd-b7c14a24610d",
+                "target": "6cac0cc6-459a-4c27-a570-7961bcff2aa2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650636",
+                "id": "9e48a390-b4ea-4b51-90bb-785b19770ba0",
+                "source": "b4849826-8c57-46d5-b782-11264e7d92c2",
+                "target": "6cac0cc6-459a-4c27-a570-7961bcff2aa2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650637",
+                "id": "1f04a325-0c15-4e03-b6d5-7ea5c5ee4b96",
+                "source": "a3bd7c87-8482-4c52-ba7e-6f1cf42d07f7",
+                "target": "6cac0cc6-459a-4c27-a570-7961bcff2aa2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650638",
+                "id": "ccc26013-3f81-4e49-b84a-84bff646dd52",
+                "source": "cef0e3ce-1a68-4d69-bf73-8ffe6dd109f7",
+                "target": "6cac0cc6-459a-4c27-a570-7961bcff2aa2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650639",
+                "id": "22e4d6e6-c33e-4411-a1b6-688a11142202",
+                "source": "952aef15-2c49-4adf-a74b-6a969bd64827",
+                "target": "ccd8025a-db94-4683-8e0a-d0b916c7da97"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650640",
+                "id": "e0e4848c-de45-4cd3-8fcd-ebbd8a3faa52",
+                "source": "b6fe6375-0a4e-4a37-9085-6c039a9f4e48",
+                "target": "6cac0cc6-459a-4c27-a570-7961bcff2aa2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650641",
+                "id": "c060259a-b49d-4888-a6e2-bf9729785ad2",
+                "source": "6f81355d-8080-4f68-b7ea-603d973e8c82",
+                "target": "8c70d903-e889-4a19-b9c9-c67114a8943b"
+            },
+            {
+                "status": "approved",
+                "type_id": "22706",
+                "value": "ОК-97650642",
+                "id": "cdb5bb90-838f-47c5-b783-4d915ce39745",
+                "source": "51efbe5a-f157-4faa-9664-1847d0347bf8",
+                "target": "6cac0cc6-459a-4c27-a570-7961bcff2aa2"
+            }
+        ],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650576",
+                "id": "535064a3-01e8-4c3e-a4a5-d834f0d12faf",
+                "source": "51efbe5a-f157-4faa-9664-1847d0347bf8",
+                "target": "e298b0b7-d3d2-4c59-a867-228e6185ba46"
+            },
+            {
+                "status": "approved",
+                "type_id": "22665",
+                "value": "ОК-83427287",
+                "id": "d981ef91-2608-4661-bea9-bc050b41cf14",
+                "source": "6cac0cc6-459a-4c27-a570-7961bcff2aa2",
+                "target": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-1400243",
+                "id": "f29a5791-e9aa-43a6-8ace-518d98c34766",
+                "source": "952aef15-2c49-4adf-a74b-6a969bd64827",
+                "target": "def76edd-131a-48e4-8ad4-d8bf84af4846"
+            },
+            {
+                "status": "approved",
+                "type_id": "22665",
+                "value": "ОК-97650570",
+                "id": "f5143fda-5fad-4c8c-96fb-d29e6d0ce333",
+                "source": "8c70d903-e889-4a19-b9c9-c67114a8943b",
+                "target": "f756a336-c3b1-4369-94ec-bf363bb2cddb"
+            },
+            {
+                "status": "approved",
+                "type_id": "22665",
+                "value": "ОК-97650594",
+                "id": "c032b07b-044d-4b20-8a6f-951b05bed606",
+                "source": "ccd8025a-db94-4683-8e0a-d0b916c7da97",
+                "target": "2e23f16f-5317-47fd-be4a-8074d2df42dc"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650596",
+                "id": "09465d2a-faee-40d2-a95a-79fac21d2e25",
+                "source": "5ceb66c5-0d01-4263-acba-9aad0626612a",
+                "target": "255ed16d-0022-412a-b94f-c0c7f8d00eba"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650597",
+                "id": "95410330-81d5-44cf-96fc-b43013fd3f33",
+                "source": "5ceb66c5-0d01-4263-acba-9aad0626612a",
+                "target": "4bfb5462-51f2-4ce6-9464-dcef1a51f5d1"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650598",
+                "id": "811e077d-c622-4dbb-9d5b-9afdbf7f74e6",
+                "source": "5ceb66c5-0d01-4263-acba-9aad0626612a",
+                "target": "a30af558-fe06-441e-8bc9-4d65e1383570"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650599",
+                "id": "75b116df-2b03-48d9-8cc0-f7e11460001d",
+                "source": "952aef15-2c49-4adf-a74b-6a969bd64827",
+                "target": "aea7ffb8-aab1-42bf-9161-94cfa825af38"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650600",
+                "id": "07f21115-9e0f-4dea-81e4-724fbf28e04a",
+                "source": "952aef15-2c49-4adf-a74b-6a969bd64827",
+                "target": "9677d837-4220-432d-9bc7-d0531e2fecc4"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650578",
+                "id": "1ca8b523-4922-43ba-a633-867cc808130d",
+                "source": "1e999994-8b24-4d86-bffc-0b35d6eaffd6",
+                "target": "abfae65f-f3b0-4396-9883-204671534821"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650605",
+                "id": "1f69d37a-c5e2-49a8-985c-d34c05d84cba",
+                "source": "1e999994-8b24-4d86-bffc-0b35d6eaffd6",
+                "target": "32e89492-e456-415d-8f89-176da10a5d4b"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650590",
+                "id": "ea5cf661-3829-42c3-9747-02e85e6ee2a7",
+                "source": "b4849826-8c57-46d5-b782-11264e7d92c2",
+                "target": "56d0dd38-758a-4363-a9e6-dda6ffa61c3e"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650601",
+                "id": "107e2d0e-9451-4eb7-87ff-8007a65cb7cf",
+                "source": "b4849826-8c57-46d5-b782-11264e7d92c2",
+                "target": "0c3ce89a-eaf4-4ad8-9c91-240fb85a561d"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650602",
+                "id": "b0fd56bb-4543-4d79-995c-a28bed81c5a8",
+                "source": "b4849826-8c57-46d5-b782-11264e7d92c2",
+                "target": "1f7627ef-2f23-4fa5-87df-4be82eda6fe5"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650582",
+                "id": "4a537a97-b0d4-49e1-b25f-8e2b7ca4f43d",
+                "source": "6f81355d-8080-4f68-b7ea-603d973e8c82",
+                "target": "85607aff-3781-4622-a0a2-99db00a404f1"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650622",
+                "id": "af92c1d1-8486-4ae2-b6b1-b8134f47d649",
+                "source": "6f81355d-8080-4f68-b7ea-603d973e8c82",
+                "target": "38c7c0bf-6133-4ef5-af56-f2df72bcf796"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650574",
+                "id": "fa63b4cd-5aa8-41e8-9154-079d6c68f069",
+                "source": "ef7828b5-8953-483b-8bdb-68d391528f0b",
+                "target": "7c138179-0630-4b66-a52f-461bcd5c12e8"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650603",
+                "id": "e303d015-6de9-480b-bf58-53799efbe7f2",
+                "source": "ef7828b5-8953-483b-8bdb-68d391528f0b",
+                "target": "1f9345d8-e51d-40ec-a2c5-c355de0add5c"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650604",
+                "id": "88398051-8b9e-4137-aa05-eff6391b56f4",
+                "source": "ef7828b5-8953-483b-8bdb-68d391528f0b",
+                "target": "8ad6aa51-38fd-4a7a-9fc8-854f534b6a74"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650606",
+                "id": "065e22df-f705-429b-9a03-46d9852bba54",
+                "source": "1e999994-8b24-4d86-bffc-0b35d6eaffd6",
+                "target": "92802e05-5fdd-4073-8f58-11bd608be8ad"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650584",
+                "id": "a234b4ab-b1bd-4ee3-89f0-418b13681d59",
+                "source": "c3e6463e-a240-4cc3-b43f-63ad6e9f3219",
+                "target": "4b60e0dc-262a-46de-8b8e-9023aaee240d"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650609",
+                "id": "42f149a9-664d-4887-91d8-9c3cd233e289",
+                "source": "c3e6463e-a240-4cc3-b43f-63ad6e9f3219",
+                "target": "7aa2aea8-707d-4d7e-a2d4-ef97ea142160"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650610",
+                "id": "84f01b75-45e7-4304-8af1-d47651e045de",
+                "source": "c3e6463e-a240-4cc3-b43f-63ad6e9f3219",
+                "target": "0ed43fc4-6a19-41b5-880f-9cb3547d76b2"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650611",
+                "id": "a2bb73de-f2f7-4421-9273-52bf07bba506",
+                "source": "c3e6463e-a240-4cc3-b43f-63ad6e9f3219",
+                "target": "62d0e5ab-88a1-4ff4-b483-6056aa542ca8"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650612",
+                "id": "70b9c20f-33c6-44f3-8738-273d33840c9a",
+                "source": "c3e6463e-a240-4cc3-b43f-63ad6e9f3219",
+                "target": "0ed43fc4-6a19-41b5-880f-9cb3547d76b2"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650572",
+                "id": "90364a6e-a4fc-45bf-9b7d-73cd703c8ec7",
+                "source": "16c00468-34ea-40be-a6ca-cf62476ccb8c",
+                "target": "905a68e7-41e7-496d-bcc2-2d4f482720d1"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650607",
+                "id": "caecca27-293c-4d84-8b24-78d18b56a10b",
+                "source": "16c00468-34ea-40be-a6ca-cf62476ccb8c",
+                "target": "a23b706a-bb04-44f3-99cf-cef0e517e8af"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650608",
+                "id": "be3634cb-950d-47ed-a177-996f48594899",
+                "source": "16c00468-34ea-40be-a6ca-cf62476ccb8c",
+                "target": "64850e4e-fd6f-443b-9f08-e877a8d94d4c"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650613",
+                "id": "3ad107cd-98af-42b6-9186-51f773b0363c",
+                "source": "c3e6463e-a240-4cc3-b43f-63ad6e9f3219",
+                "target": "87a0405b-017a-44e7-9f52-e03254bc30aa"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650586",
+                "id": "e26ad90f-277b-4cc7-b004-d055cd74d89e",
+                "source": "cef0e3ce-1a68-4d69-bf73-8ffe6dd109f7",
+                "target": "67a5c45d-28a0-4b4e-a209-13a6105b1766"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650614",
+                "id": "0cc143b5-698f-4580-8fa7-6708748340f9",
+                "source": "cef0e3ce-1a68-4d69-bf73-8ffe6dd109f7",
+                "target": "aece6e80-b0a0-4eb9-bc59-b54ddeae574b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650615",
+                "id": "716f483e-efe6-4f87-a246-9dd1559c30df",
+                "source": "cef0e3ce-1a68-4d69-bf73-8ffe6dd109f7",
+                "target": "a2bfc9a3-cbe0-4f82-83f2-5c33d19dfac7"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650588",
+                "id": "97fd900e-dcd5-4191-85c5-4dbf520e404c",
+                "source": "a3bd7c87-8482-4c52-ba7e-6f1cf42d07f7",
+                "target": "cc278a44-ae68-4545-a2b8-505080543df1"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650616",
+                "id": "a1356e33-5c16-4dba-90ff-bb59acdbdf4b",
+                "source": "a3bd7c87-8482-4c52-ba7e-6f1cf42d07f7",
+                "target": "5fdf120e-6869-477a-90b8-d655782d536e"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650617",
+                "id": "99486c46-57f4-4042-90e1-d76cbe734e25",
+                "source": "a3bd7c87-8482-4c52-ba7e-6f1cf42d07f7",
+                "target": "460f93c1-b5b2-4c33-8dbf-162b294f3831"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650592",
+                "id": "aeea4e9d-079f-479f-80bd-c1c83aa24d02",
+                "source": "64e3dc4b-c0e5-4339-a5bd-b7c14a24610d",
+                "target": "ca5b9b6a-d2e1-419d-9e5f-d1ad9d2446a2"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650624",
+                "id": "a994e244-4432-434d-b959-7252438fdbae",
+                "source": "64e3dc4b-c0e5-4339-a5bd-b7c14a24610d",
+                "target": "9bcd248d-4d2c-4330-b10d-a48a4e16f779"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650625",
+                "id": "9849505c-2c21-437e-be85-05fe0b5c1a68",
+                "source": "64e3dc4b-c0e5-4339-a5bd-b7c14a24610d",
+                "target": "a50397d6-ac2a-410d-8546-fb4e560d92eb"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650626",
+                "id": "117f35cf-03c0-4882-9e51-9203b5fafa18",
+                "source": "64e3dc4b-c0e5-4339-a5bd-b7c14a24610d",
+                "target": "9bcd248d-4d2c-4330-b10d-a48a4e16f779"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650627",
+                "id": "8d781acb-d541-40f4-80bb-b389f4071144",
+                "source": "64e3dc4b-c0e5-4339-a5bd-b7c14a24610d",
+                "target": "76808554-18b5-4c5a-af63-5eccea6f1f6c"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97650580",
+                "id": "ae8a91e0-6ffc-402e-b69f-18cacdc81988",
+                "source": "b6fe6375-0a4e-4a37-9085-6c039a9f4e48",
+                "target": "ff13e68d-91e5-4d36-b5c4-6dc20d56eafe"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650618",
+                "id": "329e0c09-a0fc-4c4e-a811-a5d8760d7ae6",
+                "source": "b6fe6375-0a4e-4a37-9085-6c039a9f4e48",
+                "target": "0beb0f6b-477a-4607-ba00-f92c90dca471"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650619",
+                "id": "f6f1d9dc-eb0c-4796-965e-ca3213d0242d",
+                "source": "b6fe6375-0a4e-4a37-9085-6c039a9f4e48",
+                "target": "cc36f72b-b6e5-4d54-8dd4-7f0aed655408"
+            },
+            {
+                "status": "approved",
+                "type_id": "23853",
+                "value": "ОК-97650620",
+                "id": "ac3338c9-0386-41c5-9b27-ed7eb5b2ec42",
+                "source": "51efbe5a-f157-4faa-9664-1847d0347bf8",
+                "target": "d858abfd-f175-4038-ac7b-fd35813f0b0f"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650621",
+                "id": "841ff90d-ff22-4815-8b7a-0567ac0a961a",
+                "source": "51efbe5a-f157-4faa-9664-1847d0347bf8",
+                "target": "431ef733-d49d-4246-85a2-c24165bf7793"
+            },
+            {
+                "status": "approved",
+                "type_id": "23855",
+                "value": "ОК-97650623",
+                "id": "fae785e6-1ba5-4804-88c4-4b1b6f7e64ab",
+                "source": "6f81355d-8080-4f68-b7ea-603d973e8c82",
+                "target": "c94e7182-f639-48f0-aef1-c7d159aa3b78"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-97650557",
+                "id": "aefcf757-c9a9-462c-bc01-fc9763373107",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "a616102b-b65c-4ec8-a013-0ef44064cc7f"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-97650558",
+                "id": "3527b1ac-933c-49d7-8559-035408a59dd7",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "99d2fec6-4bf6-4974-8170-8982a8e7664c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-97650559",
+                "id": "e5fac6ba-a210-4fc9-a051-6722506eac03",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "594ac826-f53d-4a4c-8ae5-d7862aac55ed"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-97650560",
+                "id": "366821b6-30c2-42b9-a22e-c964c9e296fb",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "6df6248d-e5a1-42a3-98d8-08857d3c5d92"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-97650561",
+                "id": "9f6bc1e9-0163-4ee6-9fd9-ed827743eb68",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "52c0a2b7-d126-4d26-a3cf-2d88cb6d7d6c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-97650562",
+                "id": "086874a2-6359-4692-bc98-47df4cd59646",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "9cbab54b-4f39-460a-a0d3-0e2db7d6729e"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-97650563",
+                "id": "131a43d3-3f5c-41d7-8b5f-40f0b16f975e",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "e3a5e011-dbfc-4194-818a-4b6ef2ef7ba7"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-97650564",
+                "id": "2d3ba72e-4318-4798-bcbb-15aa32897942",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "aab3f11d-b616-419d-933c-83152c987a45"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-97650565",
+                "id": "67f0157a-a49b-4e0f-a502-ca362e797da8",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "5eb64e5d-b6c3-4a6b-bdad-712cf10a4450"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-97650566",
+                "id": "47114ed7-18b9-49e5-b0cc-6755ff881c51",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "d0935d75-b664-4ee3-9f9e-76caa277ebd1"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-97650567",
+                "id": "d98fa372-677b-4525-86f7-705637569a8a",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "af21d2b5-8439-4f95-bf69-929954972937"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-97650568",
+                "id": "3577f9fa-5cce-4386-806c-52eef0d0320e",
+                "source": "1feef003-897c-435f-bd9c-12beafe73939",
+                "target": "e45e7f0e-7aee-4c1a-a02b-e9df53f2532c"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e4c26755-dc43-4a99-b21c-a00135272c06",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "id": "0800d9a2-e691-470d-8643-8991689fa296"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3ce990c2-21fc-42c4-8f5c-72d095d6a0ba",
+                    "start": 9,
+                    "end": 13
+                },
+                "value": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "id": "e8ef0e0e-04b3-4249-a11d-c2f8bd760aaf"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f2d8c905-1f2b-458e-bee1-36013b2a5fb8",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "id": "54d011d3-bedc-4f0e-a07c-9e8adc781780"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fb43cea9-cb21-461d-8d71-f0b1f0d5efde",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "id": "22d5b06f-5e8b-42b3-9435-3dd5adecbbdc"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "60b93968-d6f2-4f45-8fc9-e643791e48d1",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "id": "a55a1d6f-28ac-4152-9555-1213a9cc8814"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "342f215c-3dd9-4d06-b6bb-b9b824dab649",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "id": "21689c23-3c2b-4611-a82f-3658af8a18f0"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "977fdfcf-2f07-4110-b42a-909c2026434f",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "id": "5b9ddfe7-c820-4848-9b95-0cb9e9c2acab"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c1b316cb-18f6-4225-9eb7-44eb231513d6",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "id": "bda90069-ab6a-4121-9943-098505e29eaf"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "542c7af5-892c-48a8-8b1b-eae5c41b3a81",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "id": "d73510eb-a57b-40c5-8a88-a5f77972ba3d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ac41695a-5708-45ed-bcd4-375b700c9a50",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "id": "a73febc0-0368-4c86-a988-214e874a05f2"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d7a512a7-fbe4-4099-9616-ffce327463df",
+                    "start": 9,
+                    "end": 15
+                },
+                "value": "f756a336-c3b1-4369-94ec-bf363bb2cddb",
+                "id": "e9615392-97a6-402c-a71c-4ddc4fec76df"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3ce990c2-21fc-42c4-8f5c-72d095d6a0ba",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "f756a336-c3b1-4369-94ec-bf363bb2cddb",
+                "id": "727f1f1d-b939-4dc2-825f-0ab97479ae3a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e65a3fb3-e742-4792-91e0-0453f49eb23b",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "f756a336-c3b1-4369-94ec-bf363bb2cddb",
+                "id": "e2ec813f-62de-4481-8711-e1865efc1f75"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b9b08f61-e094-4ef2-b5e7-bdfc3a17805d",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "f756a336-c3b1-4369-94ec-bf363bb2cddb",
+                "id": "6af7a448-53f8-4fe1-9860-ba083af3b94f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7c3cdec2-3166-4c64-9be6-55e9590189ce",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "2e23f16f-5317-47fd-be4a-8074d2df42dc",
+                "id": "daa8e873-2961-46f3-8b3e-a19eb8ace850"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d7a512a7-fbe4-4099-9616-ffce327463df",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "2e23f16f-5317-47fd-be4a-8074d2df42dc",
+                "id": "0ea0e1b4-f9cf-42cc-8640-ba3152090601"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "80120ef7-1dd3-4818-811b-4c26dc763198",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "5e8844e8-ccac-42c1-9ab9-4a6ddd00487d",
+                "id": "bc98bf00-7d02-461a-9fca-0a5c0ee57dc7"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "13e68485-e688-473c-9910-990982298f66",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "4bfb5462-51f2-4ce6-9464-dcef1a51f5d1",
+                "id": "fb8a5136-63f1-4adf-a612-a14fbc961154"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "dadae659-8a38-427d-bd16-98670a694d2f",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "a30af558-fe06-441e-8bc9-4d65e1383570",
+                "id": "13828b22-c476-478c-a7ae-19843460bd38"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cc88c1ac-75e7-4ad6-a892-7056ea9ebbcc",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "1f9345d8-e51d-40ec-a2c5-c355de0add5c",
+                "id": "6e1ac89c-0ddc-4e3e-9f03-bde898d6c321"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3683200f-3bd3-40e0-a4d9-8c40a656be8c",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "8ad6aa51-38fd-4a7a-9fc8-854f534b6a74",
+                "id": "766cb208-457a-4000-9ab3-23bb2ec67641"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "51aed978-e7ea-45a2-b053-8692326357c2",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "32e89492-e456-415d-8f89-176da10a5d4b",
+                "id": "f3b0dad5-63ad-4f2a-a98f-090ee7c24a35"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c699c30f-7108-45e7-abe6-8e84dc430170",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "92802e05-5fdd-4073-8f58-11bd608be8ad",
+                "id": "b134141d-6fd2-4d40-a17c-7e3c55a18287"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f82c9b13-2d2c-472f-8348-54e68fb1bc31",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "64850e4e-fd6f-443b-9f08-e877a8d94d4c",
+                "id": "ddccfba1-1a75-4bf9-9184-612416e37e65"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "115708a1-ea61-4eff-8fec-5fe44f96b015",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "a23b706a-bb04-44f3-99cf-cef0e517e8af",
+                "id": "2f35a442-e198-42c9-a0dd-1ec6515e964b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cb3b3bc8-58d2-48d6-ac6b-51ef6caf1e5d",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "0ed43fc4-6a19-41b5-880f-9cb3547d76b2",
+                "id": "e660ee73-2108-495b-bd31-49491d008241"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d7bb8d94-54ef-4519-802f-57a5fab21168",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "0ed43fc4-6a19-41b5-880f-9cb3547d76b2",
+                "id": "b67fccea-8ded-4c4b-af6a-f4673e8a7421"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "edc88ed9-31fb-4a75-a4d1-d5e033dbca27",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "7aa2aea8-707d-4d7e-a2d4-ef97ea142160",
+                "id": "1b579737-55d2-400f-a73c-c290b7a52f7f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "bc90f5db-cf70-4a47-9c84-9163a39b1751",
+                    "start": 0,
+                    "end": 22
+                },
+                "value": "4b60e0dc-262a-46de-8b8e-9023aaee240d",
+                "id": "564219d8-9bfc-407b-a01a-df05a05db750"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e0de28a2-7c39-4d47-8b15-74499776ac0c",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "62d0e5ab-88a1-4ff4-b483-6056aa542ca8",
+                "id": "10ec1237-7e66-461f-abf9-5a2ca2aaca9f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d80c141f-c30f-49a9-b790-6b552ad09e3d",
+                    "start": 0,
+                    "end": 22
+                },
+                "value": "4b60e0dc-262a-46de-8b8e-9023aaee240d",
+                "id": "e777978e-527b-4c1e-bff2-a506f081cb7d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6d9c1fdf-eaa4-430b-a355-6e37db74b0b5",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "87a0405b-017a-44e7-9f52-e03254bc30aa",
+                "id": "14e29c22-40e6-4f32-bdf3-8870c94f8a67"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "57dfa1bd-df98-4f8f-bac3-c09ffa769747",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "62d0e5ab-88a1-4ff4-b483-6056aa542ca8",
+                "id": "d3afb13d-601d-4acd-8bf0-7d672b42b230"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ffba382d-7e8a-4b6a-9868-0cbcb5af8f03",
+                    "start": 0,
+                    "end": 26
+                },
+                "value": "ca5b9b6a-d2e1-419d-9e5f-d1ad9d2446a2",
+                "id": "a5a4aea1-3710-4aae-8718-c6ae3e62fc3b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "2b7a5fd9-2f03-4f67-9490-351fb989ef39",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "9bcd248d-4d2c-4330-b10d-a48a4e16f779",
+                "id": "990358bc-6e63-4fab-a4e7-fe8bb445ad23"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d6bca452-e8d7-476a-92bf-c552f65ecda1",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "76808554-18b5-4c5a-af63-5eccea6f1f6c",
+                "id": "dd4e1edc-7e31-4a9e-8908-3d7183e37620"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "48978805-3c1b-429e-abd0-f01ef64be60b",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "a50397d6-ac2a-410d-8546-fb4e560d92eb",
+                "id": "cbb8ee83-5246-4565-89b4-5a102d654ec1"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b0c000bd-c8ba-48f7-b738-dba597792fc4",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "9bcd248d-4d2c-4330-b10d-a48a4e16f779",
+                "id": "2f423f63-4e87-44d5-9bdd-32ba9529dffe"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0bce2ab9-649f-467f-b13e-989789993a2c",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "0c3ce89a-eaf4-4ad8-9c91-240fb85a561d",
+                "id": "80268b3b-aaae-4afb-8a49-8b101697653b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0c4fbb96-5b0c-4d80-afac-d2b7d7ecbfb5",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "1f7627ef-2f23-4fa5-87df-4be82eda6fe5",
+                "id": "a6cb2341-3a98-471c-bbc5-98c8429c5b3e"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "931f0e8a-2e4d-4a80-bf57-da7595f840aa",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "5fdf120e-6869-477a-90b8-d655782d536e",
+                "id": "ae3ac74e-abaa-4dbf-bd0d-62d6922551ba"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6a5c5828-1667-4793-b71a-9c5ba4fc1de0",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "460f93c1-b5b2-4c33-8dbf-162b294f3831",
+                "id": "985d9fef-0262-40da-aa57-bf2341527056"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "98e2e50a-6ebf-4b83-ac67-be228b539a45",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "a2bfc9a3-cbe0-4f82-83f2-5c33d19dfac7",
+                "id": "a7ed53fc-02d8-4550-a67d-3b8293812c59"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b4e7d49b-3111-4297-aa25-f30b88e2e0bf",
+                    "start": 0,
+                    "end": 29
+                },
+                "value": "67a5c45d-28a0-4b4e-a209-13a6105b1766",
+                "id": "0bdec72d-f27a-4976-9501-60b3b2452e12"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fb38041d-e442-4179-91cc-3b75e886e576",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "aece6e80-b0a0-4eb9-bc59-b54ddeae574b",
+                "id": "ece9c8e7-fe74-4a39-b21f-1a07cdad3a99"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "85758e74-0b15-4207-add4-e5c50068828a",
+                    "start": 0,
+                    "end": 20
+                },
+                "value": "def76edd-131a-48e4-8ad4-d8bf84af4846",
+                "id": "28cf3956-dcc8-4e90-b90d-98ec714c3a1b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fcd4ae33-0342-45f8-9fb8-3f0804a340c5",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "9677d837-4220-432d-9bc7-d0531e2fecc4",
+                "id": "8d5107f9-bc3f-4c2a-9542-3610f3cdbff4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c51ba886-656b-4c32-9f2d-aa61225c12d1",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "aea7ffb8-aab1-42bf-9161-94cfa825af38",
+                "id": "7d304fe9-3646-4926-875b-c2a9d8a13041"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "fe34f4d4-8e6f-4e96-be08-01ffa948d275",
+                    "start": 0,
+                    "end": 30
+                },
+                "value": "ff13e68d-91e5-4d36-b5c4-6dc20d56eafe",
+                "id": "5d9f8aac-e4e6-4d76-b4a7-8bd74a7eaf9b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "822aab9a-05e6-40d5-a1b0-1dc4e6f0aecf",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "0beb0f6b-477a-4607-ba00-f92c90dca471",
+                "id": "a700204d-eef0-4aff-806a-56d39e8986b0"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f682d91a-1b05-46b4-bd93-847d3083922d",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "cc36f72b-b6e5-4d54-8dd4-7f0aed655408",
+                "id": "30c94036-3af2-4731-be46-b4b3fdcb1fa7"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "62a2e164-523e-45e1-b100-f2e88a843627",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "38c7c0bf-6133-4ef5-af56-f2df72bcf796",
+                "id": "58363abb-e322-4bd1-a04d-093dc632e7db"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0662ed42-017b-4c7f-ac73-178c88984f20",
+                    "start": 0,
+                    "end": 27
+                },
+                "value": "85607aff-3781-4622-a0a2-99db00a404f1",
+                "id": "d0792e11-265c-4918-b511-a5fa56b4dd72"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "354b9afb-dbf0-4aa8-9598-fe14b9fd2a9b",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "c94e7182-f639-48f0-aef1-c7d159aa3b78",
+                "id": "58de8a86-aa9b-4fe1-9d54-7db58b4a2daa"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "2c7324f2-c47d-4f5a-85c3-c10e4238045f",
+                    "start": 0,
+                    "end": 23
+                },
+                "value": "e298b0b7-d3d2-4c59-a867-228e6185ba46",
+                "id": "8935bb10-fedb-4c56-8c80-62947fec2225"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "55086e33-5a1e-4a27-bf08-fda0ac66ed22",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "d858abfd-f175-4038-ac7b-fd35813f0b0f",
+                "id": "f9c9dfad-ba87-4d63-bcac-090de178a23c"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "aa4a0624-e86b-44f1-9031-6e0c25a6dd24",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "431ef733-d49d-4246-85a2-c24165bf7793",
+                "id": "293fd9be-06e8-4152-ba65-8cb0fd705f06"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d1fa865f-f876-45c8-bfef-afd9b82fdb44",
+                    "start": 0,
+                    "end": 23
+                },
+                "value": "255ed16d-0022-412a-b94f-c0c7f8d00eba",
+                "id": "1796ad99-4027-40f2-aeb4-de722c6e6eda"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "07bb5b1b-21d1-4017-84a5-e082cf02354f",
+                    "start": 0,
+                    "end": 26
+                },
+                "value": "905a68e7-41e7-496d-bcc2-2d4f482720d1",
+                "id": "2edaa1be-a9a4-4a0f-9aea-9714dc5fae3f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "98fa7e40-ec85-4db3-a947-50310417ef89",
+                    "start": 0,
+                    "end": 22
+                },
+                "value": "4b60e0dc-262a-46de-8b8e-9023aaee240d",
+                "id": "8fd040a1-5450-4477-be2e-4444a69b6e57"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "04293dba-46e8-484e-93ab-81d6599ec87c",
+                    "start": 0,
+                    "end": 26
+                },
+                "value": "ca5b9b6a-d2e1-419d-9e5f-d1ad9d2446a2",
+                "id": "9a8c186a-f6b5-4546-a1d9-d45cf1e17c6b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8861f109-da2b-4cf8-8085-77ca8ede7d33",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "abfae65f-f3b0-4396-9883-204671534821",
+                "id": "a3abdde0-5198-4eac-a2a1-ba604c8d5954"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1011c43f-90b2-4851-8738-11437e2bdf63",
+                    "start": 0,
+                    "end": 28
+                },
+                "value": "56d0dd38-758a-4363-a9e6-dda6ffa61c3e",
+                "id": "a3cb4ea9-4e88-4255-b772-2aaf413190f8"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6a552709-037a-4ba8-bcd3-30472f698033",
+                    "start": 0,
+                    "end": 22
+                },
+                "value": "7c138179-0630-4b66-a52f-461bcd5c12e8",
+                "id": "e5334fd3-67ab-40d6-a23b-0941ec5c66b3"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "737460b4-9eca-4fdd-9ed3-b7522d065bbf",
+                    "start": 0,
+                    "end": 32
+                },
+                "value": "cc278a44-ae68-4545-a2b8-505080543df1",
+                "id": "ec25e31d-a562-46a9-adf3-6c079c139aa3"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_16.docx",
+        "file_name": "table_16.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 52320,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1744193948,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/1fee%2Ff003%2Ftable_16.docx",
+        "markers": [],
+        "account": [],
+        "story": "1feef003-897c-435f-bd9c-12beafe73939"
+    }
+}

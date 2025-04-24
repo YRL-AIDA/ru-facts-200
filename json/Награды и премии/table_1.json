@@ -1,0 +1,2737 @@
+{
+    "id": "e2596aaf-653d-438d-817a-c0680a35a34e",
+	"VERSION":"1.0",
+    "main_node": "b55cc6ab-e37a-463b-9ead-9c36b4d60669",
+    "content": [
+        {
+            "type": "text",
+            "id": "b55cc6ab-e37a-463b-9ead-9c36b4d60669",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "3623d3a2-e57a-498a-8993-0e1153741a1a"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3623d3a2-e57a-498a-8993-0e1153741a1a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "063f1d39-46f1-4b71-9308-cc70783c456a"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "063f1d39-46f1-4b71-9308-cc70783c456a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "c00d17ca-75c9-449b-b607-dfe7d7c3b264",
+                "d1acd9f7-9dcd-44bc-a4dd-d4a389cdd788",
+                "32e5d2af-8aa0-49b6-b88b-1d8721805b37",
+                "a59f1fd2-76c7-4b44-ad1a-3384a444fdfc",
+                "936b658c-7be6-4c03-81a5-007187989a35",
+                "d8b0d6ec-1a85-42b7-8365-6fe401419f0f",
+                "00ef2be1-1221-465c-82b7-9a8aca29a91f",
+                "329a6cc8-cd23-4d61-a497-cece29979d6d",
+                "231acb6f-45eb-4e19-95b2-26c415743dcd",
+                "6d3158eb-10b0-497a-8c21-2047831998ec",
+                "03bc327c-da9e-4d2a-80af-266c34ff8e78",
+                "305cc8ce-d0da-413b-819f-119b0e8ea2b3",
+                "488418c6-f609-4a44-8f26-0fdef6dba9b6",
+                "dc4f4166-4e65-4e60-9f9b-25ed061dec17"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "c00d17ca-75c9-449b-b607-dfe7d7c3b264",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "6657f804-1507-44b2-8607-ac534125cc4a",
+                "c5e7e79e-57b5-4368-bccd-f4f1b4296670",
+                "007d6046-442f-474a-a84d-7cad529a04b7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6657f804-1507-44b2-8607-ac534125cc4a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0063a9e8-3b0b-466c-92a4-b4da9408fe39"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0063a9e8-3b0b-466c-92a4-b4da9408fe39",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Год",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c5e7e79e-57b5-4368-bccd-f4f1b4296670",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ec957aba-ba50-49d0-9dd3-eee5ac30338c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ec957aba-ba50-49d0-9dd3-eee5ac30338c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Выставка",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "007d6046-442f-474a-a84d-7cad529a04b7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "fe23291e-dfda-4390-8ff8-7b2819f3935b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fe23291e-dfda-4390-8ff8-7b2819f3935b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Награда[23][24][25]",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "d1acd9f7-9dcd-44bc-a4dd-d4a389cdd788",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "131fa0df-7d3a-4823-bc92-0ea2b6d67b02",
+                "56c46807-011d-48e6-8dbb-9a5bd46b6fd1",
+                "42f41a81-116a-47a2-baf7-30e83d353c4c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "131fa0df-7d3a-4823-bc92-0ea2b6d67b02",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c42647c1-6a36-4991-b028-4c2bf99fbf25"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c42647c1-6a36-4991-b028-4c2bf99fbf25",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1867",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "56c46807-011d-48e6-8dbb-9a5bd46b6fd1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9264bc7a-a215-46b3-a58e-a0c95d147b5d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9264bc7a-a215-46b3-a58e-a0c95d147b5d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Всемирная выставка в Париже",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "42f41a81-116a-47a2-baf7-30e83d353c4c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "492e43e7-870f-4478-b6bb-068f7571ef1b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "492e43e7-870f-4478-b6bb-068f7571ef1b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Большая серебряная медаль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "32e5d2af-8aa0-49b6-b88b-1d8721805b37",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "cec0b310-f298-49e5-a469-456f7dfe1016",
+                "0caf7ad5-a722-4469-82b1-1b3a9ac1d48f",
+                "0c38b3f1-d225-44ac-8516-4a9efd62ef45"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cec0b310-f298-49e5-a469-456f7dfe1016",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f5b46c2a-7a19-4215-b936-023f11d12c0c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f5b46c2a-7a19-4215-b936-023f11d12c0c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1870",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0caf7ad5-a722-4469-82b1-1b3a9ac1d48f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b763a816-b570-408e-bc9d-56104bd34722"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b763a816-b570-408e-bc9d-56104bd34722",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Всероссийская мануфактурная выставка в Петербурге",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0c38b3f1-d225-44ac-8516-4a9efd62ef45",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "53976abd-a7a5-4a09-bcf7-bde6df77d2a0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "53976abd-a7a5-4a09-bcf7-bde6df77d2a0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Большая золотая медаль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "a59f1fd2-76c7-4b44-ad1a-3384a444fdfc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "97ce7b4b-851d-4333-9b0c-1595c7bc3cf9",
+                "0fdef5f6-9b1d-48a1-8758-c5775e056e25",
+                "4174f12d-bde3-4183-904a-1d089b270def"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "97ce7b4b-851d-4333-9b0c-1595c7bc3cf9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "50c5ea9b-873d-46dd-b279-7ac9262f3a28"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "50c5ea9b-873d-46dd-b279-7ac9262f3a28",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1872",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0fdef5f6-9b1d-48a1-8758-c5775e056e25",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "edd074a4-bebf-494e-99ac-d8d701917802"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "edd074a4-bebf-494e-99ac-d8d701917802",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Политехническая выставка в Москве",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4174f12d-bde3-4183-904a-1d089b270def",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "754d2d8c-77c8-483c-b304-19f8ce0b61c9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "754d2d8c-77c8-483c-b304-19f8ce0b61c9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Большая золотая медаль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "936b658c-7be6-4c03-81a5-007187989a35",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d699ba68-169b-4f83-84d9-0d1d48c6a85a",
+                "bcad3dcf-8a7e-4fec-b699-d675abd59f1f",
+                "57cf748c-025b-467f-9658-2213181d70a3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d699ba68-169b-4f83-84d9-0d1d48c6a85a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "303e0f45-bfd8-48d1-bf1d-9ec5445ef6fe"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "303e0f45-bfd8-48d1-bf1d-9ec5445ef6fe",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1873",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bcad3dcf-8a7e-4fec-b699-d675abd59f1f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "51308a1d-281d-4dae-85d9-f1fdf432dba2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "51308a1d-281d-4dae-85d9-f1fdf432dba2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Всемирная выставка в Вене",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "57cf748c-025b-467f-9658-2213181d70a3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8ca13004-8d75-49a9-a9d3-40699dad6e62"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8ca13004-8d75-49a9-a9d3-40699dad6e62",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Большая золотая медаль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "d8b0d6ec-1a85-42b7-8365-6fe401419f0f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "3d842040-4e51-4642-ba55-09ef15a5d87b",
+                "576b7b81-0870-4bb7-8e24-1ef62cbb3a56",
+                "e3fdfa22-ce52-48e8-b07d-cd26fbee49df"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3d842040-4e51-4642-ba55-09ef15a5d87b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e912c64c-984c-413e-baaf-76b6e73116d8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e912c64c-984c-413e-baaf-76b6e73116d8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1876",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "576b7b81-0870-4bb7-8e24-1ef62cbb3a56",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4a3b8b06-2218-4719-810c-7ec6904b922e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4a3b8b06-2218-4719-810c-7ec6904b922e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Всемирная выставка в Филадельфии",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e3fdfa22-ce52-48e8-b07d-cd26fbee49df",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4d056730-9939-4e18-9f70-a723e74c24a0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4d056730-9939-4e18-9f70-a723e74c24a0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Бронзовая медаль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "00ef2be1-1221-465c-82b7-9a8aca29a91f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "4677273d-d9b1-4332-a21d-be7452266378",
+                "01edaf4c-9ae7-483d-8127-50b363cd658a",
+                "2aabfd9f-1787-4a51-ac4a-39f42d4c8e0d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4677273d-d9b1-4332-a21d-be7452266378",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "38bcff63-be2e-4ff4-97ba-67acb8ae6d30"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "38bcff63-be2e-4ff4-97ba-67acb8ae6d30",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1882",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "01edaf4c-9ae7-483d-8127-50b363cd658a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "14b1336a-8914-4b6f-92d7-63f8abe6ad10"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "14b1336a-8914-4b6f-92d7-63f8abe6ad10",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Всероссийская выставке в Москве",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2aabfd9f-1787-4a51-ac4a-39f42d4c8e0d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "982c6d36-05da-4abe-98f5-487f784bdc07"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "982c6d36-05da-4abe-98f5-487f784bdc07",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Серебряная медаль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "329a6cc8-cd23-4d61-a497-cece29979d6d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "82669489-249e-45b4-a97d-a84a3c462ed0",
+                "3848abbb-7018-4f9d-a7eb-3854ecf52bb8",
+                "6588a760-948e-42c4-a4a1-20342cf0c184"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "82669489-249e-45b4-a97d-a84a3c462ed0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0f1b9c55-5a26-4020-a307-193936eaea68"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0f1b9c55-5a26-4020-a307-193936eaea68",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1887",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3848abbb-7018-4f9d-a7eb-3854ecf52bb8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "92fe0fa4-493b-4168-8ea9-2d85b04687c6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "92fe0fa4-493b-4168-8ea9-2d85b04687c6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Сибирско-Уральская выставка в Екатеринбурге",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6588a760-948e-42c4-a4a1-20342cf0c184",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "082fe50c-9eec-466e-8a87-b41df169685b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "082fe50c-9eec-466e-8a87-b41df169685b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Большая серебряная медаль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "231acb6f-45eb-4e19-95b2-26c415743dcd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "f176761d-0dfb-40ee-b146-3841558fa9c6",
+                "11bbd534-c8cc-41f2-8136-61d8d8023d7c",
+                "24f81196-1b1c-44de-b469-0095d7d1c24b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f176761d-0dfb-40ee-b146-3841558fa9c6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a96ea3cd-039f-4d32-9ed3-b262961c4960"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a96ea3cd-039f-4d32-9ed3-b262961c4960",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1888",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "11bbd534-c8cc-41f2-8136-61d8d8023d7c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "51f77ea1-82fd-4f63-9d76-4a5ebd768d9c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "51f77ea1-82fd-4f63-9d76-4a5ebd768d9c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Выставка в Копенгагене",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "24f81196-1b1c-44de-b469-0095d7d1c24b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "128f5a42-447a-4858-836e-e62c18673f8c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "128f5a42-447a-4858-836e-e62c18673f8c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Почётный диплом",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "6d3158eb-10b0-497a-8c21-2047831998ec",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "13f7b8d0-19d1-44f1-92d9-ba123c26aaaa",
+                "14b78dcd-a15e-4e61-9c9a-4e7cb47b915e",
+                "66acdfdb-5cab-4510-b761-e60fddb3cd28"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "13f7b8d0-19d1-44f1-92d9-ba123c26aaaa",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "edf789bd-0f72-45ca-a711-18714196899b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "edf789bd-0f72-45ca-a711-18714196899b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1896",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "14b78dcd-a15e-4e61-9c9a-4e7cb47b915e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7fb9e5ca-e293-49a7-8d3f-c4a5c80e1d5f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7fb9e5ca-e293-49a7-8d3f-c4a5c80e1d5f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Всероссийская художественно-промышленная выставка в Нижнем Новгороде",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "66acdfdb-5cab-4510-b761-e60fddb3cd28",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f85f9fb6-cfdf-49d6-8a7f-5142cd710e36"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f85f9fb6-cfdf-49d6-8a7f-5142cd710e36",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Высшая награда: право пользоваться изображением государственного герба",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "03bc327c-da9e-4d2a-80af-266c34ff8e78",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7071ee66-3520-4944-ba49-1fe558bbcfb5",
+                "167be3f2-390d-47d7-8774-3af597678b52",
+                "036c68aa-ced8-4193-adcc-c5647c1a4270"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7071ee66-3520-4944-ba49-1fe558bbcfb5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b58115e4-e1e1-42b2-bd8d-d0997880253c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b58115e4-e1e1-42b2-bd8d-d0997880253c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1897",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "167be3f2-390d-47d7-8774-3af597678b52",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a8889f70-c6e0-4ca3-a700-6bb30dad779a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a8889f70-c6e0-4ca3-a700-6bb30dad779a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Международная выставка в Стокгольме",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "036c68aa-ced8-4193-adcc-c5647c1a4270",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6cafe62d-14f4-4079-8159-ba5dca5f01a9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6cafe62d-14f4-4079-8159-ba5dca5f01a9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Золотая медаль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "305cc8ce-d0da-413b-819f-119b0e8ea2b3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "3df95d2d-ef88-4cf7-a0ec-dc501cee4c4f",
+                "6da16123-ae1a-4b50-8d31-69f88a543eab",
+                "40e29c3c-5eac-48f4-ac30-a85eaa3d762b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3df95d2d-ef88-4cf7-a0ec-dc501cee4c4f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ab6e5a39-643e-4c9f-9e75-0ff25a01fb71"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ab6e5a39-643e-4c9f-9e75-0ff25a01fb71",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1900",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6da16123-ae1a-4b50-8d31-69f88a543eab",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "dfe55c24-ba76-4481-a74e-6d2372e9aef0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "dfe55c24-ba76-4481-a74e-6d2372e9aef0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Всемирная выставка в Париже",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "40e29c3c-5eac-48f4-ac30-a85eaa3d762b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9a4ab5cd-51dc-4ab1-94d6-f04bf6dba076"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9a4ab5cd-51dc-4ab1-94d6-f04bf6dba076",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Каслинский чугунный павильон был удостоен высшей награды Гран-при и Большой золотой медали",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "488418c6-f609-4a44-8f26-0fdef6dba9b6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b028ac70-beaa-42ab-bfb7-b3b7295c6fd2",
+                "094dab98-13a7-4d63-8eb3-2195930772db",
+                "16073839-ed39-48da-9982-207c365c7252"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b028ac70-beaa-42ab-bfb7-b3b7295c6fd2",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "65f9be8d-6391-478b-96bf-6638ac87414a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "65f9be8d-6391-478b-96bf-6638ac87414a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1906",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "094dab98-13a7-4d63-8eb3-2195930772db",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c5efade0-41bb-475d-8045-49c9b806c84a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c5efade0-41bb-475d-8045-49c9b806c84a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Промышленная выставка в Милане",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "16073839-ed39-48da-9982-207c365c7252",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "28f99f38-4c6b-4d3a-82d9-4dc72b0e0da5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "28f99f38-4c6b-4d3a-82d9-4dc72b0e0da5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Большая золотая медаль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "dc4f4166-4e65-4e60-9f9b-25ed061dec17",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ff100b8f-b602-4ee9-938a-8c5fd1336bb5",
+                "75ec2e15-e4da-4116-8c50-42454999f542",
+                "d2075ca0-81fd-422d-b224-f3814ac84c93"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ff100b8f-b602-4ee9-938a-8c5fd1336bb5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0c9e86d6-260f-4700-be38-56b9c4da91ff"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0c9e86d6-260f-4700-be38-56b9c4da91ff",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1914",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "75ec2e15-e4da-4116-8c50-42454999f542",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b39be7f5-41b2-45f3-b6d2-3e2976ae4f5b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b39be7f5-41b2-45f3-b6d2-3e2976ae4f5b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Балтийская промышленная выставка в Мальмё",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d2075ca0-81fd-422d-b224-f3814ac84c93",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b5504164-fa71-4994-9922-99e365868eec"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b5504164-fa71-4994-9922-99e365868eec",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Почётный диплом",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-18b6-799f-ab47-2d9bddd3307e"
+                },
+                "id": "c25bf0a0-57e6-4093-bfbd-ec475c2aa028"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0195d72e-1cc2-7826-b153-927743a6bb84"
+                },
+                "id": "4846a6db-f205-4f7b-abfb-c8e0a7654aa7"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0195d72e-1ee4-7e32-83fb-254ed536d066"
+                },
+                "id": "3bbf6074-25d9-4fdd-9ecd-ed48ab6c1cb3"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-1498-7668-984b-0ed0303f424c"
+                },
+                "id": "834e51c4-99dc-4f78-b4f0-cc35956e3954"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-13f2-7aae-b198-2cdcdde69ba5"
+                },
+                "id": "a6388f24-d50f-4210-a853-1cb3ac73517b"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0195d72e-1d04-7db5-9f6d-e067df67a0c5"
+                },
+                "id": "0ce37c45-64e1-4680-b8cf-a5e7ddc2e99e"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-1242-759d-8215-cc89dd981077"
+                },
+                "id": "619ada8f-3ad1-4216-8984-89b1e8dfe076"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-12ca-7c89-b54b-057494b15ded"
+                },
+                "id": "49e21428-c499-4178-a9db-1f8dc017ce21"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0195d72e-20c8-7ff4-941f-0039cccbf47b"
+                },
+                "id": "36c43804-12f5-46ad-8d37-d6ab4c0dec40"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0195d72e-1fd8-7534-bac9-da55f6fc15ad"
+                },
+                "id": "81ef52c5-0db7-43b8-b114-ba737f22acc3"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-1687-7109-b71c-f431d62a5832"
+                },
+                "id": "e33357f2-ca70-4e2a-a291-d0b0f0d7a3b3"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-150b-7669-b152-3f5a5c0f3421"
+                },
+                "id": "80be15f9-1e16-4117-be51-42d151559ea5"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-171a-7ba7-a76e-526864b785d2"
+                },
+                "id": "699a325f-37e0-4795-b640-316e08f8c406"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0195d72e-213b-79d7-8b23-91507a0422eb"
+                },
+                "id": "32e4fd8d-ec9e-450a-ac42-44b24573d4f2"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0195d72e-1ac9-7f8f-aea3-98011cc19d97"
+                },
+                "id": "2c3f9212-c893-460c-ae79-6d104d6ad211"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-15dd-7a30-80fd-5d72b9935a26"
+                },
+                "id": "19dd3ab2-3dd8-4e3e-8cef-dd4daddf0520"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-17fe-7911-b9ee-4c948384f45a"
+                },
+                "id": "5626c9c5-27b2-4eb4-9b82-31d813214cdd"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-19f8-790d-bec6-8548b2e7fc95"
+                },
+                "id": "58e7827e-4e31-44af-b67f-f1bbfd640fc9"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "0195d72e-1a46-7747-8cd9-5642c5dbb97e"
+                },
+                "id": "d6c18d8a-c80e-4477-ac05-4f8a6dcaddfd"
+            },
+            {
+                "status": "approved",
+                "type_id": "21514",
+                "value": {
+                    "concept": "0195d72e-1b59-7f31-b0f9-df1edca6fc30"
+                },
+                "id": "0202cf8f-757f-44fc-bcc7-40e28ea9101b"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-94952005"
+                },
+                "id": "e2596aaf-653d-438d-817a-c0680a35a34e"
+            }
+        ],
+        "atom": [
+            {
+                "id": "a6760a35-0a51-4ecd-b802-76903dd6b3cd",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Высшая награда: право пользоваться изображением государственного герба"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "17e5d011-81ca-4a4a-824c-4d5157221585",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1882
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b0711be7-cfbf-45b9-a5c1-488b93cc8f57",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Всероссийская художественно-промышленная выставка в Нижнем Новгороде"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "be6354ba-a7b0-40c7-8715-ae8d11186a2e",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Почётный диплом"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "add91dbe-5b69-41f1-b239-cb5383a4bfdc",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Всемирная выставка в Вене"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8bbf3020-b7a0-4e8f-b7b6-adcb4227a4a5",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Большая серебряная медаль"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "239c2a45-b12e-4910-94d0-d1eea7badfb7",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Международная выставка в Стокгольме"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "72f1a60a-f1bf-4a9d-a6dd-10372620b0e8",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Всемирная выставка в Филадельфии"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "adf79f71-3074-4967-87fb-369ed203bc5c",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Всероссийская выставке в Москве"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "93c2e62e-e06a-4183-b8a1-cac4067aab93",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1896
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "cc805f21-6eba-4f25-9d06-2e1ea11ba6d4",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1873
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "def310d4-a42d-41c7-818b-715bbdabb4eb",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1897
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b05a129a-9e3e-421e-9ca3-545e1abffb6d",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Балтийская промышленная выставка в Мальмё"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "95410dd8-e382-4d25-8f6b-fd4d448fa412",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1887
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b20743ad-e272-44bd-9df8-480de7a1d2a0",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Каслинский чугунный павильон был удостоен высшей награды Гран-при и Большой золотой медали"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1f28efee-aa28-411b-9f75-e58ed6c2e325",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Выставка в Копенгагене"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "376a0155-0ccd-4989-a2f3-59302fc82df2",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Промышленная выставка в Милане"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a9de84a9-4de0-4081-a256-98ecd07c1571",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Большая золотая медаль"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e0f9a9b4-8fca-47a1-baa0-6f2945a0fefe",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1876
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d67ebc98-69b0-4220-9ac0-bad9c62eaa8f",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Сибирско-Уральская выставка в Екатеринбурге"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b64b9041-5a3e-4869-ae20-b1960cdbaf40",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Политехническая выставка в Москве"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "40e07365-082c-4878-bc2e-3d380a30c1bc",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Всемирная выставка в Париже"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "de7d1359-e052-48e7-80a2-7ccd1b8a01cb",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1900
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "bbe4ed84-8d1e-4ad1-80f8-44d2f62c1ae4",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1867
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b50ce64f-1687-4cd8-a8b6-64b8f9161417",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1914
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "77f7e9fa-a149-4305-94b4-e33de5433069",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1906
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3df5fd45-9293-4525-a05b-841fdc946014",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Золотая медаль"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3915de57-ce55-47b5-b368-e979f407ce04",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Серебряная медаль"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b19e98b4-f480-4af1-8a5e-e29f3b2f1019",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1872
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "cba5c572-1528-4803-a70c-d11feb011bc9",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1888
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ecfac7df-7ef5-431f-bc81-820497910d0b",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Всероссийская мануфактурная выставка в Петербурге"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b12f6b2f-1fa2-4eee-881d-2f0bfb4cf47f",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 1870
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "31071d2b-3a3c-4e31-8161-30471693a69e",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Бронзовая медаль"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "83e826ce-77c8-46d2-86df-bd1d7b540b89",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "201980d3-0061-4a61-9863-12c318be1c8c",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743071805
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b8fa61a3-2fa3-4732-8347-b45fb5517b4b",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 51299
+                },
+                "status": "approved"
+            },
+            {
+                "id": "37b9ccef-8ca7-474f-a5ba-1aec3ff0ef5c",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743071805
+                },
+                "status": "approved"
+            },
+            {
+                "id": "87c28047-62ee-420e-b9b7-363daec7dc88",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1bd768f0-80fd-4646-863b-fb3aa21fca97",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3c720e1c-697e-4bab-80d5-077320f6bf46",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5113bbb8-d6c5-42ca-b23b-e31c9c53f6b7",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "043c4654-ba9b-4d6d-82a4-349c1a97150a",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3499"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3a298d44-6f32-4e58-bb6a-b7500824cc30",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743071805
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e3c8e2a8-8574-493e-bca2-2ebb60564689",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/e259/6aaf/table_1.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "527dc306-ee01-403b-916c-23ca87e1bcf0",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952074",
+                "id": "70e86ca9-6c36-42bc-b737-0114021f457d",
+                "source": "d6c18d8a-c80e-4477-ac05-4f8a6dcaddfd",
+                "target": "0ce37c45-64e1-4680-b8cf-a5e7ddc2e99e"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952075",
+                "id": "89344d6b-aacb-4fdf-9cc3-914e613e21b3",
+                "source": "19dd3ab2-3dd8-4e3e-8cef-dd4daddf0520",
+                "target": "32e4fd8d-ec9e-450a-ac42-44b24573d4f2"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952078",
+                "id": "6a18d55e-c1cf-4143-8eb6-93b3b9486201",
+                "source": "58e7827e-4e31-44af-b67f-f1bbfd640fc9",
+                "target": "2c3f9212-c893-460c-ae79-6d104d6ad211"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952076",
+                "id": "17d4a55f-a619-4b52-83de-4ef6bdcb0482",
+                "source": "c25bf0a0-57e6-4093-bfbd-ec475c2aa028",
+                "target": "2c3f9212-c893-460c-ae79-6d104d6ad211"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952077",
+                "id": "abc36a39-73f0-425a-941e-41da8c9be68d",
+                "source": "699a325f-37e0-4795-b640-316e08f8c406",
+                "target": "2c3f9212-c893-460c-ae79-6d104d6ad211"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952081",
+                "id": "42c9e245-b3ee-47b5-9f76-2054f2b125a4",
+                "source": "80be15f9-1e16-4117-be51-42d151559ea5",
+                "target": "0ce37c45-64e1-4680-b8cf-a5e7ddc2e99e"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952079",
+                "id": "2badd155-c775-437d-9e25-9deb8345c2c5",
+                "source": "834e51c4-99dc-4f78-b4f0-cc35956e3954",
+                "target": "36c43804-12f5-46ad-8d37-d6ab4c0dec40"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952082",
+                "id": "58c055dc-7f02-43ae-8e0e-e9a9ad60440f",
+                "source": "a6388f24-d50f-4210-a853-1cb3ac73517b",
+                "target": "3bbf6074-25d9-4fdd-9ecd-ed48ab6c1cb3"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952080",
+                "id": "fa441f3e-c88a-4488-8020-77968e602648",
+                "source": "5626c9c5-27b2-4eb4-9b82-31d813214cdd",
+                "target": "0202cf8f-757f-44fc-bcc7-40e28ea9101b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952084",
+                "id": "6600ddcb-2fa6-410d-b567-9114c5bbfe39",
+                "source": "619ada8f-3ad1-4216-8984-89b1e8dfe076",
+                "target": "2c3f9212-c893-460c-ae79-6d104d6ad211"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952083",
+                "id": "6fdbaff7-c83b-40c1-8d19-70f52a1fe635",
+                "source": "49e21428-c499-4178-a9db-1f8dc017ce21",
+                "target": "4846a6db-f205-4f7b-abfb-c8e0a7654aa7"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952085",
+                "id": "084bfe67-42bb-4686-b7cb-703d0a2e797f",
+                "source": "e33357f2-ca70-4e2a-a291-d0b0f0d7a3b3",
+                "target": "81ef52c5-0db7-43b8-b114-ba737f22acc3"
+            },
+            {
+                "status": "approved",
+                "type_id": "23779",
+                "value": "ОК-94952086",
+                "id": "ad7f817c-30f1-4859-a22b-80e97bfcbe99",
+                "source": "e33357f2-ca70-4e2a-a291-d0b0f0d7a3b3",
+                "target": "0202cf8f-757f-44fc-bcc7-40e28ea9101b"
+            }
+        ],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-94952038",
+                "id": "b0dcb739-3ca3-4b12-8491-7957cb99897c",
+                "source": "3bbf6074-25d9-4fdd-9ecd-ed48ab6c1cb3",
+                "target": "a6760a35-0a51-4ecd-b802-76903dd6b3cd"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952064",
+                "id": "8ad2214a-bd33-409f-b9a3-15f1e18fff5d",
+                "source": "834e51c4-99dc-4f78-b4f0-cc35956e3954",
+                "target": "17e5d011-81ca-4a4a-824c-4d5157221585"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952060",
+                "id": "15883c36-7870-4467-8c84-8073da248dad",
+                "source": "a6388f24-d50f-4210-a853-1cb3ac73517b",
+                "target": "b0711be7-cfbf-45b9-a5c1-488b93cc8f57"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-94952052",
+                "id": "9c376dda-baa1-4d13-b7eb-08637ec2439f",
+                "source": "0ce37c45-64e1-4680-b8cf-a5e7ddc2e99e",
+                "target": "be6354ba-a7b0-40c7-8715-ae8d11186a2e"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952058",
+                "id": "c3415b8a-2041-411b-883d-0f6dbcc106da",
+                "source": "619ada8f-3ad1-4216-8984-89b1e8dfe076",
+                "target": "add91dbe-5b69-41f1-b239-cb5383a4bfdc"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-94952022",
+                "id": "ee4814bd-eca9-46e0-bf9a-7e14771ad7f0",
+                "source": "0202cf8f-757f-44fc-bcc7-40e28ea9101b",
+                "target": "8bbf3020-b7a0-4e8f-b7b6-adcb4227a4a5"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952054",
+                "id": "6618f00d-805e-46e9-943a-a2d2abe17dab",
+                "source": "49e21428-c499-4178-a9db-1f8dc017ce21",
+                "target": "239c2a45-b12e-4910-94d0-d1eea7badfb7"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-94952036",
+                "id": "7e65e160-fd39-4bb6-8907-3ceabe8313ab",
+                "source": "4846a6db-f205-4f7b-abfb-c8e0a7654aa7",
+                "target": "3df5fd45-9293-4525-a05b-841fdc946014"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-94952042",
+                "id": "327cc241-93ae-473f-9085-d9c560b0b773",
+                "source": "2c3f9212-c893-460c-ae79-6d104d6ad211",
+                "target": "a9de84a9-4de0-4081-a256-98ecd07c1571"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-94952026",
+                "id": "22af83e9-dba6-4d29-be4c-ece5f8eb81b1",
+                "source": "36c43804-12f5-46ad-8d37-d6ab4c0dec40",
+                "target": "3915de57-ce55-47b5-b368-e979f407ce04"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-94952048",
+                "id": "57bde91e-63d2-47bb-81db-7fe48094833d",
+                "source": "81ef52c5-0db7-43b8-b114-ba737f22acc3",
+                "target": "b20743ad-e272-44bd-9df8-480de7a1d2a0"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952069",
+                "id": "aa76bd40-cafe-42d2-978b-8cca3a0569d9",
+                "source": "58e7827e-4e31-44af-b67f-f1bbfd640fc9",
+                "target": "b19e98b4-f480-4af1-8a5e-e29f3b2f1019"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952044",
+                "id": "8714dd1b-755f-498b-9c18-60e3782affd8",
+                "source": "e33357f2-ca70-4e2a-a291-d0b0f0d7a3b3",
+                "target": "40e07365-082c-4878-bc2e-3d380a30c1bc"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952072",
+                "id": "e261eed0-3743-4345-90c1-597e68977d42",
+                "source": "80be15f9-1e16-4117-be51-42d151559ea5",
+                "target": "cba5c572-1528-4803-a70c-d11feb011bc9"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952030",
+                "id": "51582952-31a1-40ab-9637-78c3ee7c0f79",
+                "source": "19dd3ab2-3dd8-4e3e-8cef-dd4daddf0520",
+                "target": "72f1a60a-f1bf-4a9d-a6dd-10372620b0e8"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952024",
+                "id": "e153da92-e53a-45ec-b85c-f17c20a2f28b",
+                "source": "834e51c4-99dc-4f78-b4f0-cc35956e3954",
+                "target": "adf79f71-3074-4967-87fb-369ed203bc5c"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952065",
+                "id": "32b22cf1-37a1-49b2-aeec-d5958e70b7e6",
+                "source": "a6388f24-d50f-4210-a853-1cb3ac73517b",
+                "target": "93c2e62e-e06a-4183-b8a1-cac4067aab93"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952066",
+                "id": "0b0a2570-0a46-4ce8-8828-cef7c264dd92",
+                "source": "619ada8f-3ad1-4216-8984-89b1e8dfe076",
+                "target": "cc805f21-6eba-4f25-9d06-2e1ea11ba6d4"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952067",
+                "id": "2aacfae2-b5c7-4f1f-92d2-1a25cf596d5d",
+                "source": "49e21428-c499-4178-a9db-1f8dc017ce21",
+                "target": "def310d4-a42d-41c7-818b-715bbdabb4eb"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952028",
+                "id": "d974f082-ed54-4206-8d83-1f1fcec865b7",
+                "source": "d6c18d8a-c80e-4477-ac05-4f8a6dcaddfd",
+                "target": "b05a129a-9e3e-421e-9ca3-545e1abffb6d"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952068",
+                "id": "fd88a1e3-fd3e-4466-9892-3360735b119e",
+                "source": "5626c9c5-27b2-4eb4-9b82-31d813214cdd",
+                "target": "95410dd8-e382-4d25-8f6b-fd4d448fa412"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952032",
+                "id": "c2ec9b56-54e7-446e-959a-4654a096ac66",
+                "source": "80be15f9-1e16-4117-be51-42d151559ea5",
+                "target": "1f28efee-aa28-411b-9f75-e58ed6c2e325"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952034",
+                "id": "5259e670-2094-40df-8801-d1f5065ac500",
+                "source": "c25bf0a0-57e6-4093-bfbd-ec475c2aa028",
+                "target": "376a0155-0ccd-4989-a2f3-59302fc82df2"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952061",
+                "id": "a267da73-60e3-41d7-885b-23041625b5f9",
+                "source": "19dd3ab2-3dd8-4e3e-8cef-dd4daddf0520",
+                "target": "e0f9a9b4-8fca-47a1-baa0-6f2945a0fefe"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952050",
+                "id": "c07982ed-f3c3-42bc-aa0c-fd35c48bd78a",
+                "source": "5626c9c5-27b2-4eb4-9b82-31d813214cdd",
+                "target": "d67ebc98-69b0-4220-9ac0-bad9c62eaa8f"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952046",
+                "id": "5991c4da-38a5-4661-b4df-0d7e4ef5be33",
+                "source": "58e7827e-4e31-44af-b67f-f1bbfd640fc9",
+                "target": "b64b9041-5a3e-4869-ae20-b1960cdbaf40"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952070",
+                "id": "ef2f7bac-18eb-43c6-bc73-0c92e7baec66",
+                "source": "e33357f2-ca70-4e2a-a291-d0b0f0d7a3b3",
+                "target": "de7d1359-e052-48e7-80a2-7ccd1b8a01cb"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952071",
+                "id": "0b78af5f-1932-4740-b8c2-d69b486fc7b2",
+                "source": "e33357f2-ca70-4e2a-a291-d0b0f0d7a3b3",
+                "target": "bbe4ed84-8d1e-4ad1-80f8-44d2f62c1ae4"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952062",
+                "id": "c7d10e45-c9f7-45e4-94c0-3989f422231a",
+                "source": "d6c18d8a-c80e-4477-ac05-4f8a6dcaddfd",
+                "target": "b50ce64f-1687-4cd8-a8b6-64b8f9161417"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952063",
+                "id": "4bacd835-93ea-4f54-85a5-8e5163f52c2c",
+                "source": "c25bf0a0-57e6-4093-bfbd-ec475c2aa028",
+                "target": "77f7e9fa-a149-4305-94b4-e33de5433069"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-94952040",
+                "id": "642427e0-18d9-44c2-9645-5a00a56674a3",
+                "source": "699a325f-37e0-4795-b640-316e08f8c406",
+                "target": "ecfac7df-7ef5-431f-bc81-820497910d0b"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-94952073",
+                "id": "ae03db33-9042-4fc8-8905-71fec04439f6",
+                "source": "699a325f-37e0-4795-b640-316e08f8c406",
+                "target": "b12f6b2f-1fa2-4eee-881d-2f0bfb4cf47f"
+            },
+            {
+                "status": "approved",
+                "type_id": "21515",
+                "value": "ОК-94952056",
+                "id": "7ad8cbe3-1743-4d46-8a3d-487d323b5747",
+                "source": "32e4fd8d-ec9e-450a-ac42-44b24573d4f2",
+                "target": "31071d2b-3a3c-4e31-8161-30471693a69e"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-94952009",
+                "id": "38186157-9729-4a6c-8fd2-62d872a6b969",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "83e826ce-77c8-46d2-86df-bd1d7b540b89"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-94952010",
+                "id": "1b3d3e2d-cfb6-446a-9d45-e10e747f2529",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "201980d3-0061-4a61-9863-12c318be1c8c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-94952011",
+                "id": "49bf475d-f22b-43e3-9bd8-ac3f1e91a753",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "b8fa61a3-2fa3-4732-8347-b45fb5517b4b"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-94952012",
+                "id": "d02c6bff-5c42-4a3a-9ba7-0500da13ed76",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "37b9ccef-8ca7-474f-a5ba-1aec3ff0ef5c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-94952013",
+                "id": "067896e8-74c1-4ca6-b1a8-a811f6469b02",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "87c28047-62ee-420e-b9b7-363daec7dc88"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-94952014",
+                "id": "8f15c2ce-823e-4250-87c2-7731398689df",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "1bd768f0-80fd-4646-863b-fb3aa21fca97"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-94952015",
+                "id": "acb2eb28-33f9-4139-9390-2104b6becfcf",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "3c720e1c-697e-4bab-80d5-077320f6bf46"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-94952016",
+                "id": "dcdfd58b-962b-4795-b66b-4237fbc9eb0c",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "5113bbb8-d6c5-42ca-b23b-e31c9c53f6b7"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-94952017",
+                "id": "35d74a27-0e0c-485d-af0e-087391b5b596",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "043c4654-ba9b-4d6d-82a4-349c1a97150a"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-94952018",
+                "id": "5f502c9d-8c7e-4096-84a1-d14f907abc2f",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "3a298d44-6f32-4e58-bb6a-b7500824cc30"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-94952019",
+                "id": "54d0ca23-d59c-4492-8a2e-6b7cad3ed28a",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "e3c8e2a8-8574-493e-bca2-2ebb60564689"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-94952020",
+                "id": "90a7c198-62c6-4312-bb05-4e7954fb7826",
+                "source": "e2596aaf-653d-438d-817a-c0680a35a34e",
+                "target": "527dc306-ee01-403b-916c-23ca87e1bcf0"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b5504164-fa71-4994-9922-99e365868eec",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "be6354ba-a7b0-40c7-8715-ae8d11186a2e",
+                "id": "a0e7b92f-e5dc-4a50-aac7-d41bf5f52c61"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0c9e86d6-260f-4700-be38-56b9c4da91ff",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "b50ce64f-1687-4cd8-a8b6-64b8f9161417",
+                "id": "91961769-23fd-40c0-84e9-ab3468e1202a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e912c64c-984c-413e-baaf-76b6e73116d8",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "e0f9a9b4-8fca-47a1-baa0-6f2945a0fefe",
+                "id": "6c192b18-f8cd-4df3-9849-27fd9c62801e"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "754d2d8c-77c8-483c-b304-19f8ce0b61c9",
+                    "start": 0,
+                    "end": 22
+                },
+                "value": "a9de84a9-4de0-4081-a256-98ecd07c1571",
+                "id": "c302a4dc-4133-4c69-8f0a-f71b93c5f540"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8ca13004-8d75-49a9-a9d3-40699dad6e62",
+                    "start": 0,
+                    "end": 22
+                },
+                "value": "a9de84a9-4de0-4081-a256-98ecd07c1571",
+                "id": "79ab1afb-478c-44c2-958e-21fd9d7ec496"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "28f99f38-4c6b-4d3a-82d9-4dc72b0e0da5",
+                    "start": 0,
+                    "end": 22
+                },
+                "value": "a9de84a9-4de0-4081-a256-98ecd07c1571",
+                "id": "fba1ae15-95a3-4b4b-bcc5-d2e8d16bbcef"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "65f9be8d-6391-478b-96bf-6638ac87414a",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "77f7e9fa-a149-4305-94b4-e33de5433069",
+                "id": "9b9558cc-5edb-4c0c-acb4-a62186d75e72"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f5b46c2a-7a19-4215-b936-023f11d12c0c",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "b12f6b2f-1fa2-4eee-881d-2f0bfb4cf47f",
+                "id": "9ebce839-d7d4-476b-a456-fc1bd1abf724"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "50c5ea9b-873d-46dd-b279-7ac9262f3a28",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "b19e98b4-f480-4af1-8a5e-e29f3b2f1019",
+                "id": "2d3c997a-c052-4779-a792-31d456a8c4c8"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "38bcff63-be2e-4ff4-97ba-67acb8ae6d30",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "17e5d011-81ca-4a4a-824c-4d5157221585",
+                "id": "1811ed4d-2bdd-42e5-97e0-b4c83dbdb492"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "082fe50c-9eec-466e-8a87-b41df169685b",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "8bbf3020-b7a0-4e8f-b7b6-adcb4227a4a5",
+                "id": "872808af-b867-4e36-85a9-9d87ee42b861"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0f1b9c55-5a26-4020-a307-193936eaea68",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "95410dd8-e382-4d25-8f6b-fd4d448fa412",
+                "id": "4474b865-69df-401c-9066-b87023d55489"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a96ea3cd-039f-4d32-9ed3-b262961c4960",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "cba5c572-1528-4803-a70c-d11feb011bc9",
+                "id": "ee4dc736-b68d-4291-ae57-634be62189ec"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "edf789bd-0f72-45ca-a711-18714196899b",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "93c2e62e-e06a-4183-b8a1-cac4067aab93",
+                "id": "fd239253-4812-4b7e-9218-19e0c7f97a36"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a8889f70-c6e0-4ca3-a700-6bb30dad779a",
+                    "start": 0,
+                    "end": 35
+                },
+                "value": "239c2a45-b12e-4910-94d0-d1eea7badfb7",
+                "id": "0a9e0a54-6cd6-400c-a7bb-e276cf859738"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b58115e4-e1e1-42b2-bd8d-d0997880253c",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "def310d4-a42d-41c7-818b-715bbdabb4eb",
+                "id": "6ac12404-ff26-4574-81e6-36a6b67ed327"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "303e0f45-bfd8-48d1-bf1d-9ec5445ef6fe",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "cc805f21-6eba-4f25-9d06-2e1ea11ba6d4",
+                "id": "efbe2359-6cca-443d-acc9-1a761dc1ac16"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ab6e5a39-643e-4c9f-9e75-0ff25a01fb71",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "de7d1359-e052-48e7-80a2-7ccd1b8a01cb",
+                "id": "114e510b-3e63-493a-b760-67bc90d79f20"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c42647c1-6a36-4991-b028-4c2bf99fbf25",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "bbe4ed84-8d1e-4ad1-80f8-44d2f62c1ae4",
+                "id": "2b909b33-3554-4605-97a2-04779602fd93"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "dfe55c24-ba76-4481-a74e-6d2372e9aef0",
+                    "start": 0,
+                    "end": 27
+                },
+                "value": "40e07365-082c-4878-bc2e-3d380a30c1bc",
+                "id": "2ae83080-0219-46fc-8eb8-5ea6f6edba52"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f85f9fb6-cfdf-49d6-8a7f-5142cd710e36",
+                    "start": 0,
+                    "end": 70
+                },
+                "value": "a6760a35-0a51-4ecd-b802-76903dd6b3cd",
+                "id": "0a27c46c-e276-4648-9533-168a07427895"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9a4ab5cd-51dc-4ab1-94d6-f04bf6dba076",
+                    "start": 0,
+                    "end": 90
+                },
+                "value": "b20743ad-e272-44bd-9df8-480de7a1d2a0",
+                "id": "15cb4103-07c0-4405-94ef-1bf2dda0b4a4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "982c6d36-05da-4abe-98f5-487f784bdc07",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "3915de57-ce55-47b5-b368-e979f407ce04",
+                "id": "1a554c94-a95d-476f-bd87-5c30467692a6"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "51f77ea1-82fd-4f63-9d76-4a5ebd768d9c",
+                    "start": 0,
+                    "end": 22
+                },
+                "value": "1f28efee-aa28-411b-9f75-e58ed6c2e325",
+                "id": "1d20a742-72d8-4b55-97d4-4d32a2b08c5a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "edd074a4-bebf-494e-99ac-d8d701917802",
+                    "start": 0,
+                    "end": 33
+                },
+                "value": "b64b9041-5a3e-4869-ae20-b1960cdbaf40",
+                "id": "1dacd9dc-cca3-43eb-87a8-603a4453afa8"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "53976abd-a7a5-4a09-bcf7-bde6df77d2a0",
+                    "start": 0,
+                    "end": 22
+                },
+                "value": "a9de84a9-4de0-4081-a256-98ecd07c1571",
+                "id": "1fdf0f6b-f2a8-44d6-bad2-550a07f88f83"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "51308a1d-281d-4dae-85d9-f1fdf432dba2",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "add91dbe-5b69-41f1-b239-cb5383a4bfdc",
+                "id": "22b6a432-d659-4b9d-a86e-f68fcfe11fe7"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9264bc7a-a215-46b3-a58e-a0c95d147b5d",
+                    "start": 0,
+                    "end": 27
+                },
+                "value": "40e07365-082c-4878-bc2e-3d380a30c1bc",
+                "id": "39700eb7-35ee-4e6d-81c1-d6019ecb1a69"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "128f5a42-447a-4858-836e-e62c18673f8c",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "be6354ba-a7b0-40c7-8715-ae8d11186a2e",
+                "id": "44f8a71a-1b1f-4684-8aca-f95ebbcdbc0f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "14b1336a-8914-4b6f-92d7-63f8abe6ad10",
+                    "start": 0,
+                    "end": 31
+                },
+                "value": "adf79f71-3074-4967-87fb-369ed203bc5c",
+                "id": "47ad6832-f60f-4596-be1a-821ceafcc350"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4d056730-9939-4e18-9f70-a723e74c24a0",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "31071d2b-3a3c-4e31-8161-30471693a69e",
+                "id": "50fdd24c-465e-4536-9ddc-d44ef1b24d8d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "92fe0fa4-493b-4168-8ea9-2d85b04687c6",
+                    "start": 0,
+                    "end": 43
+                },
+                "value": "d67ebc98-69b0-4220-9ac0-bad9c62eaa8f",
+                "id": "60202d8c-45b1-48e3-9180-be09b6860ff2"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "492e43e7-870f-4478-b6bb-068f7571ef1b",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "8bbf3020-b7a0-4e8f-b7b6-adcb4227a4a5",
+                "id": "611f3f68-e4c7-4c04-bbfc-35dd2b6ced6e"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c5efade0-41bb-475d-8045-49c9b806c84a",
+                    "start": 0,
+                    "end": 30
+                },
+                "value": "376a0155-0ccd-4989-a2f3-59302fc82df2",
+                "id": "7348c7c3-7f18-4ccf-9691-9d55f16e6e68"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7fb9e5ca-e293-49a7-8d3f-c4a5c80e1d5f",
+                    "start": 0,
+                    "end": 68
+                },
+                "value": "b0711be7-cfbf-45b9-a5c1-488b93cc8f57",
+                "id": "7a7506e5-b15d-480c-86e8-3195b2039dd6"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b763a816-b570-408e-bc9d-56104bd34722",
+                    "start": 0,
+                    "end": 49
+                },
+                "value": "ecfac7df-7ef5-431f-bc81-820497910d0b",
+                "id": "951af8b4-f650-4399-a736-50fb63a65604"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6cafe62d-14f4-4079-8159-ba5dca5f01a9",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "3df5fd45-9293-4525-a05b-841fdc946014",
+                "id": "da99f8ce-9952-4d18-86e3-425fc35ba918"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b39be7f5-41b2-45f3-b6d2-3e2976ae4f5b",
+                    "start": 0,
+                    "end": 41
+                },
+                "value": "b05a129a-9e3e-421e-9ca3-545e1abffb6d",
+                "id": "e0a04ca9-c27b-4150-a9e0-923ee4623375"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4a3b8b06-2218-4719-810c-7ec6904b922e",
+                    "start": 0,
+                    "end": 32
+                },
+                "value": "72f1a60a-f1bf-4a9d-a6dd-10372620b0e8",
+                "id": "e670f8b1-1a35-4a5d-98e4-a080b8ec3b21"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_1.docx",
+        "file_name": "table_1.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 51299,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1743071805,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/e259%2F6aaf%2Ftable_1.docx",
+        "markers": [],
+        "account": [],
+        "story": "e2596aaf-653d-438d-817a-c0680a35a34e"
+    }
+}

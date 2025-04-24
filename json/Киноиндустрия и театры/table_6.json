@@ -1,0 +1,722 @@
+{
+    "id": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+	"VERSION":"1.0",
+    "main_node": "4c6e3ea2-392f-48d4-b6b9-b35af1d963e0",
+    "content": [
+        {
+            "type": "text",
+            "id": "4c6e3ea2-392f-48d4-b6b9-b35af1d963e0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "f9c93865-f748-4486-9d90-d36089947435"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f9c93865-f748-4486-9d90-d36089947435",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "9171faeb-8560-46aa-8c33-300c9e219aa2"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "9171faeb-8560-46aa-8c33-300c9e219aa2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7990b583-39fc-4699-b676-d0e780a12db0",
+                "6f51a86e-ab04-44d1-8486-328716f7c10d",
+                "e36c4873-3429-4de2-8507-a5fa1c1115c3",
+                "54518b91-c2df-4138-9b61-f2d23cfb1fe3",
+                "5f38ac86-d982-4565-8802-c149550f215c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "7990b583-39fc-4699-b676-d0e780a12db0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "f7e6d590-4631-43bd-9ed5-fbb46f314ef6",
+                "c8a26a6e-71a7-4859-986c-95c52f0f08ab"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f7e6d590-4631-43bd-9ed5-fbb46f314ef6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "df700b6a-05de-44db-a07b-8363a31352ca"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "df700b6a-05de-44db-a07b-8363a31352ca",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Актёр",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c8a26a6e-71a7-4859-986c-95c52f0f08ab",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "98ff48fb-da8e-4c0a-8c57-cb87fb010ba0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "98ff48fb-da8e-4c0a-8c57-cb87fb010ba0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Роль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "6f51a86e-ab04-44d1-8486-328716f7c10d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d2ff386f-ee9e-4e5f-8555-24d61dcaaa45",
+                "9f91c6ee-5460-4001-8c8f-9695b3c32c37"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d2ff386f-ee9e-4e5f-8555-24d61dcaaa45",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3bcf88a3-7c3d-4ccb-aa5b-9d24092eb240"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3bcf88a3-7c3d-4ccb-aa5b-9d24092eb240",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Конни Нильсен",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9f91c6ee-5460-4001-8c8f-9695b3c32c37",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f693ba1e-c4d2-499e-b029-5a2746279fd5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f693ba1e-c4d2-499e-b029-5a2746279fd5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Diane de Monx",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "e36c4873-3429-4de2-8507-a5fa1c1115c3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "903e1d15-c88b-434d-abea-fa1d0201ddbc",
+                "a1e15be8-4d15-417e-8148-c92cfb476bbf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "903e1d15-c88b-434d-abea-fa1d0201ddbc",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a616243e-5b42-4041-97ef-5249e7d4ee24"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a616243e-5b42-4041-97ef-5249e7d4ee24",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Шарль Берлен",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a1e15be8-4d15-417e-8148-c92cfb476bbf",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a703191f-fac9-4e37-86a7-66437c0ee387"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a703191f-fac9-4e37-86a7-66437c0ee387",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Hervé Le Millinec",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "54518b91-c2df-4138-9b61-f2d23cfb1fe3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "bf7775eb-a907-4114-a220-4e3fa1c7c8e7",
+                "c7d30697-8b96-45a5-95e6-3931e6f68818"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bf7775eb-a907-4114-a220-4e3fa1c7c8e7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "642005d1-c161-4120-9136-9770ef31a21f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "642005d1-c161-4120-9136-9770ef31a21f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Хлоя Севиньи",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c7d30697-8b96-45a5-95e6-3931e6f68818",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1bc26771-df98-49ff-8049-487a4ed31766"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1bc26771-df98-49ff-8049-487a4ed31766",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Elise Lipsky",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "5f38ac86-d982-4565-8802-c149550f215c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "9784502a-e79d-46e0-8aa1-67f618044a95",
+                "9a1e2059-c4cd-4231-83b9-189c6b2ba349"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9784502a-e79d-46e0-8aa1-67f618044a95",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "07b4c495-8b20-41e2-ab97-3c2ac012d8ae"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "07b4c495-8b20-41e2-ab97-3c2ac012d8ae",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Доминик Реймон",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9a1e2059-c4cd-4231-83b9-189c6b2ba349",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "84d6ad4c-d330-444e-bde6-f4793d58182c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "84d6ad4c-d330-444e-bde6-f4793d58182c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Karen",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "cdfa6179-382a-4ab0-8b0a-8fb1b84170b7"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "12c7359d-731f-4e03-b508-53f0f19bab6f"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "1e20f87c-a4eb-4b97-90b7-addf9d0874df"
+            },
+            {
+                "status": "new",
+                "type_id": "668",
+                "value": [],
+                "id": "279087f0-327d-4ed3-a202-f4dc8a69467a"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-83366569"
+                },
+                "id": "ad7add0d-c826-4a4f-bb94-caf441d14e35"
+            }
+        ],
+        "atom": [
+            {
+                "id": "063a1592-6c4a-42f5-8679-4b95668d08b0",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Конни Нильсен",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "f49bb2db-4c55-4fff-b21e-f980b8c4ec5f",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Шарль Берлен",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "240fde56-f74f-4f2d-980e-15745b1b141c",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Хлоя Севиньи",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "eb1af39b-5131-45fa-9ac0-bb11a4d9c96b",
+                "type_id": "1",
+                "value": [
+                    {
+                        "type": "StringValue",
+                        "value": "Доминик Реймон",
+                        "confidence": 1
+                    }
+                ],
+                "status": "new"
+            },
+            {
+                "id": "e5580d8c-8557-454f-9389-d30afabd5602",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 1737680168
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a81d5528-99d7-465c-84f8-891f9a44bd6f",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "936c9282-6eff-48e3-b556-08d49205d68d",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 50348
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e2c8061a-c863-41aa-b82d-9e44e6b0735b",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 1737680168
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9e0ba2d9-1ff7-4e67-b81e-120fb7ce1488",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_7.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "466005a6-9750-475f-bef1-4c84504f454f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f958921e-a596-403b-87d1-4a4750ca0c0d",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_7.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "bfba0151-822c-4aaa-93db-f380b40d0209",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3207"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "04644298-9827-4ebb-bf21-1192fe4d948d",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/ad7a/dd0d/table_7.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d510edb6-b90a-4731-b4c5-c8dde5f30219",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d98dc8ff-4224-4748-82b9-ba7dc4db1066",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 1737680168
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9875d1ee-16d6-444b-9681-188de637fa6e",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [],
+        "property": [
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "8c222715-c842-445f-8d57-883cb01c6411",
+                "source": "cdfa6179-382a-4ab0-8b0a-8fb1b84170b7",
+                "target": "063a1592-6c4a-42f5-8679-4b95668d08b0"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "ba49333d-a97c-4fce-b149-ef2da938ef68",
+                "source": "12c7359d-731f-4e03-b508-53f0f19bab6f",
+                "target": "f49bb2db-4c55-4fff-b21e-f980b8c4ec5f"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "8679ac35-b2d8-4653-94f3-14aed9e1e36d",
+                "source": "1e20f87c-a4eb-4b97-90b7-addf9d0874df",
+                "target": "240fde56-f74f-4f2d-980e-15745b1b141c"
+            },
+            {
+                "status": "new",
+                "type_id": "671",
+                "id": "9a0955fb-da5c-4986-ba85-25e277e8f352",
+                "source": "279087f0-327d-4ed3-a202-f4dc8a69467a",
+                "target": "eb1af39b-5131-45fa-9ac0-bb11a4d9c96b"
+            },
+            {
+                "status": "approved",
+                "type_id": "2842",
+                "value": "ОК-83366573",
+                "id": "5949980f-f5bc-4db8-ac29-d5fd26dcd123",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "e5580d8c-8557-454f-9389-d30afabd5602"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-83366574",
+                "id": "b8d918dc-f2f8-4802-97a9-03064e1d1832",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "a81d5528-99d7-465c-84f8-891f9a44bd6f"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-83366575",
+                "id": "25b0f91f-5127-4e69-b395-98e29890ccce",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "936c9282-6eff-48e3-b556-08d49205d68d"
+            },
+            {
+                "status": "approved",
+                "type_id": "2844",
+                "value": "ОК-83366576",
+                "id": "74beafb2-6d28-45d6-b317-222f995556c6",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "e2c8061a-c863-41aa-b82d-9e44e6b0735b"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-83366577",
+                "id": "748c0954-3b89-4a4e-a5e2-d2517566f164",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "9e0ba2d9-1ff7-4e67-b81e-120fb7ce1488"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-83366578",
+                "id": "2bfabbff-d201-40bc-8b81-49a32521a89f",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "466005a6-9750-475f-bef1-4c84504f454f"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-83366579",
+                "id": "41b94bc3-902a-4053-aa33-20cf39f4eecd",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "f958921e-a596-403b-87d1-4a4750ca0c0d"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-83366580",
+                "id": "f050e2dd-7cbe-4b30-a78f-052e115d3748",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "bfba0151-822c-4aaa-93db-f380b40d0209"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-83366581",
+                "id": "8b22abb6-094f-4661-b3ca-01aca7a841d7",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "04644298-9827-4ebb-bf21-1192fe4d948d"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-83366582",
+                "id": "544d6467-94de-40e8-9077-ecee6514a779",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "d510edb6-b90a-4731-b4c5-c8dde5f30219"
+            },
+            {
+                "status": "approved",
+                "type_id": "2843",
+                "value": "ОК-83366583",
+                "id": "bf37e173-4e2f-4fe0-9f46-e88b4521d8cd",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "d98dc8ff-4224-4748-82b9-ba7dc4db1066"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-83366584",
+                "id": "196067fd-aab7-42a2-9239-898cac1cf1f6",
+                "source": "ad7add0d-c826-4a4f-bb94-caf441d14e35",
+                "target": "9875d1ee-16d6-444b-9681-188de637fa6e"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3bcf88a3-7c3d-4ccb-aa5b-9d24092eb240",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "063a1592-6c4a-42f5-8679-4b95668d08b0",
+                "id": "eb48c1b5-fd55-4559-ba05-4db2802f4313"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a616243e-5b42-4041-97ef-5249e7d4ee24",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "f49bb2db-4c55-4fff-b21e-f980b8c4ec5f",
+                "id": "25ad832f-272f-4a1c-9aa4-3777d2b8794b"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "642005d1-c161-4120-9136-9770ef31a21f",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "240fde56-f74f-4f2d-980e-15745b1b141c",
+                "id": "bf1a6911-da54-42c8-9c77-ce1607fa2afe"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "07b4c495-8b20-41e2-ab97-3c2ac012d8ae",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "eb1af39b-5131-45fa-9ac0-bb11a4d9c96b",
+                "id": "c82ed4da-777c-40c4-801d-0a618efaf6c8"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_7.docx",
+        "file_name": "table_7.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 50348,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1737680168,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/ad7a%2Fdd0d%2Ftable_7.docx",
+        "markers": [],
+        "account": [],
+        "story": "ad7add0d-c826-4a4f-bb94-caf441d14e35"
+    }
+}

@@ -1,0 +1,1391 @@
+{
+    "id": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+	"VERSION":"1.0",
+    "main_node": "39f8b20f-6d3c-4899-87d1-5d4c130ba493",
+    "content": [
+        {
+            "type": "text",
+            "id": "39f8b20f-6d3c-4899-87d1-5d4c130ba493",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0c454394-2201-44ea-a2eb-f6876790b49b"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0c454394-2201-44ea-a2eb-f6876790b49b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "bf68553a-f9f7-453e-94e9-38ea34e25e45"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "bf68553a-f9f7-453e-94e9-38ea34e25e45",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "aca41e53-f867-4a34-995d-3aeb87ee2b8e",
+                "9fadcd90-2c66-45b8-9d74-9c31dd099db8",
+                "26acd879-7143-4f4b-a541-074b6bd35c05",
+                "15b6dd06-3034-41ed-a35b-c3c8a1aa586a",
+                "84d7de8a-b09f-448e-ad6f-70603b9a95ef",
+                "3016c736-7113-408e-a19d-68adb26e798f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "aca41e53-f867-4a34-995d-3aeb87ee2b8e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "5d609458-d051-4910-ad86-b1b518bf0f3c",
+                "4fce3117-860b-4052-8060-06e9cf1fb490",
+                "1c918c34-6ceb-460a-830a-e0219eab87a4",
+                "8b843722-0d37-4e51-b2cd-c4da213220b8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5d609458-d051-4910-ad86-b1b518bf0f3c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "3cad4118-762c-4e50-8839-aabf475bc8e7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3cad4118-762c-4e50-8839-aabf475bc8e7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "№",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4fce3117-860b-4052-8060-06e9cf1fb490",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0f83ff03-f1d1-4684-bf3b-e19f9c2e6fc2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0f83ff03-f1d1-4684-bf3b-e19f9c2e6fc2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Основные услуг",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1c918c34-6ceb-460a-830a-e0219eab87a4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "98da9db2-6ebf-48e0-bded-1af309da41f7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "98da9db2-6ebf-48e0-bded-1af309da41f7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Объём импорта услуг, млрд долл. США",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8b843722-0d37-4e51-b2cd-c4da213220b8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "1983ab4e-0405-44c5-8017-47f1752f6eef"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1983ab4e-0405-44c5-8017-47f1752f6eef",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Процент от общего импорта услуг, %",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "9fadcd90-2c66-45b8-9d74-9c31dd099db8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "e3fdfd7e-5707-4259-bd15-5d0f0e4d6e54",
+                "4da210f9-b84c-4fdf-89c4-92c5e2e5c01e",
+                "f57481f4-0d46-4fbf-be25-b8a79f572126",
+                "700e02cb-92df-44e2-be66-92f5a9bdd9e5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e3fdfd7e-5707-4259-bd15-5d0f0e4d6e54",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8f07852b-2b1c-4745-a4d8-3455e1b868df"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8f07852b-2b1c-4745-a4d8-3455e1b868df",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4da210f9-b84c-4fdf-89c4-92c5e2e5c01e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "18a74b68-6eed-48e2-aebb-e711664026d6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "18a74b68-6eed-48e2-aebb-e711664026d6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Туризм",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f57481f4-0d46-4fbf-be25-b8a79f572126",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ee9cd34a-496a-4c5e-9e1e-35e031bc30e5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ee9cd34a-496a-4c5e-9e1e-35e031bc30e5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "10505",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "700e02cb-92df-44e2-be66-92f5a9bdd9e5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "baac62a3-b3cc-4453-bf0f-0be730d80af2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "baac62a3-b3cc-4453-bf0f-0be730d80af2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "488",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "26acd879-7143-4f4b-a541-074b6bd35c05",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "623013dd-359a-4567-937b-b213ac7821f9",
+                "145dcc64-a9c1-47fd-9972-1eaec3671089",
+                "201456ae-2e9b-430d-b8a5-59214faee29a",
+                "3af1a7d2-de0f-4a7c-873b-0405ffc9edc7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "623013dd-359a-4567-937b-b213ac7821f9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "423c734c-f867-44f6-ad0a-6739c516a05a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "423c734c-f867-44f6-ad0a-6739c516a05a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "145dcc64-a9c1-47fd-9972-1eaec3671089",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c7dcaf22-8cff-4ddf-9d72-d072a2ac4aa1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c7dcaf22-8cff-4ddf-9d72-d072a2ac4aa1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Транспорт",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "201456ae-2e9b-430d-b8a5-59214faee29a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5cec1688-2491-4d32-b2ab-2dc344153ced"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5cec1688-2491-4d32-b2ab-2dc344153ced",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "5401",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "3af1a7d2-de0f-4a7c-873b-0405ffc9edc7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "658c44da-e548-406b-953d-ebaba79e6d56"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "658c44da-e548-406b-953d-ebaba79e6d56",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "225",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "15b6dd06-3034-41ed-a35b-c3c8a1aa586a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "43e0e288-8b9a-4494-8338-01e277414776",
+                "103565f9-657e-44dd-a1b1-4aa92b90ab94",
+                "1e20b5c1-f8d7-41b5-a653-063b1df58c41",
+                "d141b3ef-8edc-46b7-92ef-5f4f3fa36393"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "43e0e288-8b9a-4494-8338-01e277414776",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "16fcbaff-85eb-4781-a6a9-0e44d4965491"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "16fcbaff-85eb-4781-a6a9-0e44d4965491",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "3",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "103565f9-657e-44dd-a1b1-4aa92b90ab94",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9ce9dbfa-fb6b-4a6e-bef0-badbb53ce8be"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9ce9dbfa-fb6b-4a6e-bef0-badbb53ce8be",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Прочие бизнес-услуги",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1e20b5c1-f8d7-41b5-a653-063b1df58c41",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4fe28f57-e618-4e00-a5ec-6a87ff31fdf0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4fe28f57-e618-4e00-a5ec-6a87ff31fdf0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2909",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d141b3ef-8edc-46b7-92ef-5f4f3fa36393",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0bb9cbe2-0111-46e5-befb-40322418b21e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0bb9cbe2-0111-46e5-befb-40322418b21e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "121",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "84d7de8a-b09f-448e-ad6f-70603b9a95ef",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "9186af95-0bf0-4d66-b501-9e86b3dd597b",
+                "d4e3af5b-c91c-48fe-9ece-707fa1cf6717",
+                "2c8e9f72-314b-4e66-b32d-1db35c9a3230",
+                "b36b238d-75d2-42a1-9fb5-acd50ef90612"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9186af95-0bf0-4d66-b501-9e86b3dd597b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "379ec0fd-d0e0-447c-afc0-ebe37d6bc7a9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "379ec0fd-d0e0-447c-afc0-ebe37d6bc7a9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "4",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d4e3af5b-c91c-48fe-9ece-707fa1cf6717",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2d30977a-1475-48b2-bfec-16367ef8b454"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2d30977a-1475-48b2-bfec-16367ef8b454",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Плата за использование интеллектуальной собственности",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2c8e9f72-314b-4e66-b32d-1db35c9a3230",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c873d840-5a33-4b8f-9f80-5a52a9c0771e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c873d840-5a33-4b8f-9f80-5a52a9c0771e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2340",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b36b238d-75d2-42a1-9fb5-acd50ef90612",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7558d33d-549d-4c6b-b686-06dd66dd0a35"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7558d33d-549d-4c6b-b686-06dd66dd0a35",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "98",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "3016c736-7113-408e-a19d-68adb26e798f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "699fd8ea-c147-4358-893e-0723a94c6dc9",
+                "f81baacf-4a99-4fd2-b917-f60dbac47216",
+                "d7aee016-d1d2-4b16-aead-1c3073e6d33a",
+                "79e25be0-4362-417b-8090-dc0abff84af5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "699fd8ea-c147-4358-893e-0723a94c6dc9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "afba1b3d-ebea-458d-87c4-d9187b1da78e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "afba1b3d-ebea-458d-87c4-d9187b1da78e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "5",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f81baacf-4a99-4fd2-b917-f60dbac47216",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "221b23ff-1b2b-430a-a0ed-82b52c69ab52"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "221b23ff-1b2b-430a-a0ed-82b52c69ab52",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Телекоммуникационные, компьютерные и информационные услуги",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d7aee016-d1d2-4b16-aead-1c3073e6d33a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7b3eeea4-5770-4123-9fec-b922093f7d46"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7b3eeea4-5770-4123-9fec-b922093f7d46",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1147",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "79e25be0-4362-417b-8090-dc0abff84af5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ddde815e-14c5-4d7a-bfae-0b22de214666"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ddde815e-14c5-4d7a-bfae-0b22de214666",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "48",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "23028",
+                "value": {
+                    "concept": "01958977-9552-7f30-ab56-98f6dee06242"
+                },
+                "id": "54fbe783-a8ba-42a2-abed-889d57a38cd4"
+            },
+            {
+                "status": "approved",
+                "type_id": "23028",
+                "value": {
+                    "concept": "01958977-94fd-76fc-a614-85918c31c73e"
+                },
+                "id": "87e2b332-6d8a-49ac-80fe-a9b0393e6e00"
+            },
+            {
+                "status": "approved",
+                "type_id": "23028",
+                "value": {
+                    "concept": "01958977-9526-7926-a054-a103b8416c26"
+                },
+                "id": "6a21756d-5323-45f1-bb01-dbe315f6f75a"
+            },
+            {
+                "status": "approved",
+                "type_id": "23028",
+                "value": {
+                    "concept": "01958977-94cd-7a47-a748-ee4917de069d"
+                },
+                "id": "0fd23373-77d8-4640-8bbf-11ac09d90988"
+            },
+            {
+                "status": "approved",
+                "type_id": "23028",
+                "value": {
+                    "concept": "01958977-9582-7985-a5c0-d87ce46a56bb"
+                },
+                "id": "4a62fc31-8c23-413a-b2f3-4597e17be891"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-85398011"
+                },
+                "id": "cab84340-e86c-498c-a7a9-f7f84a6316af"
+            }
+        ],
+        "atom": [
+            {
+                "id": "b6483462-a3c6-4a36-a60d-09949018510b",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Плата за использование интеллектуальной собственности"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8ee53c8b-2d90-46eb-b484-fb5ff5a3b8ae",
+                "type_id": "3990",
+                "value": {
+                    "type": "DoubleValue",
+                    "value": 98,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4918543c-43ce-41ae-82cc-7249ee064baa",
+                "type_id": "570",
+                "value": {
+                    "type": "DoubleValue",
+                    "value": 2340,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6b23f9ec-367f-4327-a48b-a52230211b50",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Прочие бизнес-услуги"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a1af947f-8ceb-48dd-9326-2dae061986b0",
+                "type_id": "570",
+                "value": {
+                    "type": "DoubleValue",
+                    "value": 2909,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "16ff3345-4628-434a-8e03-809fbc1540a2",
+                "type_id": "3990",
+                "value": {
+                    "type": "DoubleValue",
+                    "value": 121,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "925afa98-6cc3-4378-8e91-dd988d8fd899",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Телекоммуникационные, компьютерные и информационные услуги"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f8c47c71-24ea-469e-92dd-58592c6c971b",
+                "type_id": "3990",
+                "value": {
+                    "type": "DoubleValue",
+                    "value": 48,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8a0f1721-76cf-4dcb-8996-7c761a78619e",
+                "type_id": "570",
+                "value": {
+                    "type": "DoubleValue",
+                    "value": 1147,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "210f40e6-265b-4ebd-83c1-facac8a0cd8a",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Транспорт"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4b5f57ce-1b7f-4361-b1cd-c41f0f2abb29",
+                "type_id": "570",
+                "value": {
+                    "type": "DoubleValue",
+                    "value": 5401,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1daa14f9-5753-445d-b0d5-007210ab3351",
+                "type_id": "3990",
+                "value": {
+                    "type": "DoubleValue",
+                    "value": 225,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ba56c7bd-2f19-413c-91f0-06d8b2a891ca",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Туризм"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "106e9b41-f72c-4124-af54-c661a7d2ef19",
+                "type_id": "570",
+                "value": {
+                    "type": "DoubleValue",
+                    "value": 10505,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "dab3f687-fea9-4e6c-b12b-1f0e0dfa2d2e",
+                "type_id": "3990",
+                "value": {
+                    "type": "DoubleValue",
+                    "value": 488,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b48d22fc-6b7d-4b1a-9867-a071d4254868",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e3ec6629-dd13-440a-b155-1b818536f41d",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741768022
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d850937e-554f-496a-9634-2b0a801c1813",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 50802
+                },
+                "status": "approved"
+            },
+            {
+                "id": "10bf078e-8143-4acd-8825-32a9246a0cd9",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741768022
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1a0c0050-8b53-4641-8678-7847e097b07b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_6.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "fb20a3c9-accd-45dc-88dc-de5d079c9f61",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6372390d-d5c1-47fe-8cc7-a97b89b7d798",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "72331336-ce48-4840-90ca-074df412ef74",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_6.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "328bb041-cb22-48ca-9800-b7e535557b41",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3397"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2e80117a-1960-46f4-952f-2c4db4a6a954",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741768022
+                },
+                "status": "approved"
+            },
+            {
+                "id": "11546bc3-d035-4f8b-89d8-0ea0a959935c",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/cab8/4340/table_6.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "24bd58d6-b89a-4924-9bed-4ecd6367c181",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "23029",
+                "value": "ОК-85398032",
+                "id": "0b536456-dad7-4bbe-9c0b-fd922ef0f563",
+                "source": "54fbe783-a8ba-42a2-abed-889d57a38cd4",
+                "target": "b6483462-a3c6-4a36-a60d-09949018510b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23034",
+                "value": "ОК-85398037",
+                "id": "e54282e7-a4b6-4f12-ac35-1375ae7fb838",
+                "source": "54fbe783-a8ba-42a2-abed-889d57a38cd4",
+                "target": "8ee53c8b-2d90-46eb-b484-fb5ff5a3b8ae"
+            },
+            {
+                "status": "approved",
+                "type_id": "23032",
+                "value": "ОК-85398038",
+                "id": "6af30f91-09f2-42e3-82f7-373dce9febce",
+                "source": "54fbe783-a8ba-42a2-abed-889d57a38cd4",
+                "target": "4918543c-43ce-41ae-82cc-7249ee064baa"
+            },
+            {
+                "status": "approved",
+                "type_id": "23029",
+                "value": "ОК-85398036",
+                "id": "e230aa8e-fdbf-4e8a-ba68-8760d7390738",
+                "source": "87e2b332-6d8a-49ac-80fe-a9b0393e6e00",
+                "target": "6b23f9ec-367f-4327-a48b-a52230211b50"
+            },
+            {
+                "status": "approved",
+                "type_id": "23032",
+                "value": "ОК-85398039",
+                "id": "6287fe18-6903-48a9-b60f-f2eabd02e530",
+                "source": "87e2b332-6d8a-49ac-80fe-a9b0393e6e00",
+                "target": "a1af947f-8ceb-48dd-9326-2dae061986b0"
+            },
+            {
+                "status": "approved",
+                "type_id": "23034",
+                "value": "ОК-85398040",
+                "id": "3e07f29e-3af8-40f0-ae93-404a384620f5",
+                "source": "87e2b332-6d8a-49ac-80fe-a9b0393e6e00",
+                "target": "16ff3345-4628-434a-8e03-809fbc1540a2"
+            },
+            {
+                "status": "approved",
+                "type_id": "23029",
+                "value": "ОК-85398028",
+                "id": "61caffa2-8cee-4604-989a-ca997803367e",
+                "source": "6a21756d-5323-45f1-bb01-dbe315f6f75a",
+                "target": "925afa98-6cc3-4378-8e91-dd988d8fd899"
+            },
+            {
+                "status": "approved",
+                "type_id": "23034",
+                "value": "ОК-85398041",
+                "id": "b7d9aa6e-1642-444e-823f-c77f03251b0b",
+                "source": "6a21756d-5323-45f1-bb01-dbe315f6f75a",
+                "target": "f8c47c71-24ea-469e-92dd-58592c6c971b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23032",
+                "value": "ОК-85398042",
+                "id": "9e370b39-ac4e-4f70-ba64-0431880669b7",
+                "source": "6a21756d-5323-45f1-bb01-dbe315f6f75a",
+                "target": "8a0f1721-76cf-4dcb-8996-7c761a78619e"
+            },
+            {
+                "status": "approved",
+                "type_id": "23029",
+                "value": "ОК-85398034",
+                "id": "df6c7bac-aed5-46cd-81ff-c1efa6651e17",
+                "source": "0fd23373-77d8-4640-8bbf-11ac09d90988",
+                "target": "210f40e6-265b-4ebd-83c1-facac8a0cd8a"
+            },
+            {
+                "status": "approved",
+                "type_id": "23032",
+                "value": "ОК-85398043",
+                "id": "9cc58b22-643d-40d3-9611-e52e07ab5c05",
+                "source": "0fd23373-77d8-4640-8bbf-11ac09d90988",
+                "target": "4b5f57ce-1b7f-4361-b1cd-c41f0f2abb29"
+            },
+            {
+                "status": "approved",
+                "type_id": "23034",
+                "value": "ОК-85398044",
+                "id": "9ebdd167-300b-4711-a8a3-b40f78d008a3",
+                "source": "0fd23373-77d8-4640-8bbf-11ac09d90988",
+                "target": "1daa14f9-5753-445d-b0d5-007210ab3351"
+            },
+            {
+                "status": "approved",
+                "type_id": "23029",
+                "value": "ОК-85398030",
+                "id": "cc07ce67-88da-4455-a8e2-c1c0cc60d8e9",
+                "source": "4a62fc31-8c23-413a-b2f3-4597e17be891",
+                "target": "ba56c7bd-2f19-413c-91f0-06d8b2a891ca"
+            },
+            {
+                "status": "approved",
+                "type_id": "23032",
+                "value": "ОК-85398045",
+                "id": "d7af4b43-d4b9-42f5-a570-d59c1d6e034e",
+                "source": "4a62fc31-8c23-413a-b2f3-4597e17be891",
+                "target": "106e9b41-f72c-4124-af54-c661a7d2ef19"
+            },
+            {
+                "status": "approved",
+                "type_id": "23034",
+                "value": "ОК-85398046",
+                "id": "80e9bf77-a4d2-4135-af48-d08129f48411",
+                "source": "4a62fc31-8c23-413a-b2f3-4597e17be891",
+                "target": "dab3f687-fea9-4e6c-b12b-1f0e0dfa2d2e"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-85398015",
+                "id": "ca29bee0-a076-4b3c-b925-e3e20b51a0ad",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "b48d22fc-6b7d-4b1a-9867-a071d4254868"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-85398016",
+                "id": "df1815c1-0200-4570-bdea-a52b56e921d4",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "e3ec6629-dd13-440a-b155-1b818536f41d"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-85398017",
+                "id": "3b2c88fb-9f5d-4a99-bd5f-e3fe5dac971b",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "d850937e-554f-496a-9634-2b0a801c1813"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-85398018",
+                "id": "9f729d8a-518d-4cb7-bbf2-d40f6803c936",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "10bf078e-8143-4acd-8825-32a9246a0cd9"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-85398019",
+                "id": "d99cbabf-ce38-4b2d-856e-775ff84f07cb",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "1a0c0050-8b53-4641-8678-7847e097b07b"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-85398020",
+                "id": "12febfe9-f475-4f23-9d10-4d3c0febe380",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "fb20a3c9-accd-45dc-88dc-de5d079c9f61"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-85398021",
+                "id": "083cd8ab-448a-44df-b160-0cd5453e3a7b",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "6372390d-d5c1-47fe-8cc7-a97b89b7d798"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-85398022",
+                "id": "d9b6a1e1-c9b5-4d69-80ca-17002cbdf9cf",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "72331336-ce48-4840-90ca-074df412ef74"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-85398023",
+                "id": "206c3d19-d3d9-4415-b8d2-c1db001a8efe",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "328bb041-cb22-48ca-9800-b7e535557b41"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-85398024",
+                "id": "145ce74e-bbdd-4283-bbb9-78c8aa74a8d9",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "2e80117a-1960-46f4-952f-2c4db4a6a954"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-85398025",
+                "id": "9950c8c2-468e-4d6e-b702-cdcece18a1f5",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "11546bc3-d035-4f8b-89d8-0ea0a959935c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-85398026",
+                "id": "290f4bf1-3131-4d89-b4ed-03790914c5be",
+                "source": "cab84340-e86c-498c-a7a9-f7f84a6316af",
+                "target": "24bd58d6-b89a-4924-9bed-4ecd6367c181"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0bb9cbe2-0111-46e5-befb-40322418b21e",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "16ff3345-4628-434a-8e03-809fbc1540a2",
+                "id": "a8fd5d4e-c178-496d-a8ac-9c2f66f1ec85"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4fe28f57-e618-4e00-a5ec-6a87ff31fdf0",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "a1af947f-8ceb-48dd-9326-2dae061986b0",
+                "id": "5676ef27-c909-4112-89b6-7bbd5f8aa627"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9ce9dbfa-fb6b-4a6e-bef0-badbb53ce8be",
+                    "start": 0,
+                    "end": 20
+                },
+                "value": "6b23f9ec-367f-4327-a48b-a52230211b50",
+                "id": "113bac81-d799-4d6d-b880-78e82eab8db3"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "5cec1688-2491-4d32-b2ab-2dc344153ced",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "4b5f57ce-1b7f-4361-b1cd-c41f0f2abb29",
+                "id": "10c5086b-900f-45f5-824f-6ef6f9aa1431"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c7dcaf22-8cff-4ddf-9d72-d072a2ac4aa1",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "210f40e6-265b-4ebd-83c1-facac8a0cd8a",
+                "id": "fbf85847-5659-44d7-a7bf-3a1d8ddf904c"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "658c44da-e548-406b-953d-ebaba79e6d56",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "1daa14f9-5753-445d-b0d5-007210ab3351",
+                "id": "7f3aa022-4521-4706-983a-a3c2de12acc1"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "221b23ff-1b2b-430a-a0ed-82b52c69ab52",
+                    "start": 0,
+                    "end": 58
+                },
+                "value": "925afa98-6cc3-4378-8e91-dd988d8fd899",
+                "id": "b5558b86-fe6b-40d7-b6ec-7aede8ccc47d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ddde815e-14c5-4d7a-bfae-0b22de214666",
+                    "start": 0,
+                    "end": 2
+                },
+                "value": "f8c47c71-24ea-469e-92dd-58592c6c971b",
+                "id": "e5c62912-c008-47d8-9a2b-36449d49df58"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7b3eeea4-5770-4123-9fec-b922093f7d46",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "8a0f1721-76cf-4dcb-8996-7c761a78619e",
+                "id": "29b281f6-fed9-4f7d-af5b-49cd0ca52494"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c873d840-5a33-4b8f-9f80-5a52a9c0771e",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "4918543c-43ce-41ae-82cc-7249ee064baa",
+                "id": "d0ae1433-c80d-46b6-b7a4-4f53b7b65e40"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "2d30977a-1475-48b2-bfec-16367ef8b454",
+                    "start": 0,
+                    "end": 53
+                },
+                "value": "b6483462-a3c6-4a36-a60d-09949018510b",
+                "id": "50c2bd22-0aa2-4a0e-9ab2-f8324ad1ca4e"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7558d33d-549d-4c6b-b686-06dd66dd0a35",
+                    "start": 0,
+                    "end": 2
+                },
+                "value": "8ee53c8b-2d90-46eb-b484-fb5ff5a3b8ae",
+                "id": "24f86ba3-d058-43b5-a183-0ea201e2c343"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "baac62a3-b3cc-4453-bf0f-0be730d80af2",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "dab3f687-fea9-4e6c-b12b-1f0e0dfa2d2e",
+                "id": "0ec617aa-7db5-4e8e-97b6-e2eedbcc1e60"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ee9cd34a-496a-4c5e-9e1e-35e031bc30e5",
+                    "start": 0,
+                    "end": 5
+                },
+                "value": "106e9b41-f72c-4124-af54-c661a7d2ef19",
+                "id": "9b467535-43d2-45a5-94d6-ca47cb77adaf"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "18a74b68-6eed-48e2-aebb-e711664026d6",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "ba56c7bd-2f19-413c-91f0-06d8b2a891ca",
+                "id": "6100152f-c6d0-4556-8c8f-cef3cc77ee81"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_6.docx",
+        "file_name": "table_6.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 50802,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1741768022,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/cab8%2F4340%2Ftable_6.docx",
+        "markers": [],
+        "account": [],
+        "story": "cab84340-e86c-498c-a7a9-f7f84a6316af"
+    }
+}

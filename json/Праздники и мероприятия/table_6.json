@@ -1,0 +1,3285 @@
+{
+    "id": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+	"VERSION":"1.0",
+    "main_node": "77e2262c-245a-4a1c-9c9e-72a9a1fa9912",
+    "content": [
+        {
+            "type": "text",
+            "id": "77e2262c-245a-4a1c-9c9e-72a9a1fa9912",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ad646009-7e16-4dff-baf1-99f9d6eccb74"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ad646009-7e16-4dff-baf1-99f9d6eccb74",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "c1a353aa-a6a4-4dee-9dac-282f85edd43b"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "c1a353aa-a6a4-4dee-9dac-282f85edd43b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b0a66d7d-5eeb-4881-9072-f3e67c037436",
+                "01c9ddba-a829-4ce0-910d-946eb3d29739",
+                "498ccd2b-be81-4524-a1e1-b49c8f463efa",
+                "b4772541-d7a3-4923-a590-0461ebc06c3d",
+                "8e68595d-39e3-4bbb-b7eb-5288b7a541a1",
+                "4b8cdfc7-31de-4882-9c41-eb0a7b53ca04",
+                "d1106e9e-b054-4b69-9bdb-95fcdd472647",
+                "a794aadb-cfd1-4fe1-bef1-acfa91625c15",
+                "8ff654f8-6152-4ae5-a1ce-03d5c469826d",
+                "438e8d38-a2da-4214-a5cf-ae6f62a924b5",
+                "789003fc-2edb-4f30-90f6-6e279b5d2995",
+                "cab8eb71-5425-4816-ac61-e7f4d76a46d3",
+                "82ed0efe-4dc2-4d63-a22b-1395b3f3fcd0",
+                "43e738af-d48d-4372-93e1-dd0a91e920e1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "b0a66d7d-5eeb-4881-9072-f3e67c037436",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "9f7adc0a-65f8-4961-8ae6-7041b5e31a2e",
+                "ed223ac9-00de-4795-b745-c867cf00404e",
+                "bb2b7f39-0a56-4b6b-863e-3d5d0dfb9691",
+                "6d4db40f-b033-4b64-9c49-36f0cd7987b0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9f7adc0a-65f8-4961-8ae6-7041b5e31a2e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b88b7c88-5c26-4f5a-9a89-19b0bda1e9c4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b88b7c88-5c26-4f5a-9a89-19b0bda1e9c4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Дата",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ed223ac9-00de-4795-b745-c867cf00404e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2f31b3d6-b4fc-4361-9c6c-bc7c3c1cf33d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2f31b3d6-b4fc-4361-9c6c-bc7c3c1cf33d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Название",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bb2b7f39-0a56-4b6b-863e-3d5d0dfb9691",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "bebf8d8f-20b7-4d6c-af41-b0835135a45f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "bebf8d8f-20b7-4d6c-af41-b0835135a45f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Английское название",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6d4db40f-b033-4b64-9c49-36f0cd7987b0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ee8da73a-1566-4ddb-bc40-06de6e7d6c2a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ee8da73a-1566-4ddb-bc40-06de6e7d6c2a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Примечания",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "01c9ddba-a829-4ce0-910d-946eb3d29739",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "48e3326f-03ba-4d60-820e-7a5e8061aba1",
+                "1aa6c33f-9141-4d19-9865-9da3881e884d",
+                "5d03cc8a-fe0a-499a-8f0a-15f700639728",
+                "50cfc492-9dc7-4890-8a8b-e0716f357ead"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "48e3326f-03ba-4d60-820e-7a5e8061aba1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f3179005-888e-4d07-b01f-4a4f5b26cabc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f3179005-888e-4d07-b01f-4a4f5b26cabc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1 января",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1aa6c33f-9141-4d19-9865-9da3881e884d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9e8251df-9411-401f-870b-c1c20dfd9b0a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9e8251df-9411-401f-870b-c1c20dfd9b0a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Новый год",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5d03cc8a-fe0a-499a-8f0a-15f700639728",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "38bb02ca-4493-492a-9d9e-4354d5c2a2c7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "38bb02ca-4493-492a-9d9e-4354d5c2a2c7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "New Year’s Day",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "50cfc492-9dc7-4890-8a8b-e0716f357ead",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "51343f86-868e-40c8-a025-de0e58bff2b7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "51343f86-868e-40c8-a025-de0e58bff2b7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "государственный праздник",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "498ccd2b-be81-4524-a1e1-b49c8f463efa",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "8e2b884e-b248-4183-9e78-068b6772a905",
+                "ff9d8dcb-55e0-4a8f-a15e-a48556267a7b",
+                "e77b3a37-d599-473f-a56c-8472ef822237",
+                "33b925aa-95dc-48b4-82a0-4b4479233b92"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8e2b884e-b248-4183-9e78-068b6772a905",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "69569889-2205-4663-a9f3-abff7b576a72"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "69569889-2205-4663-a9f3-abff7b576a72",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "8 марта",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ff9d8dcb-55e0-4a8f-a15e-a48556267a7b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cfbaae26-3237-4c10-a935-39feecdfec8d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cfbaae26-3237-4c10-a935-39feecdfec8d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Международный день женщин",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e77b3a37-d599-473f-a56c-8472ef822237",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "17456d1c-dc4b-4adc-b85d-f0233485f63e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "17456d1c-dc4b-4adc-b85d-f0233485f63e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "International Women’s Day",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "33b925aa-95dc-48b4-82a0-4b4479233b92",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a4adb43a-389f-44f8-9ca3-a415446ac931"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a4adb43a-389f-44f8-9ca3-a415446ac931",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "b4772541-d7a3-4923-a590-0461ebc06c3d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "11a2fe99-797e-40f4-8b65-be270589e670",
+                "d42c5061-592a-40ed-82da-2196728254ec",
+                "ea73a19a-fdff-4a20-a9cc-5b80b304a04e",
+                "7dfcfcb3-7cef-4981-a9bb-bcd373b7c4cd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "11a2fe99-797e-40f4-8b65-be270589e670",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "bf847bfd-babd-4cf3-89ec-668dad4ad81c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "bf847bfd-babd-4cf3-89ec-668dad4ad81c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "варьируется",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d42c5061-592a-40ed-82da-2196728254ec",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d1945136-963d-43e1-a429-fa24bb932a4d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d1945136-963d-43e1-a429-fa24bb932a4d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Страстная Пятница",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ea73a19a-fdff-4a20-a9cc-5b80b304a04e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "2087ffdf-4283-471c-9076-196b279cb827"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "2087ffdf-4283-471c-9076-196b279cb827",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Good Friday",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7dfcfcb3-7cef-4981-a9bb-bcd373b7c4cd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8edd4024-2de5-453e-985f-cc5fbcc04b7a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8edd4024-2de5-453e-985f-cc5fbcc04b7a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "государственный праздник",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "8e68595d-39e3-4bbb-b7eb-5288b7a541a1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "68713a4c-435d-41d7-b050-883074974010",
+                "38b2b1f9-efae-4201-9c97-a0d7a9b02870",
+                "9da3c103-5fc1-433d-95e1-d3249d117864",
+                "cc25bc2c-5368-4745-aff3-97f98ce046e1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "68713a4c-435d-41d7-b050-883074974010",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1f50be4a-28ba-427a-a721-4073d8e009a3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1f50be4a-28ba-427a-a721-4073d8e009a3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "варьируется",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "38b2b1f9-efae-4201-9c97-a0d7a9b02870",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "dbc9823c-d540-42c6-8afc-e3440ad469d2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "dbc9823c-d540-42c6-8afc-e3440ad469d2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "первый день Пасхи",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9da3c103-5fc1-433d-95e1-d3249d117864",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "28aa545f-5d7e-4283-afe1-ad4953fa846a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "28aa545f-5d7e-4283-afe1-ad4953fa846a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Easter Sunday",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cc25bc2c-5368-4745-aff3-97f98ce046e1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "db325f5c-530e-45d1-951a-872538e6161a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "db325f5c-530e-45d1-951a-872538e6161a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "4b8cdfc7-31de-4882-9c41-eb0a7b53ca04",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d583feb4-fad7-4a62-a479-1d0b0091ae49",
+                "2c383e3e-c8c8-443e-b94d-286be8d0d6cd",
+                "444a9154-b5f9-4e62-a84b-00352f71bb1f",
+                "ad9ee3c7-1df3-4125-a1e2-7b27c2d2a398"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d583feb4-fad7-4a62-a479-1d0b0091ae49",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4a4c94e3-714e-4e7e-a1de-ca1df133a939"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4a4c94e3-714e-4e7e-a1de-ca1df133a939",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "варьируется",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2c383e3e-c8c8-443e-b94d-286be8d0d6cd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cf669cf6-2bae-428f-b0d3-429fdb655821"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cf669cf6-2bae-428f-b0d3-429fdb655821",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Светлый понедельник",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "444a9154-b5f9-4e62-a84b-00352f71bb1f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a53d529b-9428-402a-8fb7-44ab47f2fbb3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a53d529b-9428-402a-8fb7-44ab47f2fbb3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Easter Monday",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ad9ee3c7-1df3-4125-a1e2-7b27c2d2a398",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "35dd979d-8f62-4733-979a-9e8fce70acf6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "35dd979d-8f62-4733-979a-9e8fce70acf6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "государственный праздник",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "d1106e9e-b054-4b69-9bdb-95fcdd472647",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "b717305c-0972-4e3c-9ae3-5d62b69aec0e",
+                "93190dc7-afff-43b8-aa52-66a3c8dd3296",
+                "97424aa7-621d-49ab-a026-4a856b7585e1",
+                "58fbadda-05da-41fe-9655-fc5625a470d5"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b717305c-0972-4e3c-9ae3-5d62b69aec0e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "77b3617f-68ca-429c-82e2-45c18e783fe8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "77b3617f-68ca-429c-82e2-45c18e783fe8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "18 апреля",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "93190dc7-afff-43b8-aa52-66a3c8dd3296",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3ff29a10-36db-4b8c-9a0a-0d8866a523f9"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3ff29a10-36db-4b8c-9a0a-0d8866a523f9",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "День здоровья",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "97424aa7-621d-49ab-a026-4a856b7585e1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c151def6-59ed-46e9-85fd-1d96241d88d4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c151def6-59ed-46e9-85fd-1d96241d88d4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Health Day",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "58fbadda-05da-41fe-9655-fc5625a470d5",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7449043b-2af7-4614-900b-15b358eb7a7f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7449043b-2af7-4614-900b-15b358eb7a7f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "государственный праздник",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "a794aadb-cfd1-4fe1-bef1-acfa91625c15",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "49759378-4456-41cb-9f20-9aea27a3eea1",
+                "25fd3d1c-c17c-446a-bd05-9fdffe0a4ac0",
+                "f27c4eaf-d144-4ff5-878a-592ad1e6fa5f",
+                "fc3b8ca4-d543-46dd-a0de-78dedc4fd09b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "49759378-4456-41cb-9f20-9aea27a3eea1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8eb0ddbb-f0fc-49d5-9c31-e25513d79473"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8eb0ddbb-f0fc-49d5-9c31-e25513d79473",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "11 июля",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "25fd3d1c-c17c-446a-bd05-9fdffe0a4ac0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "916c5cc5-8dc8-4331-93f1-75cd21a02244"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "916c5cc5-8dc8-4331-93f1-75cd21a02244",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "День Евангелия",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f27c4eaf-d144-4ff5-878a-592ad1e6fa5f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5fc96bd2-b29e-4237-933f-674aea74788a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5fc96bd2-b29e-4237-933f-674aea74788a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Gospel Day",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fc3b8ca4-d543-46dd-a0de-78dedc4fd09b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "03f4f378-cc5d-4edc-8770-a2f5a786ffe3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "03f4f378-cc5d-4edc-8770-a2f5a786ffe3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "государственный праздник",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "8ff654f8-6152-4ae5-a1ce-03d5c469826d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "f46f6ba6-f206-47fa-831a-40a41e7b1707",
+                "b7baee62-9363-4a91-b207-c7ec987e6120",
+                "a4ba1407-5b6d-40f7-bed8-cd2cc0f24351",
+                "e8d1346b-f9c5-4324-8fb8-c4622eecaafa"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f46f6ba6-f206-47fa-831a-40a41e7b1707",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "28cd62ad-514b-4bbb-8c5f-97a6514e55cb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "28cd62ad-514b-4bbb-8c5f-97a6514e55cb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "12 июля",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b7baee62-9363-4a91-b207-c7ec987e6120",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3af214f7-228f-43c1-8884-92d818ac717e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3af214f7-228f-43c1-8884-92d818ac717e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "День независимости",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a4ba1407-5b6d-40f7-bed8-cd2cc0f24351",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8add06ff-b104-4d95-a8a1-ab008ff3c9e3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8add06ff-b104-4d95-a8a1-ab008ff3c9e3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Independence Day",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e8d1346b-f9c5-4324-8fb8-c4622eecaafa",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c9454e13-a402-4e5d-8e04-c58a24d83bd6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c9454e13-a402-4e5d-8e04-c58a24d83bd6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "государственный праздник",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "438e8d38-a2da-4214-a5cf-ae6f62a924b5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "cb665a4c-4204-41cd-833f-d624adc37af9",
+                "52d6d484-fc7e-4cf4-a1ea-aaf589c1e3e4",
+                "39dfc255-3778-4f21-b02a-469efa45b531",
+                "f9c15b72-e8bf-459f-89c9-f6d40c451272"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cb665a4c-4204-41cd-833f-d624adc37af9",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "daa75ef9-03f7-4f46-91ba-52be42617005"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "daa75ef9-03f7-4f46-91ba-52be42617005",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "7 августа",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "52d6d484-fc7e-4cf4-a1ea-aaf589c1e3e4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "db5edd64-c1ca-444e-a52a-dba5fd96596b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "db5edd64-c1ca-444e-a52a-dba5fd96596b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "День молодёжи",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "39dfc255-3778-4f21-b02a-469efa45b531",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "60e2de5c-58d6-4787-84cf-406b895794bf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "60e2de5c-58d6-4787-84cf-406b895794bf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Youth Day",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f9c15b72-e8bf-459f-89c9-f6d40c451272",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "fa7a7cc4-0fe9-4a02-a004-441c73934cca"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "fa7a7cc4-0fe9-4a02-a004-441c73934cca",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "789003fc-2edb-4f30-90f6-6e279b5d2995",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "a54ffce8-c84e-4eaa-bd02-005be7dc5fc4",
+                "4154f0c8-8f51-44b1-99df-2f3989fa8125",
+                "4230e02a-0d15-4844-8e4d-5b5639a9378f",
+                "9c42a91e-dc0c-44f6-9e6a-33451879563f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a54ffce8-c84e-4eaa-bd02-005be7dc5fc4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "65edff4d-d5f0-4f14-beae-df4278033d81"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "65edff4d-d5f0-4f14-beae-df4278033d81",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "10 декабря",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4154f0c8-8f51-44b1-99df-2f3989fa8125",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e5c8d379-a05b-422a-95a2-cb7e2aac9021"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e5c8d379-a05b-422a-95a2-cb7e2aac9021",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "День прав человека",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4230e02a-0d15-4844-8e4d-5b5639a9378f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c7057551-f655-48db-be11-4c5c7ba69c3b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c7057551-f655-48db-be11-4c5c7ba69c3b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Human Rights Day",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9c42a91e-dc0c-44f6-9e6a-33451879563f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "45c1a265-b83b-4c6d-8132-6d94b69b9a9d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "45c1a265-b83b-4c6d-8132-6d94b69b9a9d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "государственный праздник",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "cab8eb71-5425-4816-ac61-e7f4d76a46d3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ffe4eb16-d39a-4bb9-a45b-7289fe1d21f7",
+                "12153ff9-f31e-4fa5-80ce-19359243f84b",
+                "a14dc506-6ca4-45b2-9161-fa033717256f",
+                "86123627-ac94-4bba-bc64-25d7c4317ecd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ffe4eb16-d39a-4bb9-a45b-7289fe1d21f7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "04579eb7-c883-4cbc-9fbc-182f867ad728"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "04579eb7-c883-4cbc-9fbc-182f867ad728",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "25 декабря",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "12153ff9-f31e-4fa5-80ce-19359243f84b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "72383095-3749-41e1-abac-ff766022d775"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "72383095-3749-41e1-abac-ff766022d775",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Рождество",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a14dc506-6ca4-45b2-9161-fa033717256f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5b7e87e4-9953-49b9-9eb9-34cf7318b300"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5b7e87e4-9953-49b9-9eb9-34cf7318b300",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Christmas Day",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "86123627-ac94-4bba-bc64-25d7c4317ecd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "08b90905-9cad-4468-831e-ba4ffdd69ce7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "08b90905-9cad-4468-831e-ba4ffdd69ce7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "государственный праздник",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "82ed0efe-4dc2-4d63-a22b-1395b3f3fcd0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2eae9f24-6b3a-4269-91de-1255231f009e",
+                "9a59e960-c29d-4249-9a4f-fad9b3070c05",
+                "1f511816-9324-44bc-8e15-5192e1d7067a",
+                "e9a06203-814e-4d07-90fa-90a9d63cb699"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2eae9f24-6b3a-4269-91de-1255231f009e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "ab2a8ace-a5e9-4ba9-960c-803ecc57a3c1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ab2a8ace-a5e9-4ba9-960c-803ecc57a3c1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "26 декабря",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9a59e960-c29d-4249-9a4f-fad9b3070c05",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d316ff72-0caa-413b-aa44-f5af224f63d1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d316ff72-0caa-413b-aa44-f5af224f63d1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "День подарков",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1f511816-9324-44bc-8e15-5192e1d7067a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "243c939d-943e-4dec-82e7-06f12122802b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "243c939d-943e-4dec-82e7-06f12122802b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Boxing Day",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e9a06203-814e-4d07-90fa-90a9d63cb699",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c58e9732-d2ec-40f6-bdac-da10c3880247"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c58e9732-d2ec-40f6-bdac-da10c3880247",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "государственный праздник",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "43e738af-d48d-4372-93e1-dd0a91e920e1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ad064dd8-1fd3-4b1c-bdeb-3a7b75620c7a",
+                "c9e3e620-3e65-4adc-b7d1-3c2d99de2a10",
+                "97c3d855-5134-4ac8-8424-1f562b04f7c4",
+                "aec4b7b8-9890-4cb9-a7ea-95c6089ee33e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ad064dd8-1fd3-4b1c-bdeb-3a7b75620c7a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3254db69-70b7-4f80-85fc-bc2f28e9af6d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3254db69-70b7-4f80-85fc-bc2f28e9af6d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "31 декабря",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c9e3e620-3e65-4adc-b7d1-3c2d99de2a10",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a49565d0-37a5-4a95-bea4-2558c9d083dc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a49565d0-37a5-4a95-bea4-2558c9d083dc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Канун Нового года",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "97c3d855-5134-4ac8-8424-1f562b04f7c4",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1b051615-c73e-4e2b-acb4-c9df8bb3641b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1b051615-c73e-4e2b-acb4-c9df8bb3641b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "New Years Eve",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "aec4b7b8-9890-4cb9-a7ea-95c6089ee33e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "419f5786-dd29-4549-a04a-700c88eaf00a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "419f5786-dd29-4549-a04a-700c88eaf00a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593bb-9df3-7591-a64e-8e73cf588b05"
+                },
+                "id": "45e943ac-4741-464c-8a01-a5d81d8107b1"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593bb-a1f8-7e10-9c6f-ed9c8d968410"
+                },
+                "id": "e7daaf68-a5c7-4c61-adab-d2083bd97267"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593bb-9d3b-7816-9e5b-96986241e6a2"
+                },
+                "id": "360f2614-d8c6-4b1c-98e3-87f8bdb0fe4f"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593bb-a0e3-79d3-96ac-ed27492952c8"
+                },
+                "id": "1fe34861-2495-48ce-8f6f-2777bf84c659"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593b4-8bd6-7bea-a9c4-14cff23587b0"
+                },
+                "id": "a3e6492a-0fdb-4dcc-8c37-e05cc18d7e92"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593bb-9c38-7835-a6c9-1e45248c0127"
+                },
+                "id": "74de15da-b701-425b-9961-d81ee8454b6e"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593bb-9c95-7af4-ba08-596c94ac9830"
+                },
+                "id": "896bac44-70e2-4b13-8cba-132d36247f37"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593bb-9bc6-7fd5-9a93-740e9625106a"
+                },
+                "id": "490a4d36-f535-4413-aa2e-9b1fa621856f"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593a8-6ca7-71ea-aa00-4498ce38cd8b"
+                },
+                "id": "69fadf1e-1563-4001-8dbc-409164ba7f60"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593bb-a00b-7dab-b5b7-63f9205499d6"
+                },
+                "id": "b98a319e-8342-410b-9aad-e02afb0d4149"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593bb-9e8f-776f-840b-c5500419da21"
+                },
+                "id": "70aea768-fd06-410d-9ba3-7df15d6eae0e"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593bb-a185-7d76-92a8-5d14981982a6"
+                },
+                "id": "41600135-13d1-4c90-a056-bc2d6fff20a5"
+            },
+            {
+                "status": "approved",
+                "type_id": "22828",
+                "value": {
+                    "concept": "019593a8-6a37-7208-bc99-bdd96d47a3e9"
+                },
+                "id": "95af746d-023c-49e9-a781-ddacdd44a6bc"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-85400496"
+                },
+                "id": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf"
+            }
+        ],
+        "atom": [
+            {
+                "id": "f53126a4-fdf4-4226-8b8b-5ddac465968c",
+                "type_id": "13",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "19e02740-0eab-4860-8155-554bc3754b9c",
+                "type_id": "13",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "9a86ebcf-f3c9-404e-a4fd-4a4934dbeea5",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "День молодёжи"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "89bea244-25f1-4537-bf08-3d4b0457c7d7",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "День Евангелия"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "183ddd65-3d91-40e7-b943-1a86086da657",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "День здоровья"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6dcdb67a-8aa4-4d52-8b4b-ee248ce8138b",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2025,
+                        "month": 4,
+                        "day": 18
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b4de5dc3-e08d-4acb-ab3f-0f9af6dee82b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "государственный праздник",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "408af376-d931-4a00-a9d4-5a33bf8088e5",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Health Day",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "04e20161-5f63-4420-b282-cf7ea0b6a416",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Youth Day",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "14ffc973-c197-4a64-af96-0af779a702c9",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2025,
+                        "month": 8,
+                        "day": 7
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2ad72e8a-a7d0-4a15-bcd1-a2df932ced63",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Светлый понедельник"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a43bf15e-c6e4-4b65-a9f2-5aa2b3777b08",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "государственный праздник",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "61d53b53-4203-48e0-8486-2acaf6bd13fa",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Easter Monday",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "26f6865d-915b-46b4-911c-591ab79fa30e",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "День независимости"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b74ca94e-5c4c-4035-9ede-3a8a552264b8",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2025,
+                        "month": 12,
+                        "day": 25
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f4b64e1a-5c83-4798-96f5-12d4a2a267e2",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "государственный праздник",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c5ce0cf4-2c84-429a-988e-134364692c87",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Christmas Day",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9297d4f0-262d-457d-ae84-cd1dfbaa2edc",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Международный день женщин"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "00b356e9-39b7-438d-b781-33f7b98e7614",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2025,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "aff364e1-ccb5-4b6a-ad3c-12d39ca5ac90",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "International Women’s Day",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "34279f97-148d-4f61-af4a-f3510f960d2d",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2025,
+                        "month": 12,
+                        "day": 31
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3eef4d15-820f-48d9-b3d5-d4e6c9f54cd0",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "New Years Eve",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9cc608f6-19e7-4293-a7a6-11e6fc32a43c",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Новый год"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "68429f65-d9e6-4187-9986-8e9dc952319f",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 1
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ad3cf677-0365-4761-8241-6bf4013f7fae",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Easter Sunday",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8d215500-92a2-432a-b3c1-01f5205e88fa",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "государственный праздник",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "063d2f99-a9e0-4a98-b6af-a0681559c1b0",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2025,
+                        "month": 12,
+                        "day": 26
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1d135c8a-7047-452d-8946-dea0e3fded85",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Boxing Day",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6a321983-5f29-451a-b7ce-2b45c6d8a2a7",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Страстная Пятница"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "cf770038-93a3-4376-9747-91d2352d539b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "государственный праздник",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6d41d273-a7f0-48e4-acb4-e40345bd42b1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Good Friday",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "68a48e79-79b3-4110-a992-ee80ee16f872",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "первый день Пасхи"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d389bb90-ba2e-4961-9537-f502a7a9f2de",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2025,
+                        "month": 7,
+                        "day": 12
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "10b7ac4d-69c2-404b-bede-c45de51ad36d",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Independence Day",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "718ce1d9-b880-476e-933e-3ac15b471b3b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "государственный праздник",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ade7200c-fc74-4c91-afcd-5c1336f51bfb",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Канун Нового года"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e80c7675-399d-4aee-890e-25d8926d12d1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Human Rights Day",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "301bb9e1-0e51-409b-abda-8ebc56804f7e",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2025,
+                        "month": 12,
+                        "day": 10
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "53cd784c-adcb-4772-8f8c-c37216c6752e",
+                "type_id": "13",
+                "value": [],
+                "status": "new"
+            },
+            {
+                "id": "ac42f27f-2156-42ad-aad9-f963d436fd78",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "День подарков"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ccda1501-d303-420e-a46f-48e7dc38b771",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "День прав человека"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "758a9f88-b596-442c-8bbe-06e02d51d528",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "государственный праздник",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "34817671-5144-4da5-b2ac-750f93e7ba02",
+                "type_id": "13",
+                "value": {
+                    "type": "DateTimeValue",
+                    "date": {
+                        "year": 2025,
+                        "month": 7,
+                        "day": 11
+                    },
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4252ce06-1460-4245-86d7-e02dd046f2a9",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Gospel Day",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5d6db5fe-691e-4dd3-8d35-dc35c98cdce6",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "государственный праздник",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "46973520-5523-44ef-b2ed-a9000f5cfffe",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Рождество"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "7a52d4bd-1670-4221-9249-ab5382363ad1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "New Year’s Day",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a3649d24-88f4-4f30-93c7-471311c6ba2e",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "государственный праздник",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "706184d5-37e8-481f-9232-7a2794128645",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6a38a1cc-b4a0-47b3-bd3d-d224532e1285",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741940296
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9a306f58-8c11-4a3c-a8f0-149d3d7d85ae",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 50936
+                },
+                "status": "approved"
+            },
+            {
+                "id": "cce1f990-6ac6-40b6-a31f-c413d011e697",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741940296
+                },
+                "status": "approved"
+            },
+            {
+                "id": "76a3d29b-dfdc-41c3-8144-3f11383beade",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_6.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f4e85bd9-b6b5-457a-8399-85312f92f2b0",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ae07d420-5dea-46aa-aeb9-bf1e5fe50928",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "69aa5a91-6116-4ce3-a8e7-69a66daf0648",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_6.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "17d6a9e9-eb02-4a90-9955-efa7e34bbca8",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3406"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "be3de3a8-c92f-43f5-a373-5d8d33b1ff9c",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741940296
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8ed49a45-0237-40c6-bcfb-fc34c1fb5324",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/a2fb/3a40/table_6.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f803ea63-b5a5-4150-9398-f8a79b09da0c",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400517",
+                "id": "ba906caf-f1c3-440b-a1aa-dbc1cd6ab26a",
+                "source": "e7daaf68-a5c7-4c61-adab-d2083bd97267",
+                "target": "68a48e79-79b3-4110-a992-ee80ee16f872"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-85400544",
+                "id": "2982c73c-79b6-4e3d-aaef-108e94ddebab",
+                "source": "b98a319e-8342-410b-9aad-e02afb0d4149",
+                "target": "d389bb90-ba2e-4961-9537-f502a7a9f2de"
+            },
+            {
+                "status": "new",
+                "type_id": "22832",
+                "id": "23156066-476b-4ec6-b204-7a6805bc3255",
+                "source": "69fadf1e-1563-4001-8dbc-409164ba7f60",
+                "target": "f53126a4-fdf4-4226-8b8b-5ddac465968c"
+            },
+            {
+                "status": "new",
+                "type_id": "22832",
+                "id": "49665d1e-f4ab-4ee3-b575-3e0341993c51",
+                "source": "e7daaf68-a5c7-4c61-adab-d2083bd97267",
+                "target": "19e02740-0eab-4860-8155-554bc3754b9c"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400513",
+                "id": "7c8af261-dc19-47e0-9552-4ca5de63d603",
+                "source": "490a4d36-f535-4413-aa2e-9b1fa621856f",
+                "target": "9a86ebcf-f3c9-404e-a4fd-4a4934dbeea5"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400543",
+                "id": "e254a623-d36c-4a59-8a73-46b435f058f1",
+                "source": "e7daaf68-a5c7-4c61-adab-d2083bd97267",
+                "target": "ad3cf677-0365-4761-8241-6bf4013f7fae"
+            },
+            {
+                "status": "approved",
+                "type_id": "23176",
+                "value": "ОК-85400555",
+                "id": "49d3fc0c-a18b-48b6-8021-ced594ad25db",
+                "source": "360f2614-d8c6-4b1c-98e3-87f8bdb0fe4f",
+                "target": "8d215500-92a2-432a-b3c1-01f5205e88fa"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-85400556",
+                "id": "cbb3e54f-4a3c-4375-b590-2a7af039b886",
+                "source": "360f2614-d8c6-4b1c-98e3-87f8bdb0fe4f",
+                "target": "063d2f99-a9e0-4a98-b6af-a0681559c1b0"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400557",
+                "id": "29fc46e8-eb45-43ff-9f9d-41054f653690",
+                "source": "360f2614-d8c6-4b1c-98e3-87f8bdb0fe4f",
+                "target": "1d135c8a-7047-452d-8946-dea0e3fded85"
+            },
+            {
+                "status": "approved",
+                "type_id": "23176",
+                "value": "ОК-85400558",
+                "id": "2692d3ab-fc76-4c93-8864-e88d6bd53021",
+                "source": "1fe34861-2495-48ce-8f6f-2777bf84c659",
+                "target": "cf770038-93a3-4376-9747-91d2352d539b"
+            },
+            {
+                "status": "new",
+                "type_id": "22832",
+                "id": "1b5c9035-2d07-44cf-9f2d-e29e56301764",
+                "source": "1fe34861-2495-48ce-8f6f-2777bf84c659",
+                "target": "53cd784c-adcb-4772-8f8c-c37216c6752e"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400523",
+                "id": "d6372dc1-6f4d-42bf-b6e4-2e5b2ac062bd",
+                "source": "360f2614-d8c6-4b1c-98e3-87f8bdb0fe4f",
+                "target": "ac42f27f-2156-42ad-aad9-f963d436fd78"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400521",
+                "id": "5dcdb3e7-6734-41da-9c13-0f919eca8491",
+                "source": "45e943ac-4741-464c-8a01-a5d81d8107b1",
+                "target": "ccda1501-d303-420e-a46f-48e7dc38b771"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400532",
+                "id": "f3599e12-f67e-48ea-b9e1-a4e25ba199db",
+                "source": "74de15da-b701-425b-9961-d81ee8454b6e",
+                "target": "89bea244-25f1-4537-bf08-3d4b0457c7d7"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400519",
+                "id": "08fc5dc0-0798-4196-8d5a-6aac733c3d89",
+                "source": "896bac44-70e2-4b13-8cba-132d36247f37",
+                "target": "183ddd65-3d91-40e7-b943-1a86086da657"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-85400536",
+                "id": "ac24d540-3f61-4586-a46a-e38fefe31773",
+                "source": "896bac44-70e2-4b13-8cba-132d36247f37",
+                "target": "6dcdb67a-8aa4-4d52-8b4b-ee248ce8138b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23176",
+                "value": "ОК-85400537",
+                "id": "7c56ad35-846a-4a11-8527-8214ed10ef01",
+                "source": "896bac44-70e2-4b13-8cba-132d36247f37",
+                "target": "b4de5dc3-e08d-4acb-ab3f-0f9af6dee82b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400538",
+                "id": "88f363e2-2677-49aa-a451-f6b41c843f81",
+                "source": "896bac44-70e2-4b13-8cba-132d36247f37",
+                "target": "408af376-d931-4a00-a9d4-5a33bf8088e5"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400539",
+                "id": "5fd3698f-dfa8-4131-bfec-1f9303d0cca0",
+                "source": "490a4d36-f535-4413-aa2e-9b1fa621856f",
+                "target": "04e20161-5f63-4420-b282-cf7ea0b6a416"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-85400540",
+                "id": "ba3141d0-1a7c-4e5e-ba7e-1143943e0da3",
+                "source": "490a4d36-f535-4413-aa2e-9b1fa621856f",
+                "target": "14ffc973-c197-4a64-af96-0af779a702c9"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400354",
+                "id": "47762bc5-8378-4676-9fed-c89b6f0c6af1",
+                "source": "69fadf1e-1563-4001-8dbc-409164ba7f60",
+                "target": "2ad72e8a-a7d0-4a15-bcd1-a2df932ced63"
+            },
+            {
+                "status": "approved",
+                "type_id": "23176",
+                "value": "ОК-85400541",
+                "id": "1d799652-fe84-4e3d-8d00-b9e97862c2a0",
+                "source": "69fadf1e-1563-4001-8dbc-409164ba7f60",
+                "target": "a43bf15e-c6e4-4b65-a9f2-5aa2b3777b08"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400542",
+                "id": "7de1f5f1-76b2-402e-94c8-1aa592d1061c",
+                "source": "69fadf1e-1563-4001-8dbc-409164ba7f60",
+                "target": "61d53b53-4203-48e0-8486-2acaf6bd13fa"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400530",
+                "id": "030fe599-d056-42b6-bfb2-6b115128c4d2",
+                "source": "b98a319e-8342-410b-9aad-e02afb0d4149",
+                "target": "26f6865d-915b-46b4-911c-591ab79fa30e"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-85400489",
+                "id": "c4d31ab1-f6e1-41ab-b488-4c9583a01fda",
+                "source": "a3e6492a-0fdb-4dcc-8c37-e05cc18d7e92",
+                "target": "b74ca94e-5c4c-4035-9ede-3a8a552264b8"
+            },
+            {
+                "status": "approved",
+                "type_id": "23176",
+                "value": "ОК-85400547",
+                "id": "21204a56-af9a-4456-80e1-f5710bf81d73",
+                "source": "a3e6492a-0fdb-4dcc-8c37-e05cc18d7e92",
+                "target": "f4b64e1a-5c83-4798-96f5-12d4a2a267e2"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400548",
+                "id": "810609e2-7f5a-4136-8a12-643eed3d8a8a",
+                "source": "a3e6492a-0fdb-4dcc-8c37-e05cc18d7e92",
+                "target": "c5ce0cf4-2c84-429a-988e-134364692c87"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400515",
+                "id": "27f3321c-9f30-47a2-a48b-fb27fbfab24f",
+                "source": "70aea768-fd06-410d-9ba3-7df15d6eae0e",
+                "target": "9297d4f0-262d-457d-ae84-cd1dfbaa2edc"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-85400549",
+                "id": "b39d1840-185d-47de-ae82-79d5880a20e6",
+                "source": "70aea768-fd06-410d-9ba3-7df15d6eae0e",
+                "target": "00b356e9-39b7-438d-b781-33f7b98e7614"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400550",
+                "id": "cfd722ee-060c-485d-868c-2286baa2ac69",
+                "source": "70aea768-fd06-410d-9ba3-7df15d6eae0e",
+                "target": "aff364e1-ccb5-4b6a-ad3c-12d39ca5ac90"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400527",
+                "id": "eb0736c7-c844-4d47-a6eb-510e5b7e8fdc",
+                "source": "41600135-13d1-4c90-a056-bc2d6fff20a5",
+                "target": "ade7200c-fc74-4c91-afcd-5c1336f51bfb"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-85400551",
+                "id": "edf9dfb1-bf75-4692-b12f-970e043c6e49",
+                "source": "41600135-13d1-4c90-a056-bc2d6fff20a5",
+                "target": "34279f97-148d-4f61-af4a-f3510f960d2d"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400552",
+                "id": "fda953dc-c328-4185-9ba4-2e3c311fb7ad",
+                "source": "41600135-13d1-4c90-a056-bc2d6fff20a5",
+                "target": "3eef4d15-820f-48d9-b3d5-d4e6c9f54cd0"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400350",
+                "id": "1172a022-5ee6-4100-a794-c94f7273fb40",
+                "source": "95af746d-023c-49e9-a781-ddacdd44a6bc",
+                "target": "9cc608f6-19e7-4293-a7a6-11e6fc32a43c"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-85400366",
+                "id": "939dc4be-a2ab-44cd-af46-efd88e938818",
+                "source": "95af746d-023c-49e9-a781-ddacdd44a6bc",
+                "target": "68429f65-d9e6-4187-9986-8e9dc952319f"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400553",
+                "id": "b7972dc2-9617-4a95-90fb-a3499610e856",
+                "source": "95af746d-023c-49e9-a781-ddacdd44a6bc",
+                "target": "7a52d4bd-1670-4221-9249-ab5382363ad1"
+            },
+            {
+                "status": "approved",
+                "type_id": "23176",
+                "value": "ОК-85400554",
+                "id": "ff41c058-9ed2-4548-b3b6-95a467752709",
+                "source": "95af746d-023c-49e9-a781-ddacdd44a6bc",
+                "target": "a3649d24-88f4-4f30-93c7-471311c6ba2e"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400525",
+                "id": "d60f1d3a-0383-47a5-9276-2e12f336baae",
+                "source": "1fe34861-2495-48ce-8f6f-2777bf84c659",
+                "target": "6a321983-5f29-451a-b7ce-2b45c6d8a2a7"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-85400533",
+                "id": "98e52598-9dec-41f2-b78b-8a88be093f66",
+                "source": "74de15da-b701-425b-9961-d81ee8454b6e",
+                "target": "34817671-5144-4da5-b2ac-750f93e7ba02"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400534",
+                "id": "d2bcb324-b7e1-40ca-9791-d3d8e2dd2684",
+                "source": "74de15da-b701-425b-9961-d81ee8454b6e",
+                "target": "4252ce06-1460-4245-86d7-e02dd046f2a9"
+            },
+            {
+                "status": "approved",
+                "type_id": "23176",
+                "value": "ОК-85400535",
+                "id": "3266a780-6760-4e14-a7f4-f7854adf07b6",
+                "source": "74de15da-b701-425b-9961-d81ee8454b6e",
+                "target": "5d6db5fe-691e-4dd3-8d35-dc35c98cdce6"
+            },
+            {
+                "status": "approved",
+                "type_id": "22829",
+                "value": "ОК-85400528",
+                "id": "620979fc-0c75-47e5-8e19-0752932d55c9",
+                "source": "a3e6492a-0fdb-4dcc-8c37-e05cc18d7e92",
+                "target": "46973520-5523-44ef-b2ed-a9000f5cfffe"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400545",
+                "id": "ec04e4ba-5096-40b2-9f8d-62ba8f753a56",
+                "source": "b98a319e-8342-410b-9aad-e02afb0d4149",
+                "target": "10b7ac4d-69c2-404b-bede-c45de51ad36d"
+            },
+            {
+                "status": "approved",
+                "type_id": "23176",
+                "value": "ОК-85400546",
+                "id": "be653cdd-5fbb-4659-ab35-2f34bba4d908",
+                "source": "b98a319e-8342-410b-9aad-e02afb0d4149",
+                "target": "718ce1d9-b880-476e-933e-3ac15b471b3b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23176",
+                "value": "ОК-85400560",
+                "id": "7290fc08-ebf8-4a33-a27a-6792a217ac24",
+                "source": "45e943ac-4741-464c-8a01-a5d81d8107b1",
+                "target": "758a9f88-b596-442c-8bbe-06e02d51d528"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400561",
+                "id": "0f370b87-0f6c-4746-8e9a-21d42a04cba5",
+                "source": "45e943ac-4741-464c-8a01-a5d81d8107b1",
+                "target": "e80c7675-399d-4aee-890e-25d8926d12d1"
+            },
+            {
+                "status": "approved",
+                "type_id": "22832",
+                "value": "ОК-85400562",
+                "id": "c94da54b-5727-41c1-9158-038bed84d1c8",
+                "source": "45e943ac-4741-464c-8a01-a5d81d8107b1",
+                "target": "301bb9e1-0e51-409b-abda-8ebc56804f7e"
+            },
+            {
+                "status": "approved",
+                "type_id": "23174",
+                "value": "ОК-85400559",
+                "id": "9b307668-eb6d-4419-be3c-4f3e64f66fc4",
+                "source": "1fe34861-2495-48ce-8f6f-2777bf84c659",
+                "target": "6d41d273-a7f0-48e4-acb4-e40345bd42b1"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-85400500",
+                "id": "e0a60a13-b764-4ad7-9cb7-224f284aac57",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "706184d5-37e8-481f-9232-7a2794128645"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-85400501",
+                "id": "91045547-e70e-4fe7-9e63-42b4c68d4468",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "6a38a1cc-b4a0-47b3-bd3d-d224532e1285"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-85400502",
+                "id": "628fb744-edf8-4702-97a1-d42ab2d35637",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "9a306f58-8c11-4a3c-a8f0-149d3d7d85ae"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-85400503",
+                "id": "eeb43ffa-8769-4ab0-9ecd-6aa8ecaf7438",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "cce1f990-6ac6-40b6-a31f-c413d011e697"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-85400504",
+                "id": "5dbc38b4-4dd2-4116-8cae-afb9ef1c71f8",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "76a3d29b-dfdc-41c3-8144-3f11383beade"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-85400505",
+                "id": "acb55045-785f-48aa-adf2-5bc6b6008875",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "f4e85bd9-b6b5-457a-8399-85312f92f2b0"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-85400506",
+                "id": "0b80d76f-0e4d-4efb-b66b-0ff2c1cc4ada",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "ae07d420-5dea-46aa-aeb9-bf1e5fe50928"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-85400507",
+                "id": "f342132b-1647-4bfe-8309-1f001b2306d3",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "69aa5a91-6116-4ce3-a8e7-69a66daf0648"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-85400508",
+                "id": "27864c16-c162-4961-9948-02581e61ec77",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "17d6a9e9-eb02-4a90-9955-efa7e34bbca8"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-85400509",
+                "id": "463e7dc9-f2c6-47dc-a52c-065eebe867eb",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "be3de3a8-c92f-43f5-a373-5d8d33b1ff9c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-85400510",
+                "id": "1fec232e-7827-4b22-9f7b-2abfb5639083",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "8ed49a45-0237-40c6-bcfb-fc34c1fb5324"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-85400511",
+                "id": "74f3e03d-5ec2-460c-a389-05e4ae7406ee",
+                "source": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf",
+                "target": "f803ea63-b5a5-4150-9398-f8a79b09da0c"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "bf847bfd-babd-4cf3-89ec-668dad4ad81c",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "53cd784c-adcb-4772-8f8c-c37216c6752e",
+                "id": "80805edf-137e-4887-9546-c2d8d6145f63"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "04579eb7-c883-4cbc-9fbc-182f867ad728",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "b74ca94e-5c4c-4035-9ede-3a8a552264b8",
+                "id": "97895024-d5f4-4437-8166-bc5f185778e4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "08b90905-9cad-4468-831e-ba4ffdd69ce7",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "f4b64e1a-5c83-4798-96f5-12d4a2a267e2",
+                "id": "667878f6-ee9c-4236-b1ad-6e5cb58d9f26"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "5b7e87e4-9953-49b9-9eb9-34cf7318b300",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "c5ce0cf4-2c84-429a-988e-134364692c87",
+                "id": "19a703b1-02ba-4952-8219-4df9fa44716f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7449043b-2af7-4614-900b-15b358eb7a7f",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "b4de5dc3-e08d-4acb-ab3f-0f9af6dee82b",
+                "id": "417743b9-0e74-4dff-b9cb-bf58527a0548"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3ff29a10-36db-4b8c-9a0a-0d8866a523f9",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "183ddd65-3d91-40e7-b943-1a86086da657",
+                "id": "6249f01c-ee5e-48ce-b019-22ddda09a369"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "77b3617f-68ca-429c-82e2-45c18e783fe8",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "6dcdb67a-8aa4-4d52-8b4b-ee248ce8138b",
+                "id": "b95e8516-ab1c-47a9-8b33-eae1b3b10712"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c58e9732-d2ec-40f6-bdac-da10c3880247",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "8d215500-92a2-432a-b3c1-01f5205e88fa",
+                "id": "bccbc15f-78f4-466f-822b-3e1e72cc5349"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "243c939d-943e-4dec-82e7-06f12122802b",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "1d135c8a-7047-452d-8946-dea0e3fded85",
+                "id": "ab1f7565-b795-444a-a3a1-84aed56c5238"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "ab2a8ace-a5e9-4ba9-960c-803ecc57a3c1",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "063d2f99-a9e0-4a98-b6af-a0681559c1b0",
+                "id": "1f443433-1369-4248-80a0-35f1d7f15296"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "2087ffdf-4283-471c-9076-196b279cb827",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "6d41d273-a7f0-48e4-acb4-e40345bd42b1",
+                "id": "6160cbdd-3d1d-44dc-9376-71146fe62231"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8edd4024-2de5-453e-985f-cc5fbcc04b7a",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "cf770038-93a3-4376-9747-91d2352d539b",
+                "id": "26c7e5ed-47e9-4798-964c-f845950f8e32"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c7057551-f655-48db-be11-4c5c7ba69c3b",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "e80c7675-399d-4aee-890e-25d8926d12d1",
+                "id": "c0ab7c76-8290-447d-a667-8d4e8b0f04a8"
+            },
+            {
+                "status": "new",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4a4c94e3-714e-4e7e-a1de-ca1df133a939",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "f53126a4-fdf4-4226-8b8b-5ddac465968c",
+                "id": "824a1405-a2ff-41ed-a78b-a8d901486121"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a53d529b-9428-402a-8fb7-44ab47f2fbb3",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "61d53b53-4203-48e0-8486-2acaf6bd13fa",
+                "id": "c86d24c4-14a5-4065-bd9b-af3dd3ad8355"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "35dd979d-8f62-4733-979a-9e8fce70acf6",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "a43bf15e-c6e4-4b65-a9f2-5aa2b3777b08",
+                "id": "2f278fe1-8413-445f-bb91-51dd467cc9fb"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8add06ff-b104-4d95-a8a1-ab008ff3c9e3",
+                    "start": 0,
+                    "end": 16
+                },
+                "value": "10b7ac4d-69c2-404b-bede-c45de51ad36d",
+                "id": "39d7c645-2925-431c-ab36-0464b2556692"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c9454e13-a402-4e5d-8e04-c58a24d83bd6",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "718ce1d9-b880-476e-933e-3ac15b471b3b",
+                "id": "cf248f94-e8e2-4649-a8d4-e37f89760e7d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "28cd62ad-514b-4bbb-8c5f-97a6514e55cb",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "d389bb90-ba2e-4961-9537-f502a7a9f2de",
+                "id": "e0a40a33-275f-43c9-ac19-68e78e2e55cd"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8eb0ddbb-f0fc-49d5-9c31-e25513d79473",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "34817671-5144-4da5-b2ac-750f93e7ba02",
+                "id": "6fc80bd9-81c6-4a67-9089-2dd3a87fd379"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "5fc96bd2-b29e-4237-933f-674aea74788a",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "4252ce06-1460-4245-86d7-e02dd046f2a9",
+                "id": "b2504b33-1bed-4f2d-a1ad-4729556c3b95"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "03f4f378-cc5d-4edc-8770-a2f5a786ffe3",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "5d6db5fe-691e-4dd3-8d35-dc35c98cdce6",
+                "id": "ac4d0ec1-4f9e-486e-a86d-cfe92910e896"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "69569889-2205-4663-a9f3-abff7b576a72",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "00b356e9-39b7-438d-b781-33f7b98e7614",
+                "id": "1ad1e96e-270c-4639-8d1c-df9ab3100e74"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "17456d1c-dc4b-4adc-b85d-f0233485f63e",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "aff364e1-ccb5-4b6a-ad3c-12d39ca5ac90",
+                "id": "bf1de998-ebe3-4841-b0f1-4f5cde4d9825"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "28aa545f-5d7e-4283-afe1-ad4953fa846a",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "ad3cf677-0365-4761-8241-6bf4013f7fae",
+                "id": "56a74997-2c96-45c2-855c-310451b0352d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "dbc9823c-d540-42c6-8afc-e3440ad469d2",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "68a48e79-79b3-4110-a992-ee80ee16f872",
+                "id": "170bcab3-5e1a-4d15-b705-63a4edd5ba51"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "51343f86-868e-40c8-a025-de0e58bff2b7",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "a3649d24-88f4-4f30-93c7-471311c6ba2e",
+                "id": "60ff7783-4762-4d8e-a834-306a90fd3713"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "38bb02ca-4493-492a-9d9e-4354d5c2a2c7",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "7a52d4bd-1670-4221-9249-ab5382363ad1",
+                "id": "76eec4d5-b52f-4204-84b5-8e0748ffe55a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f3179005-888e-4d07-b01f-4a4f5b26cabc",
+                    "start": 0,
+                    "end": 8
+                },
+                "value": "68429f65-d9e6-4187-9986-8e9dc952319f",
+                "id": "dc1ee75c-95d6-45f0-ba77-f5967dca0398"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "daa75ef9-03f7-4f46-91ba-52be42617005",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "14ffc973-c197-4a64-af96-0af779a702c9",
+                "id": "6882b7b8-5379-4d40-920e-ca42b3601913"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "db5edd64-c1ca-444e-a52a-dba5fd96596b",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "9a86ebcf-f3c9-404e-a4fd-4a4934dbeea5",
+                "id": "2b85281a-2ce0-4d6e-8279-3998154b8179"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "60e2de5c-58d6-4787-84cf-406b895794bf",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "04e20161-5f63-4420-b282-cf7ea0b6a416",
+                "id": "19b3dcd4-efc8-4bd7-a893-f2ad6fddd409"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3254db69-70b7-4f80-85fc-bc2f28e9af6d",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "34279f97-148d-4f61-af4a-f3510f960d2d",
+                "id": "c1d2f530-c3df-494e-84ba-ddd7b021bd46"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a49565d0-37a5-4a95-bea4-2558c9d083dc",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "ade7200c-fc74-4c91-afcd-5c1336f51bfb",
+                "id": "1df186c0-769a-4bd4-9d50-5a22f4341ec0"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e5c8d379-a05b-422a-95a2-cb7e2aac9021",
+                    "start": 0,
+                    "end": 18
+                },
+                "value": "ccda1501-d303-420e-a46f-48e7dc38b771",
+                "id": "672b4bb8-dff8-45f2-8697-cdd4274ae485"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "65edff4d-d5f0-4f14-beae-df4278033d81",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "301bb9e1-0e51-409b-abda-8ebc56804f7e",
+                "id": "25f7c463-196a-4ac7-9ef1-ac9f005a2c53"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "45c1a265-b83b-4c6d-8132-6d94b69b9a9d",
+                    "start": 0,
+                    "end": 24
+                },
+                "value": "758a9f88-b596-442c-8bbe-06e02d51d528",
+                "id": "b132e0e6-eb15-44c1-bf78-f954b1d55338"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1f50be4a-28ba-427a-a721-4073d8e009a3",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "19e02740-0eab-4860-8155-554bc3754b9c",
+                "id": "14e548c9-17a9-4b74-a8f8-801b852d42f0"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c151def6-59ed-46e9-85fd-1d96241d88d4",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "408af376-d931-4a00-a9d4-5a33bf8088e5",
+                "id": "1b480936-bd49-4071-be6a-18a91b4ddd89"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3af214f7-228f-43c1-8884-92d818ac717e",
+                    "start": 0,
+                    "end": 18
+                },
+                "value": "26f6865d-915b-46b4-911c-591ab79fa30e",
+                "id": "213ae63c-3414-4377-9111-2e32df6d7ab4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d1945136-963d-43e1-a429-fa24bb932a4d",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "6a321983-5f29-451a-b7ce-2b45c6d8a2a7",
+                "id": "266ef036-8162-4ddc-bf52-897746d9d732"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1b051615-c73e-4e2b-acb4-c9df8bb3641b",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "3eef4d15-820f-48d9-b3d5-d4e6c9f54cd0",
+                "id": "672959a3-7bb0-4072-ae6c-37a76a741d26"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "916c5cc5-8dc8-4331-93f1-75cd21a02244",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "89bea244-25f1-4537-bf08-3d4b0457c7d7",
+                "id": "77000b94-c852-42d6-b005-36573f94969f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cf669cf6-2bae-428f-b0d3-429fdb655821",
+                    "start": 0,
+                    "end": 19
+                },
+                "value": "2ad72e8a-a7d0-4a15-bcd1-a2df932ced63",
+                "id": "82ce9387-d19a-4d5c-a678-f41535431199"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9e8251df-9411-401f-870b-c1c20dfd9b0a",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "9cc608f6-19e7-4293-a7a6-11e6fc32a43c",
+                "id": "9665976c-8254-42e0-aacf-4ae59da49878"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d316ff72-0caa-413b-aa44-f5af224f63d1",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "ac42f27f-2156-42ad-aad9-f963d436fd78",
+                "id": "b5b77b8b-ca2e-4eed-8c22-1278d8c3a451"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cfbaae26-3237-4c10-a935-39feecdfec8d",
+                    "start": 0,
+                    "end": 25
+                },
+                "value": "9297d4f0-262d-457d-ae84-cd1dfbaa2edc",
+                "id": "b8f8c312-0a62-4e53-8a68-4cccf7a66e1d"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "72383095-3749-41e1-abac-ff766022d775",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "46973520-5523-44ef-b2ed-a9000f5cfffe",
+                "id": "dca1fece-ed94-4d3e-87eb-0d7590d5fc68"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_6.docx",
+        "file_name": "table_6.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 50936,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1741940296,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/a2fb%2F3a40%2Ftable_6.docx",
+        "markers": [],
+        "account": [],
+        "story": "a2fb3a40-aadb-419e-a674-33ffc2a61fcf"
+    }
+}

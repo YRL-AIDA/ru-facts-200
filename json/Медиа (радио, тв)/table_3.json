@@ -1,0 +1,941 @@
+{
+    "id": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+	"VERSION":"1.0",
+    "main_node": "b3d6a1e1-cf60-4d90-96ba-9e7baa46065e",
+    "content": [
+        {
+            "type": "text",
+            "id": "b3d6a1e1-cf60-4d90-96ba-9e7baa46065e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "edb3b70f-0a0f-49ef-9df8-90c90c5ac0b6"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "edb3b70f-0a0f-49ef-9df8-90c90c5ac0b6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2c0605b6-396a-434c-8d16-8d6a965e4a95"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "2c0605b6-396a-434c-8d16-8d6a965e4a95",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "732da88d-6934-4420-8753-c1837d3e6a87",
+                "dd0927e1-f248-4974-8e2c-bf059683b27c",
+                "9a1176db-8074-4b00-b848-b492910cd84f",
+                "724dea58-099e-461c-afc5-4aef437f8157"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "732da88d-6934-4420-8753-c1837d3e6a87",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "550e1102-c72d-40ee-8918-be4e0187b465",
+                "17eb3c18-f6f4-48d7-8899-2a87e320d685",
+                "d4e3556a-19c3-4fe6-96f1-e5117d138f90"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "550e1102-c72d-40ee-8918-be4e0187b465",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0dd7f400-e604-4021-8865-7fde3950e79a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0dd7f400-e604-4021-8865-7fde3950e79a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Позиция",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "17eb3c18-f6f4-48d7-8899-2a87e320d685",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "db38fb2b-f646-45d8-96f9-bb8cc39e9207"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "db38fb2b-f646-45d8-96f9-bb8cc39e9207",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Название",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d4e3556a-19c3-4fe6-96f1-e5117d138f90",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0171f38a-6384-444e-8845-718e8cc731df"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0171f38a-6384-444e-8845-718e8cc731df",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Владелец",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "dd0927e1-f248-4974-8e2c-bf059683b27c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "f86d8119-01a5-4bf1-bea3-9730adc78dce",
+                "75822dbe-d1ff-4380-83ff-fbb3b9ebc45c",
+                "851a3837-21d0-45b1-8b09-fafe5384d724"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f86d8119-01a5-4bf1-bea3-9730adc78dce",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c5cbc6eb-645e-4d6e-9f2a-f9ddf4aa6bad"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c5cbc6eb-645e-4d6e-9f2a-f9ddf4aa6bad",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "75822dbe-d1ff-4380-83ff-fbb3b9ebc45c",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "dbd7e6a7-2c77-4e21-bae1-38bab4e1030b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "dbd7e6a7-2c77-4e21-bae1-38bab4e1030b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Вести FM",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "851a3837-21d0-45b1-8b09-fafe5384d724",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8b9e2adc-3c5f-4079-aa17-09d1f8d6a574"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8b9e2adc-3c5f-4079-aa17-09d1f8d6a574",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "ФГУП «Всероссийская государственная телевизионная и радиовещательная компания»",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "9a1176db-8074-4b00-b848-b492910cd84f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "5860591d-e812-4af9-bfdc-6a14030988e6",
+                "231dbb47-8a83-4307-b334-4d063d79d32d",
+                "c55dbd48-0672-4107-972b-2096cc4c2794"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5860591d-e812-4af9-bfdc-6a14030988e6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "73fa3dc9-b513-4660-a6c1-690ec799379d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "73fa3dc9-b513-4660-a6c1-690ec799379d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "231dbb47-8a83-4307-b334-4d063d79d32d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cd772787-09ea-4c8b-afad-431e959d4a3e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cd772787-09ea-4c8b-afad-431e959d4a3e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Радио Маяк",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c55dbd48-0672-4107-972b-2096cc4c2794",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d99e37f0-f51d-4d91-aa7f-0525acbe5396"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d99e37f0-f51d-4d91-aa7f-0525acbe5396",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Филиал ФГУП ВГТРК «Государственная радиовещательная компания „Маяк“»",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "724dea58-099e-461c-afc5-4aef437f8157",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "fbbb990c-5901-482d-b07f-51d9c8421064",
+                "ab8aabff-bf16-4fbd-bc92-78265ade018a",
+                "44a05804-5a90-469a-b0e9-c0f76f7f7316"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fbbb990c-5901-482d-b07f-51d9c8421064",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "98665e58-94ed-4776-a970-cc2a4388f4fb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "98665e58-94ed-4776-a970-cc2a4388f4fb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "3",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "ab8aabff-bf16-4fbd-bc92-78265ade018a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f47b6fb1-d61d-4672-9ad3-5af9ba1f3a2e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f47b6fb1-d61d-4672-9ad3-5af9ba1f3a2e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Радио России",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "44a05804-5a90-469a-b0e9-c0f76f7f7316",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "4cc91d26-edbb-4fd1-b098-7de0e02a9058"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4cc91d26-edbb-4fd1-b098-7de0e02a9058",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Филиал ФГУП ВГТРК «Государственная радиовещательная компания „Радио России“»",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "0195a723-c3f3-7516-a0b2-5c98017e993a"
+                },
+                "id": "bc07bc50-b020-436c-b596-23fba1152793"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "0195a723-c37b-78bc-b53b-75c0ea5a027e"
+                },
+                "id": "c36f6cf6-9e4d-47e6-8999-0a0229d3bee0"
+            },
+            {
+                "status": "approved",
+                "type_id": "22477",
+                "value": {
+                    "concept": "0195a683-5199-774a-97c6-e38098e34516"
+                },
+                "id": "b8150a4f-4e00-4477-b053-1c53d91408cf"
+            },
+            {
+                "status": "approved",
+                "type_id": "22477",
+                "value": {
+                    "concept": "0195a683-4f7b-760d-afac-8827816bca08"
+                },
+                "id": "f0c67db4-0cd9-4971-ab6b-3e2984a35f52"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "0195a723-c45e-7561-981b-6bc18e27fa06"
+                },
+                "id": "921304c0-e465-4d71-b8f5-eb42d417fe19"
+            },
+            {
+                "status": "approved",
+                "type_id": "22477",
+                "value": {
+                    "concept": "0195a683-52ef-7309-84a9-7fded701257e"
+                },
+                "id": "a32d024e-8c7d-4156-96a4-29d9ae822745"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-85406148"
+                },
+                "id": "d4ab2b3b-a19e-47d8-a054-478d182a47ef"
+            }
+        ],
+        "atom": [
+            {
+                "id": "cb619f65-9699-4fe4-b2fe-31d7eb1412c0",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Филиал ФГУП ВГТРК «Государственная радиовещательная компания „Радио России“»"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4ddf79e8-6d87-43de-b05a-84f37cd8c307",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "ФГУП «Всероссийская государственная телевизионная и радиовещательная компания»"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6144146d-70cc-4ac9-b5af-2b4dce0d2353",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Вести FM"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "fa9fbcf5-c06a-4554-a59a-93e347a22b96",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 1,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f944f3b0-20d2-4a7f-9326-f1d0e8e52a94",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Радио Маяк"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2aeb91ff-0e4b-4cfb-8a4c-0d80b47fe6f8",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 2,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "81d75a12-4eff-49a8-829c-3e141b5e0a39",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Филиал ФГУП ВГТРК «Государственная радиовещательная компания „Маяк“»"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3427b869-060f-40ea-83f8-ade730cbd63e",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Радио России"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "84704e33-7d83-408c-90f3-04b32ed16db1",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 3,
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "cc44a49a-8e50-40b3-b518-ec2379755c3a",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "21063e65-eb10-41cf-9d4d-42870d64df7a",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1742265840
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ce2ce1f4-95c5-4fa3-a3f4-64dcb88a6c8b",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 50528
+                },
+                "status": "approved"
+            },
+            {
+                "id": "21e7b1da-2ebe-49a4-9e1b-f8b44421cf5c",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1742265840
+                },
+                "status": "approved"
+            },
+            {
+                "id": "75fdb6bb-ec77-4596-9f5c-1901fe6be8a9",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_3.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "7f71e4ef-a484-4ace-8533-fe6dfb282b8f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "13dfed63-9c8b-4efc-ae4b-f01939594dc8",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "4620864f-2d66-4526-94a4-3dba0c97aa53",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_3.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "69347de0-e5b1-4cbe-a368-b87963e2684a",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3439"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8c4ef78c-7e3b-42de-8e8c-c253ebed75f9",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1742265840
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2e915bff-05fb-437a-88c8-a1679b97ee1f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/d4ab/2b3b/table_3.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "12a5528a-7f6d-4fae-b261-c5b26a1bb6a7",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [
+            {
+                "status": "approved",
+                "type_id": "23377",
+                "value": "ОК-85406174",
+                "id": "fdd057df-8602-4736-a9b4-c05ed6bf6440",
+                "source": "bc07bc50-b020-436c-b596-23fba1152793",
+                "target": "a32d024e-8c7d-4156-96a4-29d9ae822745"
+            },
+            {
+                "status": "approved",
+                "type_id": "23377",
+                "value": "ОК-85406175",
+                "id": "ac3d9f03-a569-42ad-80c8-abdb80b094d0",
+                "source": "c36f6cf6-9e4d-47e6-8999-0a0229d3bee0",
+                "target": "b8150a4f-4e00-4477-b053-1c53d91408cf"
+            },
+            {
+                "status": "approved",
+                "type_id": "23377",
+                "value": "ОК-85406176",
+                "id": "c4001541-2725-4685-a558-e22741a28d0d",
+                "source": "921304c0-e465-4d71-b8f5-eb42d417fe19",
+                "target": "f0c67db4-0cd9-4971-ab6b-3e2984a35f52"
+            }
+        ],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-85406167",
+                "id": "a9335ba9-ce65-40a9-9706-c8ec6988b2a9",
+                "source": "bc07bc50-b020-436c-b596-23fba1152793",
+                "target": "cb619f65-9699-4fe4-b2fe-31d7eb1412c0"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-85406170",
+                "id": "08cf6c51-6740-4eb4-b686-2ab757d54a29",
+                "source": "c36f6cf6-9e4d-47e6-8999-0a0229d3bee0",
+                "target": "4ddf79e8-6d87-43de-b05a-84f37cd8c307"
+            },
+            {
+                "status": "approved",
+                "type_id": "22478",
+                "value": "ОК-85405736",
+                "id": "6359b5dd-5b76-4f3f-ba22-47a23c74876c",
+                "source": "b8150a4f-4e00-4477-b053-1c53d91408cf",
+                "target": "6144146d-70cc-4ac9-b5af-2b4dce0d2353"
+            },
+            {
+                "status": "approved",
+                "type_id": "23375",
+                "value": "ОК-85406171",
+                "id": "3e9c40fc-d60b-46c5-8d60-42f14ec4e367",
+                "source": "b8150a4f-4e00-4477-b053-1c53d91408cf",
+                "target": "fa9fbcf5-c06a-4554-a59a-93e347a22b96"
+            },
+            {
+                "status": "approved",
+                "type_id": "22478",
+                "value": "ОК-85405738",
+                "id": "2389b5ce-5946-486b-b60e-08c7b2b3df58",
+                "source": "f0c67db4-0cd9-4971-ab6b-3e2984a35f52",
+                "target": "f944f3b0-20d2-4a7f-9326-f1d0e8e52a94"
+            },
+            {
+                "status": "approved",
+                "type_id": "23375",
+                "value": "ОК-85406172",
+                "id": "673e23a0-ca0e-488d-b322-3213a589b9ff",
+                "source": "f0c67db4-0cd9-4971-ab6b-3e2984a35f52",
+                "target": "2aeb91ff-0e4b-4cfb-8a4c-0d80b47fe6f8"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-85406165",
+                "id": "6e959d02-6741-45f0-af8c-793b019dff85",
+                "source": "921304c0-e465-4d71-b8f5-eb42d417fe19",
+                "target": "81d75a12-4eff-49a8-829c-3e141b5e0a39"
+            },
+            {
+                "status": "approved",
+                "type_id": "22478",
+                "value": "ОК-85406168",
+                "id": "fe559056-6375-4477-a85f-03187a68fcf2",
+                "source": "a32d024e-8c7d-4156-96a4-29d9ae822745",
+                "target": "3427b869-060f-40ea-83f8-ade730cbd63e"
+            },
+            {
+                "status": "approved",
+                "type_id": "23375",
+                "value": "ОК-85406173",
+                "id": "6c2ff1b4-f466-4ed6-8b19-92fb19c89c1d",
+                "source": "a32d024e-8c7d-4156-96a4-29d9ae822745",
+                "target": "84704e33-7d83-408c-90f3-04b32ed16db1"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-85406152",
+                "id": "a2c8ff0f-a929-4c7d-a563-491e3ec7aca7",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "cc44a49a-8e50-40b3-b518-ec2379755c3a"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-85406153",
+                "id": "bcbd065a-3f53-4c4c-9a13-05b12fca7513",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "21063e65-eb10-41cf-9d4d-42870d64df7a"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-85406154",
+                "id": "7b10026f-366f-4fb1-8275-d1802ed5b22a",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "ce2ce1f4-95c5-4fa3-a3f4-64dcb88a6c8b"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-85406155",
+                "id": "7b6402af-f461-4db4-8d46-39c8ac1da1cb",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "21e7b1da-2ebe-49a4-9e1b-f8b44421cf5c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-85406156",
+                "id": "49131ad2-75d2-44af-bcb6-15d5b7e64c4d",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "75fdb6bb-ec77-4596-9f5c-1901fe6be8a9"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-85406157",
+                "id": "0eadadd5-80c6-43e3-8fcd-b335098be22c",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "7f71e4ef-a484-4ace-8533-fe6dfb282b8f"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-85406158",
+                "id": "98d82a93-933b-4556-a86b-603796106975",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "13dfed63-9c8b-4efc-ae4b-f01939594dc8"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-85406159",
+                "id": "222206aa-cca6-461c-b082-a0c7d74f0a3c",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "4620864f-2d66-4526-94a4-3dba0c97aa53"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-85406160",
+                "id": "43930b05-6b43-4832-9eb5-90701a326657",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "69347de0-e5b1-4cbe-a368-b87963e2684a"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-85406161",
+                "id": "3254b5e8-6dd0-4a8d-8504-cff64c28dd57",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "8c4ef78c-7e3b-42de-8e8c-c253ebed75f9"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-85406162",
+                "id": "16e54830-0a18-436a-9010-c16615ee357c",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "2e915bff-05fb-437a-88c8-a1679b97ee1f"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-85406163",
+                "id": "fce469bf-ab73-477c-aac8-9c3d0e5b7658",
+                "source": "d4ab2b3b-a19e-47d8-a054-478d182a47ef",
+                "target": "12a5528a-7f6d-4fae-b261-c5b26a1bb6a7"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "98665e58-94ed-4776-a970-cc2a4388f4fb",
+                    "start": 0,
+                    "end": 1
+                },
+                "value": "84704e33-7d83-408c-90f3-04b32ed16db1",
+                "id": "39bb2736-1448-4a17-bc99-ddca1edcdc93"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f47b6fb1-d61d-4672-9ad3-5af9ba1f3a2e",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "3427b869-060f-40ea-83f8-ade730cbd63e",
+                "id": "0fd1fa1d-b114-490b-bec3-e162fdc9aa00"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "4cc91d26-edbb-4fd1-b098-7de0e02a9058",
+                    "start": 0,
+                    "end": 76
+                },
+                "value": "cb619f65-9699-4fe4-b2fe-31d7eb1412c0",
+                "id": "40d10bfc-ebf1-48c2-b464-5b6b00d64cec"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c5cbc6eb-645e-4d6e-9f2a-f9ddf4aa6bad",
+                    "start": 0,
+                    "end": 1
+                },
+                "value": "fa9fbcf5-c06a-4554-a59a-93e347a22b96",
+                "id": "e2dbc7b6-c4fa-4cfc-ab3b-46209f006b5a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "dbd7e6a7-2c77-4e21-bae1-38bab4e1030b",
+                    "start": 0,
+                    "end": 8
+                },
+                "value": "6144146d-70cc-4ac9-b5af-2b4dce0d2353",
+                "id": "3191b6c6-3bd0-4d50-91d0-c29a6b59b8a8"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8b9e2adc-3c5f-4079-aa17-09d1f8d6a574",
+                    "start": 0,
+                    "end": 78
+                },
+                "value": "4ddf79e8-6d87-43de-b05a-84f37cd8c307",
+                "id": "21557f4e-5d10-46be-8007-8c32385d9a3b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cd772787-09ea-4c8b-afad-431e959d4a3e",
+                    "start": 0,
+                    "end": 10
+                },
+                "value": "f944f3b0-20d2-4a7f-9326-f1d0e8e52a94",
+                "id": "0c99385d-aa3a-46e9-99d9-b3fe9219d04a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "73fa3dc9-b513-4660-a6c1-690ec799379d",
+                    "start": 0,
+                    "end": 1
+                },
+                "value": "2aeb91ff-0e4b-4cfb-8a4c-0d80b47fe6f8",
+                "id": "ea4a78e4-a29c-4c59-a7d4-1a601b7cb115"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d99e37f0-f51d-4d91-aa7f-0525acbe5396",
+                    "start": 0,
+                    "end": 68
+                },
+                "value": "81d75a12-4eff-49a8-829c-3e141b5e0a39",
+                "id": "13dd485c-aa5f-4896-95dc-722265583428"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_3.docx",
+        "file_name": "table_3.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 50528,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1742265840,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/d4ab%2F2b3b%2Ftable_3.docx",
+        "markers": [],
+        "account": [],
+        "story": "d4ab2b3b-a19e-47d8-a054-478d182a47ef"
+    }
+}

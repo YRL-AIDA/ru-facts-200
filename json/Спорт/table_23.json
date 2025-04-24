@@ -1,0 +1,2844 @@
+{
+    "id": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+	"VERSION":"1.0",
+    "main_node": "4455d22d-bdb6-4150-a9d9-f560744b4400",
+    "content": [
+        {
+            "type": "text",
+            "id": "4455d22d-bdb6-4150-a9d9-f560744b4400",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "5d16d6a4-d5d6-4df6-8c51-46521261d136"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5d16d6a4-d5d6-4df6-8c51-46521261d136",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7e3577fa-9715-4d30-b2af-81d9c647d70b"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "7e3577fa-9715-4d30-b2af-81d9c647d70b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "f284c7ec-a533-4081-a2d2-65d242261faa",
+                "19ebca23-f79c-4be5-a95d-a3f8b9ce79b4",
+                "fe8f5195-00ce-45a9-bfb0-17b8fbf21347",
+                "79e832b0-1005-4848-89cb-4f77700d7750",
+                "a5ecfffd-733f-4794-98ca-eeeb7dd98849",
+                "195a4394-8133-410d-a23f-a5d151d98937",
+                "95db780f-27e3-4317-9e36-857e4ef35cc2",
+                "0a89af34-915f-4939-b1cb-c3342da08928",
+                "affb7b94-2e21-4cea-a979-864f10d1d976",
+                "821b35ba-8485-4f29-9ab5-29b43c2b7ad2",
+                "d596aeaf-66cc-49c7-a575-6cc6de38399a",
+                "933e9d93-342f-420e-accc-cabb732479a0",
+                "7acfea41-bbf6-4b50-9255-f4d8775e08e0",
+                "b8c95cb9-d087-422a-b0f5-69e4ea49aeb3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "f284c7ec-a533-4081-a2d2-65d242261faa",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d7fc87d3-c27d-4751-aa82-d3a22a4ee2eb",
+                "596edda2-ec75-4579-bb31-2a5d958f6aae",
+                "a9821778-12f0-4e9f-bc82-027ab58d1925"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d7fc87d3-c27d-4751-aa82-d3a22a4ee2eb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "69a666a6-ef67-41c6-add4-68c150776ac4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "69a666a6-ef67-41c6-add4-68c150776ac4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Поз.",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "596edda2-ec75-4579-bb31-2a5d958f6aae",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "d94abbc8-dc6f-47d0-9bcd-b37de861de4b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d94abbc8-dc6f-47d0-9bcd-b37de861de4b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Игрок",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "a9821778-12f0-4e9f-bc82-027ab58d1925",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "39ea25e0-aa92-400c-8175-7398fe513ef7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "39ea25e0-aa92-400c-8175-7398fe513ef7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Новый клуб",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "19ebca23-f79c-4be5-a95d-a3f8b9ce79b4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "da1b7c34-7b4d-462a-a729-059997165c96",
+                "5dc13b3b-370e-43e4-962d-1f1fc54346f3",
+                "5d6889f2-7d16-4de2-aa98-7bc8f9bb54fe"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "da1b7c34-7b4d-462a-a729-059997165c96",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "efff93c2-7dce-4a0f-b925-f2040baa9f21"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "efff93c2-7dce-4a0f-b925-f2040baa9f21",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Защ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5dc13b3b-370e-43e4-962d-1f1fc54346f3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cb1cf4b4-5041-4d61-88e7-af96f8c56f83"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cb1cf4b4-5041-4d61-88e7-af96f8c56f83",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Карл Старфельт",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5d6889f2-7d16-4de2-aa98-7bc8f9bb54fe",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e1cd7849-5d4b-4bed-982f-6be953aad7cd"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e1cd7849-5d4b-4bed-982f-6be953aad7cd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Селтик",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "fe8f5195-00ce-45a9-bfb0-17b8fbf21347",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "08742b95-76a7-471d-8889-6bada8adafaa",
+                "1fc8e148-1781-4dff-9521-6023cccc17a0",
+                "5ba960f9-b510-4cb3-a759-750ed7480684"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "08742b95-76a7-471d-8889-6bada8adafaa",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0d038dfe-b9ee-4155-9e25-c3423c68dc03"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0d038dfe-b9ee-4155-9e25-c3423c68dc03",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Защ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1fc8e148-1781-4dff-9521-6023cccc17a0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "276afe19-123a-4d8f-bc62-b22a53f3e295"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "276afe19-123a-4d8f-bc62-b22a53f3e295",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Данил Степанов*",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5ba960f9-b510-4cb3-a759-750ed7480684",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "163bfe51-209a-42ae-85a7-24f4c35341a7"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "163bfe51-209a-42ae-85a7-24f4c35341a7",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Арсенал (Тула)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "79e832b0-1005-4848-89cb-4f77700d7750",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "f72bed1c-cae9-4e80-907b-781a19cc9a42",
+                "0bb80685-a4c9-47e7-a539-061b7afd7459",
+                "78ac3f33-d2df-4187-8e87-20dd35f8e1ad"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f72bed1c-cae9-4e80-907b-781a19cc9a42",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "94fceb27-78a1-4b3a-8074-2fec3da3ad15"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "94fceb27-78a1-4b3a-8074-2fec3da3ad15",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Защ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0bb80685-a4c9-47e7-a539-061b7afd7459",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "209f5cf1-c814-4268-9ca7-3a0edd575d88"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "209f5cf1-c814-4268-9ca7-3a0edd575d88",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Михаил Меркулов***",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "78ac3f33-d2df-4187-8e87-20dd35f8e1ad",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "15cc390c-fd36-4ac4-a76b-aec3d1a0d7d1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "15cc390c-fd36-4ac4-a76b-aec3d1a0d7d1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Риека",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "a5ecfffd-733f-4794-98ca-eeeb7dd98849",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "28c45454-c06e-4d35-9788-c30610aa10c8",
+                "06c4e4f8-3964-4f22-af56-453de3cdf8bc",
+                "9f13992d-b415-4ccc-b89d-94cea9262a1e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "28c45454-c06e-4d35-9788-c30610aa10c8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "8b37c8d3-f956-4284-941a-714cae48269d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "8b37c8d3-f956-4284-941a-714cae48269d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Защ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "06c4e4f8-3964-4f22-af56-453de3cdf8bc",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "466e90d7-11fb-4677-8a78-25c9ffd58e8c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "466e90d7-11fb-4677-8a78-25c9ffd58e8c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Алексей Грицаенко*",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9f13992d-b415-4ccc-b89d-94cea9262a1e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9ff3c172-79b6-44c6-a2c5-1c53d9d34bd6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9ff3c172-79b6-44c6-a2c5-1c53d9d34bd6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кубань",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "195a4394-8133-410d-a23f-a5d151d98937",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "6786e8da-e4ed-4676-961f-0c1a3889b295",
+                "18fb1af4-0da8-484d-a71c-a34ecc899c71",
+                "6d6817d6-a927-480f-8bdf-0ab2050b5454"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6786e8da-e4ed-4676-961f-0c1a3889b295",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "33727b82-786f-4b67-acc9-d811c1afd474"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "33727b82-786f-4b67-acc9-d811c1afd474",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Защ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "18fb1af4-0da8-484d-a71c-a34ecc899c71",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a12a5773-2f7f-41f1-9c7a-621de2963757"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a12a5773-2f7f-41f1-9c7a-621de2963757",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Сильвие Бегич*",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6d6817d6-a927-480f-8bdf-0ab2050b5454",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d3ff1f56-8f2a-42c6-9196-68773995b9ec"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d3ff1f56-8f2a-42c6-9196-68773995b9ec",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Крылья Советов",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "95db780f-27e3-4317-9e36-857e4ef35cc2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "e77e5ebc-ea3d-484b-844e-192908420e36",
+                "804659a0-3b71-4ffb-bb19-876ac3b326ca",
+                "f0d6fefc-9fc7-4665-805f-9fb70bc4f8a0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e77e5ebc-ea3d-484b-844e-192908420e36",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "0cbd773d-665c-4fb2-886f-e7b7124a6c05"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "0cbd773d-665c-4fb2-886f-e7b7124a6c05",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "ПЗ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "804659a0-3b71-4ffb-bb19-876ac3b326ca",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "66489475-6edb-420e-adbe-e60c310ae0bb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "66489475-6edb-420e-adbe-e60c310ae0bb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Игорь Коновалов*",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f0d6fefc-9fc7-4665-805f-9fb70bc4f8a0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "88d246f0-cb0d-4ab6-abca-d7cadce1b12d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "88d246f0-cb0d-4ab6-abca-d7cadce1b12d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Ахмат",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "0a89af34-915f-4939-b1cb-c3342da08928",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "32067718-de22-4b49-9723-213f6d536330",
+                "8ee7a5a8-180b-4049-bd98-b85a5e180150",
+                "dfe530f8-cac4-452e-a0a1-72faec7c048f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "32067718-de22-4b49-9723-213f6d536330",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5ef342e7-9721-4c92-82aa-5bd468e91753"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5ef342e7-9721-4c92-82aa-5bd468e91753",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "ПЗ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8ee7a5a8-180b-4049-bd98-b85a5e180150",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7746e1ef-0b58-4f22-a149-83dd4c2a9f06"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7746e1ef-0b58-4f22-a149-83dd4c2a9f06",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Камиль Закиров***",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "dfe530f8-cac4-452e-a0a1-72faec7c048f",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "80773a49-f28a-415b-a0e3-b21efe03710a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "80773a49-f28a-415b-a0e3-b21efe03710a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "affb7b94-2e21-4cea-a979-864f10d1d976",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "e580dda8-8732-4809-a066-ed20de51264e",
+                "41bc8e79-1a54-4ed6-baaa-b571da28176d",
+                "967ebbde-ff26-4483-b8bb-6e2662412580"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e580dda8-8732-4809-a066-ed20de51264e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e23a0eba-06ce-414e-81c5-eddba9ca42f4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e23a0eba-06ce-414e-81c5-eddba9ca42f4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "ПЗ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "41bc8e79-1a54-4ed6-baaa-b571da28176d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "41a9fde3-3b71-4834-86f1-af2a22c72f33"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "41a9fde3-3b71-4834-86f1-af2a22c72f33",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Денис Макаров",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "967ebbde-ff26-4483-b8bb-6e2662412580",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b02ba239-5fd8-4f9e-a8a6-b5091471cb7b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b02ba239-5fd8-4f9e-a8a6-b5091471cb7b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Динамо (Москва)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "821b35ba-8485-4f29-9ab5-29b43c2b7ad2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "1cc0c19e-d8ad-446e-8325-2d79d90c999d",
+                "26f96993-1b4c-4234-8df5-afd14b8c31f7",
+                "22decc56-071b-48a7-b682-2954ded8ad43"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1cc0c19e-d8ad-446e-8325-2d79d90c999d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "10d1372e-f2fa-4eeb-8035-dbca585bd982"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "10d1372e-f2fa-4eeb-8035-dbca585bd982",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "ПЗ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "26f96993-1b4c-4234-8df5-afd14b8c31f7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "cdeb5e9e-fa90-47a0-b43e-e48e3e34bc0d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "cdeb5e9e-fa90-47a0-b43e-e48e3e34bc0d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Мицуки Сайто**",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "22decc56-071b-48a7-b682-2954ded8ad43",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "db9d36b7-b388-42d0-ad88-0bb333e062a4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "db9d36b7-b388-42d0-ad88-0bb333e062a4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Сёнан Бельмаре",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "d596aeaf-66cc-49c7-a575-6cc6de38399a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2fa772e1-ee8e-4612-b3ae-f55703fd1e40",
+                "bdfc0211-02bf-45bc-a83b-8d1333d90b9d",
+                "d656de60-1563-45da-8cdb-019dda69141b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2fa772e1-ee8e-4612-b3ae-f55703fd1e40",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d8d79de3-5f86-43c5-9ac1-37db6667383c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d8d79de3-5f86-43c5-9ac1-37db6667383c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "ПЗ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bdfc0211-02bf-45bc-a83b-8d1333d90b9d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "b8dd1491-66fb-42cd-965e-a132af28fcc8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "b8dd1491-66fb-42cd-965e-a132af28fcc8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Зурико Давиташвили***",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d656de60-1563-45da-8cdb-019dda69141b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "c870e9f9-a0f3-4623-8ac4-1111124bfbf1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "c870e9f9-a0f3-4623-8ac4-1111124bfbf1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Арсенал (Тула)",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "933e9d93-342f-420e-accc-cabb732479a0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "6e030e9f-5557-4edf-8ea9-5ed5e21fedaf",
+                "916e9004-55ba-42e7-9efb-44f0c75e1785",
+                "33742c31-b5a6-4f8c-901d-bbab3b186dc8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "6e030e9f-5557-4edf-8ea9-5ed5e21fedaf",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d95654aa-2052-481a-a5ce-f10fe4483db2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d95654aa-2052-481a-a5ce-f10fe4483db2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "ПЗ",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "916e9004-55ba-42e7-9efb-44f0c75e1785",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3a5af0bf-a6c9-4a7a-8114-7895ad47c7fc"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3a5af0bf-a6c9-4a7a-8114-7895ad47c7fc",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Дарко Йевтич*",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "33742c31-b5a6-4f8c-901d-bbab3b186dc8",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "53081659-3b49-4e52-b1f5-c2c6919da21c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "53081659-3b49-4e52-b1f5-c2c6919da21c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "АЕК",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "7acfea41-bbf6-4b50-9255-f4d8775e08e0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "7521c81c-a621-49a2-9ca9-fc974be76edf",
+                "f1304fb9-8fcc-4f7b-92f6-31ade44d051d",
+                "e7f5992c-de21-4611-95fb-0d794008d782"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7521c81c-a621-49a2-9ca9-fc974be76edf",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1c2d8629-59d6-4369-8093-8cdb47348752"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1c2d8629-59d6-4369-8093-8cdb47348752",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Нап",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "f1304fb9-8fcc-4f7b-92f6-31ade44d051d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "87b52df1-3599-48bb-91c0-2a8201fe52b0"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "87b52df1-3599-48bb-91c0-2a8201fe52b0",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кирилл Климов*",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e7f5992c-de21-4611-95fb-0d794008d782",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9c3c4516-3f3a-49fb-b08e-c4c97b464eef"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9c3c4516-3f3a-49fb-b08e-c4c97b464eef",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кубань",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "b8c95cb9-d087-422a-b0f5-69e4ea49aeb3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "2ff07242-c573-4334-a890-d9c2dae0c1d1",
+                "bc88af90-1b2b-4bb9-a440-e1a7000a51f6",
+                "4bacde19-2cbf-4b8e-9267-abfda2f74b4e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2ff07242-c573-4334-a890-d9c2dae0c1d1",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "30bf0b9c-b052-43fe-a8ff-27d2f516a61e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "30bf0b9c-b052-43fe-a8ff-27d2f516a61e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Нап",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bc88af90-1b2b-4bb9-a440-e1a7000a51f6",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6ea11e1e-6648-4f1c-8733-142a36ac3428"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6ea11e1e-6648-4f1c-8733-142a36ac3428",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Кирилл Косарев*",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "4bacde19-2cbf-4b8e-9267-abfda2f74b4e",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3a782d01-e453-4c8a-bda3-3a1e06ebfe51"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3a782d01-e453-4c8a-bda3-3a1e06ebfe51",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Нижний Новгород",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a554-7dc0-9535-d8cdbf3f2830"
+                },
+                "id": "93714243-0aba-4b26-adf5-b360a9ea1209"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "0195f98c-f20e-77c9-95a6-44a0672f10da"
+                },
+                "id": "2837cb8d-9c31-42c2-9a15-eed4baeb2ce9"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "0187b937-8420-7c63-a996-00f7a7976b88"
+                },
+                "id": "1d90fb0d-1861-4e53-ba2c-4b7e73da9421"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a761-7f22-b499-1e59934430eb"
+                },
+                "id": "9d220131-437c-4140-8fa8-768da5738388"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a618-738d-b65d-bce66e823c6d"
+                },
+                "id": "1b50488d-32a8-4e76-a2ce-dcc4ec518960"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a32a-798d-8ee8-62129d4d33b3"
+                },
+                "id": "f5a04d0c-994e-4ca4-aac5-5861a9e0b6ee"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a3d5-7e05-87a7-4499b8836df5"
+                },
+                "id": "616f5ad9-f442-4f42-9528-ba0e606152cf"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a45f-7fde-b631-340683dc1551"
+                },
+                "id": "72865afd-710c-46f7-86d3-ed3a02f82eb4"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a671-7f8d-986e-89954d8b768c"
+                },
+                "id": "f6405fe7-96be-425e-b663-1d37cf08c548"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "0195fa21-a79a-78aa-b150-692aef107426"
+                },
+                "id": "25374103-eac7-4ee2-b26d-2747b225203e"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "019167b9-45e8-7b93-96a1-008baac8af06"
+                },
+                "id": "35fd2a84-3e2f-48c4-9687-ae1bfcc8a608"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "01811f21-3558-75a2-87b2-ba22f9f4f187"
+                },
+                "id": "3c03baf4-cd88-4039-a612-7e20c1e7f2bd"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a4f6-72fe-9956-0da4a8604551"
+                },
+                "id": "873b97fd-7549-4d4c-8020-46b5f95b046b"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "01915e05-5b18-7101-bb6d-b2e4a330cb45"
+                },
+                "id": "a97d4cb6-688f-43c7-ad7c-4a76b15b87b7"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a414-770b-afb6-240f67b76326"
+                },
+                "id": "bda9d66b-494e-428f-9405-369b5e6d2afc"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "01920a29-bb00-7181-845d-90ac0e8071b1"
+                },
+                "id": "6862ff26-494e-41a3-b873-c37d190bae96"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "0191622d-abf0-77b5-9fc7-9fa17dbdbe23"
+                },
+                "id": "d295c09c-9de6-42fc-9df8-4a274b26df30"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "0195fa21-a7d7-7ed5-91c2-89bbfffc87e1"
+                },
+                "id": "e716e916-29bc-48de-ba5b-08ccf92b4bc5"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a6be-7d2f-b366-75db97dbe083"
+                },
+                "id": "2ed7438b-75e1-4314-be06-1bd3656eba14"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a2ad-709f-9a7e-d5d17b564d65"
+                },
+                "id": "600f9b48-0153-4567-a083-1a305fe524cc"
+            },
+            {
+                "status": "approved",
+                "type_id": "608",
+                "value": {
+                    "concept": "01916338-5d60-7a18-8687-9560e33faccf"
+                },
+                "id": "1921f914-790d-457b-a494-6122ad2e8904"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a590-7ad4-a18b-facd4bd7505e"
+                },
+                "id": "e58809c8-02a9-4de1-9282-71e781ce1588"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "0195fa21-a4bf-7ee4-b870-ac43316c0665"
+                },
+                "id": "7caa370e-45b2-42fd-ba83-69846f66c3f0"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-97615396"
+                },
+                "id": "db8972d2-f78c-44ea-b5dd-85f54755daac"
+            }
+        ],
+        "atom": [
+            {
+                "id": "427e3d1d-b5a6-4389-b127-5c97a9b1afde",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Игорь Коновалов"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "e6cd0c9e-b603-4900-bf63-699aa0806a70",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Камиль Закиров"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "ff683a6b-6a66-463e-9a39-650e13fcb89a",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Крылья Советов"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "472700d6-f2b2-41cd-b517-8a5005fbe9d3",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Денис Макаров"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2ea09cfb-101a-4139-bb3c-25c4ff5e4be7",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "ПЗ",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "12e8c570-1eef-4ec7-9043-3da18b575b5b",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Сильвие Бегич"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d0180163-892b-424d-b2a0-39dbe2c7eeea",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Защ",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c0c98cd1-f9f9-4d29-860c-6c081d87e760",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Нап",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1d6201a6-da5c-4b91-8d08-ba14aed87e5b",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Риека"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "010a95b8-8b4e-401d-a2c0-b3830a3fa4a8",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "ПЗ",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6a308a4e-487e-4aef-8c58-08ad522dbca0",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Динамо"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f5adfca1-dfb4-4322-9eb7-1ac310183425",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Кубань"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "afe3195f-0781-4c70-831a-206d2bdf87f3",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Кирилл Косарев"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3b8856ad-76a3-4638-94a0-8a4c483151c4",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "ПЗ",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "3582bebe-2e7a-4050-bef8-906da0af267a",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Алексей Грицаенко"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "9496dbcd-71e1-48f8-b783-08ccce8da869",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Михаил Меркулов"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f7f867e1-5532-4d23-9089-e4a2832ee72f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Защ",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d0e0c4de-b8a3-4e0c-a954-38de2e2ac2ec",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Нап",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2b2ccabc-a982-49b0-8527-fe4524983f58",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Зурико Давиташвили"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "22de9f2c-533d-4e9c-9ff6-ab2f7974a677",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "ПЗ",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "441b74eb-d7dc-41cd-be08-8d1f67695cda",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Дарко Йевтич"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "8c2e3773-8bf0-4252-9b38-aa69480a2305",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "ПЗ",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "628b3cee-9c69-4e3d-a8d9-ba829b685a6f",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Ахмат"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "543823e0-0268-4304-8616-013539a58440",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Защ",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c903b4d6-e5a2-480e-a12e-d75a871d9a89",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "АЕК"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "cf149210-0783-4923-8806-40ca51f13653",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Мицуки Сайто"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "dcbe5c01-5131-454c-86ca-97801255e892",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "ПЗ",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6b4de8cf-d55a-492f-9e18-d3b590411cd1",
+                "type_id": "74",
+                "value": {
+                    "type": "GeoPointValue",
+                    "point": {
+                        "latitude": 55.625578,
+                        "longitude": 37.6063916
+                    },
+                    "name": "Москва, Центральный федеральный округ, Россия",
+                    "confidence": 0.1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "7d8ed816-63aa-4d1e-983f-62089c134056",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Данил Степанов"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "82a00b21-abd4-43fc-923a-00821d5a91f9",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Кирилл Климов"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "41245b3a-e2cd-4dda-8717-acf1e116112d",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Карл Старфельт"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "54537253-ac71-4dd9-a906-c9bb43e239e3",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Защ",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "725f1f15-b423-4de0-99f9-63062f2d46c7",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Сёнан Бельмаре"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c036ec67-a093-4f17-b563-c8c5b4ebccd0",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Нижний Новгород"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "d912b019-491e-4bb3-b822-67f24d337665",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Арсенал"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1a9359d5-3e16-41e8-b37f-5336f7d556c3",
+                "type_id": "74",
+                "value": {
+                    "type": "GeoPointValue",
+                    "point": {
+                        "latitude": 54.1930321,
+                        "longitude": 37.61754
+                    },
+                    "name": "Тула, городской округ Тула, Тульская область, Центральный федеральный округ, Россия",
+                    "confidence": 0.1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "15612adf-0cb4-478a-9d98-91d958ea8731",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Селтик"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b79008ad-239e-488b-a0ce-b811abfaac07",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Защ",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a82e2a8a-0cb5-48ca-ba2e-a394327cac82",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a3cd3a9f-db68-4584-a087-71f12f8cafcb",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743658191
+                },
+                "status": "approved"
+            },
+            {
+                "id": "dc8e6a0e-084d-4e02-8285-672c9e792993",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 50759
+                },
+                "status": "approved"
+            },
+            {
+                "id": "17fab61b-9be7-48d5-920b-3f8e0618703b",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743658191
+                },
+                "status": "approved"
+            },
+            {
+                "id": "0d119375-0bc9-4c3f-9a39-e1073c5fc49c",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_23.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "c05e4fce-0eec-450d-b6ac-c1b0191bc2e6",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "7cacf731-de3d-41b9-b35a-931daca6a40a",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1c46f016-5ce6-420c-b306-5e128579688e",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_23.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2c630668-7c92-48ef-9942-69daf46a592a",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3545"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "fa08f670-5e20-48b8-a3e6-789c2f57cb25",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1743658191
+                },
+                "status": "approved"
+            },
+            {
+                "id": "69d38269-35db-4919-983a-e1fe1a146e66",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/db89/72d2/table_23.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2ca12c9e-af49-4f73-acf8-db481789b8c7",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615456",
+                "id": "da40e3af-9791-415a-95ce-4670f849fb4d",
+                "source": "e58809c8-02a9-4de1-9282-71e781ce1588",
+                "target": "1921f914-790d-457b-a494-6122ad2e8904"
+            },
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615457",
+                "id": "6e824a52-242d-44f3-8014-275cbb1bbca5",
+                "source": "600f9b48-0153-4567-a083-1a305fe524cc",
+                "target": "6862ff26-494e-41a3-b873-c37d190bae96"
+            },
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615458",
+                "id": "fa56da15-4396-4680-b56a-943f1d787087",
+                "source": "616f5ad9-f442-4f42-9528-ba0e606152cf",
+                "target": "1d90fb0d-1861-4e53-ba2c-4b7e73da9421"
+            },
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615459",
+                "id": "b6582eab-9683-40cf-8385-a5f2ad91b679",
+                "source": "873b97fd-7549-4d4c-8020-46b5f95b046b",
+                "target": "2837cb8d-9c31-42c2-9a15-eed4baeb2ce9"
+            },
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615460",
+                "id": "1a0e1d77-5a57-4fd2-a341-e7e47a128df0",
+                "source": "72865afd-710c-46f7-86d3-ed3a02f82eb4",
+                "target": "d295c09c-9de6-42fc-9df8-4a274b26df30"
+            },
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615461",
+                "id": "d07cf583-3c68-4630-b633-db6f5dffd2b5",
+                "source": "93714243-0aba-4b26-adf5-b360a9ea1209",
+                "target": "3c03baf4-cd88-4039-a612-7e20c1e7f2bd"
+            },
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615462",
+                "id": "ec2aabb2-34c1-4e6f-832f-a1ffbe8c2ab4",
+                "source": "bda9d66b-494e-428f-9405-369b5e6d2afc",
+                "target": "e716e916-29bc-48de-ba5b-08ccf92b4bc5"
+            },
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615463",
+                "id": "b89fb912-c322-4e9b-ba4e-d84a8ed6605b",
+                "source": "9d220131-437c-4140-8fa8-768da5738388",
+                "target": "3c03baf4-cd88-4039-a612-7e20c1e7f2bd"
+            },
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615464",
+                "id": "84fa44fc-7fae-4c6a-a310-c69c3a240929",
+                "source": "2ed7438b-75e1-4314-be06-1bd3656eba14",
+                "target": "1921f914-790d-457b-a494-6122ad2e8904"
+            },
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615465",
+                "id": "eef316bc-7a3a-4d10-a5dd-724e11a99528",
+                "source": "1b50488d-32a8-4e76-a2ce-dcc4ec518960",
+                "target": "a97d4cb6-688f-43c7-ad7c-4a76b15b87b7"
+            },
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615466",
+                "id": "2fd54542-9b4b-4cc7-bc9c-fc3866ffc817",
+                "source": "f6405fe7-96be-425e-b663-1d37cf08c548",
+                "target": "35fd2a84-3e2f-48c4-9687-ae1bfcc8a608"
+            },
+            {
+                "status": "approved",
+                "type_id": "22906",
+                "value": "ОК-97615467",
+                "id": "662a9d25-dcfa-4ba8-a572-353c7af46223",
+                "source": "7caa370e-45b2-42fd-ba83-69846f66c3f0",
+                "target": "25374103-eac7-4ee2-b26d-2747b225203e"
+            }
+        ],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615429",
+                "id": "e5cba824-76f3-4444-8f39-68645db974cb",
+                "source": "1b50488d-32a8-4e76-a2ce-dcc4ec518960",
+                "target": "427e3d1d-b5a6-4389-b127-5c97a9b1afde"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615443",
+                "id": "2ab8285c-a65f-4ef3-832f-e217d7f56b82",
+                "source": "1b50488d-32a8-4e76-a2ce-dcc4ec518960",
+                "target": "010a95b8-8b4e-401d-a2c0-b3830a3fa4a8"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-71690639",
+                "id": "f0c7c168-54f2-4d1e-bf98-570f30e7f0c2",
+                "source": "1921f914-790d-457b-a494-6122ad2e8904",
+                "target": "f5adfca1-dfb4-4322-9eb7-1ac310183425"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615413",
+                "id": "5fdd52dc-32d5-4b08-9aba-34c1e64e6251",
+                "source": "f6405fe7-96be-425e-b663-1d37cf08c548",
+                "target": "afe3195f-0781-4c70-831a-206d2bdf87f3"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615431",
+                "id": "66128643-3f5d-4ab4-8d8c-ea0dcc694289",
+                "source": "f5a04d0c-994e-4ca4-aac5-5861a9e0b6ee",
+                "target": "e6cd0c9e-b603-4900-bf63-699aa0806a70"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615425",
+                "id": "97979c64-2f97-4c8a-8bda-020d2a547232",
+                "source": "2ed7438b-75e1-4314-be06-1bd3656eba14",
+                "target": "82a00b21-abd4-43fc-923a-00821d5a91f9"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615441",
+                "id": "71fda6b2-70d0-44c4-98ed-2040baba9080",
+                "source": "616f5ad9-f442-4f42-9528-ba0e606152cf",
+                "target": "472700d6-f2b2-41cd-b517-8a5005fbe9d3"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615442",
+                "id": "d78daf3f-ccc6-4a26-a31b-728f1e48699b",
+                "source": "2ed7438b-75e1-4314-be06-1bd3656eba14",
+                "target": "d0e0c4de-b8a3-4e0c-a954-38de2e2ac2ec"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615417",
+                "id": "d1ffc9ba-01d9-4603-a911-6be6c919c74d",
+                "source": "93714243-0aba-4b26-adf5-b360a9ea1209",
+                "target": "2b2ccabc-a982-49b0-8527-fe4524983f58"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615448",
+                "id": "65842b2f-a15f-4cff-9dec-205737b35fd2",
+                "source": "93714243-0aba-4b26-adf5-b360a9ea1209",
+                "target": "22de9f2c-533d-4e9c-9ff6-ab2f7974a677"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615444",
+                "id": "a152ee4a-6242-402d-b221-987f86a3cee5",
+                "source": "f5a04d0c-994e-4ca4-aac5-5861a9e0b6ee",
+                "target": "3b8856ad-76a3-4638-94a0-8a4c483151c4"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615427",
+                "id": "0bea26c3-59b4-4b3a-90c7-1db30d10f66a",
+                "source": "600f9b48-0153-4567-a083-1a305fe524cc",
+                "target": "41245b3a-e2cd-4dda-8717-acf1e116112d"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615445",
+                "id": "2dccf445-0d37-4d5d-912e-68269ad14ebc",
+                "source": "600f9b48-0153-4567-a083-1a305fe524cc",
+                "target": "54537253-ac71-4dd9-a906-c9bb43e239e3"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-60841734",
+                "id": "011d0790-4a74-4168-bfa8-66a443b4300a",
+                "source": "d295c09c-9de6-42fc-9df8-4a274b26df30",
+                "target": "ff683a6b-6a66-463e-9a39-650e13fcb89a"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615446",
+                "id": "a514ea74-2c9b-49e7-ac02-b63059e43aff",
+                "source": "616f5ad9-f442-4f42-9528-ba0e606152cf",
+                "target": "2ea09cfb-101a-4139-bb3c-25c4ff5e4be7"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615421",
+                "id": "b3130431-b50c-4dd4-b133-db20d73c3f41",
+                "source": "72865afd-710c-46f7-86d3-ed3a02f82eb4",
+                "target": "12e8c570-1eef-4ec7-9043-3da18b575b5b"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615447",
+                "id": "dcf3db9d-361f-4f5e-9a4c-b888758c5d87",
+                "source": "72865afd-710c-46f7-86d3-ed3a02f82eb4",
+                "target": "d0180163-892b-424d-b2a0-39dbe2c7eeea"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615449",
+                "id": "9d6d8f57-1075-4a10-abec-011712fcdf8f",
+                "source": "f6405fe7-96be-425e-b663-1d37cf08c548",
+                "target": "c0c98cd1-f9f9-4d29-860c-6c081d87e760"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-97615439",
+                "id": "046f35e7-bbdf-4f56-b94a-ecc54d94620f",
+                "source": "e716e916-29bc-48de-ba5b-08ccf92b4bc5",
+                "target": "725f1f15-b423-4de0-99f9-63062f2d46c7"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-97615435",
+                "id": "1f2c2322-f66f-4a1c-aaae-071f4b6659da",
+                "source": "25374103-eac7-4ee2-b26d-2747b225203e",
+                "target": "1d6201a6-da5c-4b91-8d08-ba14aed87e5b"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-74953028",
+                "id": "43f6f3d8-1e49-4c7e-b3d4-f275f3e7d44a",
+                "source": "35fd2a84-3e2f-48c4-9687-ae1bfcc8a608",
+                "target": "c036ec67-a093-4f17-b563-c8c5b4ebccd0"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-60830859",
+                "id": "4e580c65-7830-4aa9-a120-d46f84a547f7",
+                "source": "3c03baf4-cd88-4039-a612-7e20c1e7f2bd",
+                "target": "d912b019-491e-4bb3-b822-67f24d337665"
+            },
+            {
+                "status": "approved",
+                "type_id": "630",
+                "value": "ОК-97615450",
+                "id": "ea9bc9f2-051f-4453-ad35-9597c939401d",
+                "source": "3c03baf4-cd88-4039-a612-7e20c1e7f2bd",
+                "target": "1a9359d5-3e16-41e8-b37f-5336f7d556c3"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615423",
+                "id": "6ce33f5c-2c18-4c56-8056-93c7da8bd717",
+                "source": "873b97fd-7549-4d4c-8020-46b5f95b046b",
+                "target": "441b74eb-d7dc-41cd-be08-8d1f67695cda"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615451",
+                "id": "fddb423c-d782-4cc2-9fbc-d3938fc2dd9f",
+                "source": "873b97fd-7549-4d4c-8020-46b5f95b046b",
+                "target": "8c2e3773-8bf0-4252-9b38-aa69480a2305"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-61158678",
+                "id": "228c44eb-508c-4993-9b19-a70dbade6630",
+                "source": "a97d4cb6-688f-43c7-ad7c-4a76b15b87b7",
+                "target": "628b3cee-9c69-4e3d-a8d9-ba829b685a6f"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615419",
+                "id": "c5cc1f2c-24ef-444f-9db1-660d7c6fa93c",
+                "source": "9d220131-437c-4140-8fa8-768da5738388",
+                "target": "7d8ed816-63aa-4d1e-983f-62089c134056"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615454",
+                "id": "40a711f7-9c55-4a80-b5c6-8c30a4561cf4",
+                "source": "9d220131-437c-4140-8fa8-768da5738388",
+                "target": "543823e0-0268-4304-8616-013539a58440"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-97615203",
+                "id": "4dbc109f-1813-4419-b691-602ccc84cd5a",
+                "source": "2837cb8d-9c31-42c2-9a15-eed4baeb2ce9",
+                "target": "c903b4d6-e5a2-480e-a12e-d75a871d9a89"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615437",
+                "id": "a05eae95-9fda-4f94-814a-8b6fa2c5fbba",
+                "source": "bda9d66b-494e-428f-9405-369b5e6d2afc",
+                "target": "cf149210-0783-4923-8806-40ca51f13653"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615452",
+                "id": "6224ce0f-f6b7-41a2-b93c-04034e0a49bb",
+                "source": "bda9d66b-494e-428f-9405-369b5e6d2afc",
+                "target": "dcbe5c01-5131-454c-86ca-97801255e892"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-97615170",
+                "id": "6c3beb89-dadf-4716-8985-c0fd407738e9",
+                "source": "1d90fb0d-1861-4e53-ba2c-4b7e73da9421",
+                "target": "6a308a4e-487e-4aef-8c58-08ad522dbca0"
+            },
+            {
+                "status": "approved",
+                "type_id": "630",
+                "value": "ОК-97615181",
+                "id": "71ff0930-8eea-4a8e-95ee-4cdfaf1ffa16",
+                "source": "1d90fb0d-1861-4e53-ba2c-4b7e73da9421",
+                "target": "6b4de8cf-d55a-492f-9e18-d3b590411cd1"
+            },
+            {
+                "status": "approved",
+                "type_id": "611",
+                "value": "ОК-75485112",
+                "id": "85b672c8-d90e-45d9-a2d4-5b55163fdcc4",
+                "source": "6862ff26-494e-41a3-b873-c37d190bae96",
+                "target": "15612adf-0cb4-478a-9d98-91d958ea8731"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615415",
+                "id": "f336dfe9-803b-4e00-ba43-b84c6443a902",
+                "source": "e58809c8-02a9-4de1-9282-71e781ce1588",
+                "target": "3582bebe-2e7a-4050-bef8-906da0af267a"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615453",
+                "id": "e8212f68-e0e5-4f42-b147-1479b3f493b5",
+                "source": "e58809c8-02a9-4de1-9282-71e781ce1588",
+                "target": "b79008ad-239e-488b-a0ce-b811abfaac07"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-97615433",
+                "id": "6eda6ae1-7e0e-4983-9b99-67ec0e597dc8",
+                "source": "7caa370e-45b2-42fd-ba83-69846f66c3f0",
+                "target": "9496dbcd-71e1-48f8-b783-08ccce8da869"
+            },
+            {
+                "status": "approved",
+                "type_id": "23982",
+                "value": "ОК-97615455",
+                "id": "803a0bbd-40f5-479e-a628-09e1179967ec",
+                "source": "7caa370e-45b2-42fd-ba83-69846f66c3f0",
+                "target": "f7f867e1-5532-4d23-9089-e4a2832ee72f"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-97615400",
+                "id": "382d816b-059a-4b6b-b27d-9d8fa15bc8f5",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "a82e2a8a-0cb5-48ca-ba2e-a394327cac82"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-97615401",
+                "id": "c28e88fa-fd99-4f7a-9872-ebbde404c5d1",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "a3cd3a9f-db68-4584-a087-71f12f8cafcb"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-97615402",
+                "id": "00b80eb0-3705-424c-ac73-257f080c9c04",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "dc8e6a0e-084d-4e02-8285-672c9e792993"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-97615403",
+                "id": "dcc854c5-5b83-4142-8fc3-48f5213e1848",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "17fab61b-9be7-48d5-920b-3f8e0618703b"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-97615404",
+                "id": "bd711e3b-1fc7-444c-a484-0afd8b31f421",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "0d119375-0bc9-4c3f-9a39-e1073c5fc49c"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-97615405",
+                "id": "a071c310-965e-4acd-a7a1-46307ac4be50",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "c05e4fce-0eec-450d-b6ac-c1b0191bc2e6"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-97615406",
+                "id": "e13f9591-fe18-4fd0-b2ea-1b8ec6f31594",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "7cacf731-de3d-41b9-b35a-931daca6a40a"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-97615407",
+                "id": "a1043af6-b49d-4e92-847d-1c22447e694d",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "1c46f016-5ce6-420c-b306-5e128579688e"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-97615408",
+                "id": "c8e7e0a9-455a-434a-bbdf-9bb34409a5f3",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "2c630668-7c92-48ef-9942-69daf46a592a"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-97615409",
+                "id": "1fee367c-191f-488e-9c55-bb10f5af3d93",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "fa08f670-5e20-48b8-a3e6-789c2f57cb25"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-97615410",
+                "id": "a31ac08f-a096-4a94-a37f-164593c8e0eb",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "69d38269-35db-4919-983a-e1fe1a146e66"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-97615411",
+                "id": "a64d83c2-d2cf-4a05-b587-f4fcb7afdd95",
+                "source": "db8972d2-f78c-44ea-b5dd-85f54755daac",
+                "target": "2ca12c9e-af49-4f73-acf8-db481789b8c7"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9ff3c172-79b6-44c6-a2c5-1c53d9d34bd6",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "f5adfca1-dfb4-4322-9eb7-1ac310183425",
+                "id": "674920be-2e44-4f3d-a58e-f6745b3140e6"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "8b37c8d3-f956-4284-941a-714cae48269d",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "b79008ad-239e-488b-a0ce-b811abfaac07",
+                "id": "259a1fcb-4cf5-4049-b8f4-463f57a94518"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "efff93c2-7dce-4a0f-b925-f2040baa9f21",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "54537253-ac71-4dd9-a906-c9bb43e239e3",
+                "id": "af38202a-2c26-41c4-9630-ea1e8f6a43bc"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b02ba239-5fd8-4f9e-a8a6-b5091471cb7b",
+                    "start": 8,
+                    "end": 14
+                },
+                "value": "6b4de8cf-d55a-492f-9e18-d3b590411cd1",
+                "id": "144617e0-b158-4e97-9bd1-488db7e0a88a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e23a0eba-06ce-414e-81c5-eddba9ca42f4",
+                    "start": 0,
+                    "end": 2
+                },
+                "value": "2ea09cfb-101a-4139-bb3c-25c4ff5e4be7",
+                "id": "084c1e95-2cc6-4be6-881c-d352ba0354d9"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d95654aa-2052-481a-a5ce-f10fe4483db2",
+                    "start": 0,
+                    "end": 2
+                },
+                "value": "8c2e3773-8bf0-4252-9b38-aa69480a2305",
+                "id": "f4826fb8-d07f-4a06-ad86-d344755db7b7"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "33727b82-786f-4b67-acc9-d811c1afd474",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "d0180163-892b-424d-b2a0-39dbe2c7eeea",
+                "id": "46551d98-b6da-4ad1-8bfe-97c6f909fcda"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c870e9f9-a0f3-4623-8ac4-1111124bfbf1",
+                    "start": 9,
+                    "end": 13
+                },
+                "value": "1a9359d5-3e16-41e8-b37f-5336f7d556c3",
+                "id": "d9d2f72f-baef-449d-b20d-dbfd13db6287"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "163bfe51-209a-42ae-85a7-24f4c35341a7",
+                    "start": 9,
+                    "end": 13
+                },
+                "value": "1a9359d5-3e16-41e8-b37f-5336f7d556c3",
+                "id": "08877911-f5d0-4dee-9de3-ec593f416503"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "c870e9f9-a0f3-4623-8ac4-1111124bfbf1",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "d912b019-491e-4bb3-b822-67f24d337665",
+                "id": "43562ca9-8cde-44e2-a92a-8e3195088afd"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d8d79de3-5f86-43c5-9ac1-37db6667383c",
+                    "start": 0,
+                    "end": 2
+                },
+                "value": "22de9f2c-533d-4e9c-9ff6-ab2f7974a677",
+                "id": "e9da1134-b9c6-481f-82a1-12d19ed4c9f4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "10d1372e-f2fa-4eeb-8035-dbca585bd982",
+                    "start": 0,
+                    "end": 2
+                },
+                "value": "dcbe5c01-5131-454c-86ca-97801255e892",
+                "id": "a10a9161-4a6a-4b27-a5e5-2ee337d568da"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0d038dfe-b9ee-4155-9e25-c3423c68dc03",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "543823e0-0268-4304-8616-013539a58440",
+                "id": "15227bd4-edb5-4dd6-967c-5d6924cf1366"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "87b52df1-3599-48bb-91c0-2a8201fe52b0",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "82a00b21-abd4-43fc-923a-00821d5a91f9",
+                "id": "40556c0a-1ba8-4a62-81fc-2cd0eab21d29"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "1c2d8629-59d6-4369-8093-8cdb47348752",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "d0e0c4de-b8a3-4e0c-a954-38de2e2ac2ec",
+                "id": "bf01affe-95f1-4b4c-bafb-59370aa8f033"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "88d246f0-cb0d-4ab6-abca-d7cadce1b12d",
+                    "start": 0,
+                    "end": 5
+                },
+                "value": "628b3cee-9c69-4e3d-a8d9-ba829b685a6f",
+                "id": "53819633-9ee1-48df-95b6-d385fb430d93"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "66489475-6edb-420e-adbe-e60c310ae0bb",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "427e3d1d-b5a6-4389-b127-5c97a9b1afde",
+                "id": "48b42443-ff71-4682-ad8d-b4150e52822a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "0cbd773d-665c-4fb2-886f-e7b7124a6c05",
+                    "start": 0,
+                    "end": 2
+                },
+                "value": "010a95b8-8b4e-401d-a2c0-b3830a3fa4a8",
+                "id": "79452c49-2158-418a-81c6-d3a633415c81"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3a782d01-e453-4c8a-bda3-3a1e06ebfe51",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "c036ec67-a093-4f17-b563-c8c5b4ebccd0",
+                "id": "4c7eac2e-a8d8-4e09-8dac-bbda160ab9cc"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "6ea11e1e-6648-4f1c-8733-142a36ac3428",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "afe3195f-0781-4c70-831a-206d2bdf87f3",
+                "id": "c7bed137-3211-44db-b089-609ef456c23e"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "30bf0b9c-b052-43fe-a8ff-27d2f516a61e",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "c0c98cd1-f9f9-4d29-860c-6c081d87e760",
+                "id": "1840c26d-c6d4-4813-91da-88533bed9aa9"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "15cc390c-fd36-4ac4-a76b-aec3d1a0d7d1",
+                    "start": 0,
+                    "end": 5
+                },
+                "value": "1d6201a6-da5c-4b91-8d08-ba14aed87e5b",
+                "id": "217fd8f1-a320-46b2-ba93-7349e31a3888"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "209f5cf1-c814-4268-9ca7-3a0edd575d88",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "9496dbcd-71e1-48f8-b783-08ccce8da869",
+                "id": "a69ac69b-eeb2-46f7-89b1-5c59defb94e9"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "94fceb27-78a1-4b3a-8074-2fec3da3ad15",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "f7f867e1-5532-4d23-9089-e4a2832ee72f",
+                "id": "c9068bdf-8254-4f0c-8d06-ca62cc4dcea9"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "7746e1ef-0b58-4f22-a149-83dd4c2a9f06",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "e6cd0c9e-b603-4900-bf63-699aa0806a70",
+                "id": "1b8c7f05-f01e-48f9-af6d-49010672822c"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "5ef342e7-9721-4c92-82aa-5bd468e91753",
+                    "start": 0,
+                    "end": 2
+                },
+                "value": "3b8856ad-76a3-4638-94a0-8a4c483151c4",
+                "id": "9d6efbf9-ea34-47ac-9b1a-c37d7155f96a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "163bfe51-209a-42ae-85a7-24f4c35341a7",
+                    "start": 0,
+                    "end": 7
+                },
+                "value": "d912b019-491e-4bb3-b822-67f24d337665",
+                "id": "0b27dd12-0b0b-4341-851d-20b63daf1e5f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9c3c4516-3f3a-49fb-b08e-c4c97b464eef",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "f5adfca1-dfb4-4322-9eb7-1ac310183425",
+                "id": "14e0c4f8-df61-4e95-952b-37e7029530e0"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "276afe19-123a-4d8f-bc62-b22a53f3e295",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "7d8ed816-63aa-4d1e-983f-62089c134056",
+                "id": "226b2856-c434-4efd-9af9-3a358b42d223"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "db9d36b7-b388-42d0-ad88-0bb333e062a4",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "725f1f15-b423-4de0-99f9-63062f2d46c7",
+                "id": "3c01c067-af8d-4ec1-ba03-94e8036da517"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "a12a5773-2f7f-41f1-9c7a-621de2963757",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "12e8c570-1eef-4ec7-9043-3da18b575b5b",
+                "id": "4037e9aa-3483-4d64-ae70-dd57b87ad38e"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "53081659-3b49-4e52-b1f5-c2c6919da21c",
+                    "start": 0,
+                    "end": 3
+                },
+                "value": "c903b4d6-e5a2-480e-a12e-d75a871d9a89",
+                "id": "4c23058e-378c-4250-8d6c-4216f6e6c1f6"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b02ba239-5fd8-4f9e-a8a6-b5091471cb7b",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "6a308a4e-487e-4aef-8c58-08ad522dbca0",
+                "id": "63b2ec5e-c977-4b8a-9229-e5b453d4ec7a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cdeb5e9e-fa90-47a0-b43e-e48e3e34bc0d",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "cf149210-0783-4923-8806-40ca51f13653",
+                "id": "780571e1-12ce-4d63-81ea-fe8d11560dbc"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "cb1cf4b4-5041-4d61-88e7-af96f8c56f83",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "41245b3a-e2cd-4dda-8717-acf1e116112d",
+                "id": "a4c38b76-0194-434d-a218-c6bf289921e4"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "41a9fde3-3b71-4834-86f1-af2a22c72f33",
+                    "start": 0,
+                    "end": 13
+                },
+                "value": "472700d6-f2b2-41cd-b517-8a5005fbe9d3",
+                "id": "acca1fbb-6228-47d6-b464-324cf2f1afc2"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d3ff1f56-8f2a-42c6-9196-68773995b9ec",
+                    "start": 0,
+                    "end": 14
+                },
+                "value": "ff683a6b-6a66-463e-9a39-650e13fcb89a",
+                "id": "b5bd6541-0c1f-4113-9d25-87e9bf012ddf"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "466e90d7-11fb-4677-8a78-25c9ffd58e8c",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "3582bebe-2e7a-4050-bef8-906da0af267a",
+                "id": "c4ec0c40-594b-4ba1-a968-539c3b7d1022"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "3a5af0bf-a6c9-4a7a-8114-7895ad47c7fc",
+                    "start": 0,
+                    "end": 12
+                },
+                "value": "441b74eb-d7dc-41cd-be08-8d1f67695cda",
+                "id": "db505aa5-42fa-4d26-8aad-1ffa481f1eb9"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e1cd7849-5d4b-4bed-982f-6be953aad7cd",
+                    "start": 0,
+                    "end": 6
+                },
+                "value": "15612adf-0cb4-478a-9d98-91d958ea8731",
+                "id": "e98759f8-4f70-46e7-bc2e-a25776211c29"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "b8dd1491-66fb-42cd-965e-a132af28fcc8",
+                    "start": 0,
+                    "end": 18
+                },
+                "value": "2b2ccabc-a982-49b0-8527-fe4524983f58",
+                "id": "f68478b9-ab88-48a7-a83d-7e908f72fa02"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_23.docx",
+        "file_name": "table_23.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 50759,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1743658191,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/db89%2F72d2%2Ftable_23.docx",
+        "markers": [],
+        "account": [],
+        "story": "db8972d2-f78c-44ea-b5dd-85f54755daac"
+    }
+}

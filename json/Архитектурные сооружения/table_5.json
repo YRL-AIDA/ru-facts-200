@@ -1,0 +1,1597 @@
+{
+    "id": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+	"VERSION":"1.0",
+    "main_node": "41d978b4-9b20-4932-ba92-19c03fadbb81",
+    "content": [
+        {
+            "type": "text",
+            "id": "41d978b4-9b20-4932-ba92-19c03fadbb81",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "a98c81cc-b317-4cf7-a30e-1a160ec4cbcd"
+            ],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a98c81cc-b317-4cf7-a30e-1a160ec4cbcd",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "698249ce-09c5-4faf-8f2d-123084ae1c8c"
+            ],
+            "content": "\n",
+            "markup": {}
+        },
+        {
+            "type": "table",
+            "id": "698249ce-09c5-4faf-8f2d-123084ae1c8c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "738d551d-a33c-4db1-a7b3-ee94542ed546",
+                "b2b49009-242d-4cc4-ae9a-b4ca0ef2f71e",
+                "83ea9a18-5e2b-49fa-9428-c44519a14589",
+                "ce088b28-77c4-44c1-9933-77dcbafdb732",
+                "56b23fdc-4f15-43d8-a145-8d151253fdf4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "738d551d-a33c-4db1-a7b3-ee94542ed546",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "0704bde6-f662-463e-a8fc-b0cd21eca326",
+                "c04ec08f-677f-4e3c-90e8-3d2825a7e1ef",
+                "b5a29390-d821-4814-993b-e03875fb8af5",
+                "9b44e785-8480-4efe-bb8a-7274678fb6f2",
+                "fb1519bf-9239-40fe-b62e-cefa060d60ab",
+                "071c6caa-e661-4b2b-a094-1c2242e16d74"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "0704bde6-f662-463e-a8fc-b0cd21eca326",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "f5947140-73a1-4191-bf11-2685b16a6b9a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f5947140-73a1-4191-bf11-2685b16a6b9a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "#",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c04ec08f-677f-4e3c-90e8-3d2825a7e1ef",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "28a4ce2c-fcd7-49d5-bb80-e8c604c19d2e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "28a4ce2c-fcd7-49d5-bb80-e8c604c19d2e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Изображение",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b5a29390-d821-4814-993b-e03875fb8af5",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "e7c0ae26-ea8b-408f-a16d-f7744f946ebb"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e7c0ae26-ea8b-408f-a16d-f7744f946ebb",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Название",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "9b44e785-8480-4efe-bb8a-7274678fb6f2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "e564fe0c-5efc-4978-80d5-0fd0ead6179c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e564fe0c-5efc-4978-80d5-0fd0ead6179c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Архитектор",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fb1519bf-9239-40fe-b62e-cefa060d60ab",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "4666c4bf-433e-4ea7-84cf-4f047041bc88"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "4666c4bf-433e-4ea7-84cf-4f047041bc88",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Годы создания",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "071c6caa-e661-4b2b-a094-1c2242e16d74",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "ddfb85f5-3471-43d2-9522-119859e8c01d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "ddfb85f5-3471-43d2-9522-119859e8c01d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Стиль",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "b2b49009-242d-4cc4-ae9a-b4ca0ef2f71e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "fcd5bfee-ca58-467a-9654-e0c6f2886742",
+                "8822799e-c28e-45e2-bf2d-59437d338dd0",
+                "11b3548c-89d5-445b-bd0d-d2e42fcb4e92",
+                "8c30ce85-50ef-4b9b-9492-f9291b83e36a",
+                "1388d961-75ce-4380-804c-62dae76dde00",
+                "e147bbb0-49c2-4233-af7b-c3a3dc925142"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "fcd5bfee-ca58-467a-9654-e0c6f2886742",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "de3aa058-71f7-4808-b832-46f4a73958e3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "de3aa058-71f7-4808-b832-46f4a73958e3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8822799e-c28e-45e2-bf2d-59437d338dd0",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "3d93ed76-f16a-47f7-8900-668416a4c34c"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "3d93ed76-f16a-47f7-8900-668416a4c34c",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "11b3548c-89d5-445b-bd0d-d2e42fcb4e92",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "f1704e48-af17-4bee-9ad5-5bdfbcaecfc6"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "f1704e48-af17-4bee-9ad5-5bdfbcaecfc6",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Митрополичий корпус (Архиерейский дом)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8c30ce85-50ef-4b9b-9492-f9291b83e36a",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "820e0662-bbe7-467c-a276-02aa0ab4314e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "820e0662-bbe7-467c-a276-02aa0ab4314e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Михаил Расторгуев, Алексей Горностаев (перестройка)",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1388d961-75ce-4380-804c-62dae76dde00",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "08111575-b2d3-4894-b916-6c5d3881adac"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "08111575-b2d3-4894-b916-6c5d3881adac",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1756—1764, 1819, 1861—1863",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e147bbb0-49c2-4233-af7b-c3a3dc925142",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "bbe6518d-79e2-49ac-8434-804f4c50aec3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "bbe6518d-79e2-49ac-8434-804f4c50aec3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Барокко, эклектика",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "83ea9a18-5e2b-49fa-9428-c44519a14589",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "1658e28e-9911-4f9a-bf64-521eccfd592d",
+                "2ae6ff93-f24f-46d9-acf7-6f3206ec6a60",
+                "e215360a-fc66-4d15-bb8e-7a525d187899",
+                "43bae2bd-5a61-4e74-b572-2a78ab735abd",
+                "d7fdb40a-4738-41fb-bef9-d7f178051f91",
+                "125379e5-f3c9-438a-bf7d-0985c7444811"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "1658e28e-9911-4f9a-bf64-521eccfd592d",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "7050b64e-6b29-452a-a82d-69a8b716ca1d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "7050b64e-6b29-452a-a82d-69a8b716ca1d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "2",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "2ae6ff93-f24f-46d9-acf7-6f3206ec6a60",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "a4505ccb-7c18-4b23-b848-f9a30aef9c09"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "a4505ccb-7c18-4b23-b848-f9a30aef9c09",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e215360a-fc66-4d15-bb8e-7a525d187899",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "422571a0-52be-44d7-99d6-8fcc7a5260a8"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "422571a0-52be-44d7-99d6-8fcc7a5260a8",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Северный (Просфорный) корпус с Ризничной (северо-западной) башней",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "43bae2bd-5a61-4e74-b572-2a78ab735abd",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d5ae4fd6-a911-439c-bb40-035830f5b5b2"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d5ae4fd6-a911-439c-bb40-035830f5b5b2",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Михаил Расторгуев",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d7fdb40a-4738-41fb-bef9-d7f178051f91",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e9960281-2bb1-471f-af18-1fb4d7d47982"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e9960281-2bb1-471f-af18-1fb4d7d47982",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1761—1771",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "125379e5-f3c9-438a-bf7d-0985c7444811",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "39312720-91f7-4802-9c9f-c0966ed53f1b"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "39312720-91f7-4802-9c9f-c0966ed53f1b",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Позднее барокко",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "ce088b28-77c4-44c1-9933-77dcbafdb732",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "cb9a9664-f341-4147-86bf-acefc77034fe",
+                "d4e43c41-c2c1-4622-b000-df82afb3b6e7",
+                "7a663e4d-7938-427d-9827-75cd6b49e075",
+                "5d1733e3-eb3d-49da-a4b9-b52351a41bfa",
+                "8a8071fb-3dc5-48f2-985b-5e056263b4b3",
+                "e0007dd8-554b-4983-8a81-70123e1eb099"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "cb9a9664-f341-4147-86bf-acefc77034fe",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "835d051b-3d03-4a37-b454-3a3367690665"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "835d051b-3d03-4a37-b454-3a3367690665",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "3",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "d4e43c41-c2c1-4622-b000-df82afb3b6e7",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "6ce338c0-7bad-4405-8567-15f890eb4c5d"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "6ce338c0-7bad-4405-8567-15f890eb4c5d",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "7a663e4d-7938-427d-9827-75cd6b49e075",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "130eb0c3-f895-49df-9916-e06c3a628794"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "130eb0c3-f895-49df-9916-e06c3a628794",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Южный (Семинарский) корпус с Библиотечной (юго-западной) башней",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5d1733e3-eb3d-49da-a4b9-b52351a41bfa",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "e1a9b54d-366f-434c-a654-8432f90ec9ad"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "e1a9b54d-366f-434c-a654-8432f90ec9ad",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Михаил Расторгуев",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "8a8071fb-3dc5-48f2-985b-5e056263b4b3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "5f17fe40-9223-4caa-bda5-f3765ee1b76e"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "5f17fe40-9223-4caa-bda5-f3765ee1b76e",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1756—1761",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "e0007dd8-554b-4983-8a81-70123e1eb099",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "94873357-51ce-4696-a454-d33c97ee1c84"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "94873357-51ce-4696-a454-d33c97ee1c84",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Позднее барокко",
+            "markup": {}
+        },
+        {
+            "type": "row",
+            "id": "56b23fdc-4f15-43d8-a145-8d151253fdf4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [
+                "bcb31701-f1d2-4b43-a5e3-761e0cfb1a63",
+                "b74531b2-9867-40f4-90b1-3ce2c3f87a86",
+                "edd4073c-d73a-4d13-965f-5266e1b443f3",
+                "c0198449-9512-40a3-84cb-0efd73591f87",
+                "344304da-1fd0-4790-8017-811cb684018b",
+                "5700ea53-6ed3-440d-a6c7-a287846e8f38"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "bcb31701-f1d2-4b43-a5e3-761e0cfb1a63",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "1366018d-d833-45b2-913a-7044dbcec9f1"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "1366018d-d833-45b2-913a-7044dbcec9f1",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "4",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "b74531b2-9867-40f4-90b1-3ce2c3f87a86",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "626bfc76-92b1-409d-a3af-bcfbb45718f4"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "626bfc76-92b1-409d-a3af-bcfbb45718f4",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "edd4073c-d73a-4d13-965f-5266e1b443f3",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "034b2119-bdd0-4efc-9dbe-88393945d1a3"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "034b2119-bdd0-4efc-9dbe-88393945d1a3",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Консистория и кладбищенская контора",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "c0198449-9512-40a3-84cb-0efd73591f87",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "9a7559ac-a0fc-49aa-898e-39fcf98cf9cf"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "9a7559ac-a0fc-49aa-898e-39fcf98cf9cf",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Лев Андреев",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "344304da-1fd0-4790-8017-811cb684018b",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "014c17cf-d2e0-472b-9451-55833c50927f"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "014c17cf-d2e0-472b-9451-55833c50927f",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "1900",
+            "markup": {}
+        },
+        {
+            "type": "cell",
+            "id": "5700ea53-6ed3-440d-a6c7-a287846e8f38",
+            "metadata": {
+                "hidden": false,
+                "rowspan": 1,
+                "colspan": 1
+            },
+            "children": [
+                "d29f2405-d3ca-44ba-99bf-f77341eb3e5a"
+            ],
+            "markup": {}
+        },
+        {
+            "type": "text",
+            "id": "d29f2405-d3ca-44ba-99bf-f77341eb3e5a",
+            "metadata": {
+                "hidden": false
+            },
+            "children": [],
+            "content": "Эклектика",
+            "markup": {}
+        }
+    ],
+    "links": {
+        "equivalent": [],
+        "translation": [],
+        "reference": []
+    },
+    "facts": {
+        "concept": [
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "019587f2-7fa6-7cb9-a8e4-142ee920ccd0"
+                },
+                "id": "c1a317a3-8d09-4c9b-acc6-11335b8d9064"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "019587f2-7dff-7e16-9683-ec431492fd3d"
+                },
+                "id": "f80a6284-68d9-43e5-a8df-5558f9cb1203"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "019587f2-7bcc-7637-b9ba-ea1b00425a0d"
+                },
+                "id": "b8051bf7-3480-49d0-ba31-6d1f896a6ef5"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "019587f2-80a8-7fb0-b30b-b6f5d1825a7f"
+                },
+                "id": "bb8cc7e8-90dd-4a50-a8e7-2464e5981900"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "019587f2-7c64-75a4-8694-58742759deba"
+                },
+                "id": "63388215-ed88-4e42-8908-56268a0fef3b"
+            },
+            {
+                "status": "approved",
+                "type_id": "668",
+                "value": {
+                    "concept": "019587f2-7cbd-7c0f-b681-6e08a0098f2f"
+                },
+                "id": "8c22f079-36c3-4be7-9b18-7618018e3738"
+            },
+            {
+                "status": "approved",
+                "type_id": "22962",
+                "value": {
+                    "concept": "019587f2-7ea9-79f7-9fd8-dbd720584eb1"
+                },
+                "id": "798447a6-19ca-4927-b038-78a5c27ae689"
+            },
+            {
+                "status": "approved",
+                "type_id": "2837",
+                "value": {
+                    "concept": "ОК-85397556"
+                },
+                "id": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7"
+            }
+        ],
+        "atom": [
+            {
+                "id": "2f4512f5-b357-4342-b3e0-396fb36c293b",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Северный (Просфорный) корпус с Ризничной (северо-западной) башней"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "030c9c67-b9cc-4f78-8e99-35eb2ecc4a4f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1761—1771",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "549b893c-1786-4897-9435-ec288d4db703",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Позднее барокко",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "335ee8fe-dd97-4558-b67e-e539981e632a",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Митрополичий корпус (Архиерейский дом)"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "898fa52f-fe9c-40f3-b55f-af0d821870f1",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1756—1764, 1819, 1861—1863",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "de22bbf5-d2c3-444f-8b15-e075cf4d2904",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Барокко, эклектика",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "87d70460-9dd5-445d-b8de-135fde5cc715",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Южный (Семинарский) корпус с Библиотечной (юго-западной) башней"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "df8bde20-d0f2-4fb0-a142-667663741a29",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1756—1761",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "716ccf0a-17ca-4131-94f8-ccc39555a58a",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Позднее барокко",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "86ccccc8-bd2f-43ca-88b8-097aafe44903",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Алексей Горностаев"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2eefb823-7298-4dca-87cc-b869b2ae034d",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Михаил Расторгуев"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "19ef12ee-0b3e-4323-b4e2-bd925c88c727",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Консистория и кладбищенская контора"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "562255df-8ccc-40a7-8085-8f7c55fe0a6e",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Эклектика",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b8a83975-d430-4a3c-a16b-3537210a6f73",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1900",
+                    "confidence": 1
+                },
+                "status": "approved"
+            },
+            {
+                "id": "dce840c5-ebaf-471f-8b85-574dcd3951db",
+                "type_id": "1",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Лев Андреев"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a17dcd8b-4142-4e77-826f-4a57c5028f14",
+                "type_id": "21373",
+                "value": {
+                    "type": "StringValue",
+                    "value": "Текстовый документ"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "251c8a45-bf04-4525-a462-437f6248fa23",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741742523
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6e3146ea-ac7e-4697-a534-293c82ea87ac",
+                "type_id": "569",
+                "value": {
+                    "type": "IntValue",
+                    "value": 51011
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2f62989b-6552-469e-a7e3-1c5184606a48",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741742523
+                },
+                "status": "approved"
+            },
+            {
+                "id": "f69e1bfe-9b37-4fa7-a597-b16350c017d5",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_5.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "6cae50cb-9c99-4461-8552-b74cd26b6d68",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "23685dd5-183c-466c-8c16-c6e4690952e7"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "5e5e29ff-691d-4256-958d-b634baaf141f",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "1"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "1e17454e-d743-4a3b-940e-0be588e31ebc",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "table_5.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "959ee2f7-c03c-43d8-be04-3da33e7a9d1b",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "3389"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "a1b419f7-a146-4720-9e86-55c7e9179d22",
+                "type_id": "2926",
+                "value": {
+                    "type": "TimestampValue",
+                    "value": 1741742523
+                },
+                "status": "approved"
+            },
+            {
+                "id": "2fa18869-9b1e-4fbd-be44-82fec4735f1e",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "s3://documents/6fe9/9d0c/table_5.docx"
+                },
+                "status": "approved"
+            },
+            {
+                "id": "b296a3cc-9136-44ce-9e18-105a75a7f120",
+                "type_id": "18",
+                "value": {
+                    "type": "StringValue",
+                    "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                "status": "approved"
+            }
+        ],
+        "composite": [],
+        "relation": [
+            {
+                "status": "approved",
+                "type_id": "22992",
+                "value": "ОК-85397594",
+                "id": "99af6840-d4c5-4c1d-98f9-ff659f0f6122",
+                "source": "63388215-ed88-4e42-8908-56268a0fef3b",
+                "target": "f80a6284-68d9-43e5-a8df-5558f9cb1203"
+            },
+            {
+                "status": "approved",
+                "type_id": "22992",
+                "value": "ОК-85397595",
+                "id": "c9846611-b699-4e7f-bcf4-779f5282373f",
+                "source": "8c22f079-36c3-4be7-9b18-7618018e3738",
+                "target": "bb8cc7e8-90dd-4a50-a8e7-2464e5981900"
+            },
+            {
+                "status": "approved",
+                "type_id": "22992",
+                "value": "ОК-85397596",
+                "id": "1cc11eb9-e26e-43da-85d4-2c284b617f27",
+                "source": "b8051bf7-3480-49d0-ba31-6d1f896a6ef5",
+                "target": "798447a6-19ca-4927-b038-78a5c27ae689"
+            },
+            {
+                "status": "approved",
+                "type_id": "22992",
+                "value": "ОК-85397597",
+                "id": "6b92fffd-5497-4b29-b24e-bd1087a0759a",
+                "source": "8c22f079-36c3-4be7-9b18-7618018e3738",
+                "target": "c1a317a3-8d09-4c9b-acc6-11335b8d9064"
+            },
+            {
+                "status": "approved",
+                "type_id": "22992",
+                "value": "ОК-85397598",
+                "id": "5437b206-b5a9-4f8d-a205-42c78351128b",
+                "source": "8c22f079-36c3-4be7-9b18-7618018e3738",
+                "target": "f80a6284-68d9-43e5-a8df-5558f9cb1203"
+            }
+        ],
+        "property": [
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397573",
+                "id": "593e15ce-c607-4bf3-a3b8-c655772b6e7f",
+                "source": "c1a317a3-8d09-4c9b-acc6-11335b8d9064",
+                "target": "2f4512f5-b357-4342-b3e0-396fb36c293b"
+            },
+            {
+                "status": "approved",
+                "type_id": "22968",
+                "value": "ОК-85397586",
+                "id": "1069cbf3-91af-4482-b6a4-57cd3e51b2d9",
+                "source": "c1a317a3-8d09-4c9b-acc6-11335b8d9064",
+                "target": "030c9c67-b9cc-4f78-8e99-35eb2ecc4a4f"
+            },
+            {
+                "status": "approved",
+                "type_id": "22980",
+                "value": "ОК-85397587",
+                "id": "1bf86882-d516-4c00-bfed-988bc1bd0b14",
+                "source": "c1a317a3-8d09-4c9b-acc6-11335b8d9064",
+                "target": "549b893c-1786-4897-9435-ec288d4db703"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397575",
+                "id": "9eabf0c8-718f-4c44-9221-7dd7f2600a3b",
+                "source": "f80a6284-68d9-43e5-a8df-5558f9cb1203",
+                "target": "335ee8fe-dd97-4558-b67e-e539981e632a"
+            },
+            {
+                "status": "approved",
+                "type_id": "22968",
+                "value": "ОК-85397588",
+                "id": "39472fcf-4b22-44c8-92ae-1e10e4751001",
+                "source": "f80a6284-68d9-43e5-a8df-5558f9cb1203",
+                "target": "898fa52f-fe9c-40f3-b55f-af0d821870f1"
+            },
+            {
+                "status": "approved",
+                "type_id": "22980",
+                "value": "ОК-85397589",
+                "id": "c2e77c30-b536-424c-93e8-aa7b5efeaa3d",
+                "source": "f80a6284-68d9-43e5-a8df-5558f9cb1203",
+                "target": "de22bbf5-d2c3-444f-8b15-e075cf4d2904"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-85397585",
+                "id": "920f859e-310c-4f52-8651-41016ece3578",
+                "source": "b8051bf7-3480-49d0-ba31-6d1f896a6ef5",
+                "target": "dce840c5-ebaf-471f-8b85-574dcd3951db"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397583",
+                "id": "c8d6841d-5fa1-4191-add7-92adbfdb5b01",
+                "source": "bb8cc7e8-90dd-4a50-a8e7-2464e5981900",
+                "target": "87d70460-9dd5-445d-b8de-135fde5cc715"
+            },
+            {
+                "status": "approved",
+                "type_id": "22968",
+                "value": "ОК-85397590",
+                "id": "c7eb96f3-7857-4174-90dd-71578c91912a",
+                "source": "bb8cc7e8-90dd-4a50-a8e7-2464e5981900",
+                "target": "df8bde20-d0f2-4fb0-a142-667663741a29"
+            },
+            {
+                "status": "approved",
+                "type_id": "22980",
+                "value": "ОК-85397591",
+                "id": "a383c3ed-cb4c-4fdd-8bab-05508d3c646a",
+                "source": "bb8cc7e8-90dd-4a50-a8e7-2464e5981900",
+                "target": "716ccf0a-17ca-4131-94f8-ccc39555a58a"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-85397577",
+                "id": "a7b41cee-029e-4c9c-9d12-919ce22821f1",
+                "source": "63388215-ed88-4e42-8908-56268a0fef3b",
+                "target": "86ccccc8-bd2f-43ca-88b8-097aafe44903"
+            },
+            {
+                "status": "approved",
+                "type_id": "671",
+                "value": "ОК-85397579",
+                "id": "05709d14-785e-4668-a13b-b251647425f8",
+                "source": "8c22f079-36c3-4be7-9b18-7618018e3738",
+                "target": "2eefb823-7298-4dca-87cc-b869b2ae034d"
+            },
+            {
+                "status": "approved",
+                "type_id": "22963",
+                "value": "ОК-85397581",
+                "id": "ca28cf6f-a429-457b-8aaa-512e6a685016",
+                "source": "798447a6-19ca-4927-b038-78a5c27ae689",
+                "target": "19ef12ee-0b3e-4323-b4e2-bd925c88c727"
+            },
+            {
+                "status": "approved",
+                "type_id": "22980",
+                "value": "ОК-85397592",
+                "id": "dcca4b0d-db6d-4f3e-af2d-4d83166f5699",
+                "source": "798447a6-19ca-4927-b038-78a5c27ae689",
+                "target": "562255df-8ccc-40a7-8085-8f7c55fe0a6e"
+            },
+            {
+                "status": "approved",
+                "type_id": "22968",
+                "value": "ОК-85397593",
+                "id": "a95f18dd-6e84-43de-a07d-b45a640dc8a8",
+                "source": "798447a6-19ca-4927-b038-78a5c27ae689",
+                "target": "b8a83975-d430-4a3c-a16b-3537210a6f73"
+            },
+            {
+                "status": "approved",
+                "type_id": "21375",
+                "value": "ОК-85397560",
+                "id": "89d2a2bd-ef61-420a-aa43-91052c1b9969",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "a17dcd8b-4142-4e77-826f-4a57c5028f14"
+            },
+            {
+                "status": "approved",
+                "type_id": "21558",
+                "value": "ОК-85397561",
+                "id": "83c2a8ce-a63d-48f0-94cb-197b5172dddd",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "251c8a45-bf04-4525-a462-437f6248fa23"
+            },
+            {
+                "status": "approved",
+                "type_id": "2841",
+                "value": "ОК-85397562",
+                "id": "87fecb6a-ccd2-47c7-9dd5-97a18ef2a7ab",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "6e3146ea-ac7e-4697-a534-293c82ea87ac"
+            },
+            {
+                "status": "approved",
+                "type_id": "21559",
+                "value": "ОК-85397563",
+                "id": "0ff21379-80c4-4f6a-b2ac-7fbb8eab6195",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "2f62989b-6552-469e-a7e3-1c5184606a48"
+            },
+            {
+                "status": "approved",
+                "type_id": "2838",
+                "value": "ОК-85397564",
+                "id": "24c91c80-2e6d-4e26-a385-042f8e9c6d1d",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "f69e1bfe-9b37-4fa7-a597-b16350c017d5"
+            },
+            {
+                "status": "approved",
+                "type_id": "2851",
+                "value": "ОК-85397565",
+                "id": "21ba2d79-d00b-4328-9905-daf62fd0d96f",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "6cae50cb-9c99-4461-8552-b74cd26b6d68"
+            },
+            {
+                "status": "approved",
+                "type_id": "2850",
+                "value": "ОК-85397566",
+                "id": "15679689-f040-4e74-b8cf-a78b10e8f1b4",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "5e5e29ff-691d-4256-958d-b634baaf141f"
+            },
+            {
+                "status": "approved",
+                "type_id": "2839",
+                "value": "ОК-85397567",
+                "id": "16bceaf2-a0f6-4f12-94b9-85dbea3564b2",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "1e17454e-d743-4a3b-940e-0be588e31ebc"
+            },
+            {
+                "status": "approved",
+                "type_id": "2861",
+                "value": "ОК-85397568",
+                "id": "a0306404-1ac9-40ac-8b03-fdcdc134ccb7",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "959ee2f7-c03c-43d8-be04-3da33e7a9d1b"
+            },
+            {
+                "status": "approved",
+                "type_id": "21557",
+                "value": "ОК-85397569",
+                "id": "0eb949d7-e4d1-41f9-a9b2-37ec68ca98fd",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "a1b419f7-a146-4720-9e86-55c7e9179d22"
+            },
+            {
+                "status": "approved",
+                "type_id": "2849",
+                "value": "ОК-85397570",
+                "id": "8648f1ff-a8a3-488b-8a5f-2e71761e61e4",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "2fa18869-9b1e-4fbd-be44-82fec4735f1e"
+            },
+            {
+                "status": "approved",
+                "type_id": "2840",
+                "value": "ОК-85397571",
+                "id": "fea97704-b34a-43d6-a52b-a0e4b203e74c",
+                "source": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7",
+                "target": "b296a3cc-9136-44ce-9e18-105a75a7f120"
+            }
+        ],
+        "r_property": [],
+        "component": [],
+        "mention": [
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "bbe6518d-79e2-49ac-8434-804f4c50aec3",
+                    "start": 0,
+                    "end": 18
+                },
+                "value": "de22bbf5-d2c3-444f-8b15-e075cf4d2904",
+                "id": "7ff6d563-310c-4d5f-aedb-496a0a2c1a44"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "f1704e48-af17-4bee-9ad5-5bdfbcaecfc6",
+                    "start": 0,
+                    "end": 38
+                },
+                "value": "335ee8fe-dd97-4558-b67e-e539981e632a",
+                "id": "264c791e-1d54-4e1d-bc8b-8995382be137"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "08111575-b2d3-4894-b916-6c5d3881adac",
+                    "start": 0,
+                    "end": 26
+                },
+                "value": "898fa52f-fe9c-40f3-b55f-af0d821870f1",
+                "id": "973ce084-8467-4a76-bb3a-be7a3f60d954"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "820e0662-bbe7-467c-a276-02aa0ab4314e",
+                    "start": 19,
+                    "end": 37
+                },
+                "value": "86ccccc8-bd2f-43ca-88b8-097aafe44903",
+                "id": "7d5d7f88-2a85-4715-8b51-3a46d4b204e7"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "5f17fe40-9223-4caa-bda5-f3765ee1b76e",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "df8bde20-d0f2-4fb0-a142-667663741a29",
+                "id": "c2edd633-d9a7-4e46-b3ea-d1b8aef076bc"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "94873357-51ce-4696-a454-d33c97ee1c84",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "716ccf0a-17ca-4131-94f8-ccc39555a58a",
+                "id": "b24b6b18-11ec-4e37-b3fe-ce130f1a4618"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "130eb0c3-f895-49df-9916-e06c3a628794",
+                    "start": 0,
+                    "end": 63
+                },
+                "value": "87d70460-9dd5-445d-b8de-135fde5cc715",
+                "id": "404f0986-50bf-4944-84bc-3da69746f991"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e1a9b54d-366f-434c-a654-8432f90ec9ad",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "2eefb823-7298-4dca-87cc-b869b2ae034d",
+                "id": "32bba0f7-f569-4fb5-8934-c2045b5c1920"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "820e0662-bbe7-467c-a276-02aa0ab4314e",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "2eefb823-7298-4dca-87cc-b869b2ae034d",
+                "id": "b7009fde-d80a-479d-8e9b-5dfb61b91c20"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d5ae4fd6-a911-439c-bb40-035830f5b5b2",
+                    "start": 0,
+                    "end": 17
+                },
+                "value": "2eefb823-7298-4dca-87cc-b869b2ae034d",
+                "id": "54ec8483-1ebf-4a45-b889-ad4e7569708a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "d29f2405-d3ca-44ba-99bf-f77341eb3e5a",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "562255df-8ccc-40a7-8085-8f7c55fe0a6e",
+                "id": "9b7f458f-690d-4fcd-8c58-9fde0f36fe84"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "034b2119-bdd0-4efc-9dbe-88393945d1a3",
+                    "start": 0,
+                    "end": 35
+                },
+                "value": "19ef12ee-0b3e-4323-b4e2-bd925c88c727",
+                "id": "ab5e792e-4e75-47e8-82d4-35744bd1ec13"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "014c17cf-d2e0-472b-9451-55833c50927f",
+                    "start": 0,
+                    "end": 4
+                },
+                "value": "b8a83975-d430-4a3c-a16b-3537210a6f73",
+                "id": "ab7f580c-f5cb-48bb-a10a-34117291008b"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "9a7559ac-a0fc-49aa-898e-39fcf98cf9cf",
+                    "start": 0,
+                    "end": 11
+                },
+                "value": "dce840c5-ebaf-471f-8b85-574dcd3951db",
+                "id": "fb40af62-69d2-43e9-870d-fd02846eec3a"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "39312720-91f7-4802-9c9f-c0966ed53f1b",
+                    "start": 0,
+                    "end": 15
+                },
+                "value": "549b893c-1786-4897-9435-ec288d4db703",
+                "id": "53e5c8da-c9c2-4d0f-817d-5c179403630f"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "422571a0-52be-44d7-99d6-8fcc7a5260a8",
+                    "start": 0,
+                    "end": 65
+                },
+                "value": "2f4512f5-b357-4342-b3e0-396fb36c293b",
+                "id": "df5e9503-8ccf-4be9-a4cf-b72baa664ffa"
+            },
+            {
+                "status": "approved",
+                "mention": {
+                    "type": "TextNodeMention",
+                    "node": "e9960281-2bb1-471f-af18-1fb4d7d47982",
+                    "start": 0,
+                    "end": 9
+                },
+                "value": "030c9c67-b9cc-4f78-8e99-35eb2ecc4a4f",
+                "id": "efa4144e-e172-4a77-934f-e1178907c59c"
+            }
+        ]
+    },
+    "metadata": {
+        "title": "table_5.docx",
+        "file_name": "table_5.docx",
+        "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": 51011,
+        "created_time": 0,
+        "access_time": 0,
+        "modified_time": 1741742523,
+        "access_level": "1",
+        "user": "-1",
+        "path": "/minio/documents/6fe9%2F9d0c%2Ftable_5.docx",
+        "markers": [],
+        "account": [],
+        "story": "6fe99d0c-758e-4390-9588-f6c4d2cac9c7"
+    }
+}
