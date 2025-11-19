@@ -22,9 +22,9 @@ Source tabular data are vertically oriented tables in which the data are systema
 
 * `annotations` contains all semantic annotations from a target knowledge base in the form of dictionaries (type id - type name);
 * `config` contains config files with labeled table headers for each domain;
-* `csv` contains an original set of tables in the CSV format, selected from a large-scale [Russian Web Tables (RWT)](https://gitlab.com/unidata-labs/ru-wiki-tables-dataset) corpus;
+* `csv` contains an original set of tables in the CSV format, selected from a large-scale [Russian Web Tables (RWT)](https://gitlab.com/unidata-labs/ru-wiki-tables-dataset) corpus. All tables are divided into 26 domains and placed in separate folders. The `all-tables` folder contains all 225 tables;
 * `documentations` contains reports with the description of created dataset and evaluation results;
-* `docx` contains an original set of tables in the DOCX format;
+* `docx` contains an original set of tables in the DOCX format. All tables are also divided into 26 domains and placed in separate folders;
 * `json` contains labeled tables in the JSON format;
 * `jsonline` contains labeled tables in the JSONL (JSON Lines) format (each table separately and collected together).
 
