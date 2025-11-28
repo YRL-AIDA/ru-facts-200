@@ -1,4 +1,4 @@
-# RF-200
+# <center> :rocket: RF-200 </center>
 
 **RF-200 (ru-facts-200)**: A benchmark for fact extraction from Russian tabular data.
 
@@ -63,3 +63,7 @@ Source tabular data are vertically oriented tables in which the data are systema
 ## Author
 
 * [Nikita O. Dorodnykh](mailto:tualatin32@mail.ru)
+
+## References
+
+- Дородных Н.О., Юрин А.Ю. Набор табличных данных RF-200 и тестирование производительности извлечения фактов из русскоязычных таблиц // Труды Института системного программирования РАН. 2025. Том 37, Вып. 5. С. 205-224. DOI: 10.15514/ISPRAS-2025-37(5)-16
