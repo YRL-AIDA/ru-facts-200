@@ -1,4 +1,4 @@
-# <center> :rocket: RF-200 </center>
+# <div align="center"> :rocket: RF-200 </div>
 
 **RF-200 (ru-facts-200)**: A benchmark for fact extraction from Russian tabular data.
 
