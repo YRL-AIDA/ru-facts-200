@@ -1,6 +1,6 @@
-# <div align="center"> :rocket: RF-200 </div>
+# <div align="center"> :rocket: Russian-Facts-200 (RF-200) </div>
 
-**RF-200 (ru-facts-200)**: A benchmark for fact extraction from Russian tabular data.
+**Russian-Facts-200 (RF-200)**: A novel benchmark for fact extraction from Russian tabular data.
 
 ## Version
 
@@ -28,37 +28,24 @@ Source tabular data are vertically oriented tables in which the data are systema
 * `json` contains labeled tables in the JSON format. Only *200* tables out of *225* are labeled up;
 * `jsonline` contains labeled tables in the JSONL (JSON Lines) format (each table separately and collected together).
 
-**NOTE:** *Not all source tables could be labeled up. List of unlabeled tables from which facts cannot be extracted:*
+**NOTE:** *Not all source tables could be labeled up! List of unlabeled tables from which facts cannot be extracted:*
 
-* `7_cinema_table`;
-* `14_cinema_table`;
-* `3_film_awards_table`;
-* `5_film_awards_table`;
-* `10_film_awards_table`;
-* `8_locations_table`;
-* `3_music_table`;
-* `5_music_table`;
-* `6_music_table`;
-* `5_politics_table`;
-* `3_sports_table`;
-* `5_sports_table`;
-* `6_sports_table`;
-* `1_tv_hows_table`;
-* `2_tv_hows_table`;
-* `3_tv_hows_table`;
-* `2_finance_table`;
-* `3_finance_table`;
-* `4_finance_table`;
-* `5_finance_table`;
-* `1_energy_table`;
-* `2_energy_table`;
-* `3_energy_table`;
-* `4_energy_table`;
-* `6_energy_table`.
+| **Unlabeled Tables**                                                                     |
+|------------------------------------------------------------------------------------------|
+| `7_cinema_table`, `7_cinema_table`                                                       |
+| `14_cinema_table`                                                                        |
+| `3_film_awards_table`, `5_film_awards_table`, `10_film_awards_table`                     |
+| `8_locations_table`                                                                      |
+| `3_music_table`, `5_music_table`, `6_music_table`                                        |
+| `5_politics_table`                                                                       |
+| `3_sports_table`, `5_sports_table`, `6_sports_table`                                     |
+| `1_tv_shows_table`, `2_tv_shows_table`, `3_tv_shows_table`                               |
+| `2_finance_table`, `3_finance_table`, `4_finance_table`, `5_finance_table`               |
+| `1_energy_table`, `2_energy_table`, `3_energy_table`, `4_energy_table`, `6_energy_table` |
 
 ## Usage
 
-**RF-200 (ru-facts-200)** can be used to test the performance of systems for extracting facts (entities, their characteristics, relationships between entities, and relationship characteristics) from tabular data. *Precision*, *Recall* and *F1 score* are used as main evaluation metrics.
+**RF-200** can be used to test the performance of systems for extracting facts (entities, their characteristics, relationships between entities, and relationship characteristics) from tabular data. *Precision*, *Recall* and *F1 score* are used as main evaluation metrics.
 
 ## Author
 
@@ -66,4 +53,4 @@ Source tabular data are vertically oriented tables in which the data are systema
 
 ## References
 
-- Дородных Н.О., Юрин А.Ю. Набор табличных данных RF-200 и тестирование производительности извлечения фактов из русскоязычных таблиц // Труды Института системного программирования РАН. 2025. Том 37, Вып. 5. С. 205-224. DOI: 10.15514/ISPRAS-2025-37(5)-16
+- Дородных Н.О., Юрин А.Ю. Набор табличных данных RF-200 и тестирование производительности извлечения фактов из русскоязычных таблиц // *Труды Института системного программирования РАН*. 2025. Том 37, Вып. 5. С. 205-224. DOI: *10.15514/ISPRAS-2025-37(5)-16*
