@@ -28,7 +28,7 @@ Source tabular data are vertically oriented tables in which the data are systema
 * `json` contains labeled tables in the JSON format. Only *200* tables out of *225* are labeled up;
 * `jsonline` contains labeled tables in the JSONL (JSON Lines) format (each table separately and collected together).
 
-**NOTE:** *Not all source tables could be labeled up! List of unlabeled tables from which facts cannot be extracted:*
+**NOTE 1:** *Not all source tables could be labeled up! List of unlabeled tables from which facts cannot be extracted:*
 
 | **Unlabeled Tables**                                                                     |
 |------------------------------------------------------------------------------------------|
@@ -42,6 +42,46 @@ Source tabular data are vertically oriented tables in which the data are systema
 | `1_tv_shows_table`, `2_tv_shows_table`, `3_tv_shows_table`                               |
 | `2_finance_table`, `3_finance_table`, `4_finance_table`, `5_finance_table`               |
 | `1_energy_table`, `2_energy_table`, `3_energy_table`, `4_energy_table`, `6_energy_table` |
+
+**NOTE 2:** *Some tables may contain columns with empty or garbage cells! List of tables with empty or garbage cells:*
+
+| **Table Name**          | **Column Index** |
+|-------------------------|------------------|
+| `7_motorsports_table`   | 0                |
+| `1_buildings_table`     | 4                |
+| `2_buildings_table`     | 7                |
+| `4_buildings_table`     | 1                |
+| `5_buildings_table`     | 1                |
+| `7_buildings_table`     | 1                |
+| `6_measurements_table`  | 1                |
+| `6_history_table`       | 1                |
+| `8_history_table`       | 2                |
+| `9_history_table`       | 3                |
+| `4_locations_table`     | 1, 8             |
+| `18_locations_table`    | 9                |
+| `22_locations_table`    | 3, 4, 9, 10      |
+| `31_locations_table`    | 5                |
+| `5_media_table`         | 2                |
+| `3_nationalities_table` | 1                |
+| `1_organizations_table` | 6                |
+| `5_books_table`         | 3                |
+| `1_politics_table`      | 0                |
+| `4_politics_table`      | 0                |
+| `6_politics_table`      | 2                |
+| `10_politics_table`     | 0                |
+| `13_politics_table`     | 0                |
+| `16_politics_table`     | 1                |
+| `1_wrestling_table`     | 2                |
+| `8_sports_table`        | 5                |
+| `10_sports_table`       | 6                |
+| `11_sports_table`       | 5, 11, 14, 17    |
+| `14_sports_table`       | 5                |
+| `16_sports_table`       | 4                |
+| `17_sports_table`       | 4                |
+| `25_sports_table`       | 2                |
+| `26_sports_table`       | 2                |
+| `28_sports_table`       | 2                |
+| `28_sports_table`       | 5                |
 
 ## Usage
 
