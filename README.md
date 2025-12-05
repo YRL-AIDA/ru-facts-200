@@ -18,9 +18,17 @@ Source tabular data are vertically oriented tables in which the data are systema
 
 **Assumption 4.** *Tables are manually labeled using [the Talisman framework](http://talisman.ispras.ru).*
 
+## Dataset statistics
+
+| **No. source tables** | **No. labeled tables** | **No. columns** | **Average No. columns per table** | **No. cells** | **No. empty cells** |
+|-----------------------|------------------------|-----------------|-----------------------------------|---------------|---------------------|
+| 225                   | 200                    | 979             | 4.8                               | 19490         | 1719                |
+
 ## Directory Structure
 
-* `annotations` contains all semantic annotations from a target knowledge base in the form of dictionaries (type id - type name);
+* `annotations` includes: 
+  * `fact_extraction_task` contains semantic annotations for the task of extraction of new facts from table cells. All annotations are made on the basis of a target Talisman knowledge base, and are presented in the form of dictionaries (type id - type name);
+  * `columnn_type_annotation_task` contains semantic annotations for the task of column type annotation (matching between columns and semantic or data types from a target knowledge graph). Annotations include 170 source semantic types from the DBpedia knowledge graph, and column labelings.
 * `config` contains config files with labeled table headers for each domain;
 * `csv` contains an original set of tables in the CSV format, selected from a large-scale [Russian Web Tables (RWT)](https://gitlab.com/unidata-labs/ru-wiki-tables-dataset) corpus. All tables are divided into *26* domains and placed in separate folders. The `all-tables` folder contains all *225* tables;
 * `documentations` contains reports with the description of created dataset and evaluation results;
