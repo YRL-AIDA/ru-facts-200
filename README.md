@@ -28,7 +28,7 @@ Source tabular data are vertically oriented tables in which the data are systema
 
 * `annotations` includes: 
   * `fact_extraction_task` contains semantic annotations for the task of extraction of new facts from table cells. All annotations are made on the basis of a target Talisman knowledge base, and are presented in the form of dictionaries (type id - type name);
-  * `columnn_type_annotation_task` contains semantic annotations for the task of column type annotation (matching between columns and semantic or data types from a target knowledge graph). Annotations include 170 source semantic types from the DBpedia knowledge graph, and column labelings.
+  * `columnn_type_annotation_task` contains semantic annotations for the task of column type annotation (matching between columns and semantic or data types from a target knowledge graph). Annotations include a list of 170 original semantic types from the DBpedia knowledge graph, as well as ground truth labeled columns.
 * `config` contains config files with labeled table headers for each domain;
 * `csv` contains an original set of tables in the CSV format, selected from a large-scale [Russian Web Tables (RWT)](https://gitlab.com/unidata-labs/ru-wiki-tables-dataset) corpus. All tables are divided into *26* domains and placed in separate folders. The `all-tables` folder contains all *225* tables;
 * `documentations` contains reports with the description of created dataset and evaluation results;
@@ -95,9 +95,10 @@ Source tabular data are vertically oriented tables in which the data are systema
 
 **RF-200** can be used to test the performance of systems for extracting facts (entities, their characteristics, relationships between entities, and relationship characteristics) from tabular data. *Precision*, *Recall* and *F1 score* are used as main evaluation metrics.
 
-## Author
+## Authors
 
-* [Nikita O. Dorodnykh](mailto:tualatin32@mail.ru)
+* [Nikita O. Dorodnykh](mailto:nikidorny@icc.ru)
+* [Kirill V. Tobola](mailto:kirilltobola@icc.ru)
 
 ## References
 
