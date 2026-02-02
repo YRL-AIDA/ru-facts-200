@@ -14,9 +14,9 @@ Source tabular data are vertically oriented tables in which the data are systema
 
 **Assumption 2.** *Source tables may not be normalized (non-relational tables).*
 
-**Assumption 3.** *All tables cover 26 domains (music, films, sports, locations, etc.) and are presented in Russian.*
+**Assumption 3.** *All tables cover 26 domains (astronomy, architectural structures, aviation, awards, books, computer games, energy, films, film awards, food, history, holidays and events, locations, measurements, media, motorsport, music, nationalities and ethnic groups, natural objects, organizations, policy, religion, sport, trade and finance, TV show, wrestling) and are presented in Russian.*
 
-**Assumption 4.** *Tables are manually labeled using [the Talisman framework](http://talisman.ispras.ru).*
+**Assumption 4.** *Tables are manually labeled using [the Talisman framework](http://talisman.ispras.ru) for the task of extraction of new facts.*
 
 ## Dataset statistics
 
